@@ -19,76 +19,79 @@ excerpt: ""
 
 #### [&#920; Life Is An Incomputable Sociophysical Game](#life-is-an-incomputable-sociophysical-game)
 
-#### &#920; [Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
+#### [&#920; Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
 
-#### &#920; [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
+#### [&#920; Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
 
-#### &#920; [The Typological Speciation of Life Experience](#the-typological-speciation-of-life-experience)
+#### [&#920; The Typological Speciation of Life Experience](#the-typological-speciation-of-life-experience)
 
-#### &#920; [What is Found Only by Those Who See Clearly and Never By Those Who Seek?](#what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek)
+#### [&#920; What is Found Only by Those Who See Clearly and Never By Those Who Seek?](#what-is-found-only-by-those-who-see-clearly-and-never-by-those-who-seek)
 
-#### &#920; [Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#boltzmanns-distribution-a-generalized-heat-equation)
+#### [&#920; Boltzmann's Distribution, A Generalized Heat Equation and Optimizaiton for Distributed Social Computing](#boltzmanns-distribution-a-generalized-heat-equation)
 
-#### &#920; [Can You See What I See?](#can-you-see-what-i-see)
+#### [&#920; Can You See What I See?](#can-you-see-what-i-see)
+
+#### How Did "Someone Like Me" Ever Find [This](https://en.wikipedia.org/wiki/Kangxi_Dictionary)?&nbsp;[^someone-like-me]
+
+![That's Not Hyaku](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/thats-not-hyaku.jpg)
 
 ## [To Catch a Butterfly](#to-catch-a-butterfly)
 
-#### &#920; [To Clip Someone's Wings In Early Adulthood, Typologically Constrain Their Life Experience](#to-clip-someones-wings-in-early-adulthood-typologically-constrain-their-life-experience)
+#### [&#920; To Clip Someone's Wings In Early Adulthood, Typologically Constrain Their Life Experience](#to-clip-someones-wings-in-early-adulthood-typologically-constrain-their-life-experience)
 
-#### &#920; [His Psychology Looks Like A Topped Tree](#his-psychology-looks-like-a-topped-tree)
+#### [&#920; His Psychology Looks Like A Topped Tree](#his-psychology-looks-like-a-topped-tree)
 
-#### &#920; [The Tragedy of Karmic, Informational Baggage](#the-tragedy-of-karmic-informational-baggage)
+#### [&#920; The Tragedy of Karmic, Informational Baggage](#the-tragedy-of-karmic-informational-baggage)
 
-#### &#920; [Here, Sisyphus, Carry This Rock](#here-sisyphus-carry-this-rock)
+#### [&#920; Here, Sisyphus, Carry This Rock](#here-sisyphus-carry-this-rock)
 
 ## [Trackless: He Has Destroyed Mara's Vision](#trackless-he-has-destroyed-maras-vision)
 
-#### &#920; [What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
+#### [&#920; What does it mean to leave tracks?](#what-does-it-mean-to-leave-tracks)
 
-#### &#920; [Marking The Bodies of Targets With Repetitive Strain](#marking-the-bodies-of-targets-with-repetitive-strain)
+#### [&#920; Marking The Bodies of Targets With Repetitive Strain](#marking-the-bodies-of-targets-with-repetitive-strain)
 
-#### &#920; 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
+#### &#920; 歯齒 [Where's Your Teeth?](#haha-wheres-your-teeth)
 
-#### &#920; [A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
+#### [&#920; A Probabilistic Informational Addressing Scheme: Tracking Information and Parameterizing Handlers](#a-probabilistic-informational-addressing-scheme-programming-and-tracking-information)
 
-#### &#920; [Follow Your Nose!](#follow-your-nose)
+#### [&#920; Follow Your Nose!](#follow-your-nose)
 
-#### &#920; [All Roads Lead to Rome](#all-roads-lead-to-rome)
+#### [&#920; All Roads Lead to Rome](#all-roads-lead-to-rome)
 
-#### &#920; [Who Is Tathagata, Trebek?](#who-is-tathagata-trebek)
+#### [&#920; Who Is Tathagata, Trebek?](#who-is-tathagata-trebek)
 
-#### &#920; [The Problem of Higher-Order Moral Systems](#the-problem-of-higher-order-moral-systems)
+#### [&#920; The Problem of Higher-Order Moral Systems](#the-problem-of-higher-order-moral-systems)
 
-#### &#920; [All Causes and Effects Are Intertwined And Convoluted](#all-causes-and-effects-are-intertwined-and-convoluted)
+#### [&#920; All Causes and Effects Are Intertwined And Convoluted](#all-causes-and-effects-are-intertwined-and-convoluted)
 
-#### &#920; [Can Causality Exist Independent of Time or Space?](#can-causality-exist-independent-of-time-or-space)
+#### [&#920; Can Causality Exist Independent of Time or Space?](#can-causality-exist-independent-of-time-or-space)
 
-#### &#920; [Do Not Give Rise To That Which You Abhor](#do-not-give-rise-to-that-which-you-abhor)
+#### [&#920; Do Not Give Rise To That Which You Abhor](#do-not-give-rise-to-that-which-you-abhor)
 
-#### &#920; ["Be Water, My Friend"](#be-water-my friend)
+#### [&#920; "Be Water, My Friend"](#be-water-my friend)
 
-#### &#920; [The Path of Least Resistence Leads to Crooked Rivers and Crooked Men](#the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men)
+#### [&#920; The Path of Least Resistence Leads to Crooked Rivers and Crooked Men](#the-path-of-least-resistence-leads-to-crooked-rivers-and-crooken-men)
 
-#### &#920; [Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
+#### [&#920; Rendering Society Incomprehensible to Evil](#making-society-incomprehensible-to-evil)
 
-#### &#920; [Impoverished People are Tragically Predictable](#impoverished-people-are-tragically-predictable)
+#### [&#920; Impoverished People are Tragically Predictable](#impoverished-people-are-tragically-predictable)
 
-#### &#920; [The Eight Jhanas from the Ariyapariyesana Sutta](#the-eight-jhanas-from-the-ariyapariyesana-sutta)
+#### [&#920; The Eight Jhanas from the Ariyapariyesana Sutta](#the-eight-jhanas-from-the-ariyapariyesana-sutta)
 
-#### &#920; [If You're Out There Generally Liberating People, Watch Your Ass](#if-youre-out-there-generally-liberating-people-watch-your-ass)
+#### [&#920; If You're Out There Generally Liberating People, Watch Your Ass](#if-youre-out-there-generally-liberating-people-watch-your-ass)
 
-#### &#920; [Is There Truly Such A Thing As Chaotic Evil?](#is-there-truly-such-a-thing-as-chaotic-evil)
+#### [&#920; Is There Truly Such A Thing As Chaotic Evil?](#is-there-truly-such-a-thing-as-chaotic-evil)
 
-#### &#920; [Magnanimity: Why Must Power Inevitably Corrupt?](#magnanimity-why-must-power-inevitably-corrupt)
+#### [&#920; Magnanimity: Why Must Power Inevitably Corrupt?](#magnanimity-why-must-power-inevitably-corrupt)
 
-#### &#920; [To Turn The Other Cheek](#to-turn-the-other-cheek)
+#### [&#920; To Turn The Other Cheek](#to-turn-the-other-cheek)
 
-#### &#920; ["With Mercy, There Is No Deed Without Virtue"](#without-mercy-there-is-no-deed-without-virtue)
+#### [&#920; "With Mercy, There Is No Deed Without Virtue"](#without-mercy-there-is-no-deed-without-virtue)
 
-#### &#920; ["You Will Not Silence Us"](#you-will-not-silence-us) <=> Occupy Wall Street
+#### [&#920; "You Will Not Silence Us"](#you-will-not-silence-us) <=> Occupy Wall Street
 
-#### &#920; [Would You Like Some Tea?](#would-you-like-some-tea)
-
+#### [&#920; Would You Like Some Tea?](#would-you-like-some-tea)
 
 <a name="epistemic-miracles-of-serendipity-are-incomputable" />
 
@@ -98,14 +101,18 @@ After reading into this essay by David Kirsch and Paul Maglio -- [On
 Distinguishing Epistemic from Pragmatic
 Action](https://doi.org/10.1207/s15516709cog1804_1), my wheels started
 turning. I originally approached the essay to distinguish the
-denotative differences between epistemy and epistemology, so that I
-could dilineate socioepistemic and socioepistemology to describe how
-structures of knowledge are manipulated socially. In the essay, Kirsch
-and Maglio quickly outline two kinds of human behavior: that oriented
-towards *pragmatic* attainment of a clear objective and that oriented
-towards resolution of *epistemic*
+denotative differences between epistemy and epistemology to dilineate
+socioepistemy and socioepistemology. I need to describe how structures
+of knowledge are manipulated socially, particularly with regard to how
+these phenomena extrapolate geographically, so that I can understand
+how socioepistemological mechanics and dynamics change as space and
+time dissolve.
+
+In the essay, Kirsch and Maglio quickly outline two kinds of human
+behavior: that oriented towards *pragmatic* attainment of a clear
+objective and that oriented towards resolution of *epistemic*
 uncertainty.[^distinguishing-pragmatic-and-epistemic-intent] The
-latter is alludes to random mutations of state applied in a game or
+latter alludes to random mutations of state applied in a game or
 social situation to suss out the outlines of knowledge about the state
 of the game. At the surface, these are mutations of state and actions
 without clear purpose to them -- but by meandering through random
@@ -120,14 +127,16 @@ Life is a sociophysical game: without well-defined objectives; with
 both turn-based and simultaneous play; with many games threaded into
 other games; where players are not well-defined; with both schematic
 and inschematic structures. When approached from the perspectives of
-math and game theory, this complexity renders intricate the games of
-life, forcing players to adapt with sophistication. Most people
+math and game theory, this complexity imbues intricacy into the games
+of life, forcing players to adapt with sophistication. Most people
 operate best when conditioned with clear sets of rules: for habitual
 behaviors; for accumulated event-driven response behaviors; to define
 a system of values for phenomena to either seek or avert. Unless the
 player is sophisticated, they often operate better without
-understanding the motivations behind those clear sets of rules. This
-allows them to perform better.
+understanding the motivations behind those clear sets of rules. By
+sealing individuals off from unneedd complexity and unnecessary
+abstraction, those individuals can invest more energy towards games
+with much simpler mechanics.
 
 People whose conditioning results in behavior patterns without agility
 cannot embrace adaptation, evolution and flexibility when needed.
@@ -135,18 +144,22 @@ Modernism presented humanity with rapid crescendo of cultural change,
 Nietzsche's Geneology of Morals identified in values systems the
 [*Danger of
 Dangers*](https://academyofideas.com/2017/01/nietzsche-and-morality/):
-that rigidity and inflexibility of moral systems would itself foment
-systemic weakness in societies unable to cope with the rate of
-change. Among the problems of rigid rule-based dictated behaviors is
-in the propagation of those rigid behavioral systems. This indicates
-and creates a trans-generational problem of rigid moral systems
-wherein those systems dampen the collective performance of that
-society when unable to evolve to pace the demands of economic and
-political externalities. However, the problem of auto-propagation
-plagues especially those systems which evolve too rapidly to
-perpetuate themselves as well as those systems without spectral
-harmonization. Yet, a virus which mutates too quickly eventually
-homogenizes into multiple dominant strains.
+that rigidity and inflexibility of moral systems would itself foments
+systemic weakness in societies unable to cope with the rate of change.
+
+Among the [chief design concerns for belief
+systems](/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos.html)
+-- and the rigid rule-based dictation of behaviors therein -- is
+successfully propagating those rigid behavioral systems by accounting
+for the evolutionary dynamics of belief systems and values
+systems. This indicates a trans-generational problem of rigid moral
+systems wherein those systems dampen the collective performance of
+that society when unable to evolve to pace the demands of economic and
+political externalities. However, a different problem of
+auto-propagation plagues especially those systems which evolve too
+rapidly to perpetuate themselves as well as those systems without
+spectral harmonization. Yet, a virus which mutates too quickly
+eventually homogenizes into multiple dominant strains.
 
 There are tools that allow for the identification of middle ground in
 systems: from rigid to flexible; from those nearly universal systems,
@@ -154,22 +167,43 @@ distributed homogenously, to those singleton systems who are most
 unlike any other. The same math for identifying whether machine
 learning is proceeding efficiently presents itself naturally in the
 evolution of ideas, culture and genetics. It occurs incidentally, but
-can be leveraged as a tool.
+can be leveraged as a tool, yielding the efficient social distribution
+of computation whereby perhaps we can answer that age-old question:
+what is the meaning of life? If I were to answer that question: there
+is no meaning of life other than searching for the meaning to life in
+spite of the obvious lack of meaning.
+
+#### As I see it, what I've learned is like having found the Takarabune coinship
+
+> When you accidentally get the [Takarabune (宝船)
+> ship](https://www.youtube.com/watch?v=lzR4cJVS550) in Mario 3 as a
+> six year-old and try to tell other people what you found, it's
+> almost like experiencing the Mandela effect. It was so impossible to
+> stumble upon and so easy to dismiss, yet so rare that you almost
+> forgot you ever saw it, making it kind of indescribable. Of course,
+> now the internet ruins all of that.[^takara]
+
+![Takarabune](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/takarabune.jpg)
+
+In America, if you accidentally stumble upon the wrong pieces of
+knowledge, you're tormented for the rest of your [short]
+life. *Apparently...*
 
 <a name="convolutions-on-serendipitous-epistemic-configurations" />
 
 ### [Convolutions On Serendipitous Epistemic Configurations](#convolutions-on-serendipitous-epistemic-configurations)
 
 There is a 20th Century philosopher whose name escapes my ability to
-navigate Wikipedia. He studied epistemology for the purpose of
-evaluating knowledge systems, specifically to ideally stratify them
-into the curricula taught by educational systems. How does one
-epistemic structure differ from another when both contain the set of
-knowledge required for a particular math or science? Is one epistemic
-structure of knowledge more difficult to teach versus another? Does
-one structure map more closely to "truth" for some phenomenon? Can any
-epistemic structure be the minimal such structure necessary to know,
-explain or verify some phenomena?
+navigate Wikipedia to answer rudimentary questions of philosophy. He
+studied epistemology for the purpose of evaluating knowledge systems,
+specifically to ideally stratify them into the curricula taught by
+educational systems. How does one epistemic structure differ from
+another when both contain the set of knowledge required for a
+particular math or science? Is one epistemic structure of knowledge
+more difficult to teach versus another? Does one structure map more
+closely to "truth" for some phenomenon? Can any epistemic structure be
+the minimal such structure necessary to know, explain or verify some
+phenomena?
 
 Particularly, this philosopher was concerned with structural variation
 in an individual's epistemic configuration and how those structures
@@ -177,10 +211,11 @@ related to the morphological characteristics of that individuals
 personal development of knowledge. How much variation in epistemic
 configuration occurs between two groups of subjects who learn algebra
 before geometry or vice versa, if such a phenomena could be
-measured. Or how much variation results among auto-dydacts and
-university students? If academia can more efficiently disseminate
+measured. Or: how much epistemic variation results among auto-dydacts
+and university students? If academia can more efficiently disseminate
 knowledge, then why do self-taught students seem to have more
-intuitive access to the knowledge they've observed?
+intuitive access to their knowledge? Is it because they've absorbed it
+more completely?
 
 #### The Brueghel Tower of Babel
 
@@ -189,15 +224,15 @@ intuitive access to the knowledge they've observed?
 Academia presents us with more universally distributed knowledge
 systems. The well-distributed schemata of these modular epistemic
 configurations lend themselves to creating consistent languages among
-intellectuals, which allows society to propagate ideas and communicate
-about them efficiently. It is often so prohibitively expensive to
-propagate changes to the languages or the underlying schemata that it
-never occurs. Everyone simply builds upon these crumbling Cathedrals
-of knowledge. However, when there are fundamental flaws inherent in
-those epistemic modules, it's difficult for anyone operating within or
-heavily invested in the these intellectual foundations to be aware of
-such problems. Schematically reevaluating these foundations is beside
-the point: there is more than one way to see any and every idea.
+intellectuals, which allows society to propagate ideas and discuss
+them efficiently. It is often so prohibitively expensive to propagate
+changes to the languages or the underlying schemata that it never
+occurs. Everyone simply builds upon these crumbling cathedrals of
+knowledge. However, when there are fundamental flaws inherent in those
+epistemic modules, it's difficult for anyone operating within or
+heavily invested in the these intellectual foundations to notice such
+faults. Schematically reevaluating these foundations is beside the
+point: there is more than one way to see any and every idea.
 
 However, when you have two distinct epistemic structures you can
 recursively convolute them, while iteratively reevaluating each one as
@@ -216,31 +251,33 @@ to be taught in a school.
 > epistemic reflection process described above. The more similar the
 > input to this process, the less inference the convolution yields.
 
-![](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/arithmetic-of-graphs.jpg)
+![Oliver Knill - On The Arithmetic of Graphs](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/arithmetic-of-graphs.jpg)
 
 Moreover today, since all knowledge is so widely propagated by
 wikipedia and social media -- especially the most intellectually
 useful knowledge -- it is increasingly rare to develop distinctly
 structured epistemic configurations mapping to knowledge of any
 universal significance. The frequency of emergence of sufficiently
-distinct epistemic configurations emerging is paradoxically both
-heightened and dampened by various mechanisms.  Population growth
-implies there are more people to contain epistemic structures. Yet,
-the dynamics of propagation imply all humanity's knowledge begins to
-increasingly share common inheritance, which among other factors,
-dampens the speciation of epistemic schemata. Thereof, the utility of
-convolution is subsequently modulated.
+distinct epistemic configurations is paradoxically both heightened and
+dampened by various mechanisms.  Population growth implies there are
+more people to contain epistemic structures. Yet, the dynamics of
+propagation imply all humanity's knowledge begins to increasingly
+share common inheritance; the epistemological confluence of global
+cultures well-studied phenomena of modernism. This, among other
+factors with paradoxical dynamics, dampens the speciation of epistemic
+schemata. Thereof, the utility of epistemic convolution is
+subsequently modulated.
 
 As for this unnamed philosopher, I can't recall whether his work
 extrapolated into the implications of the speciation of
 epistemological structures onto the convolution of those structures.
 Great advancements in knowledge systems often result from the
-reconciliation of someone's ad hoc unique knowledge system with that
-of more universal knowledge systems, like those inculcated in
-academia. As homogeneity is the mother of weakness, knowledge systems
-with mostly homogeneic schema prevent advancement because efforts to
-additively advance the knowledge system lack the ability to convolute
-diverging epistemic schema.
+reconciliation of someone's ad hoc unique knowledge system *singleton*
+with that of more universal knowledge systems, like those inculcated
+in academia. As homogeneity is the mother of weakness, knowledge
+systems with mostly homogeneic schema prevent advancement because
+efforts to additively advance the knowledge system lack the ability to
+convolute sufficiently divergent epistemic schemata.
 
 #### This Unknown Philosopher Can Be Found On A Wikipedia Page, Served Only From Aladdin's Magic Cave
 
@@ -254,11 +291,11 @@ diverging epistemic schema.
 ### [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
 
 Because the game is so complex, Most extrapolations of information in
-sociophysical systems are intractible and incomputable. This is why
-the human brain is an *analytic* machine: there really are no
-tractible *numerical* methods for solving the game of life. The human
-brain emulates numerical methods by congealing it's plastic neural
-circuits around analytic emulations of numerical solutions. Though the
+sociophysical systems are intractible and incomputable. The human
+brain is an *analytic* machine: there really are no tractible
+*numerical* methods for solving the game of life. The human brain
+emulates numerical methods by congealing it's plastic neural circuits
+around analytic emulations of numerical solutions. Though the
 computational capacity of the human brain is high, it's merely a
 lower-bound on the upper bound of maximum computational density.
 Sociophysical games involve reflection of information across socially
@@ -275,13 +312,17 @@ within someone else's game.
 > of the Buddha
 
 Every person has their own experience in the world, resulting in a
-socially distributed typology of individuals' experiences. This means
-that some nuggets of wisdom about life are *unattainble by
-extrapolation alone*, which is one personal interpretation of the
-above verse. Instead, obtaining these *radiant teardrops* of wisdom
-requires perturbation of sociophysical models, where the models are
-optimally speciated expansively enough to consider that you've
-effectively searched the entire space.
+socially distributed typology of individuals' experiences. This
+implies that some nuggets of wisdom about life are *unattainble by
+extrapolation alone*, a one personal interpretation of the above
+verse. Instead, obtaining these *radiant teardrops* of wisdom requires
+perturbation of sociophysical models, where the models are optimally
+speciated expansively enough to consider that you've effectively
+searched the entire space. In [perturbation
+theory](https://en.wikipedia.org/wiki/Perturbation_theory_(quantum_mechanics)),
+how do you determine how much disruption is optimal? This is the
+secret behind chaotic good: knowing your system is evolving towards a
+better system requires disruption.
 
 #### The Buddha Could Walk At Birth.
 
@@ -333,20 +374,23 @@ sociophysical game.
 ![Astolfo on a Griffin](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/fate-grand-order-joan-of-arc.jpg)
 
 What is the difference between the male experience and the female
-experience? Are there truly simply two experience types with
+experience? Truly, are there simply two experience types with
 insignificant differences between the male experience type and the
 female experience type? No, there are myriad experience types within
 each sex, but the experience of each sex fundamentally differs from
 that of the other. Most members of each sex have little experience
-with experiencing life from the other side. Similarly, what is it like
-to be rich and to be poor? What is it like to beg, borrow or steal?
-What is it like to suffer? What is it like to never know suffering?
-Who is stronger: the one who knows suffering or the one who never
-knows what it's like to suffer? Although there are some experience
-types we hope our children never live to see and others we'd never
-wish upon our worst enemy, isn't the person who has viscerally and
-vicariously experienced the greatest range of experience types who is
-most equipped to handle life?
+with experiencing life from the other side, *[especially if they are
+sociophysically prohibited from developing relationships with someone
+of the opposite
+sex](https://www.facebook.com/photo.php?fbid=10204297595236683&set=a.1054024247508.7365.1732883075&type=3&theater)*. Similarly,
+what is it like to be rich and to be poor? What is it like to beg,
+borrow or steal?  What is it like to suffer? What is it like to never
+know suffering? Who is stronger: the one who knows suffering or the
+one who never knows what it's like to suffer? Although there are some
+experience types we hope our children never live to see and others
+we'd never wish upon our worst enemy, isn't the person who has
+viscerally and vicariously experienced the greatest range of
+experience types who is most equipped to handle life?
 
 This partly underlies a paradox of aristocracy addressed in Plato's
 Republic: the aristocrats who don't or can't effectively pass the sum
@@ -906,7 +950,7 @@ witchcraft.
 
 <a name="haha-wheres-your-teeth" />
 
-### 歯齒, [Where's Your Teeth?](#haha-wheres-your-teeth)
+### 歯齒 [Where's Your Teeth?](#haha-wheres-your-teeth)
 
 For example, encouraging a young programmer to use Emacs can result in
 a characteristic reptitive strain injury that any person with
@@ -2071,6 +2115,18 @@ were.
 
 ![What Was The Start of All This?](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/what-was-the-start-of-all-this.jpg)
 
+<a name="in-america-when-a-butterfly-flaps-its-wings-kill-it-with-fire" />
+
+### [In America, When A Butterfly Flaps Its Wings, Kill It With Fire!](#in-america-when-a-butterfly-flaps-its-wings-kill-it-with-fire)
+
+... Apparently. Until someone tells me otherwise, this is all I know
+because it's all my life experience is capable of informing me.
+
+[^someone-like-me]: I was looking for it. The answer is that I was too
+    stupid to have learned to not look. What does it mean? Wouldn't
+    you like to know? It can have myriad interpretations, but it is
+    not 100x100. [To be a rock and not to
+    roll.](https://www.youtube.com/watch?v=cwFQpRTwaP0)
 
 [^majjhima-nikaya-26-19]: From "The Noble Search" ([Ariyapariyesanā
     Sutta](www.wisdompubs.org/book/middle-length-discourses-buddha/selections/middle-length-discourses-26-ariyapariyesana-sutta),
@@ -2136,15 +2192,17 @@ were.
     when my brain was flooded with amphetamine. I'd love to be an
     artist in the future. However, it looks like I can't touch drugs
     without people trying to [set me up to go to prison for years as a
-    drug user](https://github.com/dcunited001/bb8). Regardless, my own
-    approach to the little art I engaged in was to sketch endlessly to
-    develop the outlines of future work. My interest and fascination
-    with math and machine learning lead me to attempt to explore with
-    sketching the outlines of future work until I identified visual
-    patterns that break the brain's ability to coherently recognize
-    surfaces and symbols. Art is yet another talent no one can
-    *enable* me to develop -- since I'm a publicly known drug user and
-    "Winners didn't do drugs"* -- Thanks a lot Nancy Reagon.
+    drug user](https://github.com/dcunited001/bb8), while
+    assassinating my character by associating me with theft I had
+    nothing to do with. Regardless, my own approach to the little art
+    I engaged in was to sketch endlessly to develop the outlines of
+    future work. My interest and fascination with math and machine
+    learning lead me to attempt to explore with sketching the outlines
+    of future work until I identified visual patterns that break the
+    brain's ability to coherently recognize surfaces and symbols. Art
+    is yet another talent no one can *enable* me to develop -- since
+    I'm a publicly known drug user and "Winners didn't do drugs"* --
+    Thanks a lot Nancy Reagon.
 
     Anyways, my attempt at art would be to explore
     combining my fascinations of semiotics, linguistics, differential
@@ -2166,17 +2224,48 @@ were.
     If I could be permitted to develop
     the technical skills of painting/etc, my art would end up being
     like a cross between Picasso's cubism and Dali's usage of both
-    surrealism and the unconsious. However, I'm never allowed to
-    achieve anything of meaning or create anything that lasts. My art
+    surrealism and the unconsious, though my art wouldn't necessarily be
+    successful. However, I'm never allowed to
+    achieve anything of meaning or create anything that lasts. That is
+    the cruel objective: ensure no one ever remembers me, at least not
+    before my death necessitates I relinquish all control over my
+    legacy. For now, my art
     sucks, but the important point is that there is potential or there
     was potential, but everyone around me seeks to destroy me and hold
     me up as an example, as though they are morally superior.
 
 [^gladatorial-mural]: I changed the bullet points from black theta's
     to orange after watching the IAS video on [Kathleen Colema's
-    analysis of a Gladiatoral mural](). Apparently the black theta
-    implies indicates a gladiator who lost and who is almost certainly
+    analysis of a Gladiatoral
+    mural](https://www.youtube.com/watch?v=ZVGVWumLDws). Apparently
+    the black theta implies indicates a gladiator who lost and who is
     already dead -- if not in the last battle than almost certainly in
-    the next.
+    the next. I don't need all that bad luck, lulz.
 
-    > "I ain't dead yet" - Richard Prior
+    > "I ain't dead yet." - Richard Pryor
+
+[^takara]: According to my own implicit semiotic interpretation of
+    this kanji -- weak and simplistically informed to be sure -- it
+    means `宝` "contained/preserved king."  Thus, according to this
+    sketchy, stilted interpretation, the Takarabune might mean: the
+    preserved king's ship, though it literally means treasure
+    ship. Compare with `安` (roof over woman), meaning
+    peace/placidity, Also, compare to `㝊` (roof over "again"),
+    meaning "to wait" in chinese, but perhaps semiotically implying
+    *something like* "wait today, fight tomorrow".
+
+    I'm no Chinese
+    language scholar, so I'm almost certainly lacking the details I
+    need to interpret these characters properly. For one, It's
+    critical to analyze the seal scripts and inform your
+    interpretations with the meanings of characters at specific points
+    in time. Characters capture clusterings of semantic collisions
+    which need further dilineation to denote variation in the
+    signifier and signfied for those clusterings. Fast forward time
+    and the characters/morphemes that once overlapped then
+    semantically repel each other, finding points that minimize the
+    distances of all local points in the semantic space for a
+    language. It's energy minimization. To understand what I'm saying,
+    see [this
+    picture](/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos.html#interlingual-semantic-dissonances). That
+    graph is always in flux.
