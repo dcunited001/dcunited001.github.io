@@ -165,7 +165,7 @@ Modernism presented humanity with rapid crescendo of cultural change,
 Nietzsche's Geneology of Morals identified in values systems the
 [*Danger of
 Dangers*](https://academyofideas.com/2017/01/nietzsche-and-morality/):
-that rigidity and inflexibility of moral systems would itself foments
+that rigidity and inflexibility of moral systems would itself foment
 systemic weakness in societies unable to cope with the rate of change.
 
 Among the [chief design concerns for belief
@@ -196,8 +196,8 @@ spite of the obvious lack of meaning.
 
 #### As I see it, what I've learned is like having found the Takarabune coinship
 
-> When you accidentally get the [Takarabune (宝船)
-> ship](https://www.youtube.com/watch?v=lzR4cJVS550) in Mario 3 as a
+> When you accidentally get the [Takarabune ship (宝
+> 船)](https://www.youtube.com/watch?v=lzR4cJVS550) in Mario 3 as a
 > six year-old and try to tell other people what you found, it's
 > almost like experiencing the Mandela effect. It was so impossible to
 > stumble upon and so easy to dismiss, yet so rare that you almost
@@ -362,7 +362,7 @@ dramatically. This is because diversity of life experience
 collectively *covers* the typological space of life experience
 types. Democracy always promotes an increase in the diversity of
 ideas, opening society's aperture on life. Nowhere is this best seen
-than in Greece -- a veritable *Hanging Gardens of Bronze Age ideas*,
+than in Greece -- a veritable *Hanging Gardens of Bronze Age Ideas*,
 wherein early prototyping of social and governmental systems
 accelerated because of unique archipelogic features and it's proximity
 to the center of world trade.
@@ -2079,21 +2079,23 @@ multiply. Those who turn to theft to account for the imbalance in
 their lives are choosing self over society by finding someone else
 upon which they can thrust their bad lot in life. When those who turn
 to fraud to correct an imbalance in their lives that originated from
-fraud, they are acting to reflect fraud throughout society. this is
-sustainable, if small groups of people decide to work together at the
-cost of detriment to society as a whole.
+fraud, they are acting to reflect fraud throughout society. Such ploys
+are sustainable when small groups of people decide to work together at
+the cost of detriment to society as a whole. To do so, they justify
+their actions by claiming their group is somehow distinguished from
+the rest of society because they can't see how we are all one.
 
-However, reflecting negativity upon others is never the solution. You
-are only temporarily pushing the negativity in your personal life upon
-the lives of others at the risk of normalizing the malice that
-victimized you in the first place. In order to stop this, people have
-to autonomously decide upon themselves to absorb negativity. To do
-this effectively, we must be equipped with knowledge, wemust be
-encouraged to network across the social graph in a way that does NOT
-exclude people. It is never OK to exclude people systematically: that
-is often what leads the excluded individuals to believe it is
-justified to act in a wrong way, which is incredibly easy if you've
-never been acknowledged by society or felt appreciated.
+Reflecting negativity upon others is never the solution. You are only
+temporarily pushing the negativity in your personal life upon the
+lives of others at the risk of normalizing the malice that victimized
+you in the first place. In order to stop this, people have to
+autonomously decide upon themselves to absorb negativity. To do this
+effectively, we must be equipped with knowledge, wemust be encouraged
+to network across the social graph in a way that does NOT exclude
+people. It is never OK to exclude people systematically: that is often
+what leads the excluded individuals to believe it is justified to act
+in a wrong way, which is incredibly easy if you've never been
+acknowledged by society or felt appreciated.
 
 Utlimately, what do people want? what is it that individuals intend?
 and what is it that groups in society intend?  Generally, when people
@@ -2121,12 +2123,13 @@ protest events. Given visual, visceral exposure to this mistreatment,
 most white people started to undergo a change of heart -- because it
 was now impossible to look away and to continue pretending that such
 incredibly divorced circumstances in segregated communities were not
-real. Therefore, in the 21st century, when political dissidents are
-completely stripped of any publicity, you have robbed society of the
-avenue of civil disobedience. Suffering is no longer witnessed by
-others, it is merely endured and perhaps for no reason. Suddenly,
-there is little reason to suffer collectively for change because
-there's not much to be gained from it.
+real. Today, systemic topic-oriented censorship means suffering is no
+longer witnessed by others; it is merely endured and perhaps for no
+reason. Suddenly, there is little reason to suffer collectively for
+change because there's not much to be gained from it. Therefore, in
+the 21st century, when political dissidents are completely stripped of
+any publicity, you have robbed society of the avenue of civil
+disobedience.
 
 What is happening in America seems calculated to undermine any
 potential for civil disobedience. Our leaders will not be aware of
@@ -2137,11 +2140,11 @@ massive. This is because you cannot stem the tides of natural justice
 forever: you must divert the dissenting sociophysical energy with
 alternative avenues for flow, just like with a real dam. Otherwise,
 that dam will burst. Just because you've made it illegal to
-acknowledge reality doesn't mean what you do not allow anyone to see
-cannot affect reality. You simply won't be whatsoever aware of the
-nature of an impending threat before it hits you, which will be far
-too late. If the general population isn't aware of a realistic threat,
-how can we prepare for it?
+acknowledge reality doesn't mean that which you do not allow anyone to
+see does not affect reality. You simply won't be whatsoever aware of
+the nature of an impending threat before it hits you, which will be
+far too late. If the general population isn't aware of a realistic
+threat, how can we prepare for it?
 
 Why do our leaders expect that it's intolerable for people who see
 real threats to speak about them or to be concerned about them?
@@ -2309,7 +2312,7 @@ digital communications. These wizards-behind-the-curtain are
 apparently so terrified of what I've posted online that they could
 never say jack shit to my face. In fact, if this is the last chance
 anyone ever has to make a statement about life, society and
-technology, *the I'm going to stand up and scream and I do not care
+technology, *then I'm going to stand up and scream and I do not care
 about the worldly consequences they threaten me with.*
 
 ## How the hell can these people expect to regulate love [like that](https://www.facebook.com/photo.php?fbid=10204297595236683&set=a.1054024247508.7365.1732883075&type=3&theater) and get away with it? *Go to hell, Machiavelli.*
