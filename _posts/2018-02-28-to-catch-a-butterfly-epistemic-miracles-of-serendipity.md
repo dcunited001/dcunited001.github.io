@@ -102,11 +102,11 @@ Distinguishing Epistemic from Pragmatic
 Action](https://doi.org/10.1207/s15516709cog1804_1), my wheels started
 turning. I originally approached the essay to distinguish the
 denotative differences between epistemy and epistemology to dilineate
-socioepistemy and socioepistemology. I need to describe how structures
-of knowledge are manipulated socially, particularly with regard to how
-these phenomena extrapolate geographically, so that I can understand
-how socioepistemological mechanics and dynamics change as space and
-time dissolve.
+socioepistemy and socioepistemology. Understanding how structures of
+knowledge are manipulated socially, particularly with regard to how
+these phenomena extrapolate geographically, will elucidate how
+socioepistemological mechanics and dynamics change as space and time
+dissolve.
 
 In the essay, Kirsch and Maglio quickly outline two kinds of human
 behavior: that oriented towards *pragmatic* attainment of a clear
@@ -285,8 +285,7 @@ convolute sufficiently divergent epistemic schemata.
 
 ![Aladdin's Cave](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/aladdins-cave.jpg)
 
-<a name="without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited"
-/>
+<a name="without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited" />
 
 ### [Without Serendipity, Analytic Methods That Accelerate Learning Algorithms Are Depressingly Limited](#without-serendipity-analytic-methods-that-accelerate-learning-algorithms-are-depressingly-limited)
 
@@ -1665,45 +1664,82 @@ It's slow, steady and humble that wins the race. You must serve ideas,
 not people and not attachments. Unfortunately, it is difficult to
 attain the knowledge and wisdom to know which ideas to serve. Systems
 like religion, philosophy or academia are shortcuts for finding a
-noble path.
-
-- What do you empower?
-
-- those who allow themselves to be conduits for beneficent ideas,
-  (enable the development of virtue), and (create/serve magnanimity)
+noble path. What do you empower? Those who you choose to serve and to
+whom you choose to contribute your sociophysical energy: what do they
+empower?  We should detach from our present circumstances and act
+fluidly as conduits for beneficent ideas.
 
 ### Magnanimity (requires indirection)
 
-Understanding the nature of causality and the consequences of karma is
-so critical in understanding how to act without seeming to have acted
-at all. While knowing that you've identified minimal course of action,
-which is crucial to preserving your sociophysical potential energies.
+How can we know to act without seeming to have acted at all? Why is it
+important? Understanding the nature of causality and the consequences
+of karma is so critical in understanding this. Knowing that you've
+identified minimal course of action is crucial to preserving your
+sociophysical potential energies.
+
+Perhaps there is some situation of concern, wherein you recognize
+someone needs help. Those who wander throughout life, are presented
+with these situations constantly. How to act in a situation of concern
+without changing anything? If you chose to act, why? Who or what
+presented you with the information that informed you of a need to act?
+How to act so that your actions minimally affect the course of that
+situation? Why is that so important? For someone trapped in such a
+situation, if they have minimal social and financial resources, what
+range of options do they have? They have very little power and,
+especially if they are socially disconnected, the informational
+ripples stemming from the situation have a tendancy to be very
+distorted. Such a situation must be approached carefully because every
+cause has it's own causes. There are reasons for everything.
 
 #### Dali - Le Main
 
+> If you have social and financial power, you must exert care over
+> your actions and limit the situations wherein you become
+> entangled. If you have resources, you have something to lose and
+> something to take. Once you become entangled, it is difficult to
+> extricate yourself without appearing cold. Worse, for the rich and
+> famous, anything they touch becomes warped and turbulently
+> affected. This often leaves them isolated through life and,
+> subsequently, easy to control, even though it appears they have
+> everything they could ever wish for.
+
 ![Dali's Le Main](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/dali-le-main.jpg)
 
-- how to act in a situation of concern without changing anything?
-  - how to act so that your actions minimally affect the course of
-    that situation?
-  - how to act to present people who need help with options that are
-    their implicit means of salvation/judgement? (reword this)
-    - in otherwords, you do not interfere with the situation directly,
-      but only act to ascertain information and construct options the
-      person who needs help will reach for *only* if they (deserve)
-      the help.
-    - in doing so, you prompt the person to identify tools/options
-      they can use in the situation of concern, but the tool only
-      functions if they make they right decisions and prioritize the
-      correct values
-    - then, when you act, you've done nothing at all. if the person
-      has misrepresented the situation to you, the tool/option you've
-      provided doesn't quite function
-      - if the other people have misrepresented the situation to you,
-        then your attempts to minimally interfere should have elements
-        monadically encapsulated within them that provide you with
-        more information without having appeared to involve you at
-        all. (and without sociophysically destablizing the sitaution)
+If you want to intervene in some such situation, you must examine what
+you know carefully, until you can construct a monadic russian doll
+that contains within it this person's implicit means of salvation or
+judgement -- though perhaps identifying ways to judge people is not so
+critical. This allows you to pass something like a handler function
+into the situation. Then, once it is unwrapped and it's consequences
+unfold, the person is placed into a situation where their response
+measures their character. To do so most effectively, you cannot
+interfere with the situation directly, but only act indirectly to
+ascertain information. This informs your construction of monadic
+components that the person who needs help will reach for *only* if
+their character causes them to make the correct decisions.
+
+In doing so, you prompt the person to identify tools or options they
+can use in the situation of concern, but the tool only functions if
+they make they right decisions and prioritize the correct values. When
+the person reaches for the tools you've given them, it can also prompt
+*true changes that emerge within*, from a
+[cognitive-behavioral](https://en.wikipedia.org/wiki/Cognitive_behavioral_therapy)
+perspective[^thats-not-really-cbt]. Thereby, this person believes the
+capacity was within themselves the whole time and also believes they
+must own the consequences. Furthermore, you avoid potential causal
+entanglements, while gaining more insight into that person's
+character. Crucially, you have not simply fixed the person's problem,
+but "taught a man to fish" so to speak.
+
+If you do this right, once you've acted, it appears you've done
+nothing at all. If the person has misrepresented the situation to you,
+the tool/option you've provided doesn't quite function -- and exactly
+how it doesn't function tells you more about the situation.  If the
+other people have misrepresented the situation to you, then your
+attempts to minimally interfere should have elements monadically
+encapsulated within them that provide you with more information
+without having appeared to involve you at all. (and without
+sociophysically destablizing the sitaution)
       - if other people are seeking to misrepresent a situation to you
         where someone does need help, then your indirect attempts to
         aid that person will provide you with information about who is
@@ -2269,3 +2305,19 @@ because it's all my life experience is capable of informing me.
     see [this
     picture](/posts/2017-02-14-oneirontology-engineering-cultural-touchstones-for-mythos.html#interlingual-semantic-dissonances). That
     graph is always in flux.
+
+[^thats-not-really-cbt]: But they MUST experience a variety of
+    experiences, which allow the person to encounter situations where
+    new decisions and behavioral patterns are relevent. AND they
+    *must* have the social/financial capacity to function in those
+    situations... Psychological torture can be easily masked as
+    "Cognitive Behavioral Therapy." Ultimately, everyone around me has
+    been acting duplicitously, especially those people who claim to be
+    helping me. They don't want me to get true help because, if i
+    don't change, it means people have ruined the life of someone who
+    would never have amounted to anything. Ultimately, I'm an
+    intelligent person. Give me what a person with Asperger's needs to
+    function, unless your objective is to "prove" no significant
+    damage was ever done. Why have I been the only person in my corner
+    this whole time? Why try so hard to limit the exposure of this
+    sitatuion?
