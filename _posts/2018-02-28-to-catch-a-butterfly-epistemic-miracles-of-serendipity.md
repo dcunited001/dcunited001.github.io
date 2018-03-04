@@ -1498,6 +1498,22 @@ one that stands out as ... not good. After reading several passages, I
 felt that the text had almost been edited, not retranslated. It feels
 symbolically abbreviated, compared to KJV, ECV and NIV.
 
+As for the states of mind specified by the jhanas, are those who
+progress through and embody these states of mind necessarily pure? If
+so long as they embody those mindstates and social states? Does this
+progression of mindstates move towards an ideal that is the opposite
+of the being Mara epitomizes? Or, instead, are these mindstates
+instead purely devoid of the elements required for suffering and evil?
+If it is the latter, then does the progression through these eight
+mindstates render one's mind into a body like that of water? Pure
+water is receptive to become any form and can also absorb impurities?
+Similar to the destination of nirvana, can such liberation of
+consciousness and social circumstance be extended ad infinitum? Or is
+it possible for what goes up to come down again? Perhaps, is it
+tragically useful for those proxies of Mara to rip the wings off of
+anyone who had ascended? Is it possible to fly without getting too
+close to the sun?
+
 <a name="if-youre-out-there-generally-liberating-people-watch-your-ass" />
 
 ### [If You're Out There Generally Liberating People, Watch Your Ass](#if-youre-out-there-generally-liberating-people-watch-your-ass)
@@ -1669,7 +1685,9 @@ whom you choose to contribute your sociophysical energy: what do they
 empower?  We should detach from our present circumstances and act
 fluidly as conduits for beneficent ideas.
 
-### Magnanimity (requires indirection)
+<a name="maintaining-magnanimity-and-social-posture-requires-indirection" />
+
+### [Maintaining Magnanimity and Social Posture Requires Indirection](#maintaining-magnanimity-and-social-posture-requires-indirection)
 
 How can we know to act without seeming to have acted at all? Why is it
 important? Understanding the nature of causality and the consequences
@@ -1731,91 +1749,76 @@ entanglements, while gaining more insight into that person's
 character. Crucially, you have not simply fixed the person's problem,
 but "taught a man to fish" so to speak.
 
-If you do this right, once you've acted, it appears you've done
+If you do this right, then once you've acted, it appears you've done
 nothing at all. If the person has misrepresented the situation to you,
 the tool/option you've provided doesn't quite function -- and exactly
-how it doesn't function tells you more about the situation.  If the
-other people have misrepresented the situation to you, then your
-attempts to minimally interfere should have elements monadically
-encapsulated within them that provide you with more information
-without having appeared to involve you at all. (and without
-sociophysically destablizing the sitaution)
-      - if other people are seeking to misrepresent a situation to you
-        where someone does need help, then your indirect attempts to
-        aid that person will provide you with information about who is
-        deceiving and who is acting on bad information.
-      - you'll begin to infer why sociophysical energy and intent are
-        invested in that situation, without having changed the nature
-        of the situation and without alerting those invested in the
-        outcome to your involvement.
+how so tells you more about the situation. If the other people have
+misrepresented the situation to you, then your attempts to minimally
+interfere should have elements monadically encapsulated within that
+provide you with more information without having appeared to involve
+you at all. The more social resources you have, the more effectively
+you can appear to have acted sociophysically destablizing the
+sitaution. When other people seek to misrepresent that situation to
+you, then your indirect attempts to aid that person will provide you
+with information about who is deceiving and who is acting on bad
+information. Since they don't know you're interfering, they may not
+know to lie to you or your proxies. In the reactions of the subjects
+of your aid as well as those around them, you'll begin to infer why
+sociophysical energy and intent are invested in that situation,
+without having changed the nature of the situation and without
+alerting those invested in the outcome to your involvement.
 
-- change must emerge from within
-- metric of degrees of separation/indirection
-  - informational/social/financial degrees of separation/indirection
+Towards methodologically understanding whether or not your actions
+will create turbulence, there are sociophysical metric of degrees of
+indirection, similar to degrees of separation in the social
+graph. These are moreso informational degrees of separation and
+present informational transactions similarly to that of financial
+transations. You have to know how to act to change just the things you
+want, while holding everything else stable
 
-  - you have to know how to act to change just the things you want,
-    while allowing everything else to remain stable
-    - metaphor: curling and "burned rocks"
+#### This Is Not So Different Than Curling's Notion of "Burned Rocks"
 
-####
+![Curling Burned Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/curling-burned-rock.jpg)
 
 > No, that's not the burned rock. The Canadians did not burn that
 > rock. They did, however, decide to send that rock to the [Phantom
 > Zone](https://en.wikipedia.org/wiki/Phantom_Zone).
 
-![Curling Burned Rock](/img/posts/2018-02-14-to-catch-a-butterfly-epistemic-miracles-of-serendipity/curling-burned-rock.jpg)
+Without the wisdom and knowledge of action without change, you cannot
+act to obtain precise changes without risking or creating
+sociophysical turbulence. In addition to destabalizing plans to serve
+your own ends or that of others, you'll end up destabalizing the goals
+and actions of others -- I'll be the first to tell you it doesn't
+please anyone. For your actions to create a response with surgical
+precision, you have to know. If you are forbidden from acquiring
+information about your circumstances, you cannot act without creating
+negative reactions.[^in-my-defense]
 
-If you don't know how to act without changing anything, you cannot act
-to obtain precise changes without risking sociophysical turbulence.
+If you want to know who's causally responsible, ask your self these
+questions. Who had social, financial, and informational resources to
+change things? Who had influence and power? what did these groups of
+people intend to create? What information did they propagate and why?
+What information did they seek to prevent being unveiled to various
+groups of people? In my situation, all you have to do is understand is
+that I had as close to zero social, financial and informational
+resources as possible. This is generally true throughout my entire
+life and whenever I begin to accumulate social/financial resources, it
+is immediately smacked out of my hands.
 
-In addition to destabalizing plans to serve your own ends or that of
-others, you'll end up destabalizing the goals and actions of others.
+### [A Million Ways To Do Right And Die Trying;](#a-million-ways-to-do-right-and-die-trying)
 
-- for your actions to create a response with surgical precision, you
-  have to know. if you are forbidden from acquiring information about
-  your circumstances, you cannot act without creating negative
-  reactions.
-- for me, in 2015, it seems that there was already a plethora of
-  negative sociophysical momentum associated to my identity and
-  actions I couldn't believe were real myself. the people who had
-  hoaxed this into being did so assuming that they could blame it all
-  on me, so they didn't want me to understand what had been created
-  and worked tirelessly to prevent me from understanding the specifics
-  and consequences of actions which I could not believe ever occured.
+> A million ways to do harm, but who's counting?
 
-- who had social/financial/informational resources to change things?
-  what did these groups of people intend to create? what information
-  did they propagate and why? what information did they seek to
-  prevent being unveiled to me? all you have to do is understand is
-  that I had as close to zero social, financial and informational
-  resources as possible. this is generally true throughout my entire
-  life and whenever i begin to accumulate social/financial resources,
-  it is immediately smacked out of my hands.
-
-  - as for the states of mind specified by the jhanas
-  - if so, are those who progress through and embody these states of
-    mind necessarily pure? does this progression move towards an ideal
-    that is the opposite of the being Mara epitomizes?
-    - or is it instead a state purely devoid of the elements
-      required for suffering/evil?
-      - what states of mind? the state of progression towards
-        liberation? or the state of having liberated one self?
-      - the states of mind specified by the Jhanas
-
-
-###
-
-- It is (very difficult) to live in these ways. it requires
-  significant investment of personal time and energy to be
-  compassionate. There are a million ways to attempt to be
-  compassionate when interacting in social situations. (Some ways)
-  produce profound changes while (other ways) generate far too much
-  sociophysical turbulence as a result. For this and many other
-  reasons, it is a computationally hard problem to determine how to
-  act compassionately, while achieviing the effects you want to see in
-  the world. (is not nearly as computationally hard to identify) the
-  path of least resistence so that you can contort situations to your
-  advantage.
+It is (very difficult) to live in these ways. it requires significant
+investment of personal time and energy to be compassionate. There are
+a million ways to attempt to be compassionate when interacting in
+social situations. (Some ways) produce profound changes while (other
+ways) generate far too much sociophysical turbulence as a result. For
+this and many other reasons, it is a computationally hard problem to
+determine how to act compassionately, while achieviing the effects you
+want to see in the world. (is not nearly as computationally hard to
+identify) the path of least resistence so that you can contort
+situations to your advantage.
   - There are myriad ways to act while creating a compassionate
     result, when seen from the eyes of the person you're trying to
     help. There are myriad ways to act while creating discompassionate
@@ -2156,7 +2159,8 @@ were.
 ### [In America, When A Butterfly Flaps Its Wings, Kill It With Fire!](#in-america-when-a-butterfly-flaps-its-wings-kill-it-with-fire)
 
 ... Apparently. Until someone tells me otherwise, this is all I know
-because it's all my life experience is capable of informing me.
+because it's all that my constricted life experience is capable of
+informing me.
 
 [^someone-like-me]: I was looking for it. The answer is that I was too
     stupid to have learned to not look. What does it mean? Wouldn't
@@ -2321,3 +2325,12 @@ because it's all my life experience is capable of informing me.
     damage was ever done. Why have I been the only person in my corner
     this whole time? Why try so hard to limit the exposure of this
     sitatuion?
+
+[^in-my-own-defense]: In my defense, in 2015, it seems that there was
+    already a plethora of negative sociophysical momentum associated
+    to my identity and actions I couldn't believe were real
+    myself. The people who had hoaxed this into being did so assuming
+    that they could blame it all on me, so they didn't want me to
+    understand what had been created and worked tirelessly to prevent
+    me from understanding the specifics and consequences of actions
+    which I could not believe ever occured.
