@@ -33,13 +33,13 @@ excerpt: ""
 
 ![Dali's Liquid Desire](/img/posts/2018-01-22-semioteleological-revolution/dali-liquid-desire.jpg)
 
-#### Dali - Leda Atomica
+#### Dali - Leda Atomica (1949)
 
 ![Dali - Leda Atomica](/img/posts/2018-01-22-semioteleological-revolution/dali-leda-atomica.jpg)
 
 #### Graydon Parrish - Suggested Donation
 
-![Graydon Parrish - Suggested Donation](/img/posts/2018-01-22-semioteleological-revolution/dali-liquid-desire.jpg)
+![Graydon Parrish - Suggested Donation](/img/posts/2018-01-22-semioteleological-revolution/graydon-parrish-suggestion-donation.jpg)
 
 driving sociopolitical churn with a dichotomous sword to harness
 siphoned energy of each fearful swing, raping america like
@@ -55,7 +55,7 @@ black-bagged prisoners trapped in Poe's the Pit and the Pendulum.
   - through the ages and in modern infowars.
 
 > In a world awash with a deluge of information, it is who tells the
-> most radiant truth who commands the masses, if they can just be
+> most radiant truth who directs the masses, if they can just be
 > heard.
 
 ## [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
@@ -287,7 +287,6 @@ and microcosmic aspects of socioepistemological flux and churn are
 relevant to to constructing a systemic understanding of how people's
 accepted reality changes in response to what they experience in life.
 
-
   - (1) churn of social consequences mainly resulting from how
     epistemological structures are rooted in either the idealistic or
     ideal conceptions of the metaphsyical
@@ -312,6 +311,11 @@ accepted reality changes in response to what they experience in life.
 <a name="dominating-consensus-reality-in-a-world-where-the-only-constant-is-change" />
 
 ### [Dominating Consensus Reality In A World Where The Only Constant Is Change](#dominating-consensus-reality-in-a-world-where-the-only-constant-is-change)
+
+- example of geographical socioepistemic schism, producing two
+  distinct consensus realities: the iron curtain. An example of a
+  (logical/virtual) socioepistemic schism: personal computing and
+  office software in the 1990's.
 
 - consensus reality (as a long-term information as part of a
   context/frame)

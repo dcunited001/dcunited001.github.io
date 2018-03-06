@@ -1,5 +1,5 @@
 ---
-title: "To Catch a Butterfly: Epistemic Miracles of Serendipity"
+title: "Into The Memory Hole: Out of Sight, Out of Mind"
 categories: "blog"
 tags: ""
 headline: ""
@@ -13,7 +13,6 @@ excerpt: ""
 #### &#920; [What Was The Start Of All This](#what-was-the-start-of-all-this)
 
 #### &#920; [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
-
 
 #### &#920; [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
 
@@ -95,6 +94,15 @@ determines how everyone in society views me. I am literally in a
 fucking social cage; I am sick and tired of being abused for my entire
 adult life, when I want nothing other than to help people.
 
+### [What Happens When You Deprive Someone of ALL Positive Reinforcement?]()
+
+- the same thing that happens when you deprive someone of all negative
+  reinforcement: their values system simply ceases to function and
+  they lose their "compass"
+
+-
+
+
 <a name="what-does-it-mean-to-be-memory-holed" />
 
 ### [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
@@ -169,6 +177,20 @@ manuals for psychological torture techniques. Fun for you and the
 whole family ... except for that one kid under the table, but! What's
 that?! I think I heard a turkey talking. Turkey's don't talk, do they?
 
+Interesting to note that the channel above is still online, while all
+[Natural News](https://www.youtube.com/thehealthranger) videos have
+been permanently deleted from YouTube and [Alex
+Jones](https://www.youtube.com/user/TheAlexJonesChannel) is being
+threatened with similar "treatment" by proto-Leninists. Their
+businesses are threatened with complete ruin, and a bunch of passive
+aggressive liberal shitdicks have nothing to say about it. They just
+push a delete key, amoung other passive aggressive techniques that
+abuse process to strain the social & value out of anything with
+power. They believe that it's healthy for the victim of social
+isolation and persecution to be left wondering what happened to their
+livelihoods while they pick up the pieces. They justify these
+techniques by claiming they are treating the "social organism."
+
 <a name="thread-killing-the-nsa-effecively-memory-holes-targeted-individuals" />
 
 ### [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
@@ -205,8 +227,8 @@ itself demonstrates cognizance.
 
 How can a political dissident's interactions be automagically
 deranked? DevOps is the most important organizational unit of a
-corporation for the NSA to control. It's the only unit that is really
-worth the potential blowback that would occur for the NSA to
+corporation for the NSA to control. AFAIK, it's the only unit that is
+really worth the potential blowback that would occur for the NSA to
 insert/manipulate employees of a corporation. Compromise DevOps and
 you might as well control everything that technology company does
 online. Why? You can mess with the containerization of services
@@ -248,12 +270,6 @@ can drive fear into the hearts of young Americans, they can dissuade
 us from ever creating the digital artifacts that prove anything ever
 happened. However, nothing that can be done now is good enough to
 eliminate the footprint that already exists.
-
-Facebook's production operations team has apparently hired many people
-who used to work with the Navy in cyber-operations: they have the
-clearances to work with NSA, though this is circumstantial. The point
-is that, if you wanted to have access to Facebook's devops, you would
-want to control the people who work in Facebook DevOps.
 
 <a name="redpill-everything-that-moves" />
 
