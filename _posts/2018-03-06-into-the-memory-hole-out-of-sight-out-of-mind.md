@@ -13,54 +13,54 @@ excerpt: ""
 
 ## [Oh, I'm A Hypocrite?](#oh-im-a-hypocrite)
 
-#### &#920; [What Was The Start Of All This](#what-was-the-start-of-all-this)
+#### ☹ [What Was The Start Of All This](#what-was-the-start-of-all-this)
 
 ## [Blinding A Target's Values Compass](#blinding-a-targets-values-compass)
 
-#### &#920; [In Space, No One Can Hear You Scream](#in-space-no-one-can-hear-you-scream)
+#### ☹ [In Space, No One Can Hear You Scream](#in-space-no-one-can-hear-you-scream)
 
-#### &#920; [This Is Sociophysical Solitary Confinement](#this-is-sociophysical-solitary-confinement)
+#### ☹ [This Is Sociophysical Solitary Confinement](#this-is-sociophysical-solitary-confinement)
 
-#### &#920; [PTSD With A Paucity Of Social Memories To Disrupt The Balance](#ptsd-with-a-paucity-of-social-memories-to-disrupt-the-balance)
+#### ☹ [PTSD With A Paucity Of Social Memories To Disrupt The Balance](#ptsd-with-a-paucity-of-social-memories-to-disrupt-the-balance)
 
-#### &#920; [Probatio Diabolica: You're Going To Need "The Devil's Proof"](probatio-diabolica-youre-going-to-need-the-devils-proof)
+#### ☹ [Probatio Diabolica: You're Going To Need "The Devil's Proof"](probatio-diabolica-youre-going-to-need-the-devils-proof)
 
-#### &#920; [On To The Next Schiz In this LARP-fest](#on-to-the-next-schiz-in-this-larp-fest)
+#### ☹ [On To The Next Schiz In this LARP-fest](#on-to-the-next-schiz-in-this-larp-fest)
 
-#### &#920; [What Happens When You Deprive Someone of ALL Positive Reinforcement?](#what-happens-when-you-deprive-someone-of-all-positive-reinforcement)
+#### ☹ [What Happens When You Deprive Someone of ALL Positive Reinforcement?](#what-happens-when-you-deprive-someone-of-all-positive-reinforcement)
 
 
-#### &#920; [Spectral Components of Values-Reinforcement Signals](#spectral-components-of-values-reinforcement-signals)
+#### ☹ [Spectral Components of Values-Reinforcement Signals](#spectral-components-of-values-reinforcement-signals)
 
-#### &#920; [The Gradient of Positive And Negative Reinforcement Forms A Compass of Values](#the-gradient-of-positive-and-negative-reinforcement-forms-a-compass-of-values)
+#### ☹ [The Gradient of Positive And Negative Reinforcement Forms A Compass of Values](#the-gradient-of-positive-and-negative-reinforcement-forms-a-compass-of-values)
 
-#### &#920; [Sorry, This Quadratic Equation Has Zero Real Solutions](#sorry-this-quadratic-equation-has-zero-real-solutions)
+#### ☹ [Sorry, This Quadratic Equation Has Zero Real Solutions](#sorry-this-quadratic-equation-has-zero-real-solutions)
 
-#### &#920; [Prolonged Deprivation of Reinforcment Signal Disrupts An Individuals Social Pattern Recognition](#prolonged-deprivation-of-reinforcement-signal-disrupts-an-individuals-social-pattern-recognition)
+#### ☹ [Prolonged Deprivation of Reinforcment Signal Disrupts An Individuals Social Pattern Recognition](#prolonged-deprivation-of-reinforcement-signal-disrupts-an-individuals-social-pattern-recognition)
 
-#### &#920; [Usually, People Avoid The "Hot Stove" If They Can Help It](#usually-people-avoid-the-hot-stove-if-they-can-help-it)
+#### ☹ [Usually, People Avoid The "Hot Stove" If They Can Help It](#usually-people-avoid-the-hot-stove-if-they-can-help-it)
 
 ## [What Does It Mean To Be Memory-Holed?](#what-does-it-mean-to-be-memory-holed)
 
-#### &#920; [We're Sorry, Your Memories Go In The Memory Hole](#were-sorry-your-memories-go-in-the-memory-hole)
+#### ☹ [We're Sorry, Your Memories Go In The Memory Hole](#were-sorry-your-memories-go-in-the-memory-hole)
 
-#### &#920; [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
+#### ☹ [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
 
-#### &#920; [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
+#### ☹ [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
 
 ## [My Life Is A Rigged Game](#my-life-is-a-rigged-game)
 
-#### &#920; [Knock Knock. *Who's There?*](#knock-knock-whos-there)
+#### ☹ [Knock Knock. *Who's There?*](#knock-knock-whos-there)
 
-#### &#920; [Every Battle I Face Makes Me Stronger](#every-battle-i-face-makes-me-stronger)
+#### ☹ [Every Battle I Face Makes Me Stronger](#every-battle-i-face-makes-me-stronger)
 
-#### &#920; [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
+#### ☹ [Throwing Bambi To The Wolves By Forbidding Socioepistemic Information Acquisition](#throwing-bambi-to-the-wolves-by-forbidding-socioepistemic-information-aquisition)
 
-#### &#920; [Wherefore The Rollerrink Drama Went Thermonuclear](#wherefore-the-rollerrink-drama-went-thermonuclear)
+#### ☹ [Wherefore The Rollerrink Drama Went Thermonuclear](#wherefore-the-rollerrink-drama-went-thermonuclear)
 
-#### &#920; [Because You Methodically Tormented An Altruistic Person Who Loves Humanity](#because-you-methodically-tormented-an-altruistic-person-who-loves-humanity)
+#### ☹ [Because You Methodically Tormented An Altruistic Person Who Loves Humanity](#because-you-methodically-tormented-an-altruistic-person-who-loves-humanity)
 
-#### &#920; [Until Then, I'm Drowning In Manufactured Fruit of the Poisonous Tree](#drowning-in-manufactured-fruit-of-the-poisonous-tree)
+#### ☹ [Until Then, I'm Drowning In Manufactured Fruit of the Poisonous Tree](#drowning-in-manufactured-fruit-of-the-poisonous-tree)
 
 <a name="oh-im-a-hypocrite" />
 
@@ -770,10 +770,10 @@ eliminate the footprint that already exists.
 ### [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
 
 How is it paying off to have assassinated my career? If you hadn't
-done that, I'd have been so fucking busy with my head down, I'd never
-have become a philosopher, nor would I ever have the time to look at
-so much information online. All your operations to control me have
-backfired. All these people placed on me for security have been
+done that, I'd never have been so fucking busy with my head down, I'd
+never have become a philosopher, nor would I ever have the time to
+look at so much information online. All your operations to control me
+have backfired. All these people placed on me for security have been
 incompetent at best, as they're incredibly susceptible to exactly the
 kind of disinformation that's blinding this entire nation. At worst,
 they've lied to you for job security in national security.
@@ -831,7 +831,7 @@ ignorant actions would create problems of significant exposure.
 > Here it is: the napkin. Apparently, they kept this thing around
 > ... a probably put it in a glass case like Lenin.
 
-![Southwest Airlines](/img/posts/2018-03-06-into-the-memory-hole-out-of-sight-out-of-mind/the-napkin.jpg)
+![Southwest Airlines](/img/posts/2018-03-06-into-the-memory-hole-out-of-sight-out-of-mind/the-napkin.png)
 
 #### J/K folks, that's not actually the napkin...
 
@@ -983,7 +983,7 @@ reputation?**
 
 ![LOTR Battering Ram](/img/posts/2018-03-06-into-the-memory-hole-out-of-sight-out-of-mind/lotr-battering-ram.jpg)
 
-Don't you worry, PhD Bo Peep with doctorate in sheep, I don't need a
+Don't you worry, PhD Bo Peep with a doctorate in sheep, I don't need a
 battering ram. I have a brain with an infinite supply of creatitivity
 because I methodically developed cognitive and metacognitive skills. I
 don't care how much content I place online or how hard people in 2015
