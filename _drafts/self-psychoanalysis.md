@@ -114,7 +114,7 @@ harmful effects. Nothing slams more doors in your face than rumors
 about substances. Well, I wanted to feel what it might be like to be
 normal, socially.
 
-The main problem: i've been in near-total isolation without sufficient
+The main problem: I've been in near-total isolation without sufficient
 variety of social experience to layer down the social conditioning
 which leads to adult development. Everyone wants to call me an "adult
 child" but no one wants to look at why this every occured or address
@@ -412,45 +412,6 @@ debatable, but whether this can be done to someone is certain.
   advantages in amplifying information (to establish it as a baseline)
 
 ==========
-
-### Disrupting Positive/Negative Reinforcement (Gradient Descent)
-
-- however, constant failure with persistently null indication &
-  opportunity for success causes people to become out of touch because
-  their values system cannot function
-  - so, there may be positive reinforcement from their social
-    connections, but it is ALMOST NEVER coupled to anything meaningful
-  - and there is plenty of negative reinforcement, which may or may
-    not be consistently coupled to anything meaningful
-    - regardless, here, negative reinforcement does not serve as a
-      means for orienting oneself because the abject lack of positive
-      reinforcement blinds you to any dimensions/signals that provide
-      a basis for GRADIENT DESCENT
-      - i suppose a similar thing happens with an abject lack of
-        negative reinforcement (too much fame/success/money)
-    - it just doesn't matter: you have no compass for navigating life
-      experiences. after a prolonged period of this, there is total
-      breakdown of your ability to recognize/emulate PATTERNS of
-      positive & rewarded behavior.
-      - before this happens, your habits/routines begin to
-        break down. if you have money, you can easily adapt.
-  - no one EVER naturally experiences this prolonged, abject
-    degeneration, if we can help it. we all have our own definitions
-    of positive reinforcement, negative reinforcement and success.
-    - we naturally gravitate towards what feels good and move away
-      from what feels bad. the strongly conscious imposition of morals
-      or values systems onto one's rules for behaviors cause us to
-      redefine what feels good, which is one of the most healthy
-      things we can do.
-    - however, if we can help it -- IF WE CAN EVER JUST MOVE THE FUCK
-      AWAY FROM PAIN -- then no one stays around this abject degrading
-      degeneration for long.
-      - but if you can't, it means you're strapped down by something.
-  - it is quite possible to DO this to someone. to lock them away in a
-    sociophysical jail with a reality distortion field that completely
-    distorts social signal to constantly disrupt their mind's GRADIENT
-    DESCENT algorithm that informs them of what IS good, what FEELS
-    good, what is bad, etc.
 
 
 ==========
