@@ -13,6 +13,14 @@ excerpt: ""
 - seize the power of ideas, thought and knowledge, to return
   (providence to the people)
 
+- understanding cumulative desire with regard to specific issues as a
+  means of understanding the collective intent of people
+  - controlling, lensing attention/focus towards/away from specific
+    goals to disenchant (pushes) for change.
+    - also, driving people's focus from the specific methods of
+      achieving those goals can similarly distract them from making
+      real changes.
+
 ### [The Triumvarate of Sociphysical Resources: Social, Financial and Informational](#the-triumvarate-of-sociophysical-resources-social-financial-and-informational)
 
 - TODO: DG Sever Rime
@@ -310,6 +318,12 @@ experienced in life, typologically.
       can be virtualized within it.
   - assuming that
 
+- this section must distinguish between how people who primarily
+  adhere to materialistic or idealistic conceptions of metaphysics
+  envision the potential movement forward.
+  - connect to the subsequent section on the "clarity" of potential
+    futures and the available paths thereto.
+
 #### (2)
 
   - (2) and in how whether the knowledge structures are primarily
@@ -334,6 +348,8 @@ experienced in life, typologically.
 <a name="dominating-consensus-reality-in-a-world-where-the-only-constant-is-change" />
 
 ### [Dominating Consensus Reality In A World Where The Only Constant Is Change](#dominating-consensus-reality-in-a-world-where-the-only-constant-is-change)
+
+- TODO: change the headers in this section
 
 In the 1950's, the iron curtain cast its shadow across Europe, forming
 the basis of geographical socioepistemic schism. East and west of the
@@ -1233,6 +1249,12 @@ recombinated through the ages.
 
 ### Lack of Tort Reform Typologically Constrains Life Experience of Americans
 
+- this section needs to be communicated as demonstrating mechanisms in
+  society that contributed systemically (to creating psychologically
+  weaker people)
+  - i.e. not in line with the above Nietzschean machine for creating
+    stronger people generally and the strongest people
+
 - it turns our education system into something that shelters us and
   protects us from all the things we need to experinece in small
   amounts in youth -- because we might get hurt.
@@ -1320,6 +1342,24 @@ recombinated through the ages.
 
 
 ###
+
+- i really need to settle on a consistent set of terms for describing
+  the parts of this "nietzschean" system
+  - for creating a bridge to the ubermensche
+    - (an asymptotic goal which cannot be obtained)
+
+- how does the Nietzschean (system) counter external threats that seek
+  to socioepistemologically undermine the evolutionary mechanisms
+  which produce stronger people?
+  - the competition for these systems can easily highlight those who
+    could not withstand the evolutionary mechanisms of the society.
+    - if the value of those mechanisms cannot be conveyed to the
+      (average person), external systems will find it easy to lead
+      astray those on the outskirts of society.
+      - external systems can use those people by artificially
+        empowering them, making them feel like they've been victimized
+        by the evolutionary mechanisms society
+
 
 - people who excel or are strongest when living within a world that is
   a lie, and a lie that is ostensibly constructed specifically or
@@ -1459,6 +1499,9 @@ recombinated through the ages.
   financial resources to play.
   - (this might need to segue into the next section)
   - but to play the game you have to be able to measure/predict
+  - evolutionary dynamics of competitive symbology leads to
+    interthreaded narratives and myths. everyone borrows from everyone
+    else, especially those people nearby.
 
 #### Dali - Liquid Desire
 
@@ -1628,94 +1671,11 @@ society).
     forever seal humanity in within the confines of a false historical
     and technological paradigm.
 
-- Divine Right vs. the mandate of heaven
-  - how was the mandate of heaven similar to the social contract
-    theory? (original reference to mandate of heaven )
-
-
-
-### (Dynasties)
-
-- what are the methods of inheretence of power called?
-  - variations of matrilineal/patrilineal succession
-  - how much do these methods of succession imply ancient knowledge of
-    [phenomics](https://en.wikipedia.org/wiki/Phenomics)
-    - ancient people knew far more than we gave them credit for.
-      - while science and rationalism have opened our world to
-        possibilities and stability unknown before the 18th century,
-        this obsession with the materialistic and quantifiable has
-        blinded us with a deluge of detail (remove?)
-
-- three families close to the japanese emperor for hundreds of years
-  - how this served the best interests of the japanese culture
-    - before, during and after the time of Nobunaga
-  - the emporer had the best interests of the state and the people in
-    mind. to serve him was to serve the best interests of everyone.
-    - but in order for the emperor and the state to serve the people,
-      they had to be connected to the people.
-    - over the course of generations, those close to the emperor, the
-      families closest to his estate and to the government could
-      "move" closer to the emperor by proving themselves
-      - this is how it worked with most if not all monarchies, but
-        it's interesting how well it worked in Japan, since that
-        monarchy has lasted so long. It also lasted a very long time
-        in Iran, so it'd be equally interesting to explore there.
-      - this dynamic of moving closer and further from the monarch by
-        having one's service/character assessed seems to have resulted
-        in the system being architected around this.
-        - japan also had very tight control of their culture. being
-          east-most and geographically separate, they had less inward
-          informational sociophysical flux than most, so this made it
-          slightly easier to do so.
-        - (it seems that this tight control of culture can be seen in
-          Shinto, which is a religion that's not meant for people
-          outside of japan AFAIK)
-      - further, idealistic metaphysics is encoded into their
-        language, grammar and thus culture. (see the particle "no")
-        - this may cause the Japanese people to think about things
-          differently, especially when compared to cultures speaking
-          western languages, where there is so much emphasis on
-          quantity, possession and the material.
-          - i'm not saying one is better than the other...
-
-#### The Dalai Lama As A Metaphysical Dynasty
-
-- The mantle of the Dalai Lama is passed from one generation to
-  another. The child to become the Dalai Lama must be identified by
-  the Panchan Lama and initiated properly, otherwise he is *not* the
-  Dalai Lama. China kidnapped the child identified to become the
-  Panchan Lama. This means that this could not have been properly
-  initated himself by the current Dalai Lama. If you believe this
-  child is capable of identifying a true Dalai Lama in the next
-  generation, you are a fool and know nothing of Tibetan traditions.
-
-- How is this a unique dynasty? How is it a good selection of
-  leadership for Tibet? To me, this is what is most intriguing about
-  the position of Dalai Lama as the highest role of authority in
-  Tibet.
-  - I am speaking without knowing, but from what I perceive...
-  - The Tibetan dynasty offers continual renewal without the conflict
-    of revolution. It is presumed that the leader will not be
-    concerned with any succession except a succession of the
-    reincarnation of ideas. The meticulous reincarnation of the ideal
-    values system for their leader.
-
-- If the Panchan Lama is not initiated properly, the Lama lineage
-  itself is threatened, but perhaps all is not lost. I don't want to
-  explain precisely why.
-  - this search for the next leader is not the work of one person or
-    simply the people who surround him.
-
-
-- what reincarnated or reborn beings would be useful to identify
-  - for metatypological identification of reborn beings, is it
-    possible to simply recognize metatypes of beings?
-    - can recognized metatype/types of reborn beings be recognized
-      with varying degrees
-
 <a name="a-neo-symbolist-semioteleological-revolution" />
 
 # [A Neo-Symbolist Semioteleological Revolution](#a-neo-symbolist-semioteleological-revolution)
+
+- (TODO: reword this)
 
 The semioteleological roots are drying out. These "roots" refer to the
 stories which power our understanding of the world by implanting
@@ -1853,6 +1813,18 @@ vuvuzelas.
 For America, all of this *informational discord* makes it incredibly
 difficult just to resist the chaos and succumb to internal social
 conflict, not to mention all the other unspeakable consequences.
+
+- the informational discord is necessary for our enemies to disrupt
+  socioepistemic consensus, so that they can systemically (root their
+  own narratives and beliefs.)
+  - this include the roots of an incredibly anti-American narrative
+    that paints America as an evil empire. If this component to our
+    enemies narrative manages to root itself as a major component of
+    consensus in America and abroad right at the onset of the decline
+    of Western monopolar hegemony, then Americans will forever deal
+    with the consequences of that anti-American narrative.
+    - (TODO: reword this and render it as an appropriately connective
+      segue)
 
 The answer is to reinforce old traditions and build a new tradition at
 the same time. To all Americans, we need to harmonize our voices and

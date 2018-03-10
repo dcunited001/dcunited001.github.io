@@ -213,6 +213,26 @@ of resources in the future when it's not necessary.
             fisher price my first "project rehabilitation force" camp.
 
 
+#### (In Defense of Chaotic Good)
+
+- actually transition into a discussion on chaotic good...
+  - always question everything
+- "chaotic good" is generally disruptive
+  - how can something that rejects order lead to goodness
+    - when protection of belief/values systems, virtues, justice and
+      the rule of law requires a strong rule of law in itself?
+  - for order in social systems, etc: when can strong order be known
+    to stand for good? and when can such an order be
+    known/demonstrated to stand simply for itself?
+
+- generally testing the ability, power, intent and beliefs of those in
+  power. how?
+  - by questioning/testing authority.
+  - by compelling people to act when needed.
+  - by directing attention to issues/problems where needed.
+
+
+
 ### Philosophy
 
 - the phobia paradox: an irrational fear of not having any phobias
@@ -230,54 +250,6 @@ of resources in the future when it's not necessary.
   closer to "perfection" the faster it occurs. paradise or true utopia
   is nature with a constant struggle for survival. every battle, won
   or lost, makes you stronger until there is nothing that can stop you
-
-#### Majjhima Nikaya 26:34-42, Ariyapariyesana Sutta, "The Noble Search"
-
-> This monk is said to have
-> [blinded Mara](https://en.wikipedia.org/wiki/Samadhi#Description). Trackless,
-> he has destroyed Mara's vision and has become invisible to the Evil
-> One.
-
-- revisit/expand the section from "speed of thought: 20 postulates" in
-  the context of how technology changes informational dynamics and our
-  perception of causality
-  - if the best way to live in order to preserve fluidity and your
-    potential for change later is to do so without the accumulation of
-    informational baggage,
-    - then how is someone supposed to live/act in our new era in order
-      to attain this state of fluid being?
-    - there are manipulative people who want fodder for (blackmail) as
-      a general means of controlling anyone. with superconnected
-      networks exchanging a deluge of personal information, these
-      types of people now have more potential than ever to collect it
-      systematically
-
-  - "this monk" mentioned above isn't quite "tabula rasa" since a
-    modicum of knowledge/wisdom required to understand is needed to
-    live in this fluid/invisble way.
-    - if you don't attain these insights early on or have someone
-      there to guide you along so that you don't make certain
-      mistakes, theen it's all to easy for even the best of us to
-      accumulate information we carry with us for the rest of our
-      lives
-      - expand on the ways in which the early cultivation of this
-        knowledge can be efficiently/effectively transferred.
-        - multiple generations working together
-        - religious institutions
-
-      - i often wonder what can be done to wash off the sins of the
-        past or the information of the past.
-      - is it the information itself or the dispersion of iota
-        throughout society that binds us down and defines us?
-      - if it's the dispersion of iota -- physically distributed
-        datums of information -- then what can be done when that is
-        misinfo/disinfo?
-        - the effect is the same, whether it is true or false.
-        - the magnitude of effect, whether postive/negative, is
-          determined by the sociophysical distribution of information,
-          the variance in specific responses these iota provoke, the
-          frequency of datum expression
-        - the difficulty in replacing
 
 #### philosophy & logic - additive/subtractive reasoning
 
@@ -440,6 +412,33 @@ aesthetic qualities?
 ===============
 
 # dreams
+
+#### dream where i found a cat just outside my house that i thought was my cat from childhood (named roxanne)
+
+- the dream was fairly lucid in that it felt real, like i was making
+  real decisions with the full capacity of my mind, although i didn't
+  realize it was a dream.
+  - it was a dream i entered after meditating for a while
+- i was walking out of the house to go somewhere and found the cat. it
+  felt familiar, so i brought it into the house. i thought it was
+  Roxanne. my mom was talking to an old friend who was meeting her for
+  brunch or something.
+  - the cat seemed to want attention, but did not want me to see
+    something. the more kept playing with it and petting it, the more
+    obvious it became that something was wrong.
+  - the cat gradually started to morph from my persian cat to one with
+    shaven hair and finally changing color from soft black into a
+    tabby cat. it had a dark green and grey coat with with dark, thin
+    stripes.
+  - suddenly i realized it wasn't my cat, it was a stray. i finally
+    realized what i sensed it was hiding from me. it was missing it's
+    left front leg, but in it's place was the poorly healed untreated
+    remnants of a leg.
+    - i immediately wondered whether it had been hit by a car. and
+      began to realize i couldn't let it go. it hadn't wanted me to
+      sense what was wrong with it because it had the experience of
+      being rejected for it's injuries.
+    - i started crying in the dream and immediately woke up
 
 dream where this dog (a great dane) kept licking my face
 - kind of a silvery coated great dane
