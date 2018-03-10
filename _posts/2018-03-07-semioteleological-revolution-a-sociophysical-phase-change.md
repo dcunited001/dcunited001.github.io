@@ -354,11 +354,119 @@ innovation and inevitably resulting slowly and steadily in economic
 suicide. Such is the fate of those who refuse to acknowledge reality.
 
 Everywhere, there is continual conflict over consensus reality, even
-in open societies with free speech.
+in open societies with free speech. Why? Commanding consensus reality
+as it has congealed amongst the populus allows authorities to
+determine how epistemic belief structures begin to extrapolate with
+subsequent circulations of the sun and stars. Until socioepistemic
+structures have congealed, extrapolations cannot be certain. Struggle
+in sociophysical systems is a probabilistic pursuit; any events and
+event types or knowledge and knowedge types which can be rendered as
+close to certainty as possible are critical. As a member of an
+authority in society, congealing socioepistemic structures across vast
+groups of people allows you to ascertain that you are certain of the
+structure of thought amongst segments of the population. We see the
+need to know in the market demand for focus groups and
+surveys. Leaders need to know what kinds of thought is representative
+in their populus or followers.  Focus groups and surveys are one means
+of socioepistemic information acquisition.
+
+How does conflict and competition over socioepistemic consensus play
+out in open societies? Political debate is mild conflict over
+consensus reality: through the exposition of discourse amongst one or
+more political authorties, the audience of such debate can hope to
+approach some consensus on policy, its motivations and their
+confidence in policy. For example, what is the true cause of sky-high
+health care costs in the United States? Manage to court Republicans
+and Democrats into a straightforward debate on this issue and you'll
+see a perfect example of conflict in the pursuit of epistemic
+consensus. Liberals and conservatives need their followers to reach
+some consensus on what they believe, so that they can lead their
+followers to push for change.
+
+Aristotle's work *Politics* describes effective methods in the
+struggle towards true progress on issues in a democracy, though the
+tactics and strategies which he describes also work in other
+societies. *Politics* is not about what you know, what you believe,
+your objectives, precisely.  Instead *Politics* concerns separating
+yourself -- your words and your actions -- from your goals, so that
+you are most effectively capable of attaining your goals. You must
+identify the path(s) most likely to result in true change in
+society. Doing so involves not just coordinating your self, per se,
+but the actions of your group and supporters, so that you are most
+likely to bring about the changes you want to see. However, I believe
+that such a path for you and your followers is most likely to succeed
+in meaningful ways when you do not separate your self from your
+methods -- i.e. you do not separate your tactics, your actions, your
+words from the goals your movement seeks to attain. In other words,
+*Politics* offers great approaches for informing the dissonance in
+appearance and reality between that of your goals and of your actions,
+**but when you actualize the embodiment of the change you seek in the
+world, you are most likely to attain it.**
+
+> *Be* the change that you seek in the world." -- Mahatma Ghandi
+
+Far more critical than winning a debate is the need the convince
+people who are not your followers that some key presumptions of their
+policy or pragma are incorrect. This ability to convince
+non-supporters that the ideas they disagree with are correct or what
+you propose least worthy of prompting reevaluation of what they know
+-- if this is strong, your words can provoke true change in politics,
+in democracy and in any forum. How do you do this? With empathy. You
+must be capable of empathizing and internalizing all ways of belief in
+an issue. Your adversaries that are wrong -- how do you know why they
+are wrong if you do not know what they know? And if you do not know
+this, how can you position your statements to reach them *where they
+are* to bring them to your side?  As for discourse surrounding
+specific subjects or questions, if it is forbidden, impractical or
+destabalizing to the debate, is it any surprise that we see only
+limited progress? Then, once you realize that the very ways in which
+these issues are presented are in themselves architected to stall any
+progress, you will likely become extremely cynical and furious, as I
+have become. The ways in which people are encouraged to approach the
+discourse of specific issues: are controlled and designed to either
+stall out progress or prevent progress against the grain, so to speak.
 
 
-- why? How does this play out differently in open societies?
-  - political debate is often a debate over consensus reality
+
+In Nassim Taleb's book Antifragile -- a work whose ideas have
+transformed my understanding of philosophy and life via creatively
+applied statistics -- he posits that technology introduces many
+apparent changes as meaningful which are merely superficial changes in
+the decor or facade.[^nassim-tebar-true-technological-change]
+
+> "Tonight I will be meeting friends in a restaurant (tavernas have
+> existed for at least 25 centuries). I will be walking there wearing
+> shoes hardly different from those worn 5,300 years ago by the
+> mummified man discovered in a glacier in the Austrian Alps. At the
+> restaurant, I will be using silverware, a Mesopotamian technology,
+> which qualifies as a “killer application” given what it allows me to
+> do to the leg of lamb, such as tear it apart while sparing my
+> fingers from burns. I will be drinking wine, a liquid that has been
+> in use for at least six millennia." -- Nassim Taleb, Antifragle
+
+Similarly, what seems at first to be some vast socioepistemic change
+to consensus reality for some issue is instead superficial "change to
+the wallpaper." Instead, interests vested in that issue ultimately
+render consequential such changes by present the system's superficial
+compromise as a significant change, intending to gradually dilute and
+refashion the system into its former image. In doing so, those powers
+that be have dispelled the accumulated sociophysical energy which
+drove for real change. This potential is diverted like the floodwaters
+into a dam's calculated spillway, designed preciessly to handle such
+spillover. Thereafter, forces driving for change becomes placated
+enough to rest on their laurels, pleased with the new decor.
+
+When your tactics are informed to handle such diversionary tactics and
+instead threaten to make real changes, you will need excellent
+camoflage to mask your intent. Instead play on your adversaries
+cynicism while remaining aware of *their magninimous capacity to cause
+the world's systems to appear to have changed*, while gradually
+stifling all true change. Beware this: such superficial changes --
+political, socioepistemic or otherwise -- these changes are expensive
+all the same. True change cannot be attained without struggle: those
+who hold the keys will entice you with bait-and-switch every time
+while demonizing the groups who venture dangerously close to true
+change.
 
 
 - An example of a (logical/virtual) socioepistemic schism: personal
@@ -1792,6 +1900,12 @@ one question.
 
 # [GOTO: 7H43ND0](#goto-tha-end)
 
+
+[^nassim-tebar-true-technological-change]: From the Salon article
+    [Nassim Nicholas Taleb: The future will not be
+    cool](https://www.salon.com/2012/12/01/nassim_nicholas_taleb_the_future_will_not_be_cool/),
+    which presents an excerpt from [Antifragile: Things That Gain From
+    Disorder](https://www.amazon.com/dp/1400067820/?tag=saloncom08-20)
 
 
 [^didnt-get-the-joke]: You have to take Hegel's insights and
