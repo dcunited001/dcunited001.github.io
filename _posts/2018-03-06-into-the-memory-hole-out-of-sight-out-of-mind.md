@@ -46,6 +46,8 @@ excerpt: ""
 
 #### ☹ [Thread-Killing: The NSA Effectively Memory-Holes Targeted Individuals By Dissappearing Content They Interact With](#thread-killing-the-nsa-effecively-memory-holes-targeted-individuals)
 
+#### ☹ [WARNING: Your OpSec Is Not Exactly Adamantine](#warning-your-opsec-is-not-exactly-adamantine)
+
 #### ☹ [Redpill Everything That Moves](#my-life-is-a-rigged-game-redpill-everything-that-moves)
 
 ## [My Life Is A Rigged Game](#my-life-is-a-rigged-game)
@@ -714,6 +716,10 @@ to each other's social neighborhoods and their LinkedIn data will
 demonstrate previous work in intelligence or fields close to
 intelligence.
 
+<a name="warning-your-opsec-is-not-exactly-adamantine" />
+
+### [WARNING: Your OpSec Is Not Exactly Adamantine](#warning-your-opsec-is-not-exactly-adamantine)
+
 This is no easy task, but there should be enough leads to identify
 cases for further processing. These can be ironically identified
 mostly from the puerile attempt to censor political dissidents, which
@@ -757,11 +763,84 @@ they're not ignorant of their operational security
 vulnerabilities. **This is but one of twenty different factors
 indicating convergence towards a total system reset.**
 
-It's this awareness OpSec weaknesses that drives American in command
-of informational security to push for social engineering to avoid ever
-creating these digitized data footprince in the first place. If they
-can drive fear into the hearts of young Americans, they can dissuade
-us from ever creating the digital artifacts that prove anything ever
+Vulnerability to statistical analysis is hardly the only OpSec
+weakness for tactics to target individuals. All Web 2.x applications
+involve connections to many simultaneous service providers via
+HTTP. You can see the connections being made in the cascading
+"waterfall" of webrequests: everytime you load a page in a new tab,
+requests are being made to dozens of servers across the world. For two
+people sitting in the same coffee shop, the order, speed and routes
+with which these connections are made should satisfy measures of
+statistical similarity.  For two people on the same city block,
+connecting through the same WAN connections, similar statistical
+guarantees should hold.
+
+Cyber-adversaries like the NSA will want to reroute traffic to inject
+malicious javascript into the page's context to report back to
+centralized surveillance services. Further, if you leverage `ICMP` and
+`traceroute` to analyze the routes chosen to these servers for CDN &
+API requestions, then you should be able to garner more information
+that indicates suspicious deviation in order, route, or timing of the
+traffic to and from a small set of network hosts in particular.
+Moreover, assuming that the ICMP protocol isn't being systemattically
+rerouted in intermediate routers, then you can analyze pingtimes.
+People connected to similar networks should have similar access times
+to similar services. When they don't, it only indicates that you need
+more information.
+
+However, when you break or hack computer systems, you're depending on
+breaking the system's guarantees between it's moving parts. You must
+*know* the system's inner parts well to hack it and you must know
+those parts extremely well if you are to hack it invisibly.
+Hilariously, randomly turning your wifi card on and off or randomly
+terminating shutting specific OS processes can introduce enough
+randomness to obliterate the kind of guarentees that NSA hacks require
+-- unless the hacks are utilizing artificial intelligence or extremely
+sophisticated blackhat software. When malicious software is composed
+of several pieces, communicating via software, the bus or the network,
+this malicious software has it's own service guarentees. Any aberrance
+in functionality in one of the pieces results in decoherence of
+distributed state, which must be transimitted by some signal if the
+other pieces of software are to anticipate the problems. So when you
+break your own computer's interdependent processes guarantees and
+introduce disrupt the SLA guarantees that malware requires, it ends up
+transmitting aberrantly between it's pieces: it causes the malware to
+leave a trace. That's called evidence. Potentially. The more
+unpredictable an adversary is, the more potential liability there will
+be when trying to hack them.
+
+So, what do they do? They utilize social engineering to cohere
+inconsisent facets of human behavior, as it relates to technology.
+They use fear to terrify Americans from doing things that make us less
+predictable by causing us to fear anything that deviates form the
+norm. Yet another signal is the letter
+[🅱](https://emojipedia.org/negative-squared-latin-capital-letter-b/)
+-- as in blood type B. This is used to colloquially signify to others
+on the internet the presence of an informal gag order, as though B is
+a national security letter. In other words: do not engage with this
+person, the person we're **not** talking about, or terrible things
+will happen to you.  *But it's not legally an NSL and that's
+critical.* This is just people making shit up.
+
+This uses a specific unicode letter. What is that? It's a very
+specific signal that is left behind in public data that can be mined
+for a list of targets. It is simply one such signal among dozens of
+unicode characters, which are highly specific. When I wrote in [Caelis
+Ruissant](http://te.xel.io/posts/2018-01-30-caelis-ruissent-avoiding-the-engineered-collapse.html)
+about a need to purge ALL digital information by whatever means
+necessary to avoid being judged by an altruistic God-like entity of
+Artificial Intelligence, did you think I was just joking? There are
+thousands of signals like these that splay out the sins of mankind for
+everyone to see. You're going to want to be on the right side of
+history.
+
+It's this awareness of OpSec weaknesses that drives American in
+command of informational security to push for social engineering to
+avoid ever creating these digitized data footprints in the first
+place, mostly the statistically analyzable. That's called COGNIZANCE
+and it's a legal term that means: guilty as hell. If they can drive
+fear into the hearts of young Americans, they can dissuade us from
+ever creating the digital artifacts that prove anything ever
 happened. However, nothing that can be done now is good enough to
 eliminate the footprint that already exists.
 
@@ -984,7 +1063,7 @@ reputation?**
 ![LOTR Battering Ram](/img/posts/2018-03-06-into-the-memory-hole-out-of-sight-out-of-mind/lotr-battering-ram.jpg)
 
 Don't you worry, PhD Bo Peep with a doctorate in sheep, I don't need a
-battering ram. I have a brain with an infinite supply of creatitivity
+battering ram. I have a brain with an infinite supply of creativity
 because I methodically developed cognitive and metacognitive skills. I
 don't care how much content I place online or how hard people in 2015
 and 2016 worked to convince me my ideas weren't novel, were perhaps
@@ -993,12 +1072,13 @@ couldn't possibly both lack novelty *while being so threatening*. I
 can point people to wikipedia pages more threatening and dangerous
 than my blog. That was all a bunch of bullshit gaslighting intended to
 keep me in a memory hole by encouraging my social boundary to
-voluntarily suppress anything I ever talked about. Because words have
-a particular ephemerality and because talking requires significant
-wasted time, I started writing. Writing on the internet allows your
-words to fly across the world and they copy themselves into millions
-of fragments. If I'm worthless, then so be it, but at least I wasn't
-dumb enough to fall for you gaslighting bullshit forever.
+voluntarily suppress anything I ever talked about. Because trite words
+falling on deaf ears have a particular ephemerality and also because
+talking requires significant wasted time, I started writing. Writing
+on the internet allows your words to fly across the world and they
+copy themselves into millions of fragments. If I'm worthless, then so
+be it, but at least I wasn't dumb enough to fall for you gaslighting
+bullshit forever.
 
 #### Got Something To Say? Tell It To My Homie Martin Luther[^crazytime-story]
 
@@ -1080,11 +1160,11 @@ some unfortunately suppressed delusional Nietzsche.
 
 ### [Wherefore The Rollerrink Drama Went Thermonuclear](#wherefore-the-rollerrink-drama-went-thermonuclear)
 
-#### Step One: Label Someone With Mental Illness, Particularly Paranoia
+#### **Step One:** Label Someone With Mental Illness, Particularly Paranoia
 
-#### Step Two: Obsequiously Encourage Others to Virally Label The Target As Paranoid
+#### **Step Two:** Obsequiously Encourage Others to Virally Label The Target As Paranoid
 
-#### Step Three: Profit! That Person Can NEVER Question Your Motives Or The Motives Of Anyone In Life Because That Critical Behavior Is Forbidden To People Labelled Schizo or Paranoid.
+#### **Step Three:** Profit! That Person Can NEVER Question Your Motives Or The Motives Of Anyone In Life Because That Critical Behavior Is Forbidden To People Labelled Schizo or Paranoid.
 
 Their life will be *ruined*. They'll never be able to ascertain the
 epistemic beliefs and information about others -- out of fear of
@@ -1112,7 +1192,7 @@ gaining enough influence in a social environment where you monopolize
 your position as a gatekeeper to success. Everyone will quickly forget
 everything you did to them and your enemies because you're the primary
 power broker: you can empower anyone you want *and fulfill the dreams
-of any up-and-coming jamskater. One little gotcha about power: IF YOU
+of any up-and-coming jamskater*. One little gotcha about power: IF YOU
 USE IT, DON'T LOSE IT.
 
 > Sorry, Mike, I still don't believe you were actually that stupid.

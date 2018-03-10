@@ -10,10 +10,6 @@ excerpt: ""
 
 - see section on additive/subtractive reasoning from `ideas.md`
 
-- TODO: fully distinguish socio-epistemic from socio-epistemological,
-  so the language is clear henceforth.
-  - (move this distinction to the other article)
-
 - seize the power of ideas, thought and knowledge, to return
   (providence to the people)
 
@@ -26,24 +22,14 @@ excerpt: ""
 
 ![DG Sever Rime](/img/posts/2018-01-22-semioteleological-revolution/dg-sever-rime.jpg)
 
-#### Dali - Liquid Desire (to explain a gestault hard-switch in psycholinguiistic programming)
-
-> If desire were a substance, could you produce it? Could you farm it?
-> Could you reap it and sheaf it? Can you bundle it up and sell it?
-
-![Dali's Liquid Desire](/img/posts/2018-01-22-semioteleological-revolution/dali-liquid-desire.jpg)
-
-#### Dali - Leda Atomica (1949)
-
-![Dali - Leda Atomica](/img/posts/2018-01-22-semioteleological-revolution/dali-leda-atomica.jpg)
-
 #### Graydon Parrish - Suggested Donation
 
 ![Graydon Parrish - Suggested Donation](/img/posts/2018-01-22-semioteleological-revolution/graydon-parrish-suggestion-donation.jpg)
 
-driving sociopolitical churn with a dichotomous sword to harness
-siphoned energy of each fearful swing, raping america like
-black-bagged prisoners trapped in Poe's the Pit and the Pendulum.
+Driving sociopolitical churn with a dichotomous sword to harness
+siphoned energy of each fearful swing, systematically mind-raping
+Americans like black-bagged prisoners trapped in Poe's the Pit and the
+Pendulum.
 
 
 
@@ -54,8 +40,8 @@ black-bagged prisoners trapped in Poe's the Pit and the Pendulum.
 - competitive symbology
   - through the ages and in modern infowars.
 
-> In a world awash with a deluge of information, it is who tells the
-> most radiant truth who directs the masses, if they can just be
+> In a world awash with a deluge of (dis)information, it is who tells
+> the most radiant truth who directs the masses, if they can just be
 > heard.
 
 ## [Illuminati: The Anti-Santa](#illuminati-the-anti-santa)
@@ -69,7 +55,6 @@ black-bagged prisoners trapped in Poe's the Pit and the Pendulum.
 #### [You Must Choose Between Material Or Idealistic: Go!](#you-must-choose-between-material-or-idealistic)
 
 ## [What Is Socioepistemological Churn](#what-is-socioepistemological-churn)
-
 
 #### (socioepistemological churn)
 
@@ -280,24 +265,62 @@ their lies and minimal potential for liability.
 
 # [What Is Socioepistemic Churn](#what-is-socioepistemological-churn)
 
-Socioepistemological flux and churn covers regional and
-sociohierarcical changes in how people understand the world through
-belief systems and epistemological structures. Both the macrocosmic
-and microcosmic aspects of socioepistemological flux and churn are
-relevant to to constructing a systemic understanding of how people's
-accepted reality changes in response to what they experience in life.
+Socioepistemic flux and churn covers regional and sociohierarcical
+changes in how people understand the world through belief systems and
+epistemological structures. Socioepistemology studies the social
+aspects of epistemic flux and churn, as it occurs in geographic
+networks and logical networks.
 
-  - (1) churn of social consequences mainly resulting from how
-    epistemological structures are rooted in either the idealistic or
-    ideal conceptions of the metaphsyical
+Democratic societies, those with a high degree of geosocial
+interconnection, and those who promote freedom of speech always have
+more socioepistemic flux and churn. The constant influx and outflow of
+ideas accelerates the precipitation of the development of new
+ideas. As long as this churn promotes innovation and economic
+development, it leads to prosperity and the profound degree of
+connection is certainly a strength. When the democratic societies lose
+their way by becoming demoralized and separated from the source of
+their prosperity, the stakeholders and powerbrokers become susceptible
+to foreign influence. If this happens while external powers enchant
+the internal powers, rendering them blind to the need to protect their
+own internal sources of vitality, then the external powers can subvert
+the nation, causing them to squander every advantage they have. The
+victims of this general strategy of subversion will love every moment
+of pissing away all the advantages they have. Why? Demoralized and
+disillusioned, they no longer recognize the true sources of their
+strength. One generation later, the nation succumbs to internal
+struggles.
+
+Both the macrocosmic and microcosmic aspects of socioepistemic flux
+and churn inform the construction of a systemic understanding of how a
+person's accepted reality changes in response to what they've
+experienced in life, typologically.
+
+#### (1) The churn of social consequences mainly resulting from how epistemic structures are rooted in either the idealistic or ideal conceptions of the metaphsyical.
+
+- describe the major consequences between these two epistemic premises
+  of knowledge
+  - all knowledge is primarily aeternal or all knowledge is primarily
+    worldly
+    - this is an oversimplification that does not account for people
+      who never think about this. once you settle on either, your
+      decision allows you to vastly simplify epistemic extrapolation.
+    - there is another edge case, which is that only *some* subset of
+      knowledge is aeternal. From this kernel of knowledge, everything
+      else can be extrapolated. Even logically irrational structures
+      can be virtualized within it.
+  - assuming that
+
+#### (2)
+
   - (2) and in how whether the knowledge structures are primarily
     constructed from additive logic ("pure rationalism"), subtractive
     logic ("i only know for sure the set of things that is
-    impossible") or a combination of both
+    impossible"), a combination of both, or convolution of epistemic
+    structures.
     - how to methodologically combine both additive/subtractive
-      epistemological structures to congeal information using
-      statistical methods (analysis of information graphs and
-      information networks)
+      epistemological structures, along with epistemic convolution, to
+      congeal information using statistical methods (i.e. analysis of
+      information graphs and information networks)
       - this process allows you to cyclically reiterate the
         information/knowledge graph where you use
         additive/subtractive/consensus methods, augmented by
@@ -306,7 +329,7 @@ accepted reality changes in response to what they experience in life.
       - using this idea as the basis of an algorithm that optimally(?)
         expands the information/knowledge graph by directing the
         computation energy & time or by directing the acquisition of
-        knowledge
+        knowledge.
 
 <a name="dominating-consensus-reality-in-a-world-where-the-only-constant-is-change" />
 
@@ -316,6 +339,7 @@ accepted reality changes in response to what they experience in life.
   distinct consensus realities: the iron curtain. An example of a
   (logical/virtual) socioepistemic schism: personal computing and
   office software in the 1990's.
+  - political debate is often a debate over consensus reality
 
 - consensus reality (as a long-term information as part of a
   context/frame)
@@ -428,10 +452,11 @@ accepted reality changes in response to what they experience in life.
   belief/knowledge/information system
   - religion is a social belief system, but it is acquired gradually
 
-
 - what is the knowledge of good and evil?
   - one personal interpretation of this
   - the knowledge of the knowledge of good and evil
+    - understanding this is fairly advanced knowledge of power
+    - how do people know what's good? how do people know what's evil?
 
 - is it right do to right? is it wrong to do wrong?
   - is it wrong to stand for what is right?
@@ -496,6 +521,8 @@ accepted reality changes in response to what they experience in life.
 
 # [Who Are The Illuminati And Why Are They Such Assholes Anyways?](#who-are-the-illuminati-and-why-are-they-such-assholes-anyways)
 
+(TODO: segue)
+
 So ... No, the Illuminati is not one group and that's worse! because
 you can't so easily destroy them without either becoming them or
 having another group swoop in to fill in the power vacuum. if you
@@ -554,7 +581,6 @@ through their cracks, all the while blinding everyone around him. They
 hate him, but they need him because he can see what they cannot -- yet
 a person like this can never be given power in their understanding of
 the world.
-
 
 <a name="black-sabbath-not-your-average-rock-band" />
 
@@ -1004,10 +1030,26 @@ recombinated through the ages.
   - kind of like nietzsche's philosophy, applied to imbuing the
     (tabala-rasa like raw materials) towards creating the perfect
     psychologies for filling roles in social hierarchies
-    - ideal psychosocial dynamics.
+    - ideal psychosocial dynamics for generally pushing people towards
+      a nietzschean thirst for power over their circumstances and
+      power over their own struggle
       - the ideal psychology for society is never a uniform psychology
-    - filling roles in social hierarchies (a la "the presidential
-      model")
+    - filling roles in social hierarchies
+      - (a la "the presidential model")
+
+
+- Is your mind strong? Can the spirit within you be quelled that
+  drives you to fight in times of war and build in times of peace? Is
+  it easier to placate people in times of peace, social conflict or
+  war? In times of peace and prosperity or conflict and war, what
+  tools and weapons do people make available to themselves? Necessity
+  is the mother of invention, but when prosperity takes away our need
+  to overcome struggle, doesn't that sow the seeds of
+  intergenerational decay?
+  - perhaps move this paragraph to a later section on imbuing the
+    ideal Nietzschean psychological metatypes for the constant
+    struggle forward, despite the apparent need to overcome struggle
+
 
 - This came as a response to watching the second episode of Dies Irae,
   but I thought the idea was terrible, so I guess I threw away the
@@ -1058,6 +1100,96 @@ recombinated through the ages.
     - fear and love as tools for provoking innate (ability) to
       transcend limitation/restraint/obstacles.
 
+### Lack of Tort Reform Typologically Constrains Life Experience of Americans
+
+- it turns our education system into something that shelters us and
+  protects us from all the things we need to experinece in small
+  amounts in youth -- because we might get hurt.
+  - we need to experience these struggles in the right way and early
+    on, so that we learn to stand up to them
+  - they must be experienced in the right way, otherwise they can be
+    damaging.
+
+- what is the primary cause of this problem? economic incentives for
+  the kind of lawyers that chase ambulances and suck the blood out of
+  parents they've terrified into protecting their children.  They also
+  suck the blood right out of the (sued) social institutions that must
+  then adapt to that one individual's legal circumstances, which were
+  inflated wildly out of proportion primarily by
+  - unfortunately this is an attractive vehicle for social change,
+    compelled by lawsuit. once precendent is set and other similar
+    social institutions see the sky-high legal costs, they immediately
+    adapt. this provokes logically-oriented social change, across most
+    of the rest of the gameboard.
+  - by presenting itself as an attractive, effective means of
+    provoking system-wide social change, it's also an appealing
+    vehicle for subversion. the results of these sky-high legal
+    settlements appeal to the financial interests of corporate
+    fatcats, while occasionally making all Americans weaker as a
+    result.
+    - some of those exorbitant settlement penalties are necessary for
+      justice. more often than not, the price tag on that is some
+      lawyers trying to milk the situation they identified as being
+      one that produces such a sky-high penalty: and they get 20% of
+      however high they can push that number. take into account the
+      uncertainty of collecting on debt owed as a settlement by a
+      business now forced to close their doors permanently and a
+      blood-sucking lawyer will put financial interests over the
+      pursuit of justice every single time. it's their job.
+
+  - money is the root of all evil. you'll find that most everything in
+    society is a facade layered on top of underlying structures of
+    economic incentivization. when you make dramatic changes to those
+    structures, what in amazement as everything else magically
+    congeals itself around the new structures of incentivization. if
+    you can just compel money to move in well-justified ways or along
+    channels that push financial energy out to a middle class, you'll
+    be surprised at how quickly some of these changes occur.
+    - however, the rich and powerful know this, so when you approach
+      those underlying structures, you'll probably be attacked and
+      anything you put in that idea box will be sent directly to the
+      incinerator.
+
+- neglecting the need for tort reform is destroying this country.
+  there are so many options which are implicitly inviolated by fears &
+  anxieties over potential legal liability.
+  - in addition to providing much needed justice at times, abusing the
+    civil law system is a means for weak people to abuse legal methods
+    to sieze the wealth of rich people. the legal system facilitates
+    class warfare, while making all americans weaker as a result.
+  - we can't have anything in society that risks harming anyone
+    because someone will get sued over it. this is why we can't have
+    nice things; nice, exciting things that teach us valuable lessons
+    in life.
+    - but the result is that, collectively, our individual life
+      experiences become typologically constrained, so we do not adapt
+      to these experiences. Then, when we encounter them later in life
+      without adequate preparation, we're completely caught offguard
+      and naively approach the situation as novices. sheltering
+      everyone in this way ends up buttering people up to be abused
+      later in life, to be vulnerable, to be unable to reap the
+      benefits of engaging in activities with mild degrees of risk.
+
+#### K-OS The Love Song
+
+- also, for some means of educating Americans, the potential is
+  completely inviolated because of legal complexities
+  - e.g. martial arts can't be taught in schools. martial arts is a
+    great example because of (its neuological impacts on the mind)
+  - activities like these, and driving the right kinds of competition
+    promote healthy psychological development.
+    - from a neurological perspective, some games, skills and hobbies
+      facilitate the development of the mind, but this is most
+      effective in youth.
+    - link to epistemology-cat-theory-part-3
+  - when we engage in these activities and master them in youth, we
+    develop our minds to be prepared for STEM work.
+    - this
+- considering that
+
+
+###
+
 - people who excel or are strongest when living within a world that is
   a lie, and a lie that is ostensibly constructed specifically or
   generally for their own detriment.
@@ -1071,7 +1203,11 @@ recombinated through the ages.
       - this being arrogantly assumes itself to be God because it can
         conceive of nothing higher and nothing greater.
   - the perfect way to deal with such nonsense, whether systems of
-    knowledge constructed
+    knowledge constructed (...)
+
+#### Dali - Leda Atomica (1949)
+
+![Dali - Leda Atomica](/img/posts/2018-01-22-semioteleological-revolution/dali-leda-atomica.jpg)
 
   - if you dupe your enemy into creating a reality that is false and
     you hold the keys to demonstrate that their strongly constructed
@@ -1112,6 +1248,7 @@ recombinated through the ages.
         powerful people if you don't or can't help them keep all their
         shit under that rug.
       - IMO, that's bullshit.
+
   - TLDR: if you write anything that threatens these shadowy "powers
     that be" in any significant way, they will consider any success or
     attention as a potential threat and will never allow you to
@@ -1182,12 +1319,27 @@ recombinated through the ages.
           not mean that you seek to undermine them or play them
           against each other.
 
+<a name="the-gestault-hard-switch-in-psycholinguistic-programming" />
+
+### [The Gestault Hard-Switch In Psycholinguistic Programming](#the-gestault-hard-switch-in-psycholinguistic-programming)
 
 - Information warfare is competitive symbology where the victors
   understand the evolutionary dynamics & actually had the social &
   financial resources to play.
   - (this might need to segue into the next section)
   - but to play the game you have to be able to measure/predict
+
+#### Dali - Liquid Desire
+
+> If desire were a substance, could you produce it? Could you farm it?
+> Could you reap it and sheaf it? Can you bundle it up and sell it?
+
+![Dali's Liquid Desire](/img/posts/2018-01-22-semioteleological-revolution/dali-liquid-desire.jpg)
+
+- TODO: explain a gestault hard-switch in psycholinguiistic
+  programming.
+  - make a "ludicrous speed" joke.
+
 
 Überpowerful people generally cannot stand someone who encourages
 people to think in unpredictable ways. This vastly expands the
@@ -1204,6 +1356,9 @@ they desparately need to react strategically to unprecented GENIUS.
 This is why every living successful artist is probably a fraud and
 every wildly successful artist has been dead for a generation before
 anyone ever "discovered" him.
+
+When do they need someone who pushes the envelope and expands the
+sociophysical gamespace? When they're losing and don't know it.
 
 <a name="ashes-to-ashes-funk-to-funky-we-all-know-major-toms-a-junkie" />
 
@@ -1281,16 +1436,18 @@ reproduce.
 
 ### [Semioteleological: What Does That Word Even Mean?](#semioteleological-what-does-that-word-even-mean)
 
-- semio+
-
-- what is teleology? how does it combine with semiotics?
-
 I invented it. I checked. I have screenshots from Google proving that
 no other person EVER thought to use that word because no one has
 thought of metatypological aspects of sociology so
 methodologically. So when you miraculously invent evidence
 demonstrating the idea already existed -- I already got you beat this
 time.
+
+- TODO: link to a picture of the screenshot
+
+- semio+
+
+- what is teleology? how does it combine with semiotics?
 
 - TODO: ... but literally, what does it mean?
 
@@ -1311,7 +1468,7 @@ sooo wrong. We have never needed it more.
 - TODO: focus more on semioteleology as a concept and less on content
   extrapolated from tweets
 
-#### Steel that word Semioteleology assholes. I dare you.
+#### Hey Assholes, steel that word Semioteleology. I dare you.
 
 ![Teal Girl](/img/posts/2018-01-22-semioteleological-revolution/)
 
@@ -1357,8 +1514,6 @@ society).
         possibilities and stability unknown before the 18th century,
         this obsession with the materialistic and quantifiable has
         blinded us with a deluge of detail (remove?)
-
-
 
 - three families close to the japanese emperor for hundreds of years
   - how this served the best interests of the japanese culture
