@@ -335,11 +335,34 @@ experienced in life, typologically.
 
 ### [Dominating Consensus Reality In A World Where The Only Constant Is Change](#dominating-consensus-reality-in-a-world-where-the-only-constant-is-change)
 
-- example of geographical socioepistemic schism, producing two
-  distinct consensus realities: the iron curtain. An example of a
-  (logical/virtual) socioepistemic schism: personal computing and
-  office software in the 1990's.
+In the 1950's, the iron curtain cast its shadow across Europe, forming
+the basis of geographical socioepistemic schism. East and west of the
+curtain, there were born two separate worlds: one defending the ideals
+of rationalism and free exchange of ideas; the other experimenting
+with communism, destroying all ideas outside that thought which was
+approved by the Party. All epistemic structures that did not
+contribute to the growth, sustainance or sword of the Communist Party
+in Eastern Europe were ruthlessly irradiated by the application of
+sociophysical energy intended to coerce all vessels of thought to
+cohere with the Party's ideals. To prevent the introduction of outside
+thought, which would prove as competition too vicious for these frail
+epistemic structures, a near-total sociophysical barricade cast of the
+steel of an Iron Curtain that physically prevented the contamination
+of ideal communist society with exterior ideas. This locked human
+thought into the ineffible manacles of totalitarianism, suffocating
+innovation and inevitably resulting slowly and steadily in economic
+suicide. Such is the fate of those who refuse to acknowledge reality.
+
+Everywhere, there is continual conflict over consensus reality, even
+in open societies with free speech.
+
+
+- why? How does this play out differently in open societies?
   - political debate is often a debate over consensus reality
+
+
+- An example of a (logical/virtual) socioepistemic schism: personal
+  computing and office software in the 1990's.
 
 - consensus reality (as a long-term information as part of a
   context/frame)
