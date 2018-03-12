@@ -1359,7 +1359,46 @@ recombinated through the ages.
       - external systems can use those people by artificially
         empowering them, making them feel like they've been victimized
         by the evolutionary mechanisms society
+  - people everywhere are generally equally strong and smart as
+    everyone else. why do differences emerge in how nations cooperate
+    and in how cultures seem to differ? these differences primarily
+    emerge in how people chose to accumulate, store, divert and exert
+    their sociophysical potential energe.
+    - At scale, the belief systems of individuals cause major
+      differences to emerge in how people choose to cooperate and
+      compete. in other words, the belief systems distributed through
+      the minds of men act as metaphysical channels for the diversion,
+      influence and confluence of will transformed into action. one
+      accrues sociophysical potential energy by working throughout
+      life; one transmutes this potential energy into kinetic
+      sociophysical through will, while choosing to direct it where
+      thou wilt by thy mind.
+      - seen from the materialist's limited conception of the
+        metaphysical, their understanding of how one can
+        systematically channel the will of groups of individuals
+        socially is limited. why? because all individuals are unique
+        to them and incomparable, therefore all sociophysical
+        extrapolations are intractably divergent. As long as you
+        socially forbid certain philosophical methods of thought --
+        those dependent on the idealistic, Hegelian notions of the
+        metaphysical -- then your inferior materialistic conceptions
+        of the metaphysical appear to ring true. This is fine: the
+        power of the idealistic metaphysical does not depend on
+        whether people believe it is true, whereas the power of the
+        materilistic conceptions of metaphysics does.
 
+    - We all have fundamentally the same hardware, genetically. Though
+      there are *some* epigenetic differences, it is best to believe
+      we are all the same, in spite of any differences, which are
+      almost completely superficial. These differences can be
+      superseded and obliterated by the life experience: believing in
+      some preexisting or predominant limitations of race is truly
+      ignorant and denies the credit due to the individuals'
+      experiences in shaping their lives, minds and strengths. we are
+      the sum of our thought, the sum of our experience and the sum
+      our will to shatter what holds us back in life. we should all
+      seek to empower each other, to relieve one another of the
+      burdens which hold us back.
 
 - people who excel or are strongest when living within a world that is
   a lie, and a lie that is ostensibly constructed specifically or
@@ -1651,8 +1690,8 @@ towers, but some of them need to be brought down. I don't know who is
 responsible for this, but if *you* don't pay for *this*, how can we
 expect *anyone* to pay for their crimes in the future?
 
-> "If you see fraud and you don't shout fraud, then you ARE a fraud" -
-> Nassim Taleb @nntaleb
+> "If you see fraud and you don't shout fraud, then you *ARE* a
+> fraud." - Nassim Taleb @nntaleb
 
 The problem here is that every group who promises revolution ends up
 being the same as those they quelled. Usually, at best, it's par for

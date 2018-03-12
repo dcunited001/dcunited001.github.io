@@ -353,6 +353,13 @@ messanger. On the surface, this censorship can seem useful, but often
 renders you blind instead -- blind to your biggest threats: those you
 couldn't understand yourself.
 
+#### What's The Best Way To Describe This? Oh Yeh, The Dementor's *Soul*-Sucking Death Kiss
+
+> Their kiss of death sucks your soul out and renders moot anything
+> capable of enabling positive experience in your life.
+
+![Harry Potter Dementor's Death Kiss](/img/posts/2018-03-06-into-the-memory-hole-out-of-sight-out-of-mind/harry-potter-dementor.gif)
+
 <a name="spectral-components-of-values-reinforcement-signals" />
 
 ### [Spectral Components of Values-Reinforcement Signals](#spectral-components-of-values-reinforcement-signals)

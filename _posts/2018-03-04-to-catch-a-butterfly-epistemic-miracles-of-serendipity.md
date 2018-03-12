@@ -888,7 +888,7 @@ informational thumbscrews of their known sinful past.
 > Wow. I didn't realize that literature and myth was full of
 > guidebooks for this kind of stuff. Still think this is funny?
 
-![The Pit and the Pendulum](/img/posts/2018-01-22-semioteleological-revolution/pit-and-the-pendulum.jpg)
+![The Pit and the Pendulum](/img/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity/pit-and-the-pendulum.jpg)
 
 Today, this is more critical than ever as all information rapidly
 converges towards omnipresence. Social media distributes information
