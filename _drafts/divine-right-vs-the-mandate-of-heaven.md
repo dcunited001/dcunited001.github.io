@@ -55,6 +55,13 @@
 
 #### The Dalai Lama As A Metaphysical Dynasty
 
+- The sociophysical protocol that defines the search for the next
+  Panchan Lama and the Panchan Lama's search for the next Dalai Lama
+  - why is this the way it is? why does this leadership selection
+    protocol decouple the Dalai Lama from a need to be concerned with
+    succession? how does the Dalai Lama's detachment from the
+    succession's exigencies of pragma benefit
+
 - The mantle of the Dalai Lama is passed from one generation to
   another. The child to become the Dalai Lama must be identified by
   the Panchan Lama and initiated properly, otherwise he is *not* the

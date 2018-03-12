@@ -159,6 +159,32 @@ brain's structure already exists.
     you want them to stay away from or prevent them from accomplishing
     progress on, then you simply distract their attention or focus
 
+- TOOD: explain more about displacement/deformation of attention
+  (still more)
+  - physical deformation of attention/focus on visual/spatial data
+    - visually, one can wide the set of objects the mind focuses on,
+      so that attention expands, facilitating conscious thought about
+      objects that are closer to the outside of the visual field
+      - this expansion of focus in the visual field corresponds to
+        deformation of the aperture of attention on the visual sense
+    - turning your head and moving your eyes, causes the mind to react
+      by anticipating the objects & phenomena that it will encounter
+      visually.
+  - our attention isn't confined to visual phenomena though, as we can
+    redirect our mind's activity towards objects from various scales
+    of memory, to completely abstract ideas, etc
+  - However, attention, its plasticity and its intensity are all
+    limited resources. These are psychologically, neurologically,
+    genetically bound resources.
+    - some people's attention is indefatiguable -- you can throw
+      anything at it and they'll never waver one bit.
+    - other people have attention that is more susceptible to sensory
+      disruption. people with Asperger's and various degrees of autism
+      can be easily disrupted by sensory stimulus. it's why i know
+      that the people who've psychologically abused me *KNEW* how to
+      use my psychology against me -- which begs the question: how the
+      fuck did they have access to this information in like 2011?
+
 - an approach to modeling attention/focus inspired by deformation and
   displacement from continuum mechanics
   - over various time-scales, the mind is mapped onto it's mental
@@ -224,6 +250,20 @@ brain's structure already exists.
         subconscious, the consciousness is not aware of the source if
         it's attention/focus problems. i hate these people. they
         deserve to die.
+
+- fortunately, its fairly easy to detect when people are *intending*
+  to do this to someone, which is why the CIA always seeks to pull you
+  away from social contact while they do it to you.
+  - it's hilarious the lengths they will go through to do this to
+    someone behind closed doors. once you understand the hoops they
+    jump through to do this to someone at a "black site" it can be
+    effectively defused because the logistics are easy to recognize.
+  - of course, they try to brainwash you while they do it -- that's
+    half the intent anyways. then, if anyone is capable of asking
+    serious questions about it without being threatened themselves,
+    the CIA just acts like they were "training" you, even though they
+    were hostile and malicious the whole time. if anything they were
+    planning on using you as a disposable asset to catch the burn.
 
 - why i get the fuck away from anyone doing this hypnotic bullshit:
   all they need is an open channel to your senses. moreover, these
