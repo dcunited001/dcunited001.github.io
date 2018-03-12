@@ -149,7 +149,101 @@ brain's structure already exists.
       acquire enough information to trigger the Kantian collapse. It
       triggers turbulence in neural energetic flows.
 
+### Modeling Disruption-Specific Hypnotic Techniques With Continuum Mechanics
 
+- With hypnosis specifically geared towards disruption (especially
+  COINTELPRO) the goal is to identify lower and higher-order signals
+  that cause displacement and deformation of the target's projection
+  of attention/focus
+  - in other words, when the target is making progress towards a goal
+    you want them to stay away from or prevent them from accomplishing
+    progress on, then you simply distract their attention or focus
+
+- an approach to modeling attention/focus inspired by deformation and
+  displacement from continuum mechanics
+  - over various time-scales, the mind is mapped onto it's mental
+    construction of both the physical/logical world
+    - attention or focus can be imagined as this mapping.
+    - as you read a book, you are mapping your mind to the words in
+      the book, but first you must map your visual field to the words
+      on the page of the book. the words in the book allow you to
+      assemble mental constructs representing the semantic intent of
+      the author.
+    - unfortunately, your model of the semantic intent of the author
+      is extremely temporal in nature. the longer you maintain those
+      images in your mind, the stronger the resultant impact on the
+      structure of your mind.
+      - part of the problem with the internet and immediate access to
+        all information is that the target of focus toggles too
+        rapidly for the images consumed to set into the mind.
+        - because people are constantly task-switching, we are cutting
+          against the neurological grain of our mind, so to speak. by
+          rapidly switching the object of our focus *NOTHING* sets
+          into our minds.
+        - this is something that cannot be addressed by the nature of
+          technology. it is a problem that can only be address at the
+          user interface level -- by changing the nature of the
+          presentation of informartion.
+      - you do not study by reading 5 minutes of one subject, 5
+        minutes of another subject and cycling through many different
+        subjects at short intervals. why? it is not effective. why?
+        because the longer you spend focusing your mind intently on
+        one thing the more quickly and readily it begins to set into
+        your mind.
+
+  - however, if your intent is to disrupt someone writing or perhaps
+    reading a book, there are several dependencies in the mental
+    process to write/read that can be disrupted in order to disrupt
+    the higher-order task. if this is done successfully, it cannot be
+    easily be stated whether anything external to the target acted
+    upon the target.
+    - garbage in, garbage out: all you need to do is get an open
+      channel to the target's mind. unfortunately, the human mind is a
+      product of biological evolution and still has many of the
+      extrinsic dependencies of biological existance including open
+      and unsecured channels of sensory input.
+    - so, these people harness the division between the "lizard brain"
+      and the "mammalian brain" by utilizing high-intensity sensory
+      signals. this division can be leveraged because the more primal
+      instincts of the lizard brain -- think "fight or flight" --
+      *ALWAYS* take precedence over the higher-order functions of the
+      mammalian brain.
+      - we have been conditioned by hundreds of millions of years to
+        react to specific kinds of high-intensity sensory imagery.
+      - if nothing else, presenting someone with high-intensity sounds
+        or visual imagery breaks their train of thought. these
+        "breaks" are reflected within the mind neurologically -- your
+        mind must reorient itself to deal with what the "lizard brain"
+        perceives as a potential threat.
+      - this "reorientation" can be provoked by *ANY* high-intensity
+        sensory signals and *breaks* your focus. because the mammalian
+        brain is built on top of the lizard brain, it is like having
+        ground shift from underneath you. the intensity of these
+        visual signals causes the disruption to emerge from the Id up
+        through the subconscious. Because it emerges from the
+        subconscious, the consciousness is not aware of the source if
+        it's attention/focus problems. i hate these people. they
+        deserve to die.
+
+- why i get the fuck away from anyone doing this hypnotic bullshit:
+  all they need is an open channel to your senses. moreover, these
+  clowns are impossible to distinguish from the harmless "random
+  person" and if you become privy to what they do, most people are
+  rendered helpless paranoid of everything that moves. for being such
+  a minority of society, the social scale of psychological carnage
+  these assholes reap upon America cannot be understated. they all
+  deserve to die. anyone who intends to weaponize hypnosis upon
+  unwitting people in casual life deserves to die.
+  - Why not face your problems head on *like you actually have a
+    fucking spine?* (oh, it's because they don't)
+  - fortunately, these people are easy to identify using a combination
+    of facial recognition and social physics. in small towns, they
+    stick out like sore thumbs.
 
 ### Hypnotic Conditioning to Encourage Negative Behavior Patterns or Evasive Stimulus Respons
 
+- really needs to be combined with CBT techniques and distortion of
+  the target's "values compass" with deprivation of positive
+  reinforcement, unless the target is cooperating with the conditioned
+  behaviors, in which case, you artificially increase the positive
+  reinforcement
