@@ -10,6 +10,7 @@ excerpt: ""
 
 - TODO: connect to article on hypnosis and Kantian category collapse
 
+
 - TODO: move this
 - [Listen to the Sound That US Diplomats Heard When Attacked by a
   'Sonic Device' in
@@ -67,6 +68,12 @@ excerpt: ""
       to the neurological suppression of political dissidents
     - the longer someone is subjected to this, the less likely they
       are to react to it in a positive way
+
+- TODO: include a section on how this disconnects the victim from
+  their spirituality. for example, it makes it harder to meditate or
+  may make the experience of meditation "less pure"
+
+
 
 
 #### (21st Century Mind Control & Warcrimes)
@@ -274,8 +281,6 @@ excerpt: ""
       radiation, that is immediately and unquestionably torture.
     - if this isn't effective, then why do it? if there isn't
       potential liability, then why hide it?
-
-
 
 
 
