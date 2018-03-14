@@ -8,6 +8,20 @@ author:
 excerpt: ""
 ---
 
+- information and knowledge created by the effects of actions vs that
+  created as a result of words. some information created as a result`
+  of actions can't so easily be ignored. On the other hand, a
+  narrative created by words is easily spun or remapped by words.
+  - who has the last word? if someone responds to your narrative, but
+    doesn't give you the chance to respond -- or critically ensures
+    that you're never given notice that you should rebut the way they
+    spun your narrative -- then they easily wash away the result of
+    your words.
+  - if you have no financial resources, it is very difficult to paint
+    a narrative with actions.
+    - explain why this is difficult.
+
+
 - see section on additive/subtractive reasoning from `ideas.md`
 
 - seize the power of ideas, thought and knowledge, to return

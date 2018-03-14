@@ -1097,6 +1097,9 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 - network theory and [Gilbat's Law](https://en.wikipedia.org/wiki/Gibrat%27s_law)
 
+- mandala theory, as applied to territory types like the org chart of
+  an organization or your physical/logical branch of an office
+
 ### "Fighting Shadows" or Defending Against "Hall of Mirrors"
 
 - this tactic is only possible when someone obtains significant power
@@ -1171,6 +1174,14 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 # Zero in Social Physics
 
+- math provides analysis of sociophysical dynamics that enables people
+  to act to gain control without appearing to have acted whatsoever.
+  - obviously, this isn't the only purpose to mathematically analyzing
+    social systems. however, it implies that sufficiently intelligent
+    people with malicious intent can methodically (design/inform)
+    passive aggressive behavior to create a large effect, while
+    appearing to remain causally distant
+
 - Sociopolitical Suppression
   - A mathematic connection to the design/implementation (or a s/phys
     framework for it)
@@ -1178,7 +1189,35 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 ### Zero and Sparse Matrices (the implications for Probabilistic Models
 
+- where was i going with this? (there was another intent other than
+  the following outline)
+  - sparse matrices with many zeros multiplied against other sparse
+    matrices quickly become zero'd -- obviously this depends on the
+    rank of the matrix/tensor structure
+  - correlations between the position of zeros in matrices and the
+    structure/category of data that the matrix represents
+  - if the value zero is significant to phenomenological
+    extrapolations to various categories sparse matrices, then so is
+    the value one.
+    - how does this correlate to group theory, commutativity, etc?
+    - how do properties like these and their extrapolation differ for
+      categories of sparse matrices?
+- i believe the intent was related to the implications on
+  probabilistic models requiring sparse matrices for mapping/storage
+  - composition/decomposition of tensors in probabilistic models, as
+    coupled to the domain/range of values those matrices store
+    - i.e. values are always between zero and one: (0 <= P(e) <= 1)
+      - values have an additive constraint whereby the *set* of values
+        must sum to 1: i.e. `sum(P(e)) == 1` for all e must equal e
+    - so when sparse and sparsified matrices are decomposed &
+      recomposed, this phenomonologically extrapolates into what are
+      perceived as statistical paradoxes.
+      - but upon de/composition and un/sparsification of matrixes,
+        these constraints are seemingly distorted, but must also be
+        maintained homomorphically
 
+- what zero/sparse-matrix mumbo jumbo means about trying to predict
+  events in sociophysical systems
 
 
 ### *~* You are the five people you spend the most time with *~*
@@ -1767,6 +1806,148 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
       continuing to amplify their own and walling you into a very
       small set of social connections
       - you won't be able to expand (...)
+
+
+
+### Velocity Blocking
+
+- in the agile project management *ideology*, someone's velocity is
+  essentially how much progress they are making towards the goals of
+  their team.
+  - such progress and its units are incredibly difficult to measure,
+    but, in software development, velocity is an individual's capacity
+    for contributing towards their team's rate of progress.
+    - this also ends up distorting politics/cooperation amongst
+      teammates at work.
+      - how much did you contribute? did your teammate who wrote more
+        lines of code get the raise? did you write more lines of code,
+        but appear to have accomplished less? is anyone trying to
+        distort the point-values of features/bugs distributed amongst
+        the team?
+      - more critically: does the manager know how to program at all?
+        - *does his manager know anything about what your team is
+          doing other than points?*
+        - it is unbelievably difficult to efficiently maintain
+          visibility into software development as a manager
+          - (unless i'm looking at the wrong signal types)
+        - in other words, it's trivial for people to passive
+          aggressively distort [apparent] progress in software
+          development or specific career types
+        - if this critically affects your job, you'll care about it
+          - if you're the one getting fired, your managers are going
+            to want to have numbers to justify it, especially if they
+            fear a potential lawsuit when planning to fire someone who
+            has asperger's
+          - if they've already made the decision to fire you (or made
+            the decision to do so in their head without having relayed
+            it to the rest of the organization)
+            - then they may begin to play velocity politics with you
+            - if this happens *and you have asperger's* you now have
+              to do your job in an adversarial environment, while
+              worrying about the social aspects of what people *think*
+              your doing when you're barely able to keep your head
+              above water, socially, *in any social context*
+  - trivially, this concept of velocity can be analogously applied
+    towards understanding any goal
+    - in an artist's life: how many portraits did you do and how fast
+      did you do them?
+    - for networking in social contexts: how many leads did you get at
+      that cocktail party, how fast did you get them and is your rate
+      of prospect-identification correlated to the apparent
+      authenticity of the relationships you developed? it is: for
+      business/personal relationships,
+      - when you try to develop them too quickly, it doesn't often
+        come off well unless you really are exactly what that person
+        is looking for. and if you are, how can that be interpreted
+    - in an actor's career, how do their efforts and actions correlate
+      to minutes of film produced
+    - for a writer, how many pages/words did you outline/write/edit?
+      - how many pages/words/articles/books did you publish?
+    - critically, towards your own goals (professional, life, family,
+      etc) what are your units of progress?
+
+- in your own domain can you keep track of progress towards your
+  goals? do you? if you do, does it help? (it always helps)
+  - how can you say you've improved at something if you don't keep
+    track of what you do?
+  - how much time does it take to keep track of what you do?
+
+- sociophysically, how can this be applied adversarially against
+  someone?
+  - you may want to limit someone's reach on social media
+    - here the new-follower rate or post-interaction rate is the
+      metric you want to limit. that's what someone can measure as
+      velocity towards success in social media *OR* velocity which
+      cannot be permitted
+  - you may want to watch for the target to make new social
+    connections and then poison those social connections against the
+    target with defamatory information
+
+- or... you may want to efficiently utilize `HUMINT` resources against
+  a target who's known to be distractable (ADD/Asperger's) -- or
+  susceptible to covert hypnosis or is susceptible to a drug problem
+  - this helps a domestic intelligence agency engage in `COINTELPRO`
+    operations while minimizing financial costs and conserving the
+    sociophysical energy of their organization
+  - what they do is watch for the target to *begin* to make progress
+    towards a significant goal.
+  - in other words, they don't necessarily need to waste `HUMINT`
+    resources on a target that must be artificially contained, unless
+    it is necessary to a target who looks like they're going to escape
+    the sociophysical prison you've constructed
+
+```
+onDavidConnerMakesProgress([
+  engageGangstalking,
+  taintDavidConnersNewSocialConnections,
+  orCoerceHandlers(pressureTheUncooperativeAsset)]);
+```
+
+- basically, you watch for the target to make progress towards
+  short-term goals considered important -- either to them or to your
+  organization
+  - you watch the gradient of their higher-order "motion" towards
+    those goals. as long as they're not making progress, that's OK.
+  - but as soon as they do begin to make progress on: a startup, a
+    project, psychological development, social networking, a Coursera
+    class, etc
+    - then in type-oriented event-driven fashion, you apply a tactic
+      of disruption that matches the effects you want to attain
+  - the notification for the need to disrupt the target can be
+    provided by social media analysis, surveillance of
+    communications/GPS, etc
+    - the target is the mysteriously engaged by a `HUMINT` asset, who
+      may not know what they are participating in at all
+      - ever introduce a recovering heroin addict making promising
+        progress on their life goals to a full-blown mid-binge junkie?
+      - this is the kind of shit i'm talking about. you measure the
+        target's vulnerability to types of situations. your course of
+        reaction to control the target may be as subtle as merely
+        causing those two people at the same social event at the same
+        time, perhaps prompted by the right conversation to butter up
+        the social connection between two strangers. This is expert
+        `HUMINT` : create the right results WITHOUT having appeared to
+        have acted at all.
+    - or perhaps the target just started a new job and you know this
+      job requires Multi-Factor Authentication (via text-message), so
+      you engage a cyber-op to leverage a iOS vulnerability that
+      causes the phone to never attempt to connect to a cell-tower (of
+      ANY generation, 2.5g/3G/4G)
+      - you assume this will disrupt the target's communcations at a
+        new job, making them look bad, intending them to get fired.
+      - this, of course, begs the question: WHY THE FUCK DO YOU KNOW
+        SO MUCH ABOUT EVERYTHING THIS TARGET DOES?
+        - and if you know so much about them? why do they not know you
+          at all? and why are you so bad at *your* job? keeping
+          America safe? It sounds more like empowering
+          state-surveillance for all the wrong reasons.
+  - it's hard to believe there's a mysterious government agency out
+    there, lurking our facebook newsfeeds, hard at work at the rumor
+    mill and conspiratorially seeding social events with toxic trash
+    - it's basically like the NSA was the most popular kid in high
+      school, never finished, but is now in charge of the largest
+      surveillance apparatus in human history and uses it for the most
+      facile trivial purposes to bully some kid they don't like.
 
 
 # (Implications of (your perspective on) Social Physics, Networks and Information Dynamics)

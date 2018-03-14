@@ -182,11 +182,11 @@ structures of holons, without regard for their contents.
 
 Sociophysical systems exhibit a wide array of behavior that can be
 modeled with physics metaphors. From atop a ziggurat in Sumeria or
-Mesoamerica, some of the basic sociophysical mechanics emerge visibily
+Mesoamerica, some of the basic sociophysical mechanics emerge visibly
 as patterns of interaction in crowds. The movement of people in a mall
 have a temperature, as they do at wider geographic scales. Density and
-temperature correlate with interest and intent. Moreover, the
-temperature and density of the group yields more connections and a
+temperature correlate with interest and intent. Moreover, both the
+temperature and density of the group yield more connections and a
 faster rate of information diffusion.
 
 #### A Change In Elevation Results in a Change in Perspective. Here, It Is A Dimensional Reduction
@@ -200,7 +200,7 @@ faster rate of information diffusion.
 #### And Is Made Out Of At Least Two Kinds of Stars?
 
 The answer to the riddle above is people, or sociophysical networks,
-which have spaces of varying topology: both physical spaces and more
+which have spaces of varying topology: physical spaces and more
 logical spaces. In one we are literally made of star dust and, in the
 other, star-like images emerge from graphs.
 
@@ -210,13 +210,13 @@ other, star-like images emerge from graphs.
 
 Extending the parallels to temperature and density yields a metaphor
 to the speed of sound. It describes the potential speed at which
-general information could travel. This can't effectively model
-diffusion of specific pieces of information, since people exhibit
-choice over the information they propagate. It instead assumes
-temperature and density correlate with higher potential for
-interactions to occur. As you geographically zoom out, the potential
-speed of information diffusion becomes more closely coupled to
-temperature and population density.
+general information could travel. An overly simplified construction
+cannot so effectively model diffusion of specific pieces of
+information, since people exhibit choice over the information they
+propagate. It instead assumes temperature and density correlate with
+higher potential for interactions to occur. As you geographically zoom
+out, the potential speed of information diffusion becomes more closely
+coupled to temperature and population density.
 
 <a name="cultural-reverberation" />
 
@@ -226,10 +226,11 @@ From ancient times through the telegraph, all information flux was
 bound to physical contact. Population growth itself gradually
 accelerated both information accumulation and flux. Writing
 established information permanence. Navigation and ship-building
-increased the maximum range for information to spread, per degree of
-exchange. Economics incentivized management of information to predict
-trade and resource trends. Ancient people may have assumed the network
-effect: as population increased, so did the likelihood of
+increased the maximum physical range for information to spread per
+social degree of exchange. Economics incentivized management of
+information not only to predict trade and anticipate resource trends,
+but to influence them as well. Ancient people may have assumed the
+network effect: as population increased, so did the likelihood of
 technological innovations and thus, information might begin to spread
 faster than it was driven by population density alone.
 
@@ -239,17 +240,17 @@ faster than it was driven by population density alone.
 
 Wherever there is supply and demand, you'll find economic dynamics and
 information is no exception. While no one in Germany counted all the
-Bibles in 1350, the notion that documents are tangible and countable
-changes how people react to perceived supply and demand. Unwritten
-records are much harder to pin down, but what's the use in bartering
-for a juicy piece of gossip if you don't get it early on? Information
-conveys power when it is scarce, even when it may not be true. When a
-rumor is held tightly, it is easier to trace. While we never poll our
-friends to tally up an information histogram, our mind is always
-making inferences because the distribution of information usually
-tells us more than the info itself. Small talk may be all about the
-weather and the Yankees, but it informs us about who talks to who and
-more.
+Bibles in 1350, the notions that documents are tangible and also
+countable change how people react to perceived supply and demand.
+Unwritten records are much harder to pin down, but what's the use in
+bartering for a juicy piece of gossip if you don't get it early on?
+Information conveys power when it is scarce, even when it may not be
+true. When a rumor is held tightly, it is easier to trace. While we
+never poll our friends to tally up an information histogram, our mind
+is always making inferences because the distribution of information
+usually tells us more than the info itself. Small talk may be all
+about the weather and the Yankees, but it informs us about who talks
+to who and more.
 
 <a name="epistemological-petrification-and-transfiguration" />
 
@@ -257,21 +258,22 @@ more.
 
 Macroscopically, technology's effect on information diffusion produced
 viral sociocultural transformation, often with political or economic
-consequences. Writing developed once and never forgotten. Religious
-systems petrified on exposure to clay tablets, gradually locking these
-ephemeral systems of thought into place. The printing press
-democratized writing, effectively seizing it from the priest class by
-undermining the economics that enabled tight control.
+consequences. Writing developed once and was never forgotten. The more
+a mythos the more calcified it became. Religious systems gradually
+petrified upon exposure to clay tablets, locking these ephemeral
+systems of thought into place. The printing press democratized
+writing, effectively seizing it from the priest class by undermining
+the economics that enabled tight control.
 
 Prior to the printing press, the narrow spectrum of available info
 fluctuated perpetually. Rationalism wasn't even a fleeting dream at
 this point. All written records were copied manually. Accumulation of
-writing was roughly bounded by the literate population, a kind of
-abstract membrane whose size also loosely correlated to a population's
-permeability to written records. Copies more numerous and accessible
-resulted in more frequently amplified information. If the work wasn't
-financed by the church or state, the information's TTL drastically
-plummeted.
+writing was roughly bounded by the literate population, which can be
+conceived as a kind of abstract membrane whose size also loosely
+correlated to a population's permeability to written records. Copies
+more numerous and accessible resulted in more frequently amplified
+information. If the work wasn't financed by the church or state, the
+information's TTL drastically plummeted.
 
 <a name="with-2-0-knowledge-upgrades-its-ttl" />
 
@@ -294,20 +296,27 @@ expansive the distribution of iota and the more frequently they're
 expressed in communication, the higher their degree of consensus among
 hosts. Those datums linked to natural phenomena or semiotically
 connected to cultural universals are innately amplified by being in
-phase with common sensory stimuli in the human condition.
+phase with common sensory stimuli that pervade the human condition.
 
 <a name="an-individuals-focus-is-the-21st-century-commodity" />
 
 ### [An Individual's Focus is the 21st Century Commodity](#an-individuals-focus-is-the-21st-century-commodity)
 
-In parallel to Zipf's distribution for a lexicon's frequency of word
-usage, there is a distribution that describes the frequency of
-thoughts including semiotic signifiers. It's data can't be directly
-sampled, and like so many other aspects of social physics, this
-distribution is nearly impossible to quantify. It has always been
-important to understand, but in the 21st century, where your attention
-has been commoditized, there is nothing more important than
-understanding what consumes our thought.
+Paralleling *Zipf's distribution* -- frequency of word usage for a
+lexicon -- there is a similar distribution that describes the
+frequency of components of thoughts including semiotic signifiers.
+Its data can't be directly sampled, and like so many other aspects of
+social physics, this distribution is nearly impossible to
+quantify. This distribution has always been important to understand.
+In the 21st century, where your attention has been commoditized, there
+is nothing more important than understanding what consumes our
+thought. This distribution can be partially seen on Google Trends;
+both attempting to quantify it and reasoning about it are immensely
+valuable in the Marketing or Search Engine Optimization fields. If you
+can watch enough commercials, you can see how this impacts both the
+design and strategy of advertising. Symbols that are nearly universal
+*and* those which are as yet undefined in most minds are each
+necessary for effective advertising, publicity and brand management.
 
 #### Zipf's Distribution Plots the Frequency of Words As They Appear In A Language's Literature
 
@@ -853,4 +862,3 @@ renders obsolete all cultures' former incarnations of social physics,
 however they conceptualized it. The underlying mechanics do not change
 and by familiarizing ourselves with these foundations, we can
 anticipate the sociocultural implications of the Singularity.
-
