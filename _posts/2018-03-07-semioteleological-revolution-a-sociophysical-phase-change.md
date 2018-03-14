@@ -9,7 +9,7 @@ excerpt: ""
 ---
 
 - information and knowledge created by the effects of actions vs that
-  created as a result of words. some information created as a result`
+  created as a result of words. some information created as a result
   of actions can't so easily be ignored. On the other hand, a
   narrative created by words is easily spun or remapped by words.
   - who has the last word? if someone responds to your narrative, but
@@ -317,6 +317,10 @@ and churn inform the construction of a systemic understanding of how a
 person's accepted reality changes in response to what they've
 experienced in life, typologically.
 
+- TODO: explain socioepistemic flux as it relates to the mutation of
+  socially distributed epistemic structures
+  - TODO: rename #1
+
 #### (1) The churn of social consequences mainly resulting from how epistemic structures are rooted in either the idealistic or ideal conceptions of the metaphsyical.
 
 - describe the major consequences between these two epistemic premises
@@ -385,6 +389,79 @@ experienced in life, typologically.
         expands the information/knowledge graph by directing the
         computation energy & time or by directing the acquisition of
         knowledge.
+
+
+### (3?) Epistemic Morphology: Continuum Mechanics for the Metaphysical
+
+- for epistemic structures, how to get from here to there?
+  - especially regarding structures that are socially distributed
+  - this is complicated considering epistemic structures in limited
+    social contexts. this is a problem that tutors and teachers
+    encounter every day:
+    - how do i ascertain the structure of a student's knowledge, so
+      that i present them with the most valuable information so that
+      they begin to understand the content clearly and confidently?
+      - this particular question is even moreso confounded when:
+        - the student's set of knowledge is unclear or limited
+        - the student perceives the content incorrectly
+        - when someone perceives the content irrationally
+    - a successful teacher identifies what specific set of epistemic
+      structures that a student has and identifies a path of
+      engagements that leads the student towards internalizing the
+      correct set of information
+
+==========
+
+- how to ascertain the structure of someone's knowledge: this is a
+  problem i encountered when trying to teach people how to jamskate.
+  - later in life, it's incredibly frustrating knowing that people
+    sought to prevent me becoming a mentor by painting me as a bad
+    example or simply an insufferable crazy-person
+  - why? because if you're not allowed to teach anyone anything, then
+    you don't learn how to teach.
+    - learning about the processes of teaching effectively is critical
+      towards understanding social behaviors and understanding
+      leadership in general.
+- i never internally modeled the information in other people's minds,
+  even in high school. i had nearly zero conceptualization of how
+  people thought about things. i could never leverage this information
+  socially and i did not exhibit behaviors to ellicit information
+  about someone's beliefs.
+  - when i was 18-20, i had nearly zero conception of the moves that
+    other jamskaters were capable of performing. i didn't seek to
+    acquire this socially relevant information and i didn't obtain it
+    unless it was presented to me.
+  - this supports my assertion that I have asperger's. now I realize
+    that it was impossible for other people to not realize this, which
+    is OK when someone is a kid, but as they develop psychologically
+    as an adult, it should be pretty apparent.
+  - when you reach adulthood and you have zero patterns for behaviors
+    that help you make assertions for social beliefs, it means you
+    likely have zero emotional intelligence and are not capable of
+    forming healthy relationships, platonic or otherwise.
+    - you're helpless when it comes to social life. if you are at odds
+      with other people in an adversarial manner who deceive you and
+      prevent you from obtaining necessary information, there is
+      literally nothing you can do.
+  - this is tragic when it is reality and there are people in your
+    life who seek to prevent you from having an accurate diagnosis *AT
+    ALL COSTS* because it would make *them* look bad.
+    - in terms of my personal psychological development, i wasn't
+      exactly cooperative towards engaging in behaviors that would
+      result in positive changes. however, this was only relevant
+      *before* i smoked weed because afterwards, many people in my
+      life gradually began to believe that i would be mostly useful as
+      an example to justify anti-drug propaganda.
+  - there were people in my life
+
+==========
+
+- for a system with epistemic structures that correspond to
+  information & beliefs, must the structures in that system always
+  move continuously to some epistemic mutation representing a member
+  of the kantian category?
+
+
 
 <a name="dominating-consensus-reality-in-a-world-where-the-only-constant-is-change" />
 

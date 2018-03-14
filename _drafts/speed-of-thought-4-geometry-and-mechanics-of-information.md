@@ -95,6 +95,38 @@ excerpt: ""
 
 ![Many overlapping neutral nets in sequence space]()
 
+
+
+- connect kantian category evolution to continuity mechanics of
+  systems represented by E8 (viz. plotting systems of varying
+  continuity on the discrete surface of E8, which is shown to be
+  capable of representing systems with irrational numbers of varying
+  "parity": phi^(-2) to phi^5)
+  - connect to the assertions in the last "speed of thought article"
+  - the structure of information representing the epistemic structures
+    expands and contracts, but the (continuum mechanics for
+    metaphysical systems) demands that all possible system
+    configurations map to E8 (via ... combinatorial hopf algebras of
+    simplicial complices??)
+
+  - this idea connects much better to quantum mechanics than to graph
+    theory & epistemology
+    - for graph theory, simplicial complices and epistemology, the
+      structures must be mapped through combinatorial hopf algebra,
+      structures which i don't understand whatsoever lol ... at least
+      not at the moment. however, they don't look challenging, simply
+      voluminous
+    - the wave function, as it collapses, must preserve C^(infinite?)
+      continuity of the system's evolution as it relates to the E8
+      lattice
+      - (is there any difference b/w collapse of a wave function and
+        it's observed collapse? the wavefunction does collapse or is
+        at least modified by observations)
+      - can rapid observations of quantum systems result in a
+        reconstructed position/momentum over time via inferences made
+        through continuity mechanics?
+
+
 ![Two overlapping neutral nets and their final conformations]()
 
 - in the second pic above, the adjacent sequence variants are
