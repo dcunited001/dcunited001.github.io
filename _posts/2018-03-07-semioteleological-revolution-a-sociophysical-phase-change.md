@@ -331,6 +331,33 @@ experienced in life, typologically.
     logic ("i only know for sure the set of things that is
     impossible"), a combination of both, or convolution of epistemic
     structures.
+    - also: spectral evaluation and statistical dissolution of
+      epistemic uncertainty (spectral methods)
+      - related to spectral graph theory. however vague they may seem,
+        the epistemic structures of knowledge may be compared
+        alongside that of known dictionary of common epistemic
+        structure meta/types
+      - rather than being having some truly novel structure, all
+        epistemic structures for new or unrecognized phenomena are
+        much more likely to resemble -- partially or completely -- the
+        nature of some known epistemic type or metatype that already
+        exists.
+        - because of this, methods from spectral graph theory can be
+          used to direct investment of energy towards resolving
+          uncertainty with regard to information and knowledge.
+          - that is, spectral epistemic resolution doesn't solve any
+            problems for you or make anything certain, but instead
+            rapidly carves away at the stochastic space of the
+            unknown.
+    - epistemological development in science is primarily additive,
+      - whereas the statement of a novel hypothesis is meant to test
+        some subtractive epistemological space that can be dissolved
+        away with clarity to reveal some new insight which can be
+        additively positioned on top of existing knowledge.
+        - that is, the assertion in a novel hypothesis is something
+          that is not necessarily known to be true or untrue and is
+          instead something which is assumed to be provable.
+
     - how to methodologically combine both additive/subtractive
       epistemological structures, along with epistemic convolution, to
       congeal information using statistical methods (i.e. analysis of
@@ -455,7 +482,7 @@ the decor or facade.[^nassim-tebar-true-technological-change]
 > shoes hardly different from those worn 5,300 years ago by the
 > mummified man discovered in a glacier in the Austrian Alps. At the
 > restaurant, I will be using silverware, a Mesopotamian technology,
-> which qualifies as a “killer application” given what it allows me to
+> which qualifies as a 'killer application' given what it allows me to
 > do to the leg of lamb, such as tear it apart while sparing my
 > fingers from burns. I will be drinking wine, a liquid that has been
 > in use for at least six millennia." -- Nassim Taleb, Antifragle
@@ -483,6 +510,7 @@ all the same. True change cannot be attained without struggle: those
 who hold the keys will entice you with bait-and-switch every time
 while demonizing the groups who venture dangerously close to true
 change.
+
 
 
 - An example of a (logical/virtual) socioepistemic schism: personal
