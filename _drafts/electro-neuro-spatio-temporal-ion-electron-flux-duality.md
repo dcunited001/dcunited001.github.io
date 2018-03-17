@@ -313,7 +313,12 @@ excerpt: ""
   Roger Penrose)
   - there are some mechanisms that have been studied. the theory about
     quantum state being encoded into microtubules seems promising.
-
+  - the Ansatz structure from quantum mechanics and quantum
+    information theory is relevant. however, it it only emerges as a
+    consequence of the brain being an analytical machine
+  - the Ansatz computational structure emerges within neural networks
+    to facilitate statistical calculations efficiently
+    - the flux of ions
 
 
 
@@ -593,7 +598,18 @@ completely unconscious...
         - it especially does not work when you are not looking for the
           image, specifically
 
-  - so, when someone is using this "subconscious priming" technique
+- TODO: describe the goal of this technique as priming the
+  intersections of associations related to specific neural networks
+  and/or mental images
+  - read/write: inducing the mapping of new associations or rewriting
+    the mappings of old associations.
+  - triggering problematic behaviors or behaviors that the person
+    would ordinarily consciously suppress
+    - it's useful for duping the person into spending money or
+      engaging in risky behavior that they would otherwise stay away
+      from
+
+  - when someone is using this "subconscious priming" technique
     against you in "casual" social situations, it's because they
     either:
     - (1) have excessive knowledge of psychology and specifically

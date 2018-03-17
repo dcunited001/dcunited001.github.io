@@ -8,6 +8,83 @@ author:
 excerpt: ""
 ---
 
+=========
+
+TODO: reorganize this
+
+Stoicism has influenced my writing significantly, especially its
+emphasis on becoming stronger by overcoming struggle.
+
+One of the areas where i focus the most is in addressing how the rapid
+pace of technological development in the modern era results in a
+unstable sociocultural turbulence. Until the modern era, myth and
+religion helped society meet the need of propagating values systems
+between generations by establishing belief systems that focus on
+teleological relationships between phenomena. The way that myths map
+symbols/signs to various teleological relationships amongst phenomena
+is something i call semioteleology.
+
+These semioteleological mappings established by myth provide an
+efficient means of propagating belief systems. Religions provide real
+value for their followers via teleological emphasis of the
+relationships amongst phenomena, which allows people to simply
+understand the world and operate within it without the need to
+rationally comprehend the inner workings of those phenomena. Moreover
+the semioteleological mappings of myth and religion provide an
+epistemically compressed structure of beliefs that does not need to
+map with complete parity to the scientific explanations of those
+phenomena. This means these belief systems require less time to
+absorb, are more likely to be passed on completely, are more likely to
+achieve spectral coherence amongst their followers and are more likely
+to exhibit “sociophysical resonance” in the way that the information
+“vibrates” amongst people.
+
+As science precludes the potential for faith - i.e. “God is dead” - it
+outmodes many existing religious belief systems or at least undermines
+their authority. It does so simply by disproving their basis (even
+though I believe there are no singularly correct interpretations of
+religious texts, especially singularly correct literal
+interpretations). Science does so without replacing religious belief
+systems and without regard for the niche for values propagation that
+religious systems/institutions filled in society. Moreover, as
+technology evolves more rapidly, the pace of sociocultural evolution
+also accelarates, whereby these myths and belief systems lose their
+power unless humanity decides to artificially reorient themselves
+against these “natural” sociocultural evolutionary dynamics primarily
+arising via technology. This tends to further dilute, debase and
+ablate the belief systems we use to propagate values & moral systems
+between generations.
+
+==========
+
+
+- revisit philosophical concepts from "Children of the Whales"
+  - I've seen many of these before, but they were terms which brought
+    me to fascinating avenues of thought
+    -
+      [Noumenon](https://en.wikipedia.org/wiki/Noumenon#Schopenhauer's_critique)
+      - as it's contradictioned to Phenomenon
+    - [Phronesis](https://en.wikipedia.org/wiki/Phronesis)
+    - [Episteme](https://en.wikipedia.org/wiki/Episteme)
+    - Daimonia
+    - falais
+    - [Nous](https://en.wikipedia.org/wiki/Nous)
+      - and greek [Nous](https://en.wiktionary.org/wiki/νόος)
+  - misc Kantian concepts
+    - [Condition of
+      possibility](https://en.wikipedia.org/wiki/Condition_of_possibility)
+      - particularly, as it relates to [Kantian Categories]() and
+        interelations between metaphysical aspects of phenomena
+    - [Hypokeimenon](https://en.wikipedia.org/wiki/Hypokeimenon)
+      - as it relates to the epistemic morphology, metempsychosis and
+        the Jungian "Self/self" dichotomy
+
+    - [Bundle Theory](https://en.wikipedia.org/wiki/Bundle_theory)
+      - [Quidity](https://en.wikipedia.org/wiki/Quiddity)
+      - [Haeccity](https://en.wikipedia.org/wiki/Haecceity)
+
+- connections to some of the above and [Gestalt](https://en.wikipedia.org/wiki/Gestalt_psychology)
+
 - information and knowledge created by the effects of actions vs that
   created as a result of words. some information created as a result
   of actions can't so easily be ignored. On the other hand, a
@@ -390,6 +467,7 @@ experienced in life, typologically.
         computation energy & time or by directing the acquisition of
         knowledge.
 
+[Noumenon](https://en.wikipedia.org/wiki/Noumenon#Schopenhauer's_critique)
 
 ### (3?) Epistemic Morphology: Continuum Mechanics for the Metaphysical
 

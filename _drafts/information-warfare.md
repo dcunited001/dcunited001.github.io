@@ -6,7 +6,7 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 - ![Gulliver and the Lilliputians]()
 
-
+- TODO: use ender's game pictures
 
 - thesaurus:
   - territory
