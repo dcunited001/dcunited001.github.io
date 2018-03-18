@@ -15,6 +15,8 @@ TODO: reorganize this
 Stoicism has influenced my writing significantly, especially its
 emphasis on becoming stronger by overcoming struggle.
 
+-
+
 One of the areas where i focus the most is in addressing how the rapid
 pace of technological development in the modern era results in a
 unstable sociocultural turbulence. Until the modern era, myth and
@@ -689,7 +691,7 @@ change.
   context/frame)
   - deviation from a single consensus reality
     - for an individual, for small/large groups of people
-  - multiple acceptable consensus realitiess
+  - multiple acceptable consensus realities
   - gradual psychosocial migration of a group from one consensus
     reality to another
     - calculated socioepistemological migration conceived as coldly as
@@ -1122,18 +1124,21 @@ therein.
 #### (A) forbidden love and unknown husbandry
 
 - relevant to the section on "Splicing Families"
+  -
 
 #### (B&C) innocent or guilty, a new life is born
-
-
 
 #### (D) The young are indoctrinated in the "right" ways of society
 
 - everyone is born as tabula rasa, but those who raise them may or may
-  not have a clean slate or unadulterated intentions
+  not have a clean slate or unadulterated intentions.
+  - "the child should not be punished for the sins of the father"
+    - however, this is not true
 
 #### (E&F) one without a demonstrable causal connection tempts the innocents vulnerable to subversion, who is led astray and indoctrinated in sin
 
+- the lack of provable causal connection is crucial.
+  - increase degrees of karmic obfuscation
 
 #### Caster from [Fate/Zero](https://en.wikipedia.org/wiki/Fate/Zero)
 
@@ -1156,8 +1161,8 @@ therein.
 
 #### (M) hunting & fishing these people out of life is condoned by using these people as food in an Ouroborosian way. the weak feed on lost souls
 
-
-
+- the metaphorically consumed sociophysical energy of lost souls is
+  alchemically transmuted into power
 
 
 - picture of Caster from fate zero, just before his defeat at the
@@ -1537,7 +1542,6 @@ recombinated through the ages.
     - this
 - considering that
 
-
 ###
 
 - i really need to settle on a consistent set of terms for describing
@@ -1747,9 +1751,9 @@ recombinated through the ages.
 ![Dali's Liquid Desire](/img/posts/2018-01-22-semioteleological-revolution/dali-liquid-desire.jpg)
 
 - TODO: explain a gestault hard-switch in psycholinguiistic
-  programming.
+  programming (how this applies socially for neurolinguistic
+  programming)
   - make a "ludicrous speed" joke.
-
 
 Überpowerful people generally cannot stand someone who encourages
 people to think in unpredictable ways. This vastly expands the

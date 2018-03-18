@@ -11,8 +11,110 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
 
 - TODO: figure out how to structure (with illustrations?) so that
   pretty much anyone can understand what i'm talking about
-  -
 
+- body waves and liquid movement incidentally resemble many of the
+  movements of Qi Gong. not only do they visually resemble the
+  movements, but they functionally cause many of the same anatomical
+  effects of Qi Gong and Yoga.
+  - this may allow Poplocking to serve as a stand-in for the practice
+    of Qi Gong or Yoga towards the cultivation of Chi or Prana,
+    respectively
+
+- if you seek true liberation and other people subsist by siphoning
+  your sociophysical resources -- i.e. they take the value work they
+  underpay you for, or they plan on deciving you to manipulate you to
+  gain sociophysical influence -- then your liberation is expensive to
+  their sociophysical potential energy.
+  - your cage is not made of steel: there is no physical lock. you
+    might spend your entire life looking for a physical key, but there
+    is no key in the outside world. this is a fool's errand. the keys
+    to your liberation come from within.
+  - if you understood the structure of your own cage and freed
+    yourself, they would no longer be able to use you. or they'd no
+    longer be able to siphon quite as much energy from you. so, when
+    this liberation happens on a social scale, it terrifies the
+    parasites that completely subsist on the efforts of others.
+    - not all people who occupy higher strata in social hierarchies
+      qualify as parasites. it really depends on how much value they
+      contribute to society and how much blood they suck. obviously,
+      so hierarchy and structure in society is unavoidable; managers
+      and people with authority are a necessary evil.
+    - yet, quite a few high-ranking people in the high-classes subsist
+      unfairly on value derived by those toiling below them. as for
+      those people whose livelihoods depends not on hard-work but on
+      precariously maintained deception, their lives are ironically
+      less secure than that of the common person and the honest
+      person.
+      - their livelihoods depend on projecting deception -- they
+        cannot continue to suck blood without continuing to deceive.
+        the moment this illusion is shattered with significance and
+        permanence, all those parasites in high places come tumbling
+        down. from here on out, they must suffer with the karma of
+        their deceptions that were made visible to everyone.
+      - these people fear this. they know this. the object of their
+        fear: the truth heard so loudly it can no longer be suppressed
+        and forever preempts any illusions they'd seek to construct in
+        its place.
+
+- Hip Hop is about (waking people up and providing people in poverty
+  with the tools to transform their lives), without needing to go
+  outside of the community to seek permission for transformation.
+  - Hip hop is a collection of cultural elements, whose practice
+    cannot be denied to people on the basis that they don't have the
+    money to participate.
+  - In addition to these aspects of Poplocking, Hip hop also includes
+    other means to subversively introduce spiritual practices to
+    communities that are often isolated and repressed.
+    - (True transformation that doesn't backslide avoids shortcuts and
+      cannot depend on outside help that ultimately results in
+      dependence and pre-existing obligations)
+    - Hiphop provides a basis for bottom-up cultural
+      transformation. People became empowered to change their own
+      lives without needing to entangle people from the outside for
+      assistance with social/financial resources. By leveraging
+      art-styles created by the people themselves, they also created
+      their own means of seeing themselves, measuring themselves and
+      defining themseves. Therefore, by looking at themselves through
+      the patterns of art they created themselves, they also became
+      empowered to define their own self-worth.
+      - Because it was all enabled without external social dependence
+        and because the democratization of technology meant that these
+        means of self-transformation were available to mostly
+        everyone...
+  - Graffiti is an artform about seizing the imagery in urban
+    communities, transforming it into art that reflects the needs for:
+    for positivity; for identity; and for control and ownership of
+    cultural artifacts, even when the buildings in those communities
+    can't be owned by impoverished people who live there.
+  - Rap and MC was originally about telling stories that were not
+    allowed to be broadcast on the airwaves and published in the
+    paper.
+    - Through their words, Def Jam poets and early MC's wanted to
+      maintain a history of what people in communities repressed by
+      poverty actually saw. Without the means to create, promote and
+      share their own art, any cultural artifacts produced without the
+      approval of the rich or the white lacked the kind of permanence
+      required to meaningful changes. That is, if the cultural
+      artifacts projected a message that threatened the authorities in
+      control of mass communication, their interests or their
+      narratives, then those cultural artifacts were not repropagated
+      to ensure they were never culturally amplified.
+      - Because these cultural artificts weren't distributed widely
+        enough to take root in enough people's minds, they were easily
+        rendered ephemeral by more powerful people who wanted to tell
+        another story. These powerful interests feel threatened by
+        narratives who wake people up to the corporate bullshit
+        systemically siphoning wealth from people, thereby creating
+        and perpuating poverty. That narrative isn't exactly good for
+        business.
+    - For people who legally owned recording studios, radio stations,
+      record labels, music retailers, as long as they worked together
+      to ensure the only people who could create cultural artifacts
+      with significance were "approved", then they could ensure they
+      could stifle true progress for as long as possible, all
+      perpetuating the narrative that those in power never intended to
+      do so. This is all patently false, of course.
+      - After the democratization of music production equipment...
 
 #### K-Os - The Love Song (school of kung fu & hip hop)
 
@@ -158,7 +260,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
   - the goal is to come up with a framework for specifying rhythmic
     movements of *any jointed body*, not just any jointed human body.
     - i.e. you could take any 3D mesh's skeleton and generate a
-      framework for producing mesh morphs. so apply this higher-order
+      framework foxr producing mesh morphs. so apply this higher-order
       functional math to a 3D mesh and skeleton and produce functions
       that enable you to move it rhythmically
 

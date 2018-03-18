@@ -199,8 +199,11 @@ excerpt: ""
   of electrical flow enabled by the state of ions in neural networks
   - electrons and waves of electrical spikes moving through the brain
     gradually shape the ion distributions
+    - from a systems theory perspective, the two general types of
+      bioelectrical effects here are bidirectional.
   - the current state of ion flows are like the values of matrices in
     a neural network on tensor flow
+    - update this statement
 
 ### Short Term
 
@@ -282,8 +285,6 @@ excerpt: ""
       potential liability, then why hide it?
 
 
-
-
 # *POWER TO THE PEOPLE*
 
 - power comes from people, but there is a dualistic flow here as
@@ -341,6 +342,11 @@ have to consciously drive most information retrieval and conjugation
 (for grammar, expression, executive function) that should instead be
 completely unconscious...
 
+- when the above happens, it's as if artificial neurological
+  restraints have been lifted or rescinded.
+
+#
+
 ### A Model of The Human Mind As A *Heap* of Memory Acting as Event-Hooks
 
 - What provokes my own rumination?
@@ -353,7 +359,6 @@ completely unconscious...
         trigger and a consistent predictable behavioral pattern
         results.
     - these buttons (which are layered on top of bundles of memores) activate neural
-
 
 #
 

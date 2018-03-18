@@ -106,14 +106,53 @@ varying a phoneme/morpheme's
 degree of geographic/social distribution or specific functional
 utility in the collective consciousness of early humanity
 
-would even dictate the functional
-
-
-- [IPA mappings to linguistic spaces](https://en.wikipedia.org/wiki/File:The_International_Phonetic_Alphabet_(revised_to_2015).pdf)
+would even dictate the functional [IPA mappings to linguistic
+spaces](https://en.wikipedia.org/wiki/File:The_International_Phonetic_Alphabet_(revised_to_2015).pdf)
 
 
 ### Misc Linguistic Ideas:
 
+#### Configuration Entropy, Kanji Radicals and Iching
+
+- configuration entropy and the creation of the oracle bone script
+  - the seal script supposedly emerged from an earlier "oracle bone
+    script" but these statements could also apply to the primary
+    radicals for kanji
+    - that is, all 1-5 stroke kanji radicals probably adhere to
+      interesting correlations to symbolized stroke-configurations
+      - to understand, see the article that outlines +100,000 ways to
+        tie a tie. cross this method with statistical mechanics to
+        symbolically interpret random stroke configurations
+    - much of this coherence to symbolically parsed random stroke
+      configuration will be purely incidentaly, as this is exactly how
+      you distinguish one character from all the other characters
+      - but it is how the actual set of radicals deviates from the
+        possible symbolically interpreted random stroke distributions
+        that indicates whether the correspondance is purely incidental
+        and *why* it deviates where it does
+  - rotational symmetry and planar symmetry: some configurations of
+    random arrangements of character strokes (or sticks/bones) that
+    preseve symmetries are more likely
+    - because, given random configurations of strokes, those that are
+      have pi/2 rotational symmetry occur 4x as often. those with
+      (pi/3) symmetry occur 6 as often
+    - not only are these arrangements more likely, but as glyphs they
+      are more "significant" -- e.g. preserving these symmetries is
+      important in all glyphs because it allows characters to be
+      distinguished from any angle and under reflection.
+  - how does this original bone script match symbolic/combinatorial
+    analysis of the random arrangements of strokes/sticks?
+    - the requirement for uniqueness under rotation applies to almost
+      all characters. for a symbolically interpreted random
+      distribution of random strokes (a la statistical mechanics),
+      there are major differences once the requirement that symmetries
+      hold for symbolic interpretaions
+  - how does this generation of random character configurations
+    intersect with iching?
+    - if there are major connections between kanji radicals, i-ching
+      and random stroke configuration distributions ... why?
+
+#### Names and Unused Phoneme Combinations
 
 - for some langauges and regions, names are often found in the space
   of phoneme combinations without associated morphemes.
