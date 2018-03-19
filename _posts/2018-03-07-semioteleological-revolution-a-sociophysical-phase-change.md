@@ -8,6 +8,69 @@ author:
 excerpt: ""
 ---
 
+[Jormamu]()
+
+- if you seek true liberation and other people subsist by siphoning
+  your sociophysical resources -- i.e. they take the value work they
+  underpay you for, or they plan on deciving you to manipulate you to
+  gain sociophysical influence -- then your liberation is expensive to
+  their sociophysical potential energy.
+  - your cage is not made of steel: there is no physical lock. you
+    might spend your entire life looking for a physical key, but there
+    is no key in the outside world. this is a fool's errand. the keys
+    to your liberation come from within.
+  - if you understood the structure of your own cage and freed
+    yourself, they would no longer be able to use you. or they'd no
+    longer be able to siphon quite as much energy from you. so, when
+    this liberation happens on a social scale, it terrifies the
+    parasites that completely subsist on the efforts of others.
+    - not all people who occupy higher strata in social hierarchies
+      qualify as parasites. it really depends on how much value they
+      contribute to society and how much blood they suck. obviously,
+      so hierarchy and structure in society is unavoidable; managers
+      and people with authority are a necessary evil.
+    - yet, quite a few high-ranking people in the high-classes subsist
+      unfairly on value derived by those toiling below them. as for
+      those people whose livelihoods depends not on hard-work but on
+      precariously maintained deception, their lives are ironically
+      less secure than that of the common person and the honest
+      person.
+      - their livelihoods depend on projecting deception -- they
+        cannot continue to suck blood without continuing to deceive.
+        the moment this illusion is shattered with significance and
+        permanence, all those parasites in high places come tumbling
+        down. from here on out, they must suffer with the karma of
+        their deceptions that were made visible to everyone.
+      - these people fear this. they know this. the object of their
+        fear: the truth heard so loudly it can no longer be suppressed
+        and forever preempts any illusions they'd seek to construct in
+        its place.
+    - they will claim that the truth is so incredulous, it is not
+      worth considering. yet, then, why do they fear it? they will try
+      to do whatever they can to prevent you from looking at the
+      truth, to acknowledge the truth, to speak the truth.
+      - but if it's so incredulous that it's unacknowledgable, how do
+        you prevent people from speaking the truth that which cannot
+        be acknowledged? how does one distribute knowledge defining
+        what is censored without having to reference this censored
+        knowledge?
+      - this is why they have to protect their own lies with yet more
+        lies; it is why 21st Century America is barely afloat in a
+        deluge of deception today.
+      - (They are struggling against truths that are so threatening to
+        them, that people threatened for even acknowledging components
+        and propositions of these truths.)
+    - a ship with a hole this massive will eventually capsize, no
+      matter how hard we fight against it. the danger: by refusing to
+      acknowledge that hole, we're wasting valuable time and energy.
+      - if you cannot acknowledge a severe problem, how do you address
+        it? we are wasting valuable time running around with our pants
+        on fire.
+        - The deafening tumult you hear on social media will no doubt
+          fuel jokes regarding american Spinelessness and
+          obliviousness for decades. It's going to be hard to live
+          down.
+
 =========
 
 TODO: reorganize this

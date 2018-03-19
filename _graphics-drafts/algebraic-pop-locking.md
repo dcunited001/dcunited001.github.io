@@ -20,42 +20,6 @@ graphics_ui_layout: "graphics/2017-06-29-animating-the-gradient.html"
     of Qi Gong or Yoga towards the cultivation of Chi or Prana,
     respectively
 
-- if you seek true liberation and other people subsist by siphoning
-  your sociophysical resources -- i.e. they take the value work they
-  underpay you for, or they plan on deciving you to manipulate you to
-  gain sociophysical influence -- then your liberation is expensive to
-  their sociophysical potential energy.
-  - your cage is not made of steel: there is no physical lock. you
-    might spend your entire life looking for a physical key, but there
-    is no key in the outside world. this is a fool's errand. the keys
-    to your liberation come from within.
-  - if you understood the structure of your own cage and freed
-    yourself, they would no longer be able to use you. or they'd no
-    longer be able to siphon quite as much energy from you. so, when
-    this liberation happens on a social scale, it terrifies the
-    parasites that completely subsist on the efforts of others.
-    - not all people who occupy higher strata in social hierarchies
-      qualify as parasites. it really depends on how much value they
-      contribute to society and how much blood they suck. obviously,
-      so hierarchy and structure in society is unavoidable; managers
-      and people with authority are a necessary evil.
-    - yet, quite a few high-ranking people in the high-classes subsist
-      unfairly on value derived by those toiling below them. as for
-      those people whose livelihoods depends not on hard-work but on
-      precariously maintained deception, their lives are ironically
-      less secure than that of the common person and the honest
-      person.
-      - their livelihoods depend on projecting deception -- they
-        cannot continue to suck blood without continuing to deceive.
-        the moment this illusion is shattered with significance and
-        permanence, all those parasites in high places come tumbling
-        down. from here on out, they must suffer with the karma of
-        their deceptions that were made visible to everyone.
-      - these people fear this. they know this. the object of their
-        fear: the truth heard so loudly it can no longer be suppressed
-        and forever preempts any illusions they'd seek to construct in
-        its place.
-
 - Hip Hop is about (waking people up and providing people in poverty
   with the tools to transform their lives), without needing to go
   outside of the community to seek permission for transformation.
@@ -232,7 +196,6 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
     - this space gives you an indexed data structure for
       retrieval/calculations on which to base regional/global metrics
       on the system as a whole
-
 
 #### (a discrete version of something like [this hopf-for-simplicial-complices](https://arxiv.org/abs/1505.04458))
 
@@ -480,7 +443,6 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
   does that benefit? why would someone want this for america if it
   redirects(WASTES) the wealth we generate from GDP
 
-
 * thoughts on algorithms for poplocking both humans and non-human
   jointed objects,
 * generalizations to AI & psychology,
@@ -489,6 +451,79 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
   harassment and mind control.
 
 
+#### Pop'n'lock (X) Symbolic Combinatorics
 
+- pop'n'lock math analogy for mathematic origami
+  - parallels symbolic methods for estimating the nubmer of
+    sufficiently distinct tie knots
+  - discretize space of body positions as `body.positions` and expose
+    the space as (a magma of) composable monoids
+    - which are combinated and evaluated to enumerate all possible
+      body positions
+
+
+
+- expose `body.positions` as a set-theoretic space using some
+  partition functions (?):
+  - so that is indexable (read: countable) in various ways and along
+    various dimensions
+  - and so that eigen-functions can operate on each point in the space
+    of `body.positions` to determine whether each point astisfies
+    various asthetic properties
+    - asthetic properties like whether this body position could be
+      part of some tutting motion or wave motion.
+  - further extrapolate `body.positions` to a "ring-like space" that
+    enables combinations of `body.sequence` members in a
+    `body.sequence` space, where `||body.sequence|| = n members of
+    body.positions`
+    - wtf did i mean by ring-like space? and i think i mean that the
+      various kinds of metrics between elements of `body.positions`
+      allow balls to be defined "around" points `b` in `body.positions`
+      where the ball represents all other `body.positions p` within
+      `distance(b,p) <= d`
+      - in other words, a "ring" of body positions representing all
+        the nearby body positions that are within some distance `d` of
+        some metric on body-positions.
+      - this is overly abstract, but an incredibly valuable concept to
+        understand when trying to methodically understand poplocking.
+
+- this `body.positions` space can be transformed into the set of all
+  possible body sequences, by taking the powerset of `body.positions`,
+  yielding a set of all subsets of all body positions.
+
+- members of `body.sequences` can be "tensored" with combinations of
+  transition functions
+  - this isn't a "correct" usage of the neologism "tensored"
+    - for a `body.sequence b` of `b := [p1,p2,p3]`
+      - i mean that `b ⊗ "liquid"` fills in the missing details of the
+        sequence of body positions with a liquid transition. or `b ⊗
+        "direct"` fills in the missing details with direct motions
+        with minimal movements.
+  - what i mean here is that you can compress the representation for a
+    sequence of `n` individual `body positions` specified in a
+    `body.sequence`.
+    - for example, specify the beginning body position, then the end
+      position for a `body.sequence` of two positions.  this sequence
+      can then specify multiple transition methods to connect the
+      beginning and end body position.
+      - a direct tranition may or may not be available and represents
+        direct motion between two body positions.
+      - a liquid transition would specify "liquid" motion between two
+        body positions
+  - `body.sequence` also needs to support eigenfunctions and
+    *eigenstate* "for effect detection and effect persistence"
+
+
+- `body.positions` as a manifold/space, where various body positions
+  are connected by various kinds of paths/metrics
+  - so the metrics measure the distance between two body points by
+    determining the length of the shortest "path" between them, where
+    the path represents the morphism of one body position to another
+    body position.
+  - there are some body positions that are "closer" than others in the
+    amount of effort or in the amount of visually noticible change to
+    the 2D appearance of the body.
+- these metrics allow the space of available potential body positions
+  to be "navigated" from one body position to another.
 
 [^graph-based-time-series-analysis]: [Visibility Graph Based Time Series Analysis](https://doi.org/10.1371/journal.pone.0143015) Stephen Mutua, Gu C, Yang H, PLoS ONE10(11): e0143015 (2015)

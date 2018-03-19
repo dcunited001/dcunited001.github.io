@@ -1807,8 +1807,6 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
       small set of social connections
       - you won't be able to expand (...)
 
-
-
 ### Velocity Blocking
 
 - in the agile project management *ideology*, someone's velocity is
@@ -1847,6 +1845,7 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
               worrying about the social aspects of what people *think*
               your doing when you're barely able to keep your head
               above water, socially, *in any social context*
+
   - trivially, this concept of velocity can be analogously applied
     towards understanding any goal
     - in an artist's life: how many portraits did you do and how fast

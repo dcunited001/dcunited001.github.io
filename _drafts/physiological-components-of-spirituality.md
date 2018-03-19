@@ -290,3 +290,147 @@ title: "Physiological Components of Spirituality"
   flow of the lower-order components?
   - is it possible to hook into accupuncture to measure changes in
     this fluid?
+
+
+### Using Bon/Buddhist beliefs to defeat the weaponized control of dreams
+
+- using the Bon belief that "we are always dreaming" to help to
+  deprorgram "neurological clones".
+  - these are weaponized fragments of dreams/memories either inserted
+    via control over dreams, via suggestion, via some hypothetical
+    usage of nanotechnology, etc
+
+- probably best articulated as a sci-fi scenariou
+  - understanding how far ahead DARPA and other organizations have
+    ALWAYS been with secret-research implies that we are terrifyingly
+    close to this technology.
+    - in fact, the nature of the differential singularity implies that
+      the gap between publicly and privately available technology will
+      only continue to widen.
+    - at this point, it's not the technology that we know about that
+      we should be worried about: it's the technology that we don't
+      know about. and some of this secret technology can *never* be
+      revealed to the world without table-flipping specific legal
+      paradigms.
+      - (yada, yada, yada, i talk about it in Caelis Ruissent)
+      - those in control of the differential signularity will do
+        everything they can to selfishly retain control over this
+        technology, without ever publicly disclosing it.
+
+- regardless of how it's done, how can we be sure to mentally rise to
+  the challenges of whose nature we can not know until we experience
+  them?
+  - if you are dreaming, how do you know the experience is or isn't
+    real? if it's a dream, regardless of HAARP and other secret
+    technologies, how do you know that the contents of the dream are
+    totally the product of your own mind?
+    - however, if you belief that you are always dreaming and that you
+      are always presented with scenarios to transcend, then you
+      condition your subconscious to always be ready to rise to the
+      occasion
+    - most critically, even when you are in a weakened or vulnerable
+      state, you are simply incapable of giving up or giving in.
+  - it's not necessarily about giving up or resisting. instead, it's
+    about retaining the agency, the willpower and the focus to
+    influence the course of events where it is needed.
+    - if you completely give in, you give up the ability to influence
+      events and you're thus a leaf in the wind.
+  - we should always strive to be someone who wakes other people up,
+    who empowers other people, even when those people are merely
+    fragments of our dreams. we should be struggling to strengthen the
+    abilities that allow us to stand up to life's challenges. i
+    believe that dreams can be a kind of "hyperbolic time chamber"
+    meant to be a place where the mind can strengthen itself even in a
+    virtualized manner, while asleep.
+    - because dreams are a purely mental construct, one should be able
+      to exert control over time and space to extend the length of the
+      experience and to change anything. all one needs is the
+      awareness agency.
+    - in dreams, there are no limitations to transform willpower into
+      real changes in the dream world
+    - in the waking life, there should ideally be zero limitations for
+      transforming willpower into changes in the state of the real
+      world. however, the paths provided for accomplishing such
+      transformation of state in the real world is limited and
+      filtered through the rules of reality and all the sociophysical
+      complexities that accompany these rules.
+
+  - if we approach the waking world with a desire to seek change all
+    at all costs, then we will become more capable of identifying the
+    paths available to transmute will into action necessary for
+    change.
+  - if we can so easily be convinced to surrender control during
+    dreams, instead of rising to the challenge of becoming lucid, then
+    when we face similar challenges in the waking world, we will...
+
+- but the key to doing this is assuming that we are always
+  dreaming. if we approach dream or reality with the understanding
+  that we are always dreaming, then each dream and reality provokes
+  increased consciousness and helps to train our minds to most
+  effectively direct our willpower for change.
+
+### The Bardo of Death
+
+  - buddhists believe there are six bardos, which are transitionary
+    periods between one state and another
+    - these are different transitionary periods during which one can
+      make meaningful changes
+    - the bardo of death: the transition between one life and the next
+
+- the bardo of death does not necessarily start when you are dying,
+  but when your mind *believes* you are dying.
+  - this is as i understand it ... probably incorrect.
+  - in other words, when the idea that your existence is coming to an
+    end pervades your consciousness and the subconscious aspects of
+    your mind, it presents the human mind with an opportunity for real
+    change.
+    - here, in the bardo of death, you are presented in a visceral way
+      with the finite nature of your mortality in such a way that you
+      can no longer ignore it.
+    - when your awareness is presented with its own end in a such a
+      way that it cannot distort the (significance) of its realization
+      of impending death,
+      - this is often when you see the true quality of someone's
+        nature: what do they do when they believe their limited
+        remaining existence is no longer guaranteed? when they
+        actually begin anticipate their final breath?
+        - what are the most critical words for them?
+        - what are the most comforting final actions for them?
+      - it is crucial to be aware of your mind at this point because
+        like all other transitory periods in life, this one offers
+        presents you with the opportunity for real change
+
+- this definition of the bardo of death does not actually mean that
+  you die, but that you are subjected to an experience where every
+  conscious and subconscious fiber of you mind *believes* that you are
+  going to die and *believes* that it knows it is living the last few
+  minutes of life.
+
+  - it is important to note that if someone is simply shot in the
+    head, they are robbed of this experience. i believe experiencing
+    death is critical to having lived life. what happens when you
+    leave your body? if you get shot in the head, you are robbed of
+    the experience of death because your brain no longer functions
+    while you lay dying.
+
+### The Bardo of "Civil Death"
+
+- apparently communists and those in charge of the "mock executions"
+  at Guantanamo believe that, by provoking people with artificial
+  scenarios and fake trial proceedings, they can invoke something
+  similar to the process described above.
+  - they gaslight you into believing you are going to die, expecting
+    the targets of this psychological torture to be as spineless as
+    those conducting the "phony" legal proceedings.
+  - in order for this "punishment" or "interrogation technique" to
+    work, the person actually must believe that they are dying or that
+    they are going to die as a result of secret proceedings they can't
+    understand.
+  - this is also a fantastic way to hit an MK-Ultra manakin's panic
+    button, triggering them to commit some violent act in a psychotic
+    state of mind. do I really need to describe the process for that
+    type of operation?
+    - america sucks ass. they reward the most spineless, gullible,
+      ignorant, morally weak citizens to trample on the rights and
+      livelihoods of people who would otherwise be strong.
+    - this country sucks and is a complete and utter lie.
