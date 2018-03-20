@@ -10,6 +10,148 @@ excerpt: ""
 
 - TODO: connect to article on hypnosis and Kantian category collapse
 
+
+- epistemicide
+
+
+- interfering with the ultrasound by utilizing chi and energy healing
+  techniques.
+  - for me, this turns my torture into a game. it forces me learn
+    about neurovascular systems in order to make inferences about the
+    propagation and perfraction of ultrasound through the various
+  - the sound I'm hearing seems to be constructive/destructive
+    interference of ultrasound at much higher frequencies
+    - this is why the spectrum that's been measured in the US
+      Diplomats to Cuba peaks so broadly *around* 8khz. it's because
+      it's not originating from the injection of 8khz noise. instead,
+      the 8khz ultrasound results from the refraction/perfraction of
+      ultrasound around the skull
+    - these ideas are not baseless. with proper access to medical
+      technology, neurologists could test my hypotheses simply by
+      attempting to run transcranial doppler on victims of these
+      methods.
+    - if my theories about the mechanics above hold, then anyone who's
+      a victim of this particular neurological surveillance/torture
+      method will present significant interference with existing
+      transcranial doppler
+      - also, since i expect that it's a surveillance, it wouldn't
+        surprise me if they deactivated the device upon the victim
+        becoming capable of validating the mechanics of this
+        ultrasound.
+      - if i simply had access to medical equipment and the abiliy to
+        interact with neurologists with the patience to listen to me,
+        then i could solve this very quickly. with the proper level of
+        knowledge, it's not hard. by the time the psychological
+        torture victims have are being subjected to these neurological
+        methods, their lives have been meticulously interfered with,
+        so that no one will hear their screams for help.
+
+### Welcome To The Other, Other Camp XRay
+
+- I'm not sure my understanding of the Guantanamo pattern languages
+  are correct. All the literal, physical torture scenarios in the
+  physical Army & Navy bases in Cuba are merely implemented as
+  allegories that provide the basis of pattern languages. The concepts
+  of torture methods are all simply the basis of symbols that can be
+  recombinated to form metaphors for domestic psychological torture
+  methods.
+  - these allegorical scenarios read as an instruction manual for
+    domestic psychological torture. these are real things that are
+    truly enacted against terrorists in a military base in
+    Guantanamo. However, all of that is merely playing out so the
+    intelligence community in America can create a duplicitous
+    language to exploit, so that domestic IC assets/handlers can
+    communicate about torture in clear channels while leveraging the
+    duplicity for plausible deniability.
+    - moreover, the IC & military means that any protests are
+      effectively handled. everyone knows what is happening.
+
+- however, these operational logistics are vulnerable to subversion by
+  foreign intelligence agencies, who can also interpret the languages
+  to identify dissidents. Foreign intelligence services, domestic
+  groups and non-state actors can all work within this space between
+  pattern langauges to tactically interfere with the psychological
+  torture. in this way, terror groups can manipulate the torture of
+  dissidents or insert information into them, leveraging the "inmates"
+  as mules, who continue to be tortured while the entire nation stand
+  by, assuming these people are getting what they deserver.
+  - the lack of legal process and the total depersonalizaton of these
+    detainees --
+
+    - any effective legal status they have exists merely as a means of
+      demostrating internationally that these detainees *even have a
+      legal status in America*. however, such semblance of legal
+      status *may only be used to the detriment of detainees* and
+      never, ever for their benefit.
+    - Only bad things can happen to these people.
+      - why?
+    - they are considered traitors and people to be used as punching
+      bags to train other, younger HUMINT resources who have been
+      conditioned with propaganda that these people don't undrstand.
+      - they are never intended to be psychologically
+        rehabilitated. the only psychological rehabilitation that
+        occurs for domestic guantanamo detainees is purely a cover for
+        subsequent processing.
+      - it's slapping a smiley face on more psychological torture, so
+        the architects and eichmanns of CIA Pyshcological torture get
+        to say "well we tried" while further destroying the lives of
+        political dissidents subjected to detention. For the
+        middle-tier psychologists and overseers directing the
+        denctralized lower-level assets, the suicide of a detainee is
+        a blessing. at that point, the program is a success. If
+        they've done everything right, there's no evidence anymore.
+      - for the lowest level individuals in this scheme, the suicide
+        of detainees is the unfortunate loss of a source of easy work:
+        they no longer gain the benefits of sucking the sociophysical
+        energy from detainees like Dementors in Hogwarts. they must
+        instead find new victims.
+
+    - can be used to recognition of these detainees per
+
+
+- in camp delta, they apparently utilize directed sociophysical
+  energy.
+- in camp xray, they use directed energy to surveil and torture
+  victims
+
+- the whole point is to identify lists of
+
+### Neurological Torture Methods are ALL "No Touch" To Minimize Liability for Warcrimes Prosecution
+
+- there are many, many reasons these cases are hard to prosecute.
+- Operations has been advised by technical and legal research to
+  design these processes and tactics meticulously so that they fit
+  within the boundaries of the Geneva Convention.
+  - the problem with constantly butting up against the legal
+    boundaries of the Geneva Convention is that occasionally, you
+    unintentionally step over the line.
+  - however, if you design your logistics and communications to
+    provide robust operational security, the potential for information
+    leaking out from the victims and their social boundaries is
+    minimized.
+    - that is, of course, if the victims are even intelligent enough
+      to know what is happening to them. most victims are not.
+    - in order to be aware of how these neurological methods
+      function.
+      - you need an IQ of like 160, an understanding of
+      physics, experimental neurology, analytical models for
+
+
+### Intelligence Networks In Mental Health act as Catchment Networks
+
+- these methods are designed to drive the victims into catchment
+  networks in mental health and psychiatry. when victims reach for
+  help, they don't know what's going on. they've been imbued with
+  psychological vulnerability through the distortion of reinforcement
+  mechanisms for operant conditioning. their social boundaries have
+  been compromized *and* minimized, leaving them socially isolated so
+  there's no one for them to turn to who doesn't authentically believe
+  they're crazy. they potentially been subjected to neurological
+  torture or "surveillance" methods.
+
+
+  - how to interact with it
+
 - TODO: move this
 - [Listen to the Sound That US Diplomats Heard When Attacked by a
   'Sonic Device' in
@@ -344,6 +486,23 @@ completely unconscious...
 
 - when the above happens, it's as if artificial neurological
   restraints have been lifted or rescinded.
+
+
+# Neurological and Psychological Disruption Via Directed Energy
+
+### General Inhibition of Langauge Circuits
+
+What "Directed Energy" do is disrupt neurological function to disrupt
+your auditory/language processing circuits. It causes your language
+processing to shut down -- you no longer think in ordinary terms and
+you can barely hear your own thoughts. You have to respond to the
+language-inhibition by generating content by leveraging other
+neurological circuits. In other words, you can only think if you talk
+to yourself. The parts of the brain around the ears are the most
+exposed to EMR, leaving the parts of the brain that process language
+more vulnerable to EMR interference. This enables the use of EMR to
+disrupt normal thought. People respond by beginning to talk to
+themselves.
 
 #
 
