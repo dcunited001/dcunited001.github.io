@@ -10,7 +10,6 @@ excerpt: ""
 
 - TODO: connect to article on hypnosis and Kantian category collapse
 
-
 - epistemicide
 
 
@@ -55,6 +54,8 @@ excerpt: ""
   of torture methods are all simply the basis of symbols that can be
   recombinated to form metaphors for domestic psychological torture
   methods.
+  - there are apparently two types of terrorists: actual terrorists
+    and informational terrorists.
   - these allegorical scenarios read as an instruction manual for
     domestic psychological torture. these are real things that are
     truly enacted against terrorists in a military base in
@@ -71,10 +72,140 @@ excerpt: ""
   to identify dissidents. Foreign intelligence services, domestic
   groups and non-state actors can all work within this space between
   pattern langauges to tactically interfere with the psychological
-  torture. in this way, terror groups can manipulate the torture of
-  dissidents or insert information into them, leveraging the "inmates"
-  as mules, who continue to be tortured while the entire nation stand
-  by, assuming these people are getting what they deserver.
+  torture.
+  - in this way, terror groups or foreign actors can manipulate the
+    torture of dissidents or insert information into them, leveraging
+    the "inmates" as mules, who continue to be tortured while the
+    entire nation stand by, assuming these people are getting what
+    they deserve.
+    - so, the real spies are using people they know to be vocal, whose
+      detainment cannot be acknoledged by America, since the detainees
+      have been psychologically tortured while deprived of their
+      dignity, their rights, all access to legal process.
+    - what this means is that adversarial actors *know* that nothing
+      that happens to these detainees will ever be broadcast or made
+      widely known. anything can happen to detainees and, by design,
+      no one will ever know about it. the specifics of how domestic
+      detainees obtain their information doesn't matter. they're never
+      allowed to participate in American society, ever.
+  - when adversarial actors manipulate the psychological torture, they
+    are covert single/double/triple agents that anticipate that, since
+    the United States has been ostensibly directing these programs,
+    that the US will catch all the flack for them when it blows up.
+    - that is, people will assume that it was all directed by the US,
+      who will catch all the blame, even for the torture of detainees
+      by adversarial double-agents.
+    - the whole point for adversarial agents is to contribute to all
+      the boisterous clamor surrounding psychological torture and the
+      American virtual-Gulag Archipelago that they know can never be
+      acknowledged for what it is by Americans in any official
+      capacity.
+
+### (What's the Cost of All This?)
+
+- There is widespread sociopolitical and psychological conflict in
+  America today. Depending on how widespread these programs are, in
+  tandem with all the illicit unintended contributions by adversarial
+  agents, then there may be around 2 million of people in some form of
+  detention or another.
+  - moreover, that means that several dozen thousand irreperable cases
+    of psychological damage.
+    - all you have to do is follow the money and follow the
+      sociophysical incentivization.
+
+    - The general creation of these casualities is part of a
+      large-scale strategy that is extremely difficult to follow,
+      since Americans are bombarded by nothing but disinformation.
+    - the second-degree and third-degree consequence of all out
+      psychological warfare in America means that there are many
+      psychological casualties.
+    - If adversarial actors are contributing to this widespread
+      psychosocial carnage, who's going to pay to clean all of that
+      up?
+      - in a physical conflict, when you maim soldiers -- either
+        intentionally or not -- the end result is that whatever
+        government pays for the care of those soldiers becomes
+        burdened by the expenses of their medical care, potentially
+        for the rest of that veterans life.
+      - in a psychological conflict, the injured are very difficult to
+        identify, but the costs to society are real, even if the true
+        causes of the psychosocial damage is not immediately
+        apparent. Even when the causes of psychological damage can be
+        assured to *never* remain identified or acknowledged, the
+        reality of having to medicate people for the rest of their
+        lives to treat entirely preventable mental illness means that
+        the United States medical expenses will be higher for the
+        remainder of every victim's life.
+    - so, if you know that the costs of medical care and social
+      programs will eventually bankrupt the United States, how do you
+      accelerate the development of those costs? Well, then gray-zone
+      action in psychological warfare is a no-brainer: your strategy
+      is to bring about the eventual collapse of the United States,
+      while intertwining your actions such that it appears that the US
+      was the sole cause of this psychosocial carnage the entire time.
+
+- TODO: perhaps move to the article on semioteleological revolution
+  - it's related to the conflict of informational systems
+      - why is this so hard to see? because America is swimming in a
+        deluge of lies. the one certainty is that you never tell the
+        truth or you have your social reach minimized. it's difficult
+        to catch the mainstream media or various other groups in lies
+        because fake news surrounding real events is manufactured.
+      - mass-media then propagates this fake news out to people, but
+        since the facts all check out, no one can catch anyone in a
+        lie. the effect is that attention is lensed onto fake,
+        manufactured real news by abusing mass communication and
+        social media.
+        - the news forms the set of topics and symbosl that americans
+          talk about. when you artificially restrict this set of
+          symbols to that established by manufactured fake news, then
+          the informational ground shifts beneath our feet without
+          anyone noticing. Anyone speaking the truth and asking
+          questions still has the freedom of speech. if they'd like to
+          speak up, they're free to identify themslves as political
+          dissidents. however, because the message contained in the
+          truth so starkly departs from languages of symbols
+          established by manufactured media, you can't speak up
+          without standing out.
+        - once people are afraid to speak the truth, then the truth is
+          further suppressed.
+      - this all has its ostensible strategic purposes, but no
+        strategy is executed in isolation. by ensuring that americans
+        are ignorant by controlling the information available to them
+        and persecuting anyone who speaks out, we've constructed our
+        own fantasy realities. We operate within our individually
+        chosen fantasy as well as epistemic space between it and other
+        individual's fantasy realities, but none of it is actually
+        real. despite that political action never feels more
+        necessary, nothing anyone does causes any significant
+        change. why? because we're all () thrashing about in our own
+        collective fantasies, where we're completely unable to
+        identify the facets of reality that may ultimately save
+        america.
+  - this epistemic chaos forebodes some incredibly disempowering
+    developments for the United States, if we can't get our act
+    together.
+    - information forms the basis for belief systems. for every values
+      system, there is information that defines the beliefs of that
+      values system. by manipulating information and driving
+      informational conflict, collective values systems that are
+      distributed in society can be disrupted or played against one
+      another.
+
+
+###
+
+- how does this relate to Obama's promise to dismantle Guantanamo
+  - it's never been clear to me where these programs began. GITMO
+    seems to be very similar to some of the stories about Area-51.
+    - There is a literal, physical Area-51 and no one can go there,
+      except airforce personal with TS-SCI clearance on the specific
+      programs there.
+    - But there is also the idea of Area-51, which forms the basis of
+      semiotic symbols which can be recombinated into languages.
+  - I don't know anything about Area 51 except that it may be similar
+    to the Guantanamo's domestic counterpart.
+
   - the lack of legal process and the total depersonalizaton of these
     detainees --
 
