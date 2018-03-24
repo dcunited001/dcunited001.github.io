@@ -10,6 +10,17 @@ excerpt: ""
 
 [Jormamu]()
 
+![Epistemicide](epistemicide.jpg)
+
+- epistemicide
+  - the systematic destruction of information structures deemed
+    heretical. the eradication or culling of instantiations of
+    forbidden knowledge in society.
+- leveraging bilingual readings for a kind of semantic hendiadys.
+  - concerning epistemic convolution: reachiing the authentic semantic
+    intent of an author by attempting to find the middle ground
+    between two transations.
+
 - if you seek true liberation and other people subsist by siphoning
   your sociophysical resources -- i.e. they take the value work they
   underpay you for, or they plan on deciving you to manipulate you to
@@ -454,14 +465,47 @@ disillusioned, they no longer recognize the true sources of their
 strength. One generation later, the nation succumbs to internal
 struggles.
 
+### (Modes of Epistemic Processing)
+
 Both the macrocosmic and microcosmic aspects of socioepistemic flux
-and churn inform the construction of a systemic understanding of how a
-person's accepted reality changes in response to what they've
-experienced in life, typologically.
+and churn inform systemic understanding of how various accepted
+realities of individuals changes in response to what they've
+experienced in life, typologically. That is, there are large-scale and
+small scale dynamics in socioepistemic flux. Since all instantiations
+of epistemic structures be contained within some entity, then how each
+individual's epistemic structures change in response to stimulus
+depend on how that individual chooses to perceive the metaphysical.
+
+Zooming out to larger scales of society, the variety of available
+modes to envisage epistemic structures then presents varied dynamics
+based on how uniformly groups choose to process and root epistemic
+structures. Does a group of individuals process and extend knowledge
+structures using a restricted set of epistemological tools? Or does a
+group choose to perceive and manipulate structures of knowledge
+diversely, each in their own way? If so, then they gain the benefit of
+leveraging the diversity of modes for processing epistemic
+structures. Therefore, collectively, the set of conclusions that group
+can reach is wider than that of the group who chooses to perceive
+knowledge, information and philosophy using only a narrow set of
+rules. In the past, when communication was moreso bound to areas of
+limited geographic scale, this meant that the modes of thought were
+also geographically bound. Before the modern era, it was more
+difficult to leverage the diversity of thought.
 
 - TODO: explain socioepistemic flux as it relates to the mutation of
   socially distributed epistemic structures
   - TODO: rename #1
+
+- (1) rooting epistemic structures in the metaphysical
+  - either they are bound to the material or to the ideal.
+  - but also, the individual hosting the knowledge structures may not
+    reason about how they choose to root knowledge or they may do so
+    irrationally
+- (2) mutating epistemic structures
+- (3) inferences based on the likely differential of epistemic
+  structures. kant already developed this to some extent, if you
+  understand his ideas.
+  - this is why philosophy is so critical
 
 #### (1) The churn of social consequences mainly resulting from how epistemic structures are rooted in either the idealistic or ideal conceptions of the metaphsyical.
 
@@ -536,6 +580,21 @@ experienced in life, typologically.
 
 ### (3?) Epistemic Morphology: Continuum Mechanics for the Metaphysical
 
+- Kant's work on epistemology was critical towards the West's
+  understanding of how ideas would evolve in the near future, if you
+  apply the concept of a Kantian Category to the short-term evolution
+  of ideas. Here the Kantian category represents the space just beyond
+  the known. By extrapolating the development of knowledge, the next
+  set of ideas still partially occluded is the Kantian category that
+  the current trajectory of knowledge must extend in to.
+
+- for a system with epistemic structures that correspond to
+  information & beliefs, must the structures in that system always
+  move continuously to some epistemic mutation representing a member
+  of the kantian category?
+  - in other words, is it possible to serendipitously skip beyond the
+    boundary of conceivable as-yet-unrevealed ideas?
+
 - for epistemic structures, how to get from here to there?
   - especially regarding structures that are socially distributed
   - this is complicated considering epistemic structures in limited
@@ -553,8 +612,15 @@ experienced in life, typologically.
       engagements that leads the student towards internalizing the
       correct set of information
 
+- by reasoning about the likely epistemological expansion,
+  - one can reapply the previous two "modes" towards inferences based
+    on differential dynamics of the development of knowledge.
+
+
 ==========
 
+
+- (TODO: move to a footnote)
 - how to ascertain the structure of someone's knowledge: this is a
   problem i encountered when trying to teach people how to jamskate.
   - later in life, it's incredibly frustrating knowing that people
@@ -596,14 +662,6 @@ experienced in life, typologically.
       life gradually began to believe that i would be mostly useful as
       an example to justify anti-drug propaganda.
   - there were people in my life
-
-==========
-
-- for a system with epistemic structures that correspond to
-  information & beliefs, must the structures in that system always
-  move continuously to some epistemic mutation representing a member
-  of the kantian category?
-
 
 
 <a name="dominating-consensus-reality-in-a-world-where-the-only-constant-is-change" />
