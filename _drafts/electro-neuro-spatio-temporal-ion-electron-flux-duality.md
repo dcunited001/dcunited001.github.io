@@ -10,9 +10,6 @@ excerpt: ""
 
 - TODO: connect to article on hypnosis and Kantian category collapse
 
-- epistemicide
-
-
 - interfering with the ultrasound by utilizing chi and energy healing
   techniques.
   - for me, this turns my torture into a game. it forces me learn
@@ -192,6 +189,58 @@ excerpt: ""
       distributed in society can be disrupted or played against one
       another.
 
+### Weaponized Iconoclasty
+
+  - there are certain (components of beliefs) that form critical
+    elements to the intended functioning of specific values systems,
+    like the shared, moral systems propagated into society by
+    religions.
+    - by dissecting these sytems, you can identify certain
+      (belief components, partial epistemic structures)
+    - by censoring or forbidding these components of belief that are
+      critical dependencies of shared moral systems, you significantly
+      impair those values systems from functioning as intended or
+      propagating themselves.
+      - every person that subscribes to that values system will be
+        affected in some or all of there interactions with society,
+        whether it's unique or typologically overlaps with shared
+        values systems across society
+      - as for these partial epistemic structures which are critical
+        dependencies
+    - This is a top-shelf tactic of elite academics: manipulate the
+      set of available components of propositions of argument and you
+      drive a systemic shift in dialogue and debate across the entire
+      system. You can see this technique used everywhere by the more
+      elite members of academic. In the latter half of the 20th
+      century, anyone who defended certain elements of naturopathy
+      might have their careers derailed if they associated themselves
+      with some treatment targeted for effective censorship.
+      - there are boundaries on "acceptible thought" and this applies
+        to academia as much as it applies to sociopolitical dialogue.
+        - if your understanding of some field or topic is (incredibly
+          deep), then by typologically constrain the types of
+          propositions avaibable for arguments and (as a consequence)
+          you constrain the set of conclusions that can be reached.
+        - the set of all possible rhetorical arguments, as well as
+          their conclusions, can be obtained combinating all the
+          propositions of those arguments.
+    - by applying the same tactics towards the components of dialogue
+      for cultural, political, religious or philosophical issues, you
+      can methodically calculate the impact it will have on socially
+      distributed values systems and the interactions between people
+      who subscribe to them.
+      - this can lead to entire social groups becoming systemically
+        disempowered as the ground shifts between them.
+        - by manipulating values systems, you encourage people to feel
+          righteous about their actions for
+          - "social justice" warriors are a great example of
+            this. anything they do to strive for social justice is
+            moral or perhaps obligated.
+      - in order for strategies leveraging these tactics of
+        (calculated rhetorical control) to be successful, then in
+        addition to exercising sufficient control over mass
+        communication and mass media, they must also ... ??
+
 
 ###
 
@@ -205,6 +254,56 @@ excerpt: ""
       semiotic symbols which can be recombinated into languages.
   - I don't know anything about Area 51 except that it may be similar
     to the Guantanamo's domestic counterpart.
+
+- it appears that this "domestic guantanamo" of psychological torture
+  is either completely a mechination of the left, designed to place
+  the blame of everything on the right, by fallaciously redefining the
+  concept of Guantanamo in the future as being a domestic program of
+  psychological torture.
+  - how have these domestic programs for surveillance and
+    psychological torture operated? They have been lensed against
+    conservative political dissidents primarily. All the mechanisms
+    constructed at the onset of the War on Terror were retargeted by
+    the Obama administration from foerign terror networks onto the
+    vague spector of domestic terror cells. This seems to have been
+    intended to disempower the political rivals of the Obama
+    administration.
+    - The Lois Lerner IRS scandal should have itself disqualified
+      Obama from seeking reelection, either explicitly via legal
+      consequence or implicitly by causing him to lose the
+      election. What happened instead? The administration abused
+      process to prevent details of this or any scandal from
+      emerging. When these scandals did emerge and resolve, they seem
+      to have only reached the Mainstream Media in the form of Fake
+      News madlibs. Obama never should have even sought reelection and
+      if these scandals were allowed to break as the happened, the
+      media would have never acted as cheerleaders during the 2012
+      election.
+    - does any of this matter? no! every individual's political agenda
+      outweighs (.. the tendancy to debate with the truth)
+  - when did all the manufactured fake news begin?
+    - it's manufactured so well, i suspect that the news stories which
+      are identied to propagate and amplify are merely automatically
+      identified leveraging machine learning.
+      - it's like a program that would search for real news stories
+        that *could* act as appropriate madlibs to describe events
+        using fake news.
+      - once identified, these recent stories can be forwarded to
+        agents inside mainstream media who push for them to be
+        published.
+      - furthermore, in sensational fashion, agents can act out
+        stories to be used as fake news madlibs.
+        - the facts all seem to be consistent: the stories that seem
+          so implausiable are all real events with real people. what's
+          uncertain is how these stories are being identified or
+          constructed. artificial intelligence to identify candidate
+          stories, coupled with SEO and social media pressure to
+          ensure the identified stories are amplified is clever as
+          hell.
+  - the only thing that seems certain to me? there is something going
+    on and it is very sophisticated. conveniently, no one can talk
+    about it.
+
 
   - the lack of legal process and the total depersonalizaton of these
     detainees --
