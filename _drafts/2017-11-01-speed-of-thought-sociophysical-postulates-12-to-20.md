@@ -8,6 +8,11 @@ author:
 excerpt: ""
 ---
 
+- sociophysical telemetry
+  - in networking telemetry is like `show cdp neighbors` for cisco
+    routers. also, there are many other telemetric protocols and
+    methods.
+
 - macrame/ta'veryn connection (the wheel of time: the web is like the
   series of possibilities and it's shape is similar to that of
   high-dimensional convergent knots)

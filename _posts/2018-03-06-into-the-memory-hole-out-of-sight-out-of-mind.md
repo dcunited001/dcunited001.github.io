@@ -5,7 +5,25 @@ tags: ""
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Being memory-holed essentially means that whenever someone comes into
+contact with a targeted individual, they have bluepills shoved down
+their throat until they either hate the target or forget that person
+ever existed. Ideally, it ensures that no one will encounter you to
+form memories that need to be scrubbed out later on. Whether it was
+intentional at first is unclear, but I've been memory holed happened
+for over 10 years now. I've experience a decade of this. It's called
+being 'Memory Holed' as in 'Hold the memories, please.' Basically, you
+are socially isolated, so people accumulate minimal memories with you,
+socially. This means that your adversaries have pre-emptively erased
+you, by ensuring that minimal individuals have memories distributed
+socially that include neurological impressions of you. This gives an
+adversary a great deal of flexibility when telling the target's
+story. The target is disconnected and has no ability to project
+information socially and thus manipulative adversaries with `HUMINT`
+networks completely dominate the narrative with regard to specific
+targeted individuals.
+"
 ---
 
 > Sorry, I would have liked to have published something positive next,
@@ -484,16 +502,16 @@ long-term.
 
 ### [Prolonged Deprivation of Reinforcment Signal Disrupts An Individuals Social Pattern Recognition](#prolonged-deprivation-of-reinforcement-signal-disrupts-an-individuals-social-pattern-recognition)
 
-After a prolonged period of being subjected to this, there is total
-breakdown in your ability to recognize/emulate *PATTERNS* of positive
-& rewarded behavior. Your psyche's pattern recognition itself begins
-to break down for social behaviors in yourself and others. You are
-blinded to other's social behaviors for what they are: you couldn't
-emulate it if you could even recognize it. If you did reconize it, no
-one in your social boundary would signal you with positive
-reinforcement anyways. Before this happens, your habits and routines
-begin to break down because none of them have been properly
-rewarded.
+After a prolonged period of being subjected to reinforcement
+deprivation via isolation, there is total breakdown in your ability to
+recognize/emulate *PATTERNS* of positive & rewarded behavior. Your
+psyche's pattern recognition itself begins to break down for social
+behaviors in yourself and others. You are blinded to other's social
+behaviors for what they are: you couldn't emulate it if you could even
+recognize it. If you did reconize it, no one in your social boundary
+would signal you with positive reinforcement anyways. Before this
+happens, your habits and routines begin to break down because none of
+them have been properly rewarded.
 
 There is no hope for someone in this situation until they leave or the
 dynamics of those in the situation change. Whether their abusers are
@@ -600,7 +618,7 @@ While the [memory hole](https://en.wikipedia.org/wiki/Memory_hole) is
 originally from 1984, it is not THE memory hole that I'm referring
 to. The reference from 1984 is simply a metaphor for a more sinister
 tactic of information control. It's incredibly effective for handling
-waste that unfortunately came into contact with "classified"
+toxic waste that unfortunately came into contact with "classified"
 information.
 
 Being memory-holed essentially means that whenever someone comes into
@@ -609,11 +627,17 @@ their throat until they either hate the target or forget that person
 ever existed. Ideally, it ensures that no one will encounter you to
 form memories that need to be scrubbed out later on. Whether it was
 intentional at first is unclear, but I've been memory holed happened
-for over 10 years now. i've experience a decade of this. It's called
+for over 10 years now. I've experience a decade of this. It's called
 being "Memory Holed" as in "Hold the memories, please." Basically, you
 are socially isolated, so people accumulate minimal memories with you,
 socially. This means that your adversaries have pre-emptively erased
-you.
+you, by ensuring that minimal individuals have memories distributed
+socially that include neurological impressions of you. This gives an
+adversary a great deal of flexibility when telling the target's
+story. The target is disconnected and has no ability to project
+information socially and thus manipulative adversaries with `HUMINT`
+networks completely dominate the narrative with regard to specific
+targeted individuals.
 
 #### Nope, No One Wants To Associate With This Guy. Surprise?
 
@@ -640,13 +664,14 @@ off.
 
 ### [We're Sorry, Your Memories Go In The Memory Hole](#were-sorry-your-memories-go-in-the-memory-hole)
 
-The memory hole is only a tactic against valid targets, who must be
-socially, financially and psychologically vulnerable. It won't work
-against everyone, but where it does, it's incredibly effective. This
-is why it's infuriating for me personally: it means that people
-assessed my psychology and worked to cull me out of society, undermine
-my career and seeded a bunch of personality disorders into my
-psychology.
+The memory hole is only an effective tactic against vulnerable
+targets. They must be socially, financially and psychologically
+vulnerable or it's fairly easy for the target to compensate by moving
+away from the source of psychological pain. It won't work against
+everyone, but where it does, it's incredibly effective. This is why
+it's infuriating for me personally: it means that people assessed my
+psychology and worked to cull me out of society, undermine my career
+and seeded a bunch of personality disorders into my psychology.
 
 #### Classifying Memories of Guantanamo Detainees Serves to Blame The Victims and Protect the Perpetrators
 

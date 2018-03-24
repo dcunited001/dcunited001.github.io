@@ -984,7 +984,99 @@ change.
     does that leave the notions of family and community? That world is
     incredibly dark and nothing of value grows there.
 
-<a name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways" />
+### Harnessing Socioepistemic Churn to Power a Pole Reversal Event For Moral Systems
+
+- when good becomes evil and evil becomes good
+  - TODO: sin city imagery
+  - or more realistically: when my good becomes your evil and your
+    good becomes my evil
+    - adequate converse/inverse etc for the above situation
+
+#### During A Geomagnetic Pole Reversal Event, The Earth's Magnetic Field Forms Many Smaller Intricate Poles
+
+> During a geomagnetic pole-reversal event, the earth's magnetic field
+> forms smaller, intricate transient poles.
+
+![Pole Reversal](/img/)
+
+
+- The intricate dynamics of a geomagnetic pole reversal parallel the
+  implications to moral systems as belief systems are disrupted
+  geosocially.
+  - The epistemic distruption causes people to reshape the information
+    and knowledge that constitutes their belief systems. Individually
+    and collectively, belief systems form the basis of moral
+    systems. (Geosocially), these belief systems have spectral effects
+    with constructive and destructive resonance.
+    - is "geosocial" the right term here? or sociophysical? with the
+      internet, the physical matters less
+  - the point: this disruption of moral systems leads to chaos, but
+    presents opportunities for people to harness that chaos as a kind
+    of dynamo for revolution: of knowledge systems, political systems
+    and (to reshape the integration of social institutions as they
+    connect with society)
+  - connecting this to a "pole-reversal" reduces it to good vs. evil
+    and is too binary. how to connected this to nietzschean ideas of
+    "beyond good and evil" -- this is really *applied Nietzsche*.
+  - while this pole-reversal happening, most people great and small
+    are so distracted by the lower-order effects that they don't
+    bother looking for the root of the problems emerging in society
+    - this presents an opportunity for those who are proactively
+      driving this socioepistemic chaos to leverage it for
+      sociopolitical gain or to sow the seeds of conflict.
+    - regardless, this is how revolutions and wars begin. this is how
+      the untouchably powerful are (challenged), deconstructed and
+      dismantled. it's not simple. if it was simple, the untouchably
+      powerful would simply defuse it.
+  - while this chaos plays out, the political and economic elite
+    remain enamored with illusions that it is they who run the state
+    or economic order. they become ex
+
+- I'm not trying to argue that this is a good idea. I'm trying to
+  point out that this is very much what is happening in American and
+  Western societies immediately. People need to wake up. Our societies
+  are fragile, not robust. What is happening is extremely
+  sophisticated. These social and informational dynamics are being
+  proactively driven so that western powers reactively waste their
+  sociophysical and financial resources chasing all these fires, which
+  are ultimately insignificant when compared to the higher-order root
+  causes of the dynamics.
+  - as long as the intellectual elite dictates that the root causes of
+    these tumultuous socioepistemic dynamics remain verboten and
+    off-limits for discussion, then neither the elite nor the poor in
+    these countries will be able to assess, diagnose or treat the
+    problems to any (significant) effect.
+  - it's because we now consider it immoral to even discuss the true
+    root causes of many of these problems. or at least, it's trivial
+    for the adversarial liberal elite to reframe their opponents'
+    rhetoric, so that it becomes rebranded as politically incorrect.
+    - as long as no one is permitted to discuss the root causes, we'll
+      be wasting our time pissing away all our sociophysical and
+      financial potential energies. We'll squander every resource we
+      have and gain nothing for it.
+    - there are some subjects and rhetorical propositions in modern
+      western society branded politcally incorrect which are verboten
+      and should continue to be deemed immoral.
+    - it is incredibly unproductive and disempowering when (certain)
+      speech is branded as politically incorrect or inherently immoral
+      -- simply so that liberals win the argument for the day.
+    - They threaten to deprive conservatives and political adversaries
+      of sociohierarchical territory and social influence by stifling
+      all debate on critical issues. They systematically undermine
+      moral systems and belief systems which occupy (critical) roles
+      in society, without ever thinking about ensuring those roles are
+      provided for by institutions or belief systems in society.
+    - They want to save the world and save the people, but are
+      completely detached from reality when it comes to understanding
+      the higher-order effects of their actions and policy. They want
+      to save society, but they don't understand social behavior
+      whatsoever. Except, apparently, insofar as how social aspects of
+      society can be utilized to detain, block and disempower their
+      political rivals.
+
+<a
+name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways"
+/>
 
 # [Who Are The Illuminati And Why Are They Such Assholes Anyways?](#who-are-the-illuminati-and-why-are-they-such-assholes-anyways)
 
