@@ -31,22 +31,45 @@ title: "Birth of a New Star: Distributed Precipitation For Transfiguration"
         around them who are dependent on the success of these great
         men, for whatever reason.
 
-- this "great man" becomes positioned just right in academia/industry,
+- this "great man" becomes positioned (just right) in academia/industry,
   - they are threaded and intertwined into a network of people. the
     probabilities are amplified that specific social connections will
     be made over short or long time-scales, all without seeming
     forced.
-m
-- TODO: finish typing outline...
+  - As that (candidate) absorbs additional (informational salinity) --
+    especially as that knowledge relates to poorly understood trends
+    critical to society in the near future -- this distinguishes them
+    from their colleagues as a (more-deserving) candidate
 
-  - while it appears the people who deposited the salt of their
-    success and measured the strength of this vessel of salt weren't
-    involved at all.
+- (it is the knowledge they absorb that drives the development of
+  their vision). Perhaps, it precipitates serendipitously through
+  their life experience. (Maybe the deconstructed knowledge is
+  intentionally disseminated to them in decentralized fashion.)
+  - regardless, it's this accumulation of precipitated knowledge --
+    coupled with their ability to leverage it to extrapolate an
+    unparalleled vision -- that is required (starting material) for
+    their transfigurational catalyzation into greatness.
+
+- academic institutions as sociophysical breeding grounds for the
+  exchange and fermentation of knowledge.
+  - the probablities of the right connections being made between
+    intellectual people increase dramatically, as do the probabilities
+    of myriad types of events that can only occur between people with
+    sufficient levels of knowledge, especially that specific to a
+    field of study.
+  -
+
+- (if done correctly) it appears the people who deposited the salt of
+  their success and measured the strength of this vessel of salt
+  weren't involved at all.
 
   - (this) is all but meaningless when the average person knows the
     truth and can be detrimental to the great man's ego, whose passion
     is often fueled by the perspective and light wherein they've
     chosen to frame their merits.
+
+- but (if this is so..) why bother?
+  -
 
 # The Great Man's Reality Distortion Field
 

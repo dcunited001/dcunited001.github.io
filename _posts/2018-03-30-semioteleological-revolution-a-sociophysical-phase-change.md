@@ -1074,9 +1074,7 @@ change.
       society can be utilized to detain, block and disempower their
       political rivals.
 
-<a
-name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways"
-/>
+<a name="who-are-the-illuminati-and-why-are-they-such-assholes-anyways" />
 
 # [Who Are The Illuminati And Why Are They Such Assholes Anyways?](#who-are-the-illuminati-and-why-are-they-such-assholes-anyways)
 
