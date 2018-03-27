@@ -1,3 +1,17 @@
+
+
+# Misc
+
+- [Bernstein's
+  Constant](https://en.wikipedia.org/wiki/Bernstein%27s_constant),
+  [Uniform
+  Approximations](https://en.wikipedia.org/wiki/Uniform_convergence)
+  and the capacity of analytical methods derived from polynomials
+  - these polynomials are created via convolution of free algebra,
+    - i.e. direct summing of tensor products to create the most
+      generalized polynomial system of N variables to provide a basis
+      for an analytical model with linear/quadriadic/cubic components
+
 ### Matroids
 
 - what happens with an infinite number of paths? nodes?
