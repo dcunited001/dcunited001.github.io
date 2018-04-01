@@ -269,7 +269,7 @@ of Universal healthcare while enforcing sequestration, we merely
 enable [Khrushchev's
 wetdream](www.library.arizona.edu/exhibits/udall/khrushch_htm.html):
 
-#### A Disputed Quote Nikita Khrushchev, Which Is True Regardless of Whether He Said It
+#### A Disputed Quote From Nikita Khrushchev, Which Is True Regardless of Whether He Said It
 
 > "We cannot expect the Americans to jump from capitalism to
 > Communism, but we can assist their elected leaders in giving
@@ -614,7 +614,7 @@ These crimes are hardly limited to one power or another. I believe all
 superpowers share some level of guilt in violating sections of the
 Geneva Convention, whether those violations were outright, through
 some technicality or by tectonic shift in the international legal
-realm. Each power's actual level of exposure to warcrimes violations
+realm. Each power's actual level of exposure to warcrime violations
 differs greatly from each other's apparently level of exposure, which
 has much to do with people's incentive and ability to both access and
 publish information about those regimes.
@@ -2501,7 +2501,7 @@ possibility for a universal language. It should be designed such that:
 
 #### &#9313; It retains efficiency in spoken/written communication
 
-#### &#9314; Its resulting spatial/computatioanl complexity are characteristics time & energy efficient
+#### &#9314; Its resulting spatial/computational complexity characteristics are time & energy efficient
 
 #### &#9315; It maps closely to Leibniz's idea of [Characteristica Universalis]() the Universal Language, based on logic and universal mathematic primitives
 
@@ -2675,7 +2675,7 @@ would be needed or wanted could be *known*, at least given
 multifarious methods for influencing it's adoption and rate of
 expansion. So, it's a good guess, combined with an understanding of
 how to turn that guess into reality, adjusting the plans as needed
-along the course of 250 years. *IF* this is what happened, kudos to
+along the course of 250 years. *If* this is what happened, kudos to
 our founders. That is impressive!
 
 #### I Keep Saying "Emulation of Ancient Thought Confers Penultimate Metacognition" and Even If I'm Wrong, I'm Smarter For The Thought Experiment

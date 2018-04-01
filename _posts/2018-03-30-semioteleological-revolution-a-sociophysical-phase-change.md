@@ -22,136 +22,6 @@ excerpt: ""
     intent of an author by attempting to find the middle ground
     between two transations.
 
-- idea upon reading "Dictionary of Untranslatables"
-  - TODO: i really need good pictures for this section because it's
-    very difficult to understand without a visual conception of NLP,
-    word vectors, semantic networks, n-grams, and other tools of
-    computational linguistics
-  - "semantic triangulation" of difficult-to-translate words b/w
-    language pairs, language triples, etc
-  - these untranslatables provide a metric for semantic parity b/w
-    languages.
-    - (1) languages descending form common roots diverge further over
-      time.
-      - this causes them to accrue generally more
-        "untranslatables". furthermore, there are energy/entropy
-        dynamics at play governing large-scale evolution of
-        morpheme-to-sememe mappings and semantic networks
-      - that is, evolution of morphemes-to-sememes over time causes
-        sememes and morphemes to "repel" each other in semantic space
-        - ...
-    - (2) langauges experiencing coevolutionary dynamics by being
-      geographically close.
-      - these langauges usually share common language roots, but not
-        always.
-      - for languages occupying regions that are close, new concepts
-        are introduced at similar times via trade and political
-        influences. new ideas are introduced, but the speakers of each
-        language must unconsciously decide how to map new morphemes to
-        new ideas.
-  - for both of these types of sufficiently similar languages, they
-    have similar semantic networks than "less similar" languages.
-    - and particularly, their evolutionary dynamics over decades of
-      time should exhibit more similarity than other less similar
-      languages.
-    - however, measuring these languages requires vast volumes of
-      literature whose authorship can't be too centralized and can't
-      be too decentralized. this is a common problem with data in
-      computational linguistics: there aren't very many languages with
-      enough data to measure semantic networks or evolutionary
-      dynamics with confidence.
-      - the period of european literature from c. 1500-1900 is ideal
-
-  - for both of these cases, "semantic triangulation" of
-    untranslatabes provides a semantic signature that should be
-    characteristically preserved *or* deformed over time in ways that
-    are idiosyncratic when compared to "more translatable" words.
-    - identifying these untranslatables among language tuples and
-      processing them with computational lingustic techniques into
-      digitized data for semantic analysis enables their idiosyncratic
-      semantic translation signatures to be used as the semantic
-      equivalent of how any position in the universe can be determined
-      by comparing the stars in the sky to a map of known pulsars
-    - pulsars are incredibly rare stars with idiosyncratic qualities
-      that very along their plane of rotation. the set of visible
-      pulsars allows you to resolve your position in the physical
-      universe very quickly by determining how frequently the visible
-      pulsars are rotating and along which plane they rotate.
-      - every other star looks fairly similar, but pulsars are so rare
-        and idiosyncratic that the likelyhood that there are two
-        points in the universe that share a similar view of pulsars is
-        beyond infinitesimal.
-    - how do maps of pulsars as used for the ascertainment of position
-      in the universe relate to the concept of [orthonormal
-      basis](https://en.wikipedia.org/wiki/Orthonormal_basis)
-      - what kind of "basis" enables this resolution?
-  - these idiosyncratic "untranslatables" function similarly to
-    pulsars in navigating semantic networks, the convolution of which
-    should lead us to becoming capable of mapping the metaphysical.
-    - there are almost certainly problems of intractibility related to
-      this process of epistemic convolution towards a map/basis for a
-      universal semantic network
-    - however, this universal semantic network probably corresponds to
-      mathematic structures and would provide the optimal basis for
-      Leipniz's [Characteristica
-      Universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
-      - connect to [Kleene
-        Star](https://en.wikipedia.org/wiki/Kleene_star)
-        - how does the concept of kleene star connect combinatorics
-          and language?
-
-  - how are such "Untranslatable" signatures useful for NLP or
-    computational linguistics?
-    - (1) this construct provides another tool to assess the parity of
-      translations. that this works for humans is apparent in the
-      "Dictionary of Untranslatables" where the authors discuss common
-      traps of translation and common concepts/words to identify to
-      quickly gauge the translator's sentiment/antipathy towards the
-      work they're translating, even if the concept at hand is
-      seemingly minor.
-      - example of a common trap: translations of the concept of
-        agency b/w french/english works of philosophy. it is
-        difficult/confusing to translate. understanding how the
-        translator chooses to handle sujet & agency in works that
-        cover those topics have implications for the parity of the
-        translation.
-        - the french/english translation problem for agent & agency is
-          also a great example of a translation that has grammatical
-          implications and, as such, is a particular difficult problem
-          that must be overcome in NLP and computational linguistic
-          analysis. so, in particular situations, there are no
-          satisfactory "substitutions" for agent/sujet
-    - (2) observing the distance between morphemes and their
-      idiosyncratic sememes over time to quantify dynamics in
-      linguistic evolution
-      - these idiosyncratic untranslatable sememes then become a kind
-        of "standard candle". the complex distance between these
-        standard candles over time is very important.
-      - however, more critical to the study of dynamics in linguistic
-        evolution is observing how this distance from *other* concepts
-        (sememes and morphemes) as they relate to the semantic
-        "standard candles"
-        - especially if it's possible to begin measure entropy and
-          distribution of sememes in semantic networks and the
-          morphemic pointers mapped to them in particular languages.
-        - because (energy dynamics) apply (in complicated perhaps
-          unquantifyable fashion) to semantic networks
-          - for regions of semantic networks where there are too many
-            morphemes mapping to sememes, those morphemes will
-            gradually repel each other.
-          - however, morphemes don't simply map to singular
-            sememes. they map in complicated fashion. and occasionaly,
-            very artificial dynamics begin to emerge based on
-            psycholingustic implications of the phonology of morphemes
-            as the relates to other morphemes (e.g. puns and homonyms)
-          - whenever these artificial dynamics occur, they defy the
-            common energetic dynamics that govern natural evolution of
-            semantic networks.
-        - this is where you begin to see the "invisible hand" of the
-          illuminati's control over langauge and linguistic
-          evolution. eventually, it will be demonstrated in an
-          undeniable manner by computational linguistics.
-
 
 - if you seek true liberation and other people subsist by siphoning
   your sociophysical resources -- i.e. they take the value work they
@@ -628,18 +498,17 @@ difficult to leverage the diversity of thought.
   socially distributed epistemic structures
   - TODO: rename #1
 
-- (1) rooting epistemic structures in the metaphysical
+#### (1) Whither Are An Individual's Epistemic Structures Rooted?
+
+- rooting epistemic structures in the metaphysical
   - either they are bound to the material or to the ideal.
   - but also, the individual hosting the knowledge structures may not
     reason about how they choose to root knowledge or they may do so
     irrationally
-- (2) mutating epistemic structures
-- (3) inferences based on the likely differential of epistemic
-  structures. kant already developed this to some extent, if you
-  understand his ideas.
-  - this is why philosophy is so critical
 
-#### (1) The churn of social consequences mainly resulting from how epistemic structures are rooted in either the idealistic or ideal conceptions of the metaphsyical.
+- The churn of social consequences mainly resulting from how epistemic
+  structures are rooted in either the idealistic or ideal conceptions
+  of the metaphsyical.
 
 - describe the major consequences between these two epistemic premises
   of knowledge
@@ -660,7 +529,90 @@ difficult to leverage the diversity of thought.
   - connect to the subsequent section on the "clarity" of potential
     futures and the available paths thereto.
 
-#### (2)
+- an individual's (philosophical) framework for logic and epistemology
+  corresponds to the structure of neurological representations of
+  their knowledge and thoughts
+  - this metaphysical "rooting" of epistemic structures and knowledge
+    impacts the shapes and internetworking of the neurological
+    representations of those ideas
+    - (where the neurological representations aren't necessarily the
+      physical shapes of neural networks per se, but moreso the
+      electrical patterns corresponding to the neurological reflection
+      of the ideas referenced in someone's thoughts)
+    - mental constructs and the epistemic structures therein must
+      correspond to neurological representations of those constructs
+
+#### (TODO: move this somewhere else)
+
+  - it's fascinating to reason about how this extends to irrationally
+    or illogically structured ideas, especially when these ideas are
+    projected to social scale. in states like the Soviet Union, people
+    were forced to reason about state-mandated delusiions that
+    resemble the fake news of our era.
+    - when someone's delusional ideas about reality begin to have very
+      real effects on your reality and life experience, if you can't
+      reason about those specific false and/or irrational ideas
+      projected by perhaps the state or some charismatic leader, then
+      you can suffer real consequences.
+  - usually, when a individual is forced to believe something that's
+    false, they usually either compartmentalize it, convoluting their
+    actions and statements around it. Depending on the nature of the
+    false beliefs they are compelled to accept project belief
+    - the other (usual way) individuals usually handle this is to
+      swallow the pill whole and believe the false beliefs.
+  - what happens when an entire society is compelled to believe these
+    fantasies?
+    - e.g. the government forces them to believe something like `2 + 2
+      = 5`, especially when it's something that's difficult to
+      believe, but important to not contradict. In the past, when this
+      happens, the state compels people to believe these untruths and
+      holds an individual's upward motion through social strata as
+      motivation. the state can decide to make or break an
+      individual's life based on how that person's statements and
+      actions belie their their beliefs about such mandated untruths.
+    - in this case, all those who want to be moderately successful in
+      life or who want to avoid being tormented for discussing taboo
+      subjects must walk on eggshells and be capable to extrapolating
+      from irrationally structured or illogically constructed
+      ideas. otherwise, regardless of their talent or capacity to
+      contribute to society, they will be deprived of the
+      opportunities for obtaining influence in society, if not
+      tormented outright.
+      - this is essentially conflict over the social distribution of
+        epistemic structures: it's a clash between the interests of
+        the powerfule whose worldviews descend from and depend on
+        specific information remaining true at least appearing to be
+        true.
+        - and especially the consistency of that information in the
+          context of the worldview. information warfare always
+          preceeds social conflict and military conflict. to control
+          belief is to control types of people's orientation towards
+          the world. it is to control their wants, desires, apparent
+          needs and attention; change the prevelant beliefs in a
+          nation and you can lens or funnel the sociophysical energy
+          of those individuals, which can lead to cooperation or
+          conflict.
+
+- the consistency of the narratives and components of the dominant
+  worldview is critical. no one wants the seams to start
+  showing. absent some obvious compelling external threat to
+  promulgate falsehoods and/or irrational beliefs, when the seams
+  start to show, people become demoralized quickly. we seek truth
+  because truth is simple, truth is socially convergent (i.e. truth is
+  truth everywhere and to everyone) and, most crucially, (truth is
+  useful to society). being compelled to deal with superstitions and
+  falsehoods cripples our capacity to advance.
+  - when you're forced to walk on eggshells every time you get close
+    to censored information or people, it stifles communication,
+    promotes social conflict and creates potential for dissention.
+  - those illogical components of belief systems foisted onto
+    citizens: how useful are they really? it may help you cling onto
+    power, if you can just compel people to keep swallowing those
+    pills.
+    - what about the
+
+
+#### (2) (mutating epistemic structures)
 
   - (2) and in how whether the knowledge structures are primarily
     constructed from additive logic ("pure rationalism"), subtractive
@@ -711,6 +663,19 @@ difficult to leverage the diversity of thought.
 [Noumenon](https://en.wikipedia.org/wiki/Noumenon#Schopenhauer's_critique)
 
 ### (3?) Epistemic Morphology: Continuum Mechanics for the Metaphysical
+
+
+- (3) inferences based on the likely differential of epistemic
+  structures. kant already developed this to some extent, if you
+  understand his ideas. Kant's writing on epistemology essentially
+  established a framework for reasoning about how knowledge evolves in
+  the short term.
+
+#### What is known? How is it known?
+
+#### What are reasonable extrapolations based on what is known?
+
+#### What can be assumed to be a believable extrapolation, to various types of people, based on the distribution of knowledge in a society?
 
 - Kant's work on epistemology was critical towards the West's
   understanding of how ideas would evolve in the near future, if you
@@ -1662,6 +1627,138 @@ hit the critical mass for neurogenetic epigenetic evolution.
         against all apparent odds.
       - if this were not the case, one could not expect the folding
         funnel hypothesis to hold up.
+
+
+- idea upon reading "Dictionary of Untranslatables"
+  - TODO: i really need good pictures for this section because it's
+    very difficult to understand without a visual conception of NLP,
+    word vectors, semantic networks, n-grams, and other tools of
+    computational linguistics
+  - "semantic triangulation" of difficult-to-translate words b/w
+    language pairs, language triples, etc
+  - these untranslatables provide a metric for semantic parity b/w
+    languages.
+    - (1) languages descending form common roots diverge further over
+      time.
+      - this causes them to accrue generally more
+        "untranslatables". furthermore, there are energy/entropy
+        dynamics at play governing large-scale evolution of
+        morpheme-to-sememe mappings and semantic networks
+      - that is, evolution of morphemes-to-sememes over time causes
+        sememes and morphemes to "repel" each other in semantic space
+        - ...
+    - (2) langauges experiencing coevolutionary dynamics by being
+      geographically close.
+      - these langauges usually share common language roots, but not
+        always.
+      - for languages occupying regions that are close, new concepts
+        are introduced at similar times via trade and political
+        influences. new ideas are introduced, but the speakers of each
+        language must unconsciously decide how to map new morphemes to
+        new ideas.
+  - for both of these types of sufficiently similar languages, they
+    have similar semantic networks than "less similar" languages.
+    - and particularly, their evolutionary dynamics over decades of
+      time should exhibit more similarity than other less similar
+      languages.
+    - however, measuring these languages requires vast volumes of
+      literature whose authorship can't be too centralized and can't
+      be too decentralized. this is a common problem with data in
+      computational linguistics: there aren't very many languages with
+      enough data to measure semantic networks or evolutionary
+      dynamics with confidence.
+      - the period of european literature from c. 1500-1900 is ideal
+
+  - for both of these cases, "semantic triangulation" of
+    untranslatabes provides a semantic signature that should be
+    characteristically preserved *or* deformed over time in ways that
+    are idiosyncratic when compared to "more translatable" words.
+    - identifying these untranslatables among language tuples and
+      processing them with computational lingustic techniques into
+      digitized data for semantic analysis enables their idiosyncratic
+      semantic translation signatures to be used as the semantic
+      equivalent of how any position in the universe can be determined
+      by comparing the stars in the sky to a map of known pulsars
+    - pulsars are incredibly rare stars with idiosyncratic qualities
+      that very along their plane of rotation. the set of visible
+      pulsars allows you to resolve your position in the physical
+      universe very quickly by determining how frequently the visible
+      pulsars are rotating and along which plane they rotate.
+      - every other star looks fairly similar, but pulsars are so rare
+        and idiosyncratic that the likelyhood that there are two
+        points in the universe that share a similar view of pulsars is
+        beyond infinitesimal.
+    - how do maps of pulsars as used for the ascertainment of position
+      in the universe relate to the concept of [orthonormal
+      basis](https://en.wikipedia.org/wiki/Orthonormal_basis)
+      - what kind of "basis" enables this resolution?
+  - these idiosyncratic "untranslatables" function similarly to
+    pulsars in navigating semantic networks, the convolution of which
+    should lead us to becoming capable of mapping the metaphysical.
+    - there are almost certainly problems of intractibility related to
+      this process of epistemic convolution towards a map/basis for a
+      universal semantic network
+    - however, this universal semantic network probably corresponds to
+      mathematic structures and would provide the optimal basis for
+      Leipniz's [Characteristica
+      Universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
+      - connect to [Kleene
+        Star](https://en.wikipedia.org/wiki/Kleene_star)
+        - how does the concept of kleene star connect combinatorics
+          and language?
+
+  - how are such "Untranslatable" signatures useful for NLP or
+    computational linguistics?
+    - (1) this construct provides another tool to assess the parity of
+      translations. that this works for humans is apparent in the
+      "Dictionary of Untranslatables" where the authors discuss common
+      traps of translation and common concepts/words to identify to
+      quickly gauge the translator's sentiment/antipathy towards the
+      work they're translating, even if the concept at hand is
+      seemingly minor.
+      - example of a common trap: translations of the concept of
+        agency b/w french/english works of philosophy. it is
+        difficult/confusing to translate. understanding how the
+        translator chooses to handle sujet & agency in works that
+        cover those topics have implications for the parity of the
+        translation.
+        - the french/english translation problem for agent & agency is
+          also a great example of a translation that has grammatical
+          implications and, as such, is a particular difficult problem
+          that must be overcome in NLP and computational linguistic
+          analysis. so, in particular situations, there are no
+          satisfactory "substitutions" for agent/sujet
+    - (2) observing the distance between morphemes and their
+      idiosyncratic sememes over time to quantify dynamics in
+      linguistic evolution
+      - these idiosyncratic untranslatable sememes then become a kind
+        of "standard candle". the complex distance between these
+        standard candles over time is very important.
+      - however, more critical to the study of dynamics in linguistic
+        evolution is observing how this distance from *other* concepts
+        (sememes and morphemes) as they relate to the semantic
+        "standard candles"
+        - especially if it's possible to begin measure entropy and
+          distribution of sememes in semantic networks and the
+          morphemic pointers mapped to them in particular languages.
+        - because (energy dynamics) apply (in complicated perhaps
+          unquantifyable fashion) to semantic networks
+          - for regions of semantic networks where there are too many
+            morphemes mapping to sememes, those morphemes will
+            gradually repel each other.
+          - however, morphemes don't simply map to singular
+            sememes. they map in complicated fashion. and occasionaly,
+            very artificial dynamics begin to emerge based on
+            psycholingustic implications of the phonology of morphemes
+            as the relates to other morphemes (e.g. puns and homonyms)
+          - whenever these artificial dynamics occur, they defy the
+            common energetic dynamics that govern natural evolution of
+            semantic networks.
+        - this is where you begin to see the "invisible hand" of the
+          illuminati's control over langauge and linguistic
+          evolution. eventually, it will be demonstrated in an
+          undeniable manner by computational linguistics.
+
 
 #### Not-e, Nati Zut
 
