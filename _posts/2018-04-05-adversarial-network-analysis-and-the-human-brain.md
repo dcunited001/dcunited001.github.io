@@ -8,11 +8,263 @@ author:
 excerpt: ""
 ---
 
-- "cognitive tracing"
+- in order for anyone to understand this i need pictures...
+  - draw.io?
+
+- define the following concepts and rename
+  - "cognitive tracing"
   - "neural tracing"
 
 - mention the "Spider brains" article
 
+###
+
+- other interesting aspects of the brain as an analytical machine
+  - it is essentially a quantum computer, although it doesn't harness
+    quantum-mechanical effects
+  - THC's mechanisms dampen active neural circuits
+    - describe this mechanism in detail.
+    - since your brain is an analytical machine, the (neural circuits)
+      that are activated are the equivalent to the weighted (paths:
+      define this in more detail) in neural networks
+      - however, where CBN receptors are distributed in the brain, THC
+        dampens neural ciruits that have been recently activated.
+      - for your brain to pursue the same objectives while its primary
+        circuits for that activity are dampened, it must leverage
+        alternative neural circuits. this is partially responsible for
+        THC's renowned ability to enhance creativity.
+      - however, the metabolic degradation pathways for THC (via CBN,
+        etc) cause fatigue, etc (do i bother describing this?)
+  - in order to use marijuana to most effectively enhance creativity,
+    it requires transforming your (subjective awareness) of it's
+    effects on your cognition.
+    - because marijuana dampens the primarily active neural circuits
+      (in proximity to where THC receptors are located in the brain),
+      then you have to subjectively anticipate this and understand how
+      it specifically affects your cognition.
+      - also, your cognition is causing various neural circuits to
+        activate, but after brief periods of activation, those
+        circuits are dampened.
+      - to enhance creativity the most, you'll want to control your
+        cognition to broaden the "spectrum" of neural activiations by
+        partkaing in a wide variety of activitys in the two-three
+        hours after using it.
+        - if you stick to just one activity, the neural circuits
+          related to that activity, as well as the newly activated
+          circuits which are "adjacent" alternative pathways for
+          completing the same task-types, will instead all become
+          dampened.
+
+### Emulating the Evolution of Physical Systems With AI
+
+- To train AI to play pinball, what structures emerge in the design of
+  the AI?
+  - pinball is a game based on physical systems. Given a 3D model of
+    the space of the pinball machine, without an understanding of the
+    the mechanics of the components, a pinball machine is basically a
+    speciallized 3D particle system with one particle. Unless, of
+    course -- *MULTIBALL*.
+  - given the ball's position, momentum and associated derivatives,
+    there's a tensor structure that describes the most likely
+    evolutions of the system. when approaching the brain as an
+    analytical machine whose cognition is augmented by the qualatitve
+    aspects of the activities it masters, this is very interesting
+    indeed, since the brain must overcome the same emulations of the
+    pinball machine's physics as an AI.
+
+- the tensor structure should look something like this:
+  - Need to describe this in more detail
+  - for every discretized point, there are connected points in the
+    space. navigation between the graph/lattice of these points is
+    determined by the ball's velocity/momentum/acceleration
+  - some points of the board produce consistent functional coupling
+    whereby the ball's velocity/momentum/acceleration is transformed
+    in some consistent albeit probabilistic manner.
+    - so, when the ball gets close to a bumper, it's likely to
+      modulate the acceleration of the ball in such a way that depends
+      on the specific momentum.
+  - after observing enough events, the AI should begin to assume that
+    areas of the board are associated with: (1) physical modulations
+    of the ball (2) scoring events for reinforcement learning (3)
+    state-transition events, which may not be necessary to model for
+    simple RL-based learning.
+
+- how do the trained tensor structures differ b/w pinball machines?
+  - more critically: what does the generalization of models for
+    pinball machines tell us about how analytical machines model
+    gamified physical systems?
+  - how can extending the
+
+- When training AI to play pinball with complicated rules and more
+  complicated spaces, there may be a point where it is required to
+  program in logic related to the pinball game's rules. With simpler
+  machines, no such logic programming is required.
+  - Where are the distinctions between the simple pinball machine and
+    the physical machines that are too complex for a simple AI to
+    master?
+    - This would be similar to the distinction between video games
+      that are "easy" for AI to master, like Donkey Kong, and those
+      that are more open-ended and harder, like Zelda.
+
+  - This distinction must arise from the complexity of state and
+    state-transitions, coupled with the difficulty of accessing some
+    states, whose behaviors significantly modulate the interactions
+    and dynamics of the activity.  Whether considering a videogame or
+    pinball machine, when some of the state-transitions or events in
+    gameplay are highly unlikely, then all dependently-associated
+    events are proportionally less likely.
+    - if the gameplay rules change significantly when activating such
+      a state transition with infinitissemal probability, then that
+      event is unlikely to be encountered often enough for the AI to
+      train for it, unless the AI models or develops an understanding
+      of novelty of experience. If so, then the AI can seek out
+      experiences that seem novel, but to do so, it may require that
+      the AI choose to expend time/resources, in spite of not
+      receiving a reward for doing so.
+
+[Reinforcement Learning &
+Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught-ai-to-play-video-games-9eb5f38c89ee)
+
+### Continuity of Differential Systems Combined With Stochastic Inferences
+
+
+- [Stochastic Differential Equations]()
+  -
+
+[^stochastic-runge-katta]: [Performance of stochastic Runge-Kutta Methods in approximating the solution of stochastic model in biological system](http://iopscience.iop.org/article/10.1088/1742-6596/890/1/012083/pdf)
+
+
+- Differential systems have continuity constraints which provide
+  points of inference when combined with stochastic modeling. The
+  evolution of these systems usually involves
+  [Runge-Kutta](https://en.wikipedia.org/wiki/Runge–Kutta_methods),
+  which allows the evolution of the system to predicted by analyzing
+  and extrapolating the projection of derivatives. Some formulations
+  of Runge-Kutta lend themselves (more effectively) to analytical
+  - Imagine predicting weather systems, which are less predicatble as
+    time evolves. Locally, there are some regions of weather systems
+    which inherently possess more uncertainty. Turbulence tends to
+    cause more uncertainty in fluid dynamics. As these local regions
+    evolve, the effects of their uncertainty spread to neighboring
+    regions, but all regions
+
+- conservation of energy
+- models based on learned geographic/etc relationships of the
+  underlying spaces
+
+- [Integrability conditions for differential
+  systems](https://en.wikipedia.org/wiki/Integrability_conditions_for_differential_systems)
+  - "overdetermined" systems
+
+- To predict behavior in systems with adversarial dynamics, (it's
+  useful to) make inferences based on which parts of a system that an
+  adversary seeks to expend energy and time to predict.
+
+
+
+# Overdetermined
+
+- extending the concept of "overdetermined" to analytical models,
+  especially as it relates to the brain as an analaytical machine
+  - above all else, the brain seeks to identify coherence of
+    information amongst innumerable variables of (multifarious
+    dimensions)
+    - signals encoded into (more numerous or more complete) dimensions
+      are both more effectively and more efficiently processed.
+    - albeit cointerintuitive, the brain is a more effectively
+      computational machine when prcessing greater quantities and
+      types of information.
+      - this descends from the nature of information and the nature of
+        analytical machines.
+  - the brain is always seeking coherence of information
+    - compare to a need to reach a state of informational homeostasis
+
+### The (Notion of Overdetermined) Presents a Correlary to Occam's Razor
+
+- Usually, the simplest explanation to some system is true. that is,
+  the explanation that requires the least moving parts. With more
+  numerous dependencies on independent variables, their product
+  quickly becomes infinitessimal, especially in statistical
+  models. With additional sources of uncertainty in a system, greater
+  effort must be expended on controlling those variables. In the
+  adversarial systems of game theory, the need to constrain these
+  additional sources of uncertainty renders your actions and intents
+  (more readable)
+
+- In cases where the explanation favored by Occam's appears to be
+  true, while utimately proving logically insufficient, then a more
+  complex explanation is required to explain a system. on the surface,
+  the system appears to be overdetermined, but upon further
+  evaluation, the explanation is unsatisfactory.
+- In more sophisticated pursuits where action and intent must be
+  concealed by default, the simplest explanation is usually the basis
+  for a cover. When the simplest explanation is not true, one must
+  expand the system to a larger number of variables. Insofar as
+  statistical models are all graphs, they are a cohesive tapestry of
+  interdependent variables. Thereby, when a system doesn't hold to
+  Occam's Razor, it requires a more expansive disruption to the
+  enveloping system, moreso when the adjacent variables did not
+  present apparent logical decoherence on the surface.
+
+###
+
+- social media is almost completely textual. non-graphical experiences
+  have an extremely limited spectrum of (phenomenological dimensions)
+  - there's video and there's audio, but the phenomonology of the
+    experiences is predominately semantic and linguistic.
+  - smell is the sense most strongly tied to memory.
+    - explain why...
+      - firstmost, data related to scent is fairly low-dimensional, at
+        least as it is presented to the brain. also, the olfactory
+        system is physically exposed to the brain in a unique way,
+        compared to the other senses.
+      - it is very difficult to replicate either the signal of a scent
+        or the characteristics of its presentation. even if you can
+        make something smell like a rose, you can't so easily
+        replicate how the aroma moves through the air. for these
+        reasons, scents are tightly coupled to the types of
+        experiences that provoke them.
+        - in machine learning terms, (one might say that) scents
+          present good training data.
+
+- social media will continually change its presentation, but providing
+  a more comprehensive sensory presentation to a user is not only
+  expensive, it presents concerns of practicality and usability.
+  - will social media users even have the hardware for these features?
+    it's expensive to buy and even more expensive to develop software
+    on
+  - will social media users even want to use these types of features?
+    or will these features be relegated to the trashbins of (bad
+    futurism), inherently cursed by the network effects dependence( on
+    the least common denominator.)
+- until the presentation of virtual life phenomenologically converges
+  with the natural human experience, ...
+  - at first, our neurologically inflexible brains will have a
+    difficult time adapting to the presentation of information
+
+- correlate (phenomenology of senses) to analytical machines'
+  (dependence) on coherence
+  - tie this back to the ideas of overdetermination and
+    underdetermination (in philosophy and math)
+    - without spectrally comprehensive sensory activation, the
+      - (define spectrally comprehensive earlier)
+
+
+
+
+- correlate the above to (how diminished variety of phenomenological
+  dimensions provided by social media: explain this)
+  - enables ... the construction of facades
+    - it separates us from the systems (social/informational),
+      preventing us from interrogating those systems for consistency
+    - in this and other ways, it prevents our brains from
+      deconstructing those facades.
+    - this is yet another mechanism by which social media fuels
+      confirmation bias and cognitive bias
+  - it also circumvents our brain's consistency checks by depriving us
+    of (a natural spectrum of sensory data related to information
+    we're consuming)
+    -
 
 # Spatiotemporal Interrogation of the Structure of Analytical Models
 
@@ -108,9 +360,154 @@ excerpt: ""
   apply to extremely sophisticated observed networks with the ability
   to reorient cognition.
 
-### Neural Representations Enabling Modeling Requiring Stochastic Calculus
+# Neural Representations of (Inferred Physical Systems)
 
-- do these representations
+- is there a better word here meaning "locally" but with the
+  connotation of resolving parity?
+- Towards the analysis of networks with partially, locally or
+  completely unknown structure, why are representations of physical
+  systems significant?
+  - why is it crucial to understand the
+
+- for neural networks or conscious beings, the stratification of
+  object type recognition occurs in tandem with the dilineaton of the
+  object's physical properties, both of which become intertwined with
+  the object's state in relation to the system state.
+  - for the hard problem of consciousness
+  - moreso than simple systems, (this) adumbrates outlines of
+    neurological representations for qualia (of subjective experience,
+    {qualification redundant?}).
+
+  - does the cerulean crayon appear to be the same shade of blue for
+    me as it does to you? perhaps. does the cerulean crayon possess
+    identical blueness when i observe it in a well-lit room or under a
+    bright, directional lamp? no experience is ever truly
+    identical, but ...
+  - further, how is the neurological representation of that particular
+    blueness affected by observing the crayon in circumstances that
+    alter the sensory input?
+
+- connect this qualia recognition to the subjective experience of
+  analyzing and interacting with physical systems.
+  - use various brands of sport products as an example.
+    - the subjective experience of qualia related to skateboarding: is
+      it different or similar when using a wide board or a narrow
+      board. On the surface, the width of a skateboard seems to merely
+      be a property of the object.
+    - however, to the mental process receiving feedback from afferent
+      nerve pathways (and regulating motor output), the width of the
+      skateboard is a property of the system that also intrinsically
+      affects your cognition about the experience. in this manner, a
+      7.75" board *feels* completely different than the experience of
+      skating with an 8.25" board. however, it not only *feels*
+      different, that feeling informs your awareness of what's
+      possible with the board.
+    - if you normally skate on a particular width, but try a wider
+      board, you need to subjectively gauge the differences between
+      the board widths. even if you've picked up the wrong board
+      without realizing it, your subjective experience of skating will
+      immediately inform you that the qualia of the board width's
+      (correlation to or interaction with) the mental representation
+      of skateboarding. Your feet will feel the difference, causing
+      your awareness to adapt to the wider board.
+  - (more critically), your subjective awareness of the feeling of the
+    as-previously-unknown board width affects the range of
+    possibilities of your engagement with the physical system.
+    - how your subjective experience of the wider board affects the
+      range of tricks you might perform and
+    - how you adapt your movements to the new board, (instinctive or
+      not).
+      - cause the qualia to
+
+  - more generally, (this connection between the subjective components
+    of mental processes interacting with physical systems) should
+    reveal more information about the neurological representations of
+    qualia than more simple dilineation of the experience of a sensory
+    phenomena with simple, mostly linear parameters associated to the
+    feeling of experiencing that phenomena.
+    - why? as they relate to the brain's representations of physical
+      systems, each quale whose subjectively perceived value informed
+      by "raw feels" results in paramterizations of mental constructs
+      whose neural networks are more widely interconnected.
+      - elaborate on how this interconnection makes the quales
+        representation more discernable?
+    - moreover, if this assertion (of "representation-discernabilty"
+      of qualia in physical systems) holds true, then the comparison
+      of an individual's qualia should eludicate the parity and
+      speciation of neurological representations of qualia
+      corresponding to the raw experience of simpler phenomena
+      - elaborate on this
+
+### How does the "fluidity" of probabilistic systems affect anticipation of results
+
+
+- (TODO: change to throwing a football instead? it's more
+  relatable. perhaps also throwing oddly shaped football-like objects)
+- two people alice and bob are throwing rocks at each other. the size
+  and shape of the rocks is varied but consistent enough for both
+  alice and bob to expect the rocks to follow similar
+  trajectories. alice and bob were on the same (shotput team) in
+  college, which contributes greatly to their accuracy and distance.
+  - some of the rocks have extreme convexity and concavity in their
+    shape. i.e. some rocks curve inwards and others poke outwards
+    sharply. the rocks are spheres on average, but the individual
+    shapes affect the behavior
+
+- alice throws a good spiral, but sometimes decides not too, since bob
+  can't throw a spiral, thus slightly threatening his ego.
+
+- transition to the point:
+  - when the ball is far away, the anticipation of where it will land
+    varies more dramatically. you have to get a read on where it's
+    going to land as early as possible to inform your position.
+  - as the ball approaches, it becomes more clear where it's going to
+    land. further, the less time remaining, the less the system will
+    be affected by externalities such as wind.
+    - however, the ball's spin affects both alice's anticipation of
+      the trajectory. a pass thrown with good spin will be direct and,
+      to the keen observer who over-analyzes everything, such a pass
+      will land in a position with less spread.
+      - the pass with more wobble has a trajectory more abberantly
+        affected by drag, though it's impossible to predict howso.
+  - the pass with a proper spiral will potentially land in a smaller
+    region of the field, given the same initial trajectory. when bob
+    throws a pass with more wobble, it means that alice needs to
+    expect to reorient herself to correct for the actual trajectory.
+  - so, when passing a football with someone who can't throw a spiral,
+    if you want to position yourself, you need to get a read on
+    whether a spiral was thrown. if so, the ball is more predictable.
+    - therefore, phenomenological qualities of the pass affect how
+      alice and bob shape the anticipated probability distribution for
+      its expected landing position. more importantly, this
+      probability distribution changes over time and converges towards
+      a specific point as the ball approaches the end of its
+      trajectory.
+    - since it's a probability distribution, it must sum to one,
+      regardless of how the distribution shapes itself.
+    - since alice or bob's anticipated probabilitiy distribution
+      reflects their awareness of the state of the ball -- either a
+      pass with a clean spiral, a wobble or (a spin) -- as their
+      awareness of the state of the system changes, the probability
+      distribution changes more wildly than it does simply moving time
+      forward with no state changes.
+    - when bob throws a terrible pass, alice needs to reorient the
+      direction and speed of her motion several times as she
+      gravitates towards the center of the expected landing
+      distribution, since the precise motion of the ball is difficult
+      to anticipate.
+
+- this preservation of the volume of the probability distribution
+  results in fluid-like dynamics.
+  - understanding the neural representations of the anticipated
+    behavior of physical systems, would (be enlightening.)
+  - and, in particular, how do these models and their
+    neurorepresentational dynamics differ between solo physical
+    activities and those involving other players.
+    - what is fundamentally the same set of motor coordination skills
+      becomes part of a game with social components
+      - how does this connect to "mirror neurons?"
+
+### Neural Representations Enabling Modeling Requiring Stochastic Calculus
 
 - fluid dynamics and energetic dynamics of the spread of activations
   through a network (correlate to hydrostatics & fluid dynamics)
@@ -158,8 +555,6 @@ excerpt: ""
 - that paper talks about signals analysis generally, but i think
   there's definitely a connection between that and adversarial
   analysis of neural networks
-
-
 
 
 ### Cognition and Object Classification

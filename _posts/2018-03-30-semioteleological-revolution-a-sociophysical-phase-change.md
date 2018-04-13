@@ -8,6 +8,12 @@ author:
 excerpt: ""
 ---
 
+[Successive Approximation (Electronics)](https://en.wikipedia.org/wiki/Successive_approximation_ADC))
+
+[Successive Approximation (Shaping)](https://en.wikipedia.org/wiki/Shaping_(psychology))
+
+
+
 [Jormamu]()
 
 ![Epistemicide](epistemicide.jpg)
