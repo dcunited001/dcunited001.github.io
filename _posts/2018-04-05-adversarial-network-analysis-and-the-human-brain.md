@@ -324,6 +324,8 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       they are mentally capable of falling in love, is it possible to
       reconfigure one's own psychology for the same purpose?
 
+![that girl from bahamut]()
+
 # Spatiotemporal Interrogation of the Structure of Analytical Models
 
 - networks of neurons, whether biological or artificial, process input

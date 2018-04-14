@@ -479,6 +479,12 @@ as integers and rational numbers.
 
 ### Composite Manifold for reduction of (n+k)-d spaces to n-d spaces
 
+- update: for the below, see [Whitney Embedding
+  Theorum](https://en.wikipedia.org/wiki/Whitney_embedding_theorem),
+  which utilizes a [Second-Countable
+  Space](https://en.wikipedia.org/wiki/Second-countable_space)
+  - these concepts seem to outline the basis of the below "fractal"
+    manifold
 - the way i'm imagining this, it's either a pretty amazing loophole
   for a lossless means of encoding elements of a space into fewer
   dimensions *without any loss of information*
