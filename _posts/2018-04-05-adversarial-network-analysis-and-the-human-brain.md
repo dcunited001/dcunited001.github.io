@@ -240,7 +240,8 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 - until the presentation of virtual life phenomenologically converges
   with the natural human experience, ...
   - at first, our neurologically inflexible brains will have a
-    difficult time adapting to the presentation of information
+    difficult time adapting to the presentation of information, since
+    they cannot simultaneously
 
 - correlate (phenomenology of senses) to analytical machines'
   (dependence) on coherence
@@ -264,7 +265,64 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   - it also circumvents our brain's consistency checks by depriving us
     of (a natural spectrum of sensory data related to information
     we're consuming)
-    -
+
+
+### An Analytical/Systems Philosophy Definition of Love
+
+- materialists claim that love results from a flood of chemical
+  messangers in the brain. it's nothing more than electrical signals
+  and oxytocin.
+- less a definition of "love" per se and moreso an description of the
+  neurological and psychological components that render someone
+  capable of falling in love.
+  - these components are moreso related to the state of information
+    systems in the mind that render the brain susceptible to a deluge
+    of chemicals like oxytocin
+    - when is someone susceptible to falling in love, in the truest
+      sense of the phrase? when they feel complete, but discover
+      someone or something that throws their mind into chaos, forcing
+      them to reevaluate their relationship to people around them and
+      to the person in particular who triggered this reevalution.
+
+- how to describe this state of "wholeness" or "completeness" in
+  analytical systems? it's like a well-roundedness for analytical
+  systems,
+  - like a machine learning algorithm, whose theta-weights will never
+    change given identical experiences, which suddenly transforms upon
+    the introduction of experiences/perspectives unlike any others its
+    experienced before, which compel it to completely transform itself
+    to accomadate something unknown
+    - however, the information system requires the potential for
+      something unknown to be introduced or at least some profoundly
+      distinct new perspective to be evoked.
+    - otherwise, the turbulence that results which provokes cascading
+      changes through the analytical system is not possible.
+    - that is, falling in love has less to do with oxytocin release
+      and instead results from the unprovoked capacity for
+      (structural) change in the mind.
+      - that feeling can be emulated and experienced, but you're
+        essentially always chasing that first hit. once the
+        information systems represented by your neurology have changed
+        significantly, it becomes increasingly difficult to provoke
+        changes of similar magnitude ... but not impossible.
+
+  - is there a generalized conception to help understand when someone
+    might unexpectedly fall in love? or for psychologically processing
+    someone towards that state?
+  - as for these disruptive events which compel the brain to
+    reevaluate the mind's understanding of the self to society and in
+    particular to some individual:
+    - what typically results from such reevaluation of the self?
+    - can someone only expect to experience a limited amount of these
+      events in a lifetime? if such an event with cascading effects on
+      the mind results in profound psychological changes, then can one
+      expect these events to occur repeatedly?
+      - in particular, explore this from an analytic perspective of
+        the mind. when the mind expands, provoking an unexpected
+        reevaluation, this can only happen so many times.
+    - if it is possible to psychological process someone else, so that
+      they are mentally capable of falling in love, is it possible to
+      reconfigure one's own psychology for the same purpose?
 
 # Spatiotemporal Interrogation of the Structure of Analytical Models
 
