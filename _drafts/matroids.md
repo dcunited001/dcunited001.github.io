@@ -73,11 +73,65 @@
       - these ideas needs a lot of work lmao. these are likely
         problems encountered in theoretical computer science.
 
+#### [Decades-Old Graph Problem Yields to Amateur Mathematician](https://www.quantamagazine.org/decades-old-graph-problem-yields-to-amateur-mathematician-20180417/)
+
+- the article above describes the minimization of five-color unit
+  graphs. the idea of interconnecting subgraphs in infinite graphs is
+  similar to the idea outline above. how can you evaluate the
+  interconnections between large graphs to determine if they tile?
+  - this problem shares some similarities to infinite penrose tilings,
+    where the the tiling never repeats
+  - detecting whether there is some upper bound for n-colors in
+    infinite unit-graphs is very interesting. in order to get vertices
+    to require (n+1) colorings, you have to force specific conditions
+    in neighboring vertices. there should be some algorithm to
+    construct graphs requiring n-colorings, but the only algorithm to
+    detect whether you've identified the n-color unit graph with the
+    smallest number of verticies requires exhausting all the smaller
+    possible graphs.
+  - to evaluate whether and how separate unit-graphs can be connected
+    together, it's almost like evaluating whether proteins have
+    compatible shapes and can interlink
+    - however, i think any penrose tiling (and even the infinite,
+      non-repeating one) can be translated into a unit-graph on the
+      plane.
+      - finite or infinte, the set of 2D penrose tilings should be a
+        subset of all possible 2D unit-graphs.
+      - but the non-repeating penrose tilings are uncountably infinite
+        and these are a subset of unit-graphs
+    - so, to understand whether in/finite unit graphs can be
+      constructed with more than five colors, i'd need to know more
+      about how (infinite?) unit-graphs approach the theoretical upper
+      bound (for the lower bound)
+      - what do the complements of these infinite graphs look like?
+        - i.e. for inifinite graphs *near* actual lower bound for
+          colorings, can you use something like the not operator on
+          their vertex sets or edge sets to find complements of those
+          graphs?
+        - starting with the maximal n-color unit-graphs, can you
+          specify individual nodes/edges to be removed?
+        - for an infinite unit-graph with the highest coloring, is
+          there any single node that can be removed to lower the count
+          of colors (no, but for finite unit-graphs, maybe)
+
+- if large graphs represent information-processing entities/structures
+  (a la DFA/NFA/QFA), then how these graphs can connect together is
+  relevant to theoretical computer science.
+  - if there is some upper bound on singular information processing
+    entities, then to surpass that bound requires networking multiple
+    entities together.
+    - large unit-graphs can only connect together if their shapes
+      don't overlap. there is always at least one way to connect them
+      together.
+  - describe in greater detail
+
 - probabilistic computing and probabilistic turing machines
   effectively describe the dynamical state machine programming idea
   described in my article
   - this form of programming might be most useful for programming
     quantum computers
+
+
 
 #### TCS x Neurology
 
