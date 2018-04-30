@@ -1038,7 +1038,6 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
 
 # Geometry
 
-
 - "Euler's number for a surface's polytoroidal parameterization"
   - that's the note, literally. i can't remember what it was, exactly.
     - "Euler's number (X) a surface's polytoroidal parameterization"
@@ -1053,9 +1052,17 @@ phi = 1 + (1 + (1 + (1 + (...)^(1/n))^(1/n))^(1/n))
         space with unknown size, and inferring the parameterization of
         the local region of space from the euler's number (& vice
         versa)
-      -
 
+### Metroid as a problem requiring matroid-based algorithms
 
+- players play the game and sociophysically propagate information
+  about items/secrets they've found to other players.
+  - when no one has information about how to play the game
+    efficiently, the game is always hard(inefficient).
+  - but as information is propagated, known efficient solutions are
+    distributed and players have less reliance on gameplay involving
+    search (expensive/inefficient)
+  - eventually people do ridiculous speed runs.
 
 ### Metroid =~ Matroid Connection
 

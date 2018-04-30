@@ -125,6 +125,7 @@ excerpt: ""
 [Reinforcement Learning &
 Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught-ai-to-play-video-games-9eb5f38c89ee)
 
+
 ### Continuity of Differential Systems Combined With Stochastic Inferences
 
 
@@ -391,6 +392,8 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 ### Detection of Orthogonality in time series components with assumed connection
 
+- (more about this?)
+
 ### Adversarial Analysis of A Neural Network with Known Structure
 
 - can an adversarial network infer the representation of objects that
@@ -588,6 +591,8 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       unity -- that an adversarial network may assume the observed
       network layers to hold to.
 
+
+
 ### Timeseries Analysis On models of physical systems
 
     - Is this paper
@@ -628,6 +633,50 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     - PIC: a dog on a skateboard
   - this requires object classification
 
+### Classification of Camoflaged Objects
+
+- gradual conditioning of objects with potential to be camoflaged and
+  of environments with potential to hide camoflaged objects
+  (predators)
+
+
+### Neurological Representation of Jolt In Perceived Physical Systems
+
+- in neurological representations of physical systems, how do models
+  based on observations change when presented with objects moving with
+  jolt?
+  - all classical physical systems are (C2) continuous, jolt can
+    necessarily only manifest as an externality to an observed system.
+    - The conservation of energy indicates that C^(n>2) dynamics may
+      only temporarily present themselves in a real physical system,
+      unless there are entities with physical agency present in the
+      system -- intelligence.
+    - the identification of
+
+  - the external introduction of energy into a physical system.
+    - use fluid dynamical systems as an example.
+    - the areas of fluid systems which are subjected to the imposition
+      of external forces are perceived as immediately discernable by
+      the human brain.
+    - even (less-sophisticated) animals must, for their survival,
+      identify threats below the surface of water. therefore, the
+      analytical models (constructed by neural networks) must identify
+      and distinguish C^2 motion from (C^(n>2)) motion
+      - would it be easier for animals to identify jolted fluid
+        dynamical motion in a placid lake or a turbulent lake.
+        - obviously, amidst turbulence, physical systems are less
+          simply comprehended. that this is true corresponds with the
+          algorithmic difficulty of modeling motion, both perceived
+          and simulated.
+
+- towards tracing the mind, neurological models of physical systems --
+  with their capability to distinguish C^2 and non-C^2 dynamics --
+  should prove especially valuable.
+  - must there be some correspondance b/w C^2/C^(n>2) models in
+    physical systesm and the internalized analytical representations
+    of them?
+  - if so, what are the characteristics of such correspondance and its
+    limitations (both theoretical and practical)
 
 # Can the Human Brain Adversarially Analyze It's Own Cognitive Trace?
 
