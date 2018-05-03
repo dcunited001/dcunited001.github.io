@@ -28,6 +28,12 @@ excerpt: ""
     intent of an author by attempting to find the middle ground
     between two transations.
 
+- evolutionary dynamics and speciation in epistemic structures
+  - entropy/enthalpy in the evolution/distribution of epistemic
+    structures, for types/metatypes. the potential for diversity in
+    epistemic structures is balanced by the influence of enthalpy on
+    the speciation of information as it propagates.
+
 
 - if you seek true liberation and other people subsist by siphoning
   your sociophysical resources -- i.e. they take the value work they

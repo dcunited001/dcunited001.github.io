@@ -15,6 +15,10 @@ excerpt: ""
   - "cognitive tracing"
   - "neural tracing"
 
+- clearer language for the following terms:
+  - physical activities/skills/behaviors
+  - motor skills/behaviors/coordination
+
 - mention the "Spider brains" article
 
 ###
@@ -62,7 +66,7 @@ excerpt: ""
   - pinball is a game based on physical systems. Given a 3D model of
     the space of the pinball machine, without an understanding of the
     the mechanics of the components, a pinball machine is basically a
-    speciallized 3D particle system with one particle. Unless, of
+    specialized 3D particle system with one particle. Unless, of
     course -- *MULTIBALL*.
   - given the ball's position, momentum and associated derivatives,
     there's a tensor structure that describes the most likely
@@ -113,6 +117,8 @@ excerpt: ""
     pinball machine, when some of the state-transitions or events in
     gameplay are highly unlikely, then all dependently-associated
     events are proportionally less likely.
+    - multiball as a global state change, causing all the rules of the
+      game to change
     - if the gameplay rules change significantly when activating such
       a state transition with infinitissemal probability, then that
       event is unlikely to be encountered often enough for the AI to
@@ -127,7 +133,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 
 ### Continuity of Differential Systems Combined With Stochastic Inferences
-
 
 - [Stochastic Differential Equations]()
   -
@@ -285,6 +290,17 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       them to reevaluate their relationship to people around them and
       to the person in particular who triggered this reevalution.
 
+- this "wholeness" is like filling out a "shell" of understanding of
+  the world as you relate to it. your understanding feels complete, so
+  when you discover what it is you're looking for, you realize there
+  is something you were lacking, forcing yourself to re-evaluate.
+  - while this section explains how "breaking through" these
+    psychological shells relates to love, this also applies to other
+    areas of personal development, where you discover some unknown
+    thing, whose exploration leads to the rapid development of
+    (insight)
+  -
+
 - how to describe this state of "wholeness" or "completeness" in
   analytical systems? it's like a well-roundedness for analytical
   systems,
@@ -292,7 +308,7 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     change given identical experiences, which suddenly transforms upon
     the introduction of experiences/perspectives unlike any others its
     experienced before, which compel it to completely transform itself
-    to accomadate something unknown
+    to accomodate something unknown
     - however, the information system requires the potential for
       something unknown to be introduced or at least some profoundly
       distinct new perspective to be evoked.
@@ -321,7 +337,7 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       - in particular, explore this from an analytic perspective of
         the mind. when the mind expands, provoking an unexpected
         reevaluation, this can only happen so many times.
-    - if it is possible to psychological process someone else, so that
+    - if it is possible to psychologically process someone else, so that
       they are mentally capable of falling in love, is it possible to
       reconfigure one's own psychology for the same purpose?
 
@@ -501,7 +517,85 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       corresponding to the raw experience of simpler phenomena
       - elaborate on this
 
-### How does the "fluidity" of probabilistic systems affect anticipation of results
+###
+
+- in the above example, the width of the skateboard can be felt with
+  neither visual perception nor quantification. how the mind chooses
+  to feel its connection to the skateboard affects how the mind
+  approaches its coordination of motor behaviors.
+
+- (bouncing ball example from the paper on bond graphs)
+  - consider balls of various shapes and sizes... (reword this)
+    - in particular, consider the differences between basketballs,
+      footballs, medicine balls and tennis balls. the physics of each
+      can be simulated using numerical or analytical models, the
+      latter of which involves abstracting away microscopic (details)
+      of the system by introducing macroscopic parameters.
+
+#### Remember Deflate-Gate?
+
+> How does the perception of a foot pressure-level affect how players
+> of various skill levels would approach catching and passing? Such
+> perception can be indicated visually or via tactile sensation. These
+> macroscopic parameters inform our mental representations of a
+> football's physical dynamics, which we use both cognitively and
+> subconsciously to adjust (motor interactions)
+
+![Deflate-Gate]()
+
+- parameters of analytical representations of static physical objects:
+  - inflation
+  - elasticity
+  - shape
+- these parameters and our perception of them have major impacts on
+  their dynamics of their (physical interactions.)
+
+
+- when playing table tennis with a four year old, what aspects of the
+  physics does their mind focus on? are they concerned with whether
+  the rubber on the paddle is dried out or worn off? they are more
+  concerned with hitting the ball and don't yet internalize enough
+  details about the physics to be concerned with smaller-scale
+  details.
+  - that is, their mind's analytical representation of the ping-pong
+    physics has an extremely limited scope of parameterization. they
+    are concerned with the basics of the physics and coordinating
+    their motor skills
+  - they are unlikely to internalize the orientation and perceived
+    momentum of the opposing players paddle, in order to inform their
+    analytical representation of the ping-pong physics such that they
+    can reason about using small-scale tactics and larger scale
+    strategy to score points.
+    - younger players are actually more likely to utilize metagame to
+      gain advantage in sports than to intuitively reason about the
+      physics, which requires advanced proficiency in motor
+      coordination to pay off anyways.
+    - from even the limited information above, it's clear that people
+      reason differently about various physical activities.
+      - as we engage in specific activities, our mind accumulates a
+        more robust spectrum of parameters for each skill.
+
+- typological speciation of analytical representations of physical
+  models. what are the most frequent types of models employed by the
+  mind to make physical predictions for specific physical
+  (skills). how do they impact any neuroelectric traces of activity?
+  - as evidence of this, the minds of pro-athletes should exemplify
+    more robustly parameterized mappings of analytical representations
+    - neurologically, these representations should be both more
+      efficient and computationally harder
+    - i.e. there is more computation taking place, while providing
+      accurate results more efficiently than average players.
+    - furthermore, the regions concerned with the specific physical
+      skills of pro-athletes should be more widely connected to the
+      rest of the brain.
+      - this last point is necessary so that athlets can make snap
+        judgements based on how other players will sociophysically
+        react to the physical evolution of the game.
+  - this can't be confirmed by traditional neurological methods (fMRI,
+    etc)
+
+
+### (TODO: Combine this section with the above) How does the "fluidity" of probabilistic systems affect anticipation of results
 
 
 - (TODO: change to throwing a football instead? it's more
@@ -761,6 +855,19 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     system, so i can intuit more about the significance of
     stereoscopic displacement of the sound. i.e. when i close my eyes
     and move my right arm, there is a significant
+
+- [An overview of cochlear implant electrode array designs]()
+- [Cochlear Implants & Neuro-Tonotopicity](https://blog.medel.com/how-the-cochlear-understands-so-many-different-sounds/)
+
+- [](https://www.sciencedirect.com/science/article/pii/S0378603X17300086)
+
+- pulsatile and continuous tinnitus are two disorders where audible
+  sound manifests through changes in blood flow in the carotid artery
+  where it is closest to the cochlea.
+
+
+-
+
 
 - bacopa monnieri and the occasional "chirping" sound, which is a
   wavelike-periodic change in the frequency of the ultrasound. I've
