@@ -285,8 +285,121 @@ fashion to be used by the best 3D artists in the world.
 
 
 
+### Tactically Reorder of Grammar For (specific) Semantic Emphasis
 
+- reordering statements to delay "triggershock"
+  - it's actually an impressively hard problem. as in, it's a
+    computationally hard problem, where the most efficient solutions
+    are unintentially discovered by people observing emotional
+    reactions that others present to their statements.
+    - they are then propagated. the statements that produce
+      functionally relevant emotional reactions (e.g. humor, shock,
+      etc) are duplicated and have greater propensity for
+      self-replication
 
+- however, one can algorithmically process many of the grammatical
+  structres discussed above (i.e. CCG trees that are corrolated to
+  their diffeomorphic impact on perceived semantic valuation)
+  - homomorphic permutation of rhetorical components while preserving
+    semantic impact. that is, one combinatorially permutes through
+    grammatical CCG trees that hold fixed the result semantic
+    valuation (or change in valuation) within some threshold.
+    - if one enumerates all the possibilities, the list that results
+      is a list of reordered grammar that the speaker/writer can
+      assume establishes the same impact, semantically
+    - one can then reenumerate over these statements, applying some
+      functional analysis techniques to optmize them in some specific
+      functional way.
+    - such techniques are useful for comedy, rhetoric, debate, etc.
+    - they allow you to enumerate all the possible ways to say
+      something, in order to identify the specific statements which
+      create the desired reaction amoungst various people.
+  - the simplest such example of this technique is taking a CCG
+    statement that contains a list of ~5 elements, each of which
+    provokes a specific response.
+    - the CCG allows you to permute this statement in at least (5!)
+      ways, while mostly preserving the statement's semantic impact.
+    - however, as the reader proceeds over what is functionally the
+      same statement, completely different reactions may emerge in the
+      reader's mind based on the ordering of the statements.
+    - this idea basically lays out the design of such statements
+      algorithmically.
+
+- C := the semantic context of listeners
+  - dC := the change in semantic context produced by a statement
+  - M := the semantic meaning of a statement
+  - dM := the difference in semantic meaning of two similarly
+    structured statements
+  - every statement S has some grammatically structure represented
+    by a CCG.
+  - the point is to represent the semantic meaning of a statement and
+    its change in some contexts logical/semantic valuation
+    - where a listener's context is the set of facts inferred from a
+      speaker's statements...
+  - then the algorithm would take some statement S, along with a
+    context C and permute the statement's grammatical structure,
+    extrapolating and comparing the C, dC, M & dM, which parameterize
+    some function f which is to be optimized for impact.
+    - there's no simple answer and the only way for an algorithm to
+      know how statements affect a listener's context is evaluate
+      every possibility.
+    - for people learning to speak/socialize, we are forced to make
+      assumptions about the listeners' contexts, which are necessarily
+      imprecise, ephermeral and transient.
+      - they are imprecise: we can't know someone's mental state.
+      - ephemeral: it doesn't matter if we have a fairly accurate
+        assessment of someone's mentally constructed semantic context
+        because they can simply say they were thinking something else.
+      - transient: everything we say changes what people are thinking
+    - for people engaging in public speaking, the best way to make
+      assumptions about the context of listeners in the audience is to
+      have about 5 minutes to talk and hope they listen for long
+      enough to construct similar enough informational contexts about
+      your presentation/speech
+      - when speaking about more intellectual endeavors which are less
+        understood, it's practically hopeless, unless you can
+        guarantee the background of your audience (i.e. they have
+        degrees in X,Y,Z, etc.)
+  - without understanding this concept algorithmically, it's possible
+    to condition oneself with successful behaviors/habits when
+    speaking publicly or in casual conversation.
+    - however, if no one has walked you through these techniques (or
+      you deal with neurologically derived communication issues) it
+      can be incredibly challenging.
+    - at that point, one can hope that people in society are tolerant,
+      welcoming and understanding.
+    - for me, almost every social endeavor (whether its family, etc)
+      involves people playing "conversation keepaway" -- basically
+      gaming the rhythm, topics and focus of conversations to prevent
+      me from being able to have a chance to speak.
+      - if i open my mouth, the topic is quickly changed. the focus of
+        the conversation never falls on me, unless it is to
+        chastise/belittle me.
+      - i'm socially vulnerable as it is and have experienced nothing
+        other than a decade of humiliation for no reason that can be
+        explained to me.
+
+- someone who repeatedly uses these tactics of reconstructing their
+  statements for rhetorical optimization has almost certainly been
+  taught to do so.
+  - there are many reasons you might want to do so. you can reorder
+    statements to lead someone on, only to make them laugh at the end
+    or perhaps to offend them.
+  - psychologists do this all the time: they plan their conversations
+    and statements carefully, to draw the patient into revealing more
+    information without putting that person on guard.
+  - people also use this tactic in negative ways. regardless, you can
+    only intend to do this if you have a ton of conversational
+    experience and a high emotional intelligence.
+    - again, the intent is to optimize the ordering/sequence of
+      statements for emotional/informational impact. anything with
+      high magnitude emotional/informational impact can be used with
+      positive or negative intent.
+  - (regardless), using this technique to tactfully rearrange
+    statements requires effort and intent, both of which speak louder
+    than any words spoken. again, it's a hard problem, with some
+    general higher-order types of CCG permutation that are slightly
+    more efficient.
 
 # [Intro To Tensors And Algebras](#intro-to-tensors-and-algebras)
 

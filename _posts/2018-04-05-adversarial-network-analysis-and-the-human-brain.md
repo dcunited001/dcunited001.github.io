@@ -19,7 +19,6 @@ excerpt: ""
   - physical activities/skills/behaviors
   - motor skills/behaviors/coordination
 
-- mention the "Spider brains" article
 
 ###
 
@@ -882,3 +881,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     signals analysis, so i can diagnose systems with dynamics and
     mechanics holistically, whereas this would be completely ineffable
     for most.
+
+
+[^a-theory-of-discontinuities]: [A Theory of Discontinuities in Physical System Models](https://doi.org/10.1016/S0016-0032(96)00126-3)

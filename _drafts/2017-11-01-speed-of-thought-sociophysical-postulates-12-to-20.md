@@ -8,6 +8,17 @@ author:
 excerpt: ""
 ---
 
+- thesaurus
+  - gorgonize
+  - nocent
+  - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
+
+- edits: use language established in part one & part two
+
+- TODO: part one:
+  - TODO: update sources in the first part
+  - TODO: finish conclusion paragraph
+
 - sociophysical telemetry
   - in networking telemetry is like `show cdp neighbors` for cisco
     routers. also, there are many other telemetric protocols and
@@ -54,21 +65,21 @@ excerpt: ""
   series is effectively a post-doctoral masterpiece on methodological
   alchemy.
 
-- TODO: add <span id="fdsa-note"></span> to create a bootstrap label
-  in <p> tags that can fold/unfold a quote/note below
-
-- thesaurus
-  - gorgonize
-  - nocent
-  - [ilmestys](https://en.wiktionary.org/wiki/ilmestys#Finnish) (finnish)
-
-- edits: use language established in part one & part two
-
-- TODO: part one:
-  - TODO: update sources in the first part
-  - TODO: finish conclusion paragraph
-
-- TODO: intro?
+- sociophysical position/movement distributions rooted in regional
+  anchors (considering mostly regional movement of people in
+  bronze/iron age cultures)
+  - how more common are hot springs in Japan than in other areas of
+    the world?
+  - does this correlate to the concept's precedence/status in japanese
+    culture? how is this precedence/status related to the geography's
+    impact on culture? does the precedence result from the geographic
+    density & accessibility of mountain springs in the volcanic island
+    chains of japan?
+    - how does the distribution/availability/density/accessibility of
+      hot springs of hot springs in japan compare to the same in
+      Hawaii/Indonesia?
+      - do springs/bathhouses occupy similar precedence in these
+        cultures?
 
 - if the idea of God cannot be proven or can be proven false, is there
   still value for religion? (of course)
