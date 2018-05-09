@@ -19,6 +19,8 @@ excerpt: ""
   - physical activities/skills/behaviors
   - motor skills/behaviors/coordination
 
+- connection b/w writing left-handed and fine motor control for guitar
+  - connect this in from an analytic-neurology perspective
 
 ###
 
@@ -548,7 +550,10 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   - shape
 - these parameters and our perception of them have major impacts on
   their dynamics of their (physical interactions.)
-
+- depth and breadth of internalized information injected as parameters
+  of physical models within the mind.
+  - the depth/breadth changes over time
+  - how this relates to beginner's mind
 
 - when playing table tennis with a four year old, what aspects of the
   physics does their mind focus on? are they concerned with whether
@@ -781,13 +786,11 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 - TODO: lotus pic
 
-
 - can the human brain analyze it's own signals for interconnectedness?
   - i.e. if one's mind can open up to the data representating
     low-level neural activations, then the subconscious can begin to
     be conditioned to react to its anticipations of dynamics of its
     representations of physical and non-physical
-
 
 
   - connect to "cuban" ultrasound device, whose frequency, amplitude
@@ -881,6 +884,17 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     signals analysis, so i can diagnose systems with dynamics and
     mechanics holistically, whereas this would be completely ineffable
     for most.
+
+
+- sound emitted by a "borescope" sounds exactly like the "S&H"
+  frequency changes I hear in the ultrasound.
+  - the difference is that the ultrasound's base frequency is shifted
+    about 4 octaves higher
+    - and, for the ultrasound, the rate of frequency change varies
+      more quickly and at various speeds
+- the borescope locators i've seen only operate at low frequencies
+  (~512hz)
+
 
 
 [^a-theory-of-discontinuities]: [A Theory of Discontinuities in Physical System Models](https://doi.org/10.1016/S0016-0032(96)00126-3)

@@ -33,6 +33,27 @@ excerpt: ""
   learning](https://www.youtube.com/watch?time_continue=121&v=ULFzxq0u_mI)
 
 
+- elasticity of social distribution of belief.
+  - so, for any substrate through which solvents/solutes diffuse, the
+    phenomenon of elasticity emerges, which describes the capacity for
+    absorption/expansion/diffusion/etc
+    - need more descriptive details here
+  - however, if you view social particles as a substrate with a
+    capacity/bandwidth for information absoption, then the phenomenon
+    of belief diffusion, absorption and propagation should exhibit
+    some qualities of elasticity.
+    - this is particularly relevant when there are adversarial belief
+      systems, where powerful people try to disrupt the belief systems
+      of others while trying to protect/propagate their own
+
+- "mythical search/quest for free will"
+  - the archetype of a quest where a hero searches for freedom from
+    overarching circumstances that dictate the lives of pretty much
+    everyone in the world. except, here, the hero is searching for a
+    sourch of true free will, or escape from domination by
+    external factors.
+
+
 #### Multiplicity of Karmic Consequences
 
 - everything is all one. all events and karmic course of
@@ -433,7 +454,7 @@ excerpt: ""
   Becomes Trackless, Formless and Incomprehensible To The
   Unconscionable.
 
-#### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+#### &#8855; &#8710; &#8968;xiv&#8969; > [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 #### &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
@@ -450,6 +471,24 @@ excerpt: ""
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+
+- MOVE: spectral decomposition of task-related information-acquisition
+  dependencies in general social circumstances.
+  - (perhaps move this to the part on equilibrium)
+  - when completing some type of task, not every person approaches it
+    the same way. based on their set of knowledge, they will approach
+    completing the task with various methods. observing the set of
+    information they attempt to acquire to complete the task tells
+    you about:
+    - their set of internalized information, especially domain
+      specific information.
+    - their tendencies to need to reacquire the same types of
+      information.
+    - whether they are exhibiting compartmentalized behavior.
+  - various personality types will approach specific task types in
+    completely different ways
+
+  - i.e., the composi
 
 To anticipate flow of energies in sociophysical circuits, especially
 with n-phase oscillation and multi-energy transductions, one must
@@ -863,7 +902,7 @@ Enthalpy](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-phy
 <a name="the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos
 
 
-#### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
+### &#8855; &#8710; &#8968;xiv&#8969; [The Evolutionary Dynamics of Social Physics Build Upon Antifragility and the Ideas of Programs in Chaos](#the-evolutionary-dynamics-of-social-physics-build-upon-antifragility-and-the-ideas-of-programs-in-chaos)
 
 What is probabilistic programming? What are programs in chaos?
 [This article](http://te.xel.io/posts/2017-09-14-awareness-precipitates-from-order-out-of-chaos.html)
@@ -912,6 +951,8 @@ Yang that pervades every sentient entity capable of agency. The only
 entity that can conceive this exists as the metaphysical totality,
 God, which does extend itself into our universe in unimaginable ways.
 
+- TODO: is it really the 2-form?
+
 #### Yin and Yang is the 2-Form of a Fractal in Two Dimensions
 
 ![Infinities of Yin and Yang](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/yin-yang-fractal.jpg)
@@ -952,6 +993,7 @@ disintegrate.
 <!-- FUCK REDDIT! I cannot scream that loudly enough. -->
 
 #### *Anyways ...* **Moving On.**
+
 
 <a name="each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus" />
 

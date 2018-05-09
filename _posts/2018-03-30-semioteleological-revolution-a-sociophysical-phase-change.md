@@ -13,7 +13,6 @@ excerpt: ""
 [Successive Approximation (Shaping)](https://en.wikipedia.org/wiki/Shaping_(psychology))
 
 
-
 [Jormamu]()
 
 ![Epistemicide](epistemicide.jpg)
@@ -23,17 +22,30 @@ excerpt: ""
     heretical. the eradication or culling of instantiations of
     forbidden knowledge in society.
 
-- leveraging bilingual readings for a kind of semantic hendiadys.
-  - concerning epistemic convolution: reachiing the authentic semantic
-    intent of an author by attempting to find the middle ground
-    between two transations.
-
 - evolutionary dynamics and speciation in epistemic structures
   - entropy/enthalpy in the evolution/distribution of epistemic
     structures, for types/metatypes. the potential for diversity in
     epistemic structures is balanced by the influence of enthalpy on
     the speciation of information as it propagates.
 
+- social information censensus and the effects its outcomes can have
+  on people's lives.
+  - those with social/financial resources have the upper hand when
+    provoking/manipulating information consensus.
+    - the outcome of information consensus can impact your ability to
+      secure social/financial resources in the future
+    - how can informational resources be utilized to affect/predict
+      information consensus?
+  - once a consensus has been established and distributed, it becomes
+    difficult to overturn. for every instantiation of the information,
+    the vessel of that information needs to choose to modify their
+    beliefs (or store information in the case of social media &
+    digitized information)
+
+- leveraging bilingual readings for a kind of semantic hendiadys.
+  - concerning epistemic convolution: reachiing the authentic semantic
+    intent of an author by attempting to find the middle ground
+    between two transations.
 
 - if you seek true liberation and other people subsist by siphoning
   your sociophysical resources -- i.e. they take the value work they
@@ -2446,6 +2458,55 @@ speaking English, but no one knows what anyone means, nor can any of
 us predict how someone's going to respond. We can't have civil
 discourse without bumping into someone else's triggers implanted by
 fake news stories. It's crazy!
+
+- Godel's incompleteness theorum and *decidability* as it relates to
+  sociophysical programs, specifically in the limitations to:
+
+  - (1) internal psychological compartmentalization
+    - "you can't simultaneously play dumb and be worried about the
+      damage done to your apparent ego when people think you're
+      stupid"
+    - that is, for psychological behaviors primarily extrapolated from
+      analytical/probabilistic information systems, of which
+      psychology/consciousness are emergent phenomena, there are
+      problems of decidability that result from extensive
+      compartmentalization of behavior
+      - psychological compartmentalization is tightly coupled to
+        behaviors a person intends to exhibit control over social
+        circumstances, so effects descending from compartmentalization
+        of behavior bleeds into social dynamics
+
+  - (2) remapping language/semiotic signs in society
+    - this has significant implications for information warfare, where
+      *all* sides are constantly trying to remap and *own* the
+      semiotic mappings that are distributed into society
+    - as each side continues to try to propagate its own symbols,
+      while coopting/subverting those of all other sides, this creates
+      signficant decidability issues in society, weakening most major
+      "powers"
+      - not necessarily governmental/institutional powers, but those
+        who control social resources that are dependent on sensitive
+        information/belief structures.
+
+- how decidability in socially distributed information systems by the
+  tactics of information warfare
+  - connect to godel/compactness/etc
+
+- basically, explore how godel's incompleteness theorum applies to
+  probabilistic computing.
+  - a consequence of godel's incompleteness theorum (which one and
+    how?) is that anything above second-order logic is undecidable
+  - i believe this has implications for algorithm
+    design/structure/complexity (via countability?)
+
+- ...
+
+- "lightning strikes in the darkest places" ~ Infected Mushroom
+
+
+
+
+- TODO: probably remove the following section
 
 #### Justin Timberlake Loses His iPhone At The Superbowl
 

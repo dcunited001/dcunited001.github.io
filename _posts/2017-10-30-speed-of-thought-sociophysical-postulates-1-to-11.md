@@ -705,12 +705,13 @@ no matter how antifragile.
 
 What is the CPU? What does it represent? Mastery over physics and
 solid-state chemistry? Doesn't it also represent mastery over logic,
-math, Gödel, Turing and especially [Von Neumann machines]()? Nevermind
-that, it represents the manisfestation of all this knowledge into the
-physical plane, whereby the metaphysical facsimilarly imbues itself
-into the structure of matter. This is the physical reification of a
-materialistic or idealistic conception of the metaphysical: a machine
-capable of executing instruction sets, numbered according to
+math, Gödel, Turing and especially [Von Neumann
+machines](https://en.wikipedia.org/wiki/Von_Neumann_architecture)?
+Nevermind that, it represents the manisfestation of all this knowledge
+into the physical plane, whereby the metaphysical facsimilarly imbues
+itself into the structure of matter. This is the physical reification
+of a materialistic or idealistic conception of the metaphysical: a
+machine capable of executing instruction sets, numbered according to
 [Gödel's](https://www.perrymarshall.com/articles/religion/godels-incompleteness-theorem/)
 [trancendental](http://users.ox.ac.uk/~jrlucas/Godel/implic.html)
 [revelations](https://plato.stanford.edu/entries/goedel-incompleteness/)
