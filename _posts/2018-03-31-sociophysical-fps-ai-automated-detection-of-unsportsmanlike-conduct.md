@@ -8,6 +8,32 @@ author:
 excerpt: ""
 ---
 
+- there are games that are likely to become cybersports and those that
+  don't have a chance. however, it's not simply popularity that
+  dictates which games are "cybersportable" and which are not.
+
+- the differences in computational complexity b/w Overwatch and
+  Fortnite limit Fortnite's capacity to be a cybersport
+  - that is, effective strategies in Fortnite are much more brittle
+    and also easier to copy. what is hard is finding an effective
+    strategy, but once its found, its trivial to imitate. that said,
+    the strategies that teams/players employ change the strategic
+    landscape (mostly by literally changing the landscape)
+    - this makes the game's strategy to computationally complex for
+      its gameplay to develop useful metrics of player/team
+      performance
+  - overwatch, on the other hand, has a more limited degree of
+    variation, limiting the ways to reason about tactics/strategy
+    - Fortnite's ability to modify the level in significant ways
+      obliterates some of the metrics detailed below
+      - for example, it's impossible to construct meaningful
+        probability distributions of player position on gameplay maps
+        because of the disparity of assumptions introduced by physical
+        level modification
+    - that's not to say that playing fortnite is pointless. i'm sure
+      it's fun. i've never actually played it.
+
+
 - throwing people's games as a protest tactic (omg he's online, let's
   make him lose. we're really good at losing. like really good
   losers. we don't really know how to win, but we sure do know how to

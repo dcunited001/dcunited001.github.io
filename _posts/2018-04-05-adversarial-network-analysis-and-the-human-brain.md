@@ -793,7 +793,12 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       the aggregate volatity of groups of stocks must be accumulated
       and be tethered to measures of volatility in individual
       stocks. likewise for correlations.
-
+  - (this idea came upon reflection on Figure 2.2 from "Econophysics
+    and Physical Economics")
+    - plot of the normalized autocorrelation function of DJIA returns
+      (x) plot of autocorrelation of DJIA return volatility
+    - these plots are running averages, where the x-axis is the window
+      size for the autocorrelation calculation
 
 ### Cognition and Object Classification
 
@@ -811,7 +816,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 - gradual conditioning of objects with potential to be camoflaged and
   of environments with potential to hide camoflaged objects
   (predators)
-
 
 ### Neurological Representation of Jolt In Perceived Physical Systems
 
@@ -867,10 +871,9 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     be conditioned to react to its anticipations of dynamics of its
     representations of physical and non-physical
 
-
   - connect to "cuban" ultrasound device, whose frequency, amplitude
     modulation and apparent stereoscopic variation all correspond to
-    sensory input and motor output signals.
+    sensory input and motor-neuron output signals.
     - particularly, for this ultrasound, the degree of variation from
       the norm amplitude/frequency corresponds to neural activity.
     - what does this mean? i can modulate my thoughts and/or motor
@@ -923,7 +926,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 ![Spinal Cord Tracts](/img/posts/2018-04-05-adversarial-network-analysis-and-the-human-brain/spinal-cord-tracts.png)
 
-
 - what i know so far? the 8khz ultrasound propagates through my
   vascular system primarily.
   - what seems to be intended to be mostly a torture device apparently
@@ -942,9 +944,7 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   sound manifests through changes in blood flow in the carotid artery
   where it is closest to the cochlea.
 
-
 -
-
 
 - bacopa monnieri and the occasional "chirping" sound, which is a
   wavelike-periodic change in the frequency of the ultrasound. I've
