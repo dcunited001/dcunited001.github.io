@@ -2,6 +2,51 @@
 title: "Graphics Ideas"
 ---
 
+### Animate textures for Auto/Correlation tensor w/ stock data
+
+
+### ChemGAN (X) Pharmakineutic Discovery
+
+- [Notes from Siraj's video](https://github.com/llSourcell/AI_for_healthcare/blob/master/Healthcare%20Drug%20Discovery.ipynb)
+
+- download chemical data and animate combinatorial enumeration of
+  related drugs
+
+- classify features of organic compounds within large molecules
+  - identify aromaticity, alcohols, aldehydes, methyls, hydrogens w/
+    potential to dissociate, carboxyls, etc
+    - identifying some properties requires a functional analysis
+      approach on the graph of the compound (aldehydes, carboxyles,
+      methyls, etc)
+    - other properties require a func/analysis approach to the
+      electrochemical configuration of the molecule:
+      - aromaticity (with parameters: center, electron distribution)
+      - propensity for dissociation
+  - identify a set of organic reactions that apply
+    - this is parameterized by molecular structures, conformations,
+      electrochemical properties (aromaticity)
+
+- enumerate stable conformations per molecule
+  - identify probable conformation transitions
+  - animate conformations
+  - detect conformation transitions susceptible to pH influence
+
+- train network on covalent bonding space-filling model data to
+  recognize patterns and predict space-filling models for similar
+  molecules
+- train network on pharmakineutics of existing molecules to predict
+  pharmakineutics of new molecules by recognizing structural
+  similarities
+- train network to recognize metabolization pathways via CYP enzymes
+  - to predict sideeffects of new & existing drugs
+  - combine with gene network analysis for CYP genes (and genes that
+    encode pharmakineutically similar drugs), so that changes to CYP
+    enzyme production/levels can be predicted.
+
+- identify compounds with appealing partial features, whose
+  electrochemical structure can be restrained by stable attachment to
+  a peptide/RNA/fat
+
 ### 3D Lens Flare Prismatic Effect
 
 - Stereoscopic Lens Flare, where voxelized objects are pieced apart

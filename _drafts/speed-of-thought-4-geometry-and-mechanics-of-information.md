@@ -8,14 +8,13 @@ author:
 excerpt: ""
 ---
 
+
 > Every person helplessly creates this through life, even before
 > taking a breath. We cannot digest as much as we regurgitate. It is
 > impossible to destroy. On seven continents, its trees bloom and
 > pollinate.
 
 - [Picture for Geometric Mechanics]
-
-
 
 #### Distance Metrics in Information Networks
 
@@ -26,7 +25,6 @@ excerpt: ""
     inschematic games
   - connections to nash equilibrium (when does the equilibrium exist
     and for which games is it unreachable/incomputable?)
-
 
 - TODO: use Graph-Theory version of Gauss-Bonnet (from Oliver Knill's
   paper) to provide an example of a potential basis for
@@ -79,7 +77,8 @@ excerpt: ""
 - how to relate this stuff to holonic representations of
   information-forms?
 
-- (*THIS* is precisely why i'm so interested in papers like these)
+- (*THIS* is precisely why i'm so interested in papers like these
+  (oliver knill's))
   - if there is some certain structure for modeling the metaphysical
     -- which results in gradual/sudden consequences dependent on
     factors such as immediate/eventual computability -- then how

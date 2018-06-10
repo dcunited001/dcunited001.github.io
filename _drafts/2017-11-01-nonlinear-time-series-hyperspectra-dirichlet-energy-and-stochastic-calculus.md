@@ -240,7 +240,6 @@ fashion to be used by the best 3D artists in the world.
 
 - [Discourse Analysis](https://en.wikipedia.org/wiki/Discourse_analysis)
 
-
 - the need to handle 2nd order logic makes this impossible (i think?)
   - and the need to make inferences about higher-order
     logics/grammatical structures. or the usages of imagery

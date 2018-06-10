@@ -14,6 +14,9 @@ excerpt: ""
   lose as a tactic and distribute the losses across our ranks.
   "strength" in numbers. typical communist shenenigans.)
 
+- Shapley values (powerset of team, etc) to determine a player's
+  contribution to various groupings and teams
+  - this maps to some section of this draft
 
 Most people don't understand what is possible with algorithms because
 the math required is astronomic. To most people, math is boring, but

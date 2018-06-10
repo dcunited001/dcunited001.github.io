@@ -17,6 +17,8 @@ excerpt: ""
 
 ![Epistemicide](epistemicide.jpg)
 
+- aetiology
+
 - epistemicide
   - the systematic destruction of information structures deemed
     heretical. the eradication or culling of instantiations of

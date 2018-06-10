@@ -8,6 +8,15 @@ author:
 excerpt: ""
 ---
 
+- example of using ideas from analytical neurology to infer
+  (neumenological) limitations
+  - pic of luminosity object tracking game
+
+- other neumonologically inferable neurological restrictions:
+  - topical limitations for a person's generative networks
+    - capable of limited/moderate/advanced generation in:
+      - linguistic data, etc
+
 - there's already a ton of study on meditative states of mind, but i
   believe this provides a neuroanatomical basis for more mystical or
   spirital concepts like prana, kundalini and "energy" flows

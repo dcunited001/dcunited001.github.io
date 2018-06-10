@@ -8,10 +8,39 @@ author:
 excerpt: ""
 ---
 
+- "analytic neurology" and neuro-lingusitic programming
+- varying degrees of dis/entanglement in variational autoencoders
+  - extrapolating from the [arXiv insights video on variational
+    autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
+  - the "disentangled" networks are closer to a "pure" typological
+    representation, whereas the entangled representations are
+    analytical approximations of mixtures of pure representations of
+    the system
+    - those most disentangled representations of the system should be
+      closest to a system of equations corresponding to a graph.
+  - if you train many encoders with varying degrees of entanglement,
+    then combine them to classify/generate input, their composition
+    should
+  - the disentangled networks can coalesce towards metaphysical
+    systems of information metaphysically dependent on the material
+    - but they can also approach metaphysically immaterial information
+      systems
+    - correlate this to transcending the limitations of analytic
+      philosophy
+
+### And from then everafter, the phrase "we shared a moment" was never the same...
+
+- bridging analytical psychology to neurology
+  - covering ideas form analytical psychology at the level of neurology
+
 - in order for anyone to understand this i need pictures...
   - draw.io?
 
 - define the following concepts and rename
+  - analytic neurology: does this describe the emergence of
+    psychological phenom from lower-level neural circuits?
+    - what does this term mean and does it encompass what i'm writing
+      about?
   - "cognitive tracing"
   - "neural tracing"
 
@@ -21,6 +50,13 @@ excerpt: ""
 
 - connection b/w writing left-handed and fine motor control for guitar
   - connect this in from an analytic-neurology perspective
+
+- social disconnection results in stagnation of motion along the
+  ego/self axis. there is no opportunity for your ego to acknowledge
+  external signals representing society's understanding of the self
+  - without these signals there is no capacity for reconciliation of
+    the ego/self
+
 
 ###
 
@@ -171,8 +207,9 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 # Overdetermined
 
-- extending the concept of "overdetermined" to analytical models,
-  especially as it relates to the brain as an analaytical machine
+- cover the concept of "overdetermined" as it relats to analytical
+  models (and linear in/dependence), especially as it relates to the
+  brain as an analaytical machine
   - above all else, the brain seeks to identify coherence of
     information amongst innumerable variables of (multifarious
     dimensions)
@@ -291,6 +328,9 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       them to reevaluate their relationship to people around them and
       to the person in particular who triggered this reevalution.
 
+- breaking through a shell (in term of individuation) is the
+  internalization of new parameters...
+
 - this "wholeness" is like filling out a "shell" of understanding of
   the world as you relate to it. your understanding feels complete, so
   when you discover what it is you're looking for, you realize there
@@ -300,7 +340,14 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     areas of personal development, where you discover some unknown
     thing, whose exploration leads to the rapid development of
     (insight)
-  -
+  - this wholeness is like a caterpillar completing its development in
+    its cocoon.
+  - it's like breaking through some dam/stage in the (individuation
+    process)
+    - evolution of ego/self (revolutions along ego/self axis)
+    - basically, so external recognition of your self helps you break
+      through and discover aspects of your self previously unknown
+
 
 - how to describe this state of "wholeness" or "completeness" in
   analytical systems? it's like a well-roundedness for analytical
@@ -601,6 +648,15 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 ### (TODO: Combine this section with the above) How does the "fluidity" of probabilistic systems affect anticipation of results
 
+- (TODO: instead of football, use lacrosse)
+  - lacross as a team sport where perception of state of physical
+    models reshapes the perceived probability of a player's next moves
+    (within an extremely short time scale)
+
+- also, the game "rock me archimedes" is another where there is a
+  physical system whose intricate interrelated probability
+  distributions are tightly coupled to the inference of logical state
+
 
 - (TODO: change to throwing a football instead? it's more
   relatable. perhaps also throwing oddly shaped football-like objects)
@@ -689,8 +745,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       unity -- that an adversarial network may assume the observed
       network layers to hold to.
 
-
-
 ### Timeseries Analysis On models of physical systems
 
     - Is this paper
@@ -718,6 +772,27 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 - that paper talks about signals analysis generally, but i think
   there's definitely a connection between that and adversarial
   analysis of neural networks
+
+### Timeseries analysis on models of financial systems
+
+- connection b/w Dow Jones correlation matrix and polynomials (degree
+  and coefficient) that approximate it
+  - (i believe this is what i intended) both the Dow Jones
+    correlation/covariance tensor are values derived from polynomials
+    - this is likely a polynomial constructed of cumulants
+    - the point is to further deconstruct either the
+      covariance/correlation matrix into a tensor where this
+      decompostion into a tensor gives you more granular data to
+      process
+  - i.e. there's a relationship between both the returns-correlation
+    matrix and the returns-volatility measure for stocks on Dow Jones.
+    - the equations that satisfy/approximate this relationship have
+      very interesting constraints. in less mathematic terms, the
+      stocks that trade on the DJIA are interdependent and have
+      interrelationships in their correlation and their volatility.
+      the aggregate volatity of groups of stocks must be accumulated
+      and be tethered to measures of volatility in individual
+      stocks. likewise for correlations.
 
 
 ### Cognition and Object Classification

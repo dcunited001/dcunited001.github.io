@@ -2,7 +2,7 @@
 title: "Birth of a New Star: Distributed Precipitation For Transfiguration"
 ---
 
-- figures like Steve Jobs: where do they come from?
+- Figures like Steve Jobs: where do they come from?
   - Are people born great or do they become great?
   - Or perhaps the seeds of greatness are gradually deposited within
     vessels, which are tested and measured.
@@ -30,6 +30,7 @@ title: "Birth of a New Star: Distributed Precipitation For Transfiguration"
         distortion fields" that are meticulously managed by (people)
         around them who are dependent on the success of these great
         men, for whatever reason.
+
 
 - this "great man" becomes positioned (just right) in academia/industry,
   - they are threaded and intertwined into a network of people. the
@@ -73,7 +74,17 @@ title: "Birth of a New Star: Distributed Precipitation For Transfiguration"
 
 # The Great Man's Reality Distortion Field
 
-- this all happens while the great man is surrounded by a reality
+- (maybe remove) behind every great man is a sociophysical machine
+  (and a myserious man with a very salty bottle of awesome sauce)
+- the great man stands at the help of a sociophysical machine.
+  - Steve jobs quote: "looking forward & looking back, connect the
+    dots"
+  - the great man is also a product of a complex niche, a complex
+    demand that the world needs filled.
+  - even if the world rids themselves of the man, they can't so easily
+    destroy the fated niche
+
+- (segue?) this all happens while the great man is surrounded by a reality
   distortion field, sets of self-perpetuating sociophysical dynamics
   that feed their own propagation. these reality distortion fields can
   be either negative or positive. when they are postive, all

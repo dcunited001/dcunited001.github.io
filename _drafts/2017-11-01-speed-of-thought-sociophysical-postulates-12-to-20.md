@@ -8,6 +8,32 @@ author:
 excerpt: ""
 ---
 
+- chapman-kolmogorov as applied to the direction of focus/attention as
+  over time, explaining the likelihood of attention
+  - (move to a section on the spatial/informational projection of
+    attention)
+  - ADD & completion of tasks, where the imposition of dependencies in
+    those tasks requires the redirection of attention over more or
+    less distance in "attention-space"
+  - through the course of a small window of time, the more specific
+    the path through attention space is required to be, the more
+    control is required to hold the path fixed to and from those
+    dependencies. therefore, the imposition of additional dependencies
+    requiring the projection of attention in disparate directions
+    implies the need for more control over attention to mitigate the
+    higher probability of deviation from the path.
+
+### The Pecking Order
+
+"Because that's what life is about. Not true substance or even knowing
+what true substance is, but hoping that there's enough people around
+you who can't recognize substance that they assume you're better by
+comparison when you loudly assert your dominance."
+
+- "Stirring the pot" as sociophysical perturbation
+
+- the singularity as sociophysical transfiguration
+
 - thesaurus
   - gorgonize
   - nocent

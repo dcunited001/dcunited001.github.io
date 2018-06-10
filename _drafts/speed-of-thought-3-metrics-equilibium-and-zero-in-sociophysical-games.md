@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+- eudectic-like dynamics of social interactions on large-scales
+  - how is this different than simply an analogy to psychosocial
+    valence and/or chemical reactions?
+
 - psychosocial churn in sociohierchical structures is a tool of power
   - this is because people reorient themselves to the information
     available to them, but not all information becomes available to
