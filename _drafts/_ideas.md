@@ -352,6 +352,13 @@ of resources in the future when it's not necessary.
 
 # science
 
+### Graphs and Simplicial Complices of Electron Configuration Transitions
+
+- meatstability of electron configurations
+  - especially the outer shells of heavier metallic elements
+  - graphs of transitions between potential electron configurations
+    (in outer shells)
+
 ### molecular dynamics for covalent bonding & organic compounds
 
 - molecular dynamics for organic compounds: digitize the space of

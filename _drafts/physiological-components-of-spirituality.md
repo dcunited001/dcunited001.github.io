@@ -291,6 +291,12 @@ title: "Physiological Components of Spirituality"
   - is it possible to hook into accupuncture to measure changes in
     this fluid?
 
+### Qi + Vortices (and fluid dynamics)
+
+- "moving the inner and outer 'chakras' of the mind, simultaneously"
+  - moving vortices of chi in the head to create fluxes of large
+    magnitude. you focus on moving chi in contrary directions, so that
+    vortices are created.
 
 ### Using Bon/Buddhist beliefs to defeat the weaponized control of dreams
 

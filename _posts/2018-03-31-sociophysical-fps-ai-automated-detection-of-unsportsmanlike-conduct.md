@@ -33,6 +33,9 @@ excerpt: ""
     - that's not to say that playing fortnite is pointless. i'm sure
       it's fun. i've never actually played it.
 
+- how Overwatch's new social features are a great way to address poor
+  match selection and poor team cooperation (if the endorsement
+  feature doesn't find itself hijacked)
 
 - throwing people's games as a protest tactic (omg he's online, let's
   make him lose. we're really good at losing. like really good

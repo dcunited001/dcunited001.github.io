@@ -9,6 +9,28 @@ excerpt: ""
 ---
 
 - "analytic neurology" and neuro-lingusitic programming
+
+
+
+- Analytic neurology and the third-eye: what are the mind and brain
+  doing?
+  - in your mind, when preparing for a trance-like state, you focus on
+    visualizing semiotic signs, characters, (ASL) signs and gestures
+  - first visualize without the notion of color completely, then focus
+    on visualizing in black+white, then in color
+  - focus on visualizing simpler imagery/signs, like latin
+    characters. then gradually begin visualizing more
+- from an analytic neurology perspective: what is happening here? what
+  is your mind doing? how can properly running through these exercises
+- when I successfully enter a particular kind of trance-state and your
+  third eye "snaps" into resolution, complicated imagery in 3
+  dimensions suddenly dances before my three eyes. it's not easy to
+  get into this state, but what is happening here? if i reflect to
+  intensely on it, i lose the trance state and the imagery stops.
+  - i can't really control the imagery, i am merely witnessing it.
+  - it's amazing though, like i've activated some inherent ability of
+    my mind to augment it's computation, effortlessly.
+
 - varying degrees of dis/entanglement in variational autoencoders
   - extrapolating from the [arXiv insights video on variational
     autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
