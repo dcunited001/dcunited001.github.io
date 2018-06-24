@@ -2,6 +2,9 @@
 title: "Birth of a New Star: Distributed Precipitation For Transfiguration"
 ---
 
+- "do you remember the star that just faded away? no one does. i'd
+  rather go out with a bang, not a whimper"
+
 - Figures like Steve Jobs: where do they come from?
   - Are people born great or do they become great?
   - Or perhaps the seeds of greatness are gradually deposited within

@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+- bots to balance gameplay, to provide standard candles for matching
+  algorithms... (probably a bad idea)
+
 - there are games that are likely to become cybersports and those that
   don't have a chance. however, it's not simply popularity that
   dictates which games are "cybersportable" and which are not.

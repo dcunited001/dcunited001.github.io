@@ -10,6 +10,141 @@ excerpt: "As far as I can see, understanding gravity necessitates a shift in how
   the important pieces.  Here's a few of the more profound questions."
 ---
 
+
+# Updates from 2018 - "Spectral Relativity"
+
+#PolymathicPerfraction: Spectral Relativity and the #ManyBodyProblem
+
+## Simulated particles systems have three challenges:
+
+### 1) Continuity problems: requires the Hamiltonian & Conservation of Energy
+
+- high magnitude force calculations (force splatting)
+  - infinitessimal-to-zero values resulting in discontinuities in the gradient calculation
+    - non-smooth values used for force calculation
+    - performance trade-offs
+
+### 2) Boundary Problems:
+
+  - the specific solution you choose impacts the conservation of energy for hamiltonian
+    - “fixing” this violation of the hamiltonian is the primary challenge with boundary problems
+
+### 3) Distribution of mass/charge
+
+- particle systems aren’t point-like
+  - addressing electrical configurations of ionic/covalent bonding is difficult
+  - this results in local relativistic effects for some elements (mercury)
+
+### 4) Special Relativity
+
+- Brute force approaches to relativity
+  - challenges with discrete computations of a continuous system,
+    - where relativistic effects occur over a large scale of distance
+
+
+- Interesting to explore: do the relativistic effects found in mercury
+  electrons impact interactions b/w some electrons in large, highly
+  regular crystals?
+
+## general means of disaggregating/deconstructing behavior of physical systems:
+
+### 1) Hamiltonian:
+
+  - particle position/momentum
+  - energy equilibrium
+
+### 2) Subgroupings of components (of the hamiltonian)
+
+### 3) Application of Spectral analysis to hamiltonian components
+
+  - FFT(dp/dt)
+  - FFT(dq/dt)
+  - FFT(d(.)) == d(FFT(.))
+
+### 4) inference of the structure of interdepenency of variance from expected outcome
+
+- hamiltonian components as distributions (with max/min, moments, variance)
+    - more useful with momentum
+  - spatial distribution of entropy and kinematics of entropy changes over time
+
+### 5) Stochastic Calculus
+
+- analyzing possible short-term trajectories of particles (and phase space
+  - short-term trajectories a la “instantaneous impact” from Lie Algebra
+
+### 6) Kinematics
+
+### 7) Special-relativistic inferences
+
+- examine impact of relativistic parameters on deformation of phase space
+  - again, “instantaneous impact” from Lie Algebra
+  - when crossing relativistic inferences with the spectral decomposition of hamiltonian,
+    more information should be produced
+
+### 8) mechanics of continuity
+
+- all of the above must be connected, yet all preserve energy equilibrium
+    then the system must have ideal paths in phase space (at least in classical mechanics)
+  - measures of phase space path deviation (in aggregate) must be connected
+     - for analyzed observations or simulated systems
+     - this has to be reconciled with the classical Hamiltonian…
+
+
+### 9) Concept of Linear Hull (& Hamel Basis?)
+
+- (this is incorrect, i'm talking about something else)
+- as applied to the Solution Space of Phase Space
+    - examine the phase space curves and connections between curves
+       for all configurations of the system
+       - how and why do these phase space curves follow along common paths,
+         while being “chaotic”?
+         - i.e. any point along a curve represents a potential starting configuration of the system
+           for which the phase space curve will be a subset
+       - then, for all points in phase space, which points are connected as curves?
+         - are all these phase space curves disjoint?
+         - if they are disjoint, how do rational & algebraic numbers transform into values along the curves?
+         - the systems are differential & thus the rationality/algebraicity of values along paths in phase space
+            feed in and out of each other (this definitely connects to Lie Algebra and E8)
+
+
+  - and other number theory concepts as applied
+  - differential operator and linear hull…
+  - quotient spaces & number theory (does this lead to E8)
+
+In which, I convolute ideas with those I've recently acquired from #ExteriorAlgebra with:
+
+- #Hamiltonian, conservation of energy and phase space
+
+- spectral components of position/momentum in #DoublePendulums
+
+- conserve/reconstruct continuity
+  - gradient descent applied towards observed #Divergence from
+     expected paths through phase space
+
+- Why spatial invariance of physical laws and composition of aggregate quantities
+  like #Entropy necessitates interesting extrapolations
+
+- Detection of local/global #Convexity & #Concavity on combinatorial multivariate
+  surfaces in high-dimensional cost functions and how this applies to efficient feature
+  prioritization in #MachineLearning algorithms
+
+- #DifferentialForms, as applied to the anticipation & detection of expected/actual dissonance
+  from true conservation of energy.
+
+- The #FreeAlgebra, as applied to the differential operator, to create a direct summation
+  of tensor products, where #Algebraicity, connected quotient spaces, and #Continuity
+  are preserved. This constructs something *similar* to a #Manifold, mapping low dimensional
+  spaces to higher dimensional surfaces of the differential operator or 1-forms, 2-forms, etc.
+
+
+## Other new ideas.
+
+
+
+
+
+## Content from 2016
+
 Ars Technica recently posted an article on
 [an exciting new development in dark matter](http://arstechnica.com/science/2016/02/spotting-dark-matter-by-the-way-it-moves/)
 and this piqued my interest on the subject. Another article I just saw

@@ -8,6 +8,11 @@ author:
 excerpt: ""
 ---
 
+- intro two this part with discussion on
+  financial/social/informational and an overview on how all forms of
+  government/society can be dilineated based on how they
+  control/disseminate (diffuse) these resources
+
 - chapman-kolmogorov as applied to the direction of focus/attention as
   over time, explaining the likelihood of attention
   - (move to a section on the spatial/informational projection of

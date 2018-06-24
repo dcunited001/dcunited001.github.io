@@ -163,6 +163,12 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 
 # Qualities of Territory
 
+- also, describe factors related to the consumption of information
+  - attention is one loosely quantifyable factor and one that has
+    inherent bottlenecks, as well as geospatial dynamics
+  - attention, its geospatial and social aggregates, the direction &
+    intentionality of attention
+
 ### Transiency
 
 - nature of the territory implies it can be controlled for a certain

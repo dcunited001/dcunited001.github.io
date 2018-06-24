@@ -17,6 +17,54 @@ excerpt: ""
 
 ![Epistemicide](epistemicide.jpg)
 
+
+- social information consensus (& dynamics thereof) as it relates to:
+  - whether information systems are overdetermined/underdetermined
+  - validation/assumptions of consensus/coherence among social nodes
+    - do social nodes realize that information systems:
+      - have reached social consensus
+      - could/not reach social consensus
+      - are likely to seem overdetermined/underdetermined amongst
+        social nodes
+    - i.e. "when we all know that *what we all know* means there are 3
+      different ways to verify some pieces of information"
+      - when this is true, the information has propagated through the
+        network and some means of validation are readily available --
+        *and everyone knows that*
+        - the system can be said to be overdetermined
+        - but in this case, information related to (and along the
+          boundary of) the socially distributed information system in
+          question is:
+          - more rigid and less susceptible to sudden change
+          - if the system does change, everyone involved can
+            anticipate how it will change.
+       - however, when the social distribution of some information
+         system is curtailed, constrained or simply doesn't propagate,
+         then the system's pieces are poorly socially distributed.
+         - it is underdetermined: and everyone knows that the related
+           information
+         - it is thus more flexible, more susceptible to change that
+           is difficult to anticipate.
+       - when seeking consensus or verification of the coherence of
+         information, if the system as it is distributed socially is
+         underdetermined, people might find themselves saying:
+         - "i don't even know what questions to ask" as though they
+           aren't sure how to extrapolate along the boundary of the
+           information system
+  - when aniticipating change of an information system to retain
+    flexibility, it is generally more advantageous that the system is
+    underdetermined, specifically in how it appears to specific people
+    or types of people
+    - i.e. when you are pulling the wool over someone's eyes, you
+      don't want specific pieces of information to be readily
+      available to them.
+      - or the ways the information system can be adapted are limited
+        - this means there are fewer believable lies that you can tell
+          them.
+        - or, if you are using the tactic of creating truthful
+          disinformation, it becomes harder to fake consistency to
+          deceive the person.
+
 - aetiology
 
 - epistemicide

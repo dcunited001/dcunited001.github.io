@@ -2,15 +2,56 @@
 title: "Graphics Ideas"
 ---
 
+
+# WebGL
+
+- display resources allocated by tensorflow (webgl1)
+- display resources allocated by WebGL
+  - i.e. select texture and provide options to transform it to a GIF
+-
+
+
+# Computational Geometry
+
+### Calcuation and display of Curvature for Meshes
+
+- calculate/display curvature and d-curvature on surfaces
+
+
+# Statistics and Machine Learning
+
+### From "Shaply Values" to the Recognition of Typology in Input
+
+### Animate Training of Handwritten Digit Training
+
 ### Animate textures for Auto/Correlation tensor w/ stock data
 
+### Analysis on Bitcoin/Ethereum/Forex
+
+- calculate correlation/covariance/volatility and animate
+- this data is mostly available for free
+- where to get datasets? how to load it into WebGL?
+- how to interpolate datapoints?
+- how to deal w/ ranges of empty data?
+
+### Candlestick Classifier (w/ LSTM extrapolation)
+
+- input financial time-series
+- compute correlation/etc
+- identify candlestick events, (with relative invariance w.r.t. time)
+  - use for technical analysis
+
+### Calculate Free-Energy Landscape
+
+- tensorflow program to calculate the Free Energy Landscape for
+  molecules and identify the potential conforomations
 
 ### ChemGAN (X) Pharmakineutic Discovery
 
 - [Notes from Siraj's video](https://github.com/llSourcell/AI_for_healthcare/blob/master/Healthcare%20Drug%20Discovery.ipynb)
 
 - download chemical data and animate combinatorial enumeration of
-  related drugs
+  related drugs.
 
 - classify features of organic compounds within large molecules
   - identify aromaticity, alcohols, aldehydes, methyls, hydrogens w/
@@ -93,6 +134,18 @@ title: "Graphics Ideas"
     - but image encoding destroys spectral data, so this can't be
       trained on or run on traditional image formats and probably
       needs to occur in hardware.
+
+# Misc
+
+### Calculations of Configuration Space and Phase Space
+
+- simulate some magnetic pendulum desktoy
+  - or build a real one with an accelerometer
+- calculate/animate the physics
+- for specific magnetic arrangements:
+  - calculate/project the path through phase space
+- for the set of all magnetic arrangements calculate the configuration
+  space (to determine interesting arrangements?)
 
 ### 4D to 3D projection
 

@@ -509,6 +509,35 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   apply to extremely sophisticated observed networks with the ability
   to reorient cognition.
 
+
+### Detecting [intent of] A Fake Accent (X) Variational Inference
+
+- introduce the concept of variational inference
+- using variational inference to cut through some steadily held
+  illusion. A specific example, trying to determine whether someone in
+  a conversation who is speaking w/ an accent is merely impersonating
+  - how does an algorithm approach this? it's really no different than
+    how a person would approach it, though an algorithm can be more
+    methodic about it.
+- using the concept of variational inference, each event where there
+  is a deviation in the illusion's quality contributes towards the
+  accumulation of information detracting from coherence.
+  - that is, coherence and authenticity are impossible to fake, but
+    simple to pull off -- given authenticity.
+  - the more time/input you have, the more each deviating event
+    contributes a bit of information.
+    - for this cumulative dissonance, its product is greater than the
+      sum. how does each deviation from the norm (or from authentic
+      behavior) impact the informational state-space?
+    - why does the curse of dimensionality, here, make it harder to
+      exhibit authenticity across all of the dimensions?
+  - if you can interact with the system, you can leverage the
+    variation inference to identify where the uncertainty lies in the
+    possible information states: you can inform your interactions with
+    the system to probe specific elements of the space of information
+    states
+    - this needs to be articulated in more precise terms.
+
 # Neural Representations of (Inferred Physical Systems)
 
 - is there a better word here meaning "locally" but with the
@@ -886,6 +915,7 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   a hardware interface.
 
 - TODO: lotus pic
+- "somatic" tinnitus
 
 - can the human brain analyze it's own signals for interconnectedness?
   - i.e. if one's mind can open up to the data representating
