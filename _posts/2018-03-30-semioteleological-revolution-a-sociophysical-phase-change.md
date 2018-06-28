@@ -18,6 +18,8 @@ excerpt: ""
 ![Epistemicide](epistemicide.jpg)
 
 
+### Social Information Consensus
+
 - social information consensus (& dynamics thereof) as it relates to:
   - whether information systems are overdetermined/underdetermined
   - validation/assumptions of consensus/coherence among social nodes
@@ -65,18 +67,96 @@ excerpt: ""
           disinformation, it becomes harder to fake consistency to
           deceive the person.
 
+### Complexity of Social Information Systems and Decidability
+
+- decidibility in computer science, for deterministic programs
+  - how does is this concept different for non-deterministic systems?
+
+#### What does decidability mean for Sociology and Communication
+
+- The process of information consensus and complexity of Information
+  State-Space -- how do these relate to the notions of decidibility in
+  social information systems?
+  - introduce slang as an example: how does it propagate? what
+    determines the selection/retention of morphemes with duplicitous
+    connotation?
+    - decidibility problems in slang usage
+  - how does this apply to the notion of pattern langauges? how much
+    additional structure can be imposed onto language/communication?
+    - when words/concepts are remapped with too much complexity, no
+      one knows what you mean or which direction you're coming from or
+      which side you're on.
+    - this isn't cogent to a discussion on slang because that's
+      developed ad hoc. it's more important to the examination of
+      argots/cryptolects as they are used for the advancement of
+      political agendas and for belligerence in society.
+
+#### Assertion: ANY Assumptions reduce the complexity of the informational state space
+
+- better term for "assumptions"
+- this assertion must be qualified by:
+  - validity of the assumption
+  - ethics of the assumption
+  - efficiency/utility of the assumption
+  - [informational parity] of the assumption
+    - i.e. is the structure of the assumption clear, simple and
+      definite? does it require parameterization?
+
+#### Correlate to the "Triumvirate" framework for delineating governmental/social systems
+
+- in the more extreme configuratoins of governmental systems, the
+  influential tend to:
+  - (1) construct abstractions (and socially distribute them) so that
+    specific concepts are clearly defined and so people in society can
+    predicate their actions/statements/beliefs upon these
+    abstractions/assumptions
+  - (2) leverage tradition (either old or new) and generally socially
+    engineer.
+    - this is effective by reducing the informational/schematic
+      complexity
+  - (3) concentrate the majority of info/schema into highly focused
+    spectra. they try to force beliefs upon society
+
+### Decidability & Schematic Complexity complicates a society's reflection upon:
+
+- (1) that society in relation to itself
+- (2) that society in relation to the external
+  - this is particularly problematic when the society cannot fathom
+    the nature/state of external factors, as they relate to its
+    prosperity or demise
+
+- that is, as the complexity of information systems expand, the
+  ability for a society's leaders and individuals to quickly make
+  decisions that are effective and serve the interests of the general
+  public begins to break down.
+
+
+### Concept of Elasticity, as applied to Social Information Systems
+
+- as the motion is more generally defined in math, what is elasticity?
+  - what does this mean for the social distribution of information?
+  - how does this relate to the distribution of attention and the
+    absorption/retention of information?
+
+
+
 - aetiology
 
+- epistemic mitosis
 - epistemicide
   - the systematic destruction of information structures deemed
     heretical. the eradication or culling of instantiations of
     forbidden knowledge in society.
+
+#### Evolution of Epistemic Structures
 
 - evolutionary dynamics and speciation in epistemic structures
   - entropy/enthalpy in the evolution/distribution of epistemic
     structures, for types/metatypes. the potential for diversity in
     epistemic structures is balanced by the influence of enthalpy on
     the speciation of information as it propagates.
+
+#### How Social Information Consensus is useful
 
 - social information censensus and the effects its outcomes can have
   on people's lives.
@@ -92,10 +172,14 @@ excerpt: ""
     beliefs (or store information in the case of social media &
     digitized information)
 
+#### Bilingual Readings for eludication of epistemic meaning via Semantic Hendiadys
+
 - leveraging bilingual readings for a kind of semantic hendiadys.
   - concerning epistemic convolution: reachiing the authentic semantic
     intent of an author by attempting to find the middle ground
     between two transations.
+
+####
 
 - if you seek true liberation and other people subsist by siphoning
   your sociophysical resources -- i.e. they take the value work they
