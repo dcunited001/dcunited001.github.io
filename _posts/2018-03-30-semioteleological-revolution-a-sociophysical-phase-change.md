@@ -53,6 +53,9 @@ excerpt: ""
          - "i don't even know what questions to ask" as though they
            aren't sure how to extrapolate along the boundary of the
            information system
+
+### Projecting information to maintain Determined-ness of information systems
+
   - when aniticipating change of an information system to retain
     flexibility, it is generally more advantageous that the system is
     underdetermined, specifically in how it appears to specific people
@@ -67,10 +70,144 @@ excerpt: ""
           disinformation, it becomes harder to fake consistency to
           deceive the person.
 
+### sociopolitical conflict and the influence of information-diffusion on determined-ness
+
+- in sociopolitical conflict, there are powers with varying degrees of
+  dominance, from full blown monopolar or shared, bipolar hegomony to
+  submission to such dominant powers.
+  - For the more dominant powers, how can their extreme share of power
+    be regarded as certain, by themselves and by others?
+  - it is critical for the dominant powers themselves -- and for those
+    lesser powers within their spheres of influence -- to feel certain
+    about their power.
+    - uncertain situations cannot be extrapolated for anyone
+      involved. this inherently leads to miscalculation for those who
+      cannot determine the certainty of key components of the
+      sociopolitical status quo.
+      - that is, those powers major and minor whose world-view is
+        certain will pursue actions, tactics and strategies whereby
+        the impacts are assumed to be certain and known -- by the
+        acting powers themselves as well as those who must ascertain
+        the consequences.
+      - however, especially for minor powers, when actors take actions
+        in generally underdetermined situations, they have no hope of
+        understanding the consequences. at best, the actors
+        misunderstand their own actions. worse, those actors cannot
+        extrapolate the consequences when their (status) is influenced
+        by these actions in terse-yet-underdetermined sociopolitical
+        situations
+  - so, sociopolitically, controlling the inferences and
+    extrapolations made into socially distributed information systems
+    is critical for maintaining power. there are those information
+    systems which dominant and non-dominant powers want to be the
+    truth, (unchallenged) and insurmountably unchallengable. that is,
+    the facts and assumed facts of these information systems cannot
+    change and lay the groundwork for the worldviews of individuals
+    and groups.
+    - yet there are also information systems which some powers want to
+      remain
+
 ### Complexity of Social Information Systems and Decidability
 
-- decidibility in computer science, for deterministic programs
+- there is no objective truth an any information system, regardless of
+  how knowable and certain some fact or theorum may seem, there are
+  axioms whose truth cannot be interrogated or demostrated.
+- yet, the perception of change and of the possibility of change has
+  wide-reaching sociopolitical impacts.
+  - how do individuals reach concensus on the facts of history or
+    science? (history leads individuals to want action, to feel the
+    need for action, to feel that action is hopeless or pointless)
+  - determining which truths that individuals and groups ascertain to
+    be constants in the narratives of history, determines their
+    resulting (aggregate) (decision-tree) choices in the
+    (decision-forests).
+    - regardless of the structure of those decision-trees, either
+      individual or shared, if you control the input or apparent
+      input, you can exhibit significant influence on the output.
+
+- what is the "input" to these individuals and groups with agency?
+  - how do we decide what a word means? do we all have identical
+    conceptions for the meanings of words? absolutely not. so, beneath
+    the surface of these (decision-forests... drop the metaphor?) are
+    the the systems of categorizing and "typifying" input: the systems
+    of linguistics and semiotics.
+  - individuals and groups all share systems of classifying (input
+    related to conceptions and abstractions), but there are important
+    distinctions amoung these distributed systems of
+    abstraction-classification:
+    - languages have dialects, but also have cryptolects.
+      - some groups develop argots, "trap-door" type abstractions
+        within a single language or a language pair
+    - mythologies inculcate semioteleological mappings within the
+      people for which they are distributed.
+    - there are cultural universals, but each one has various
+      implementations in every culture.
+    - there are tightly connected cultures and broadly connected
+      cultures
+  - for any of those mechanisms for parsing linguisitic/semiotic
+    input, any change to those strucutures represents change to
+    distributed/connected groups across a region or across the world.
+    - changes to some structures propagate the impact to social groups
+      more quickly and with more certainty than others. people must
+      consume information related to these structural changes in order
+      to exhibit changes in the decisions that they make.
+    - but perhaps the most important question here is: how can we know
+      how other individuals and groups classify linguisitic and
+      semioteliological input?
+      - can we ever know that with deterministic certainty?
+      - can we ever know with deterministic certainty that an AI
+        trained on linguistic data will classify words identically?
+        - no, we can only know with certainty that, if the trained
+          weights and structure of the AI's network vary, then so will
+          the outputs of that network.
+      - so if even language and semioteleological mappings cannot be
+        said to be determinstic, what is the range of confidence we
+        can have in deciding how some other entity, whether an
+        individual or group, will have in classifying linguistic and
+        semiotic input?
+      - obviously there must be some variance in confidence here:
+        languages are shared abstractions and that humans propagate
+        abstraction is itself the primary distinguishing trait between
+        the minds of humans and animals.
+        - in order to have any confidence herein -- and for language
+          itself to have the benefit that guarantees its continued
+          propagation -- there must be distributed abstractions for
+          semioteleological classification whose mappings are similar.
+        - so there is variance and similarity amongst socially
+          distributed abstractions: and thereby, we have varying
+          levels of confidence with regard to the clarity of
+          communication.
+
+### Semioteleology and information systems
+
+- therefore, there is a problem of decidability in probabilistic,
+  semioteleolgical system.
+  - decidibility in computer science, for deterministic programs
   - how does is this concept different for non-deterministic systems?
+  - the important point herein is: how does the assumed decidability
+    and perceived decidability (as a result of communication) relate
+    to the certainty, persistence and implications of information
+    systems.
+
+- it's sociopolitically relevant to understand how ideas,
+  abstractions, language changes over time. because the extrapolated
+  calculations of individuals and groups will change if language and
+  the distributed semioteleological mappings shift beneath our feet.
+  - how do people determine what is relevant or what is true?
+  - if specific information systems -- e.g. historical narratives --
+    yield the gradual inculcation of shared decision trees and thereby
+    encourage or constrain specific actions by those individuals and
+    groups,
+  - then if those information systems and the semioteleological
+    mappings that (assign meaning to semiotic sign) change, then so
+    will the extrapolated actions and perceived extrapolation of the
+    impact of actions.
+  - basically, if fake news undermines the mappings, context and
+    confidence related to information systems and the decisions we
+    make based on the socially distributed information that we know
+    and upon which we choose to focus, then the implications of
+    seemingly rock-solid information systems can shift beneath our
+    feet, yield conflict and other consequences..
 
 #### What does decidability mean for Sociology and Communication
 
@@ -142,7 +279,7 @@ excerpt: ""
 
 - aetiology
 
-- epistemic mitosis
+- epistemic mitosis　
 - epistemicide
   - the systematic destruction of information structures deemed
     heretical. the eradication or culling of instantiations of

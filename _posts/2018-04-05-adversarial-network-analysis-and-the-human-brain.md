@@ -9,7 +9,8 @@ excerpt: ""
 ---
 
 - "analytic neurology" and neuro-lingusitic programming
-
+  - why do the techniques of NLP exhibit their specific effects on our
+    minds?
 
 
 ### Analytic neurology and the third-eye:
@@ -90,13 +91,56 @@ excerpt: ""
 
 - connection b/w writing left-handed and fine motor control for guitar
   - connect this in from an analytic-neurology perspective
+  - how training the mind to engage in behaviors with the opposite
+    hand, forces the mind to neurologically restructure the pathways
+    for that activity so that there are some changes in
+    neuro-circuitry when reengaging in those behaviors with the
+    dominant hand.
+  - Becuase of the specifics of modular coodination of neural
+    circuitry, there is no way for the mind to relearn an activity
+    using the non-dominant hand without restructuring the original
+    circuitry. This doesn't imply that the effects on the engagement
+    of that activity using the dominant will be profound -- since the
+    mind is modular.
+  - However, there will be some changes on the lower-level mappings
+    between the motor circuits and those circuits responsible for
+    interaction state, perception, etc.
+
+### Social Disconnection and the Jungian Hero's Journey
+
+- on short & long-term time scales
 
 - social disconnection results in stagnation of motion along the
   ego/self axis. there is no opportunity for your ego to acknowledge
   external signals representing society's understanding of the self
   - without these signals there is no capacity for reconciliation of
     the ego/self
-
+  - (there are exceptions!) sometimes isolation, whether self-imposed
+    or not, does result in extreme reevaluation of the self.
+    - whether there will be (transcendent at all levels) re-evalution
+      in the structure of the psyche, resulting from the isolation,
+      can be seen in short-term time-scales in how the absence of
+      input influences the selection/expression of behaviors,
+      especially the selection of behaviors related to seeking
+      psychosocial homeo-stasus
+    - that is, we all seek to move towards states of psychosocial
+      homeostaus in how we *feel* towards the emotional/intellection
+      state of our ego in relation to ourself and others.
+      - in order to move towards the preferred "normal" states, we
+        un/sub/consciuosly select to express behaviors (similarly to
+        how genes might be expressed)
+      - in short-term isolation, does the selection profile for those
+        behaviors change? or does it stagnated. Either extreme change
+        or extreme stagnation will result. in the long-term, there
+        will usually be eventual stagnation, especially as the
+        spectrum of psychosocial experience is typologically filtered.
+      - that is, in isolation, the range of types of experiece are
+        geneally reduced (with some exceptions).
+        - if this is so, the person will eventually settle on specific
+          ranges of response types of psychosocial behaviors to those
+          moreso limited stimulus types. in other words, without types
+          of experiences provoking/compelling adaption, how can you
+          expection someone to adapt?
 
 ### The Brain as an Analytical Machine
 
