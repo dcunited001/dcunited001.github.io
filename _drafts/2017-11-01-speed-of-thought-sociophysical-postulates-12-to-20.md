@@ -8,25 +8,14 @@ author:
 excerpt: ""
 ---
 
-- intro two this part with discussion on
-  financial/social/informational and an overview on how all forms of
+- intro two this part with discussion on financial, social,
+  informational resources and an overview on how all forms of
   government/society can be dilineated based on how they
   control/disseminate (diffuse) these resources
+  - (no, move this to a separate article)
 
-- chapman-kolmogorov as applied to the direction of focus/attention as
-  over time, explaining the likelihood of attention
-  - (move to a section on the spatial/informational projection of
-    attention)
-  - ADD & completion of tasks, where the imposition of dependencies in
-    those tasks requires the redirection of attention over more or
-    less distance in "attention-space"
-  - through the course of a small window of time, the more specific
-    the path through attention space is required to be, the more
-    control is required to hold the path fixed to and from those
-    dependencies. therefore, the imposition of additional dependencies
-    requiring the projection of attention in disparate directions
-    implies the need for more control over attention to mitigate the
-    higher probability of deviation from the path.
+- TODO: move the section on configurational entropy to be first (as
+  long as order is consistent)
 
 ### The Pecking Order
 
@@ -64,18 +53,19 @@ comparison when you loudly assert your dominance."
   learning](https://www.youtube.com/watch?time_continue=121&v=ULFzxq0u_mI)
 
 
-- elasticity of social distribution of belief.
-  - so, for any substrate through which solvents/solutes diffuse, the
-    phenomenon of elasticity emerges, which describes the capacity for
-    absorption/expansion/diffusion/etc
-    - need more descriptive details here
-  - however, if you view social particles as a substrate with a
-    capacity/bandwidth for information absoption, then the phenomenon
-    of belief diffusion, absorption and propagation should exhibit
-    some qualities of elasticity.
-    - this is particularly relevant when there are adversarial belief
-      systems, where powerful people try to disrupt the belief systems
-      of others while trying to protect/propagate their own
+### elasticity of social distribution of belief.
+
+- so, for any substrate through which solvents/solutes diffuse, the
+  phenomenon of elasticity emerges, which describes the capacity for
+  absorption/expansion/diffusion/etc
+  - need more descriptive details here
+- however, if you view social particles as a substrate with a
+  capacity/bandwidth for information absoption, then the phenomenon of
+  belief diffusion, absorption and propagation should exhibit some
+  qualities of elasticity.
+  - this is particularly relevant when there are adversarial belief
+    systems, where powerful people try to disrupt the belief systems
+    of others while trying to protect/propagate their own
 
 - "mythical search/quest for free will"
   - the archetype of a quest where a hero searches for freedom from
@@ -117,6 +107,8 @@ comparison when you loudly assert your dominance."
   series is effectively a post-doctoral masterpiece on methodological
   alchemy.
 
+### (impact of geography on population movement, its distribution and commerce
+
 - sociophysical position/movement distributions rooted in regional
   anchors (considering mostly regional movement of people in
   bronze/iron age cultures)
@@ -132,6 +124,8 @@ comparison when you loudly assert your dominance."
       Hawaii/Indonesia?
       - do springs/bathhouses occupy similar precedence in these
         cultures?
+
+
 
 - if the idea of God cannot be proven or can be proven false, is there
   still value for religion? (of course)
@@ -155,13 +149,18 @@ comparison when you loudly assert your dominance."
   - the construction of a network with people who have invisible
     puppet strings.
 
-- math ideas
-  - "K curve" for estimating speciation
-    - gene replication vs belief/informational replication
+
+
+### "K curve" for estimating speciation
+
+- gene replication vs belief/informational replication
+
+### Demographic Stratification
 
 - social physics &#x8855; demographic stratification of children by
   age through childhood and adolescence (used for psychological
   programming)
+
 
 - dandelion imagery
   - ancient magus anime (episode 5)
@@ -216,6 +215,10 @@ comparison when you loudly assert your dominance."
 
 #### Just Like The Body Follows The Head...
 
+- move to 15 (each agents state/context)
+- introduce this concept using soccer
+  - the spatial projection of attention
+
 - just like the body follows the head, both the individual and the
   social organism follow the projection of attention, in aggregate.
   where there is aggregate attention, there will be motion towards and
@@ -231,13 +234,32 @@ comparison when you loudly assert your dominance."
     the logical, higher-order direction of focus instead of simply
     gauging someone's head/eye orientation
 
+
+- chapman-kolmogorov as applied to the direction of focus/attention as
+  over time, explaining the likelihood of attention
+  - (move to a section on the spatial/informational projection of
+    attention)
+  - ADD & completion of tasks, where the imposition of dependencies in
+    those tasks requires the redirection of attention over more or
+    less distance in "attention-space"
+  - through the course of a small window of time, the more specific
+    the path through attention space is required to be, the more
+    control is required to hold the path fixed to and from those
+    dependencies. therefore, the imposition of additional dependencies
+    requiring the projection of attention in disparate directions
+    implies the need for more control over attention to mitigate the
+    higher probability of deviation from the path.
+
+
+
+
 #### The Prototypical Thought Experiment for S/Phys (w/ both Phys+Virtual)
 
 - Your target uses Google Maps. You know the address they searched &
   entered. You know they are en route now and can monitor their
   current position, along with the time remaining.
-- you need to filter your social graph to the set of people various
-  conjunctions of you and your target's 1&deg; and 2&deg; social
+- you need to filter your social graph to the (set of people various
+  conjunctions...?) of you and your target's 1&deg; and 2&deg; social
   neighborhoods.
   - (i.e. your mutual friends is the conjunction of your
     1&deg; neighborhoods)
@@ -245,6 +267,7 @@ comparison when you loudly assert your dominance."
     by many params AND/OR by distance to target.
   - assume you can access the real social graph, regardless of how
     your data is composed of many virtual sources)
+
 
 #### The Perfect (Recipe) for Cooking Eggs (a complex application of the Heat Equation)
 
@@ -334,12 +357,28 @@ comparison when you loudly assert your dominance."
 
 ### Intro(?)
 
+- write an introduction involving soccer. and connect the
+  strategy/tactics therein to the 9 remaining sociophysical postulates
+  - (all(?) (team sports) are basically social physics.)
+    - as the rules of a sport increase player count, social physics
+      begins to exhibit increasing influence on the interactions,
+      tactics and strategy
+   - but soccer is a (more complete) generalization of social physics
+     than most team sports.
+     - (briefly) contrast with lacrosse, basketball and
+     - baseball is about [developing] intuition of statistical systems
+       - esp. dependent & independent events
+   - micro and macro of social physics
+     - in tennis and racketball, there are still "micro" dynamics
+
 - mention quantum physics and coarse graining
   - explain "what" coarse graining really is and why we may be wrong
     about quantum mechanics. explain why the Ansatz and Tensor
     Networks explain these phenomena under dimensionally various
     conceptions of the problem statement
   - Connect to Simon Dedeo's video (part 1)
+
+
 
 - over the course of thousands of years, elites (needed to understand)
   social physics and statistics to rule/manage people. modern man
@@ -411,7 +450,7 @@ comparison when you loudly assert your dominance."
         through myth
 
 - natural signs/phenomena are some of the most powerful means of
-  developing an understanding of
+  developing an understanding of (...?)
   - even to someone devoid of writing, the natural world itself is
     full of information about nature. if you truly know natural
     phenomena, you need only look around and you see physics, math,
@@ -502,6 +541,8 @@ comparison when you loudly assert your dominance."
 <a name="even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces" />
 
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
+
+- TODO: talk about variational inference here
 
 - MOVE: spectral decomposition of task-related information-acquisition
   dependencies in general social circumstances.
@@ -670,11 +711,11 @@ Given a simplified model of a sociophysical or financial system
       - however, by limiting the informational range of the discussion
         and the direction or spectral content of arguments,
 
-- another overwatch point (move to different article)
-  -
+### application of a resources-oriented mindset
 
-- application of a resources-oriented mindset
-  - (is there an official name for this?)
+  - (is there an official name for the concept of resource-oriented
+    inference of intent, as it applies sociopolitically and
+    militarily)
     - explore Jominian vs. Clauswitzian mindsets with regard to this
       specifically.
       - in the jominian view, these resources are critical to the
@@ -720,6 +761,7 @@ Given a simplified model of a sociophysical or financial system
 
 - content from "facets: systems-theory"
   - this content is poorly outlined. where else do i have this?
+
 - this section is mostly about leveraging physics/math concepts to
   proactively provoke potential adversaries to reveal & attempt to
   conceal information, including their intent
@@ -1061,7 +1103,7 @@ developed by cooperative entities? These entities are essentially
 [Boltzmann machines](https://en.wikipedia.org/wiki/Boltzmann_machine)
 with myriad arbitrary notions of temperature and sociophysical energy.
 
-![]()/
+![]()
 
 - expand on this
   - transition to discussing how we attempt to model each other's
@@ -1322,7 +1364,7 @@ enable the government in this regard because even the best intentions
 go horribly awry.)
 
 
-- {from article on math} furthermore, there are people who's mental
+- {from article on math} furthermore, there are people whose mental
   state is the result of their life experience, either in the past or
   because of current conditions. There are many types of individuals
   who suffer with improper diagnosis because of isolation, abusive
@@ -1428,7 +1470,10 @@ relevant or meaningful.
 
 ### &#8855; &#8710; &#8968;xix&#8969; [For The Efficient and Pragmatic Assertion of Behavior and Intent, Sociophysical Configuration Entropy is Nearly Unparalleled](#for-the-efficient-and-pragmatic-assertion-of-behavior-and-intent-sociophysical-configuration-entropy-is-nearly-unparalleled)
 
-In thermodynamic, biophysical and genetic systems, patterns of change
+- soccer, valence/pairing as it relates to configurational and
+  conformational entropy
+
+In thermodynamics, biophysical and genetic systems, patterns of change
 and entropy in configurational and conformational distributions
 provide a metric measuring complex similarity metatypes of programs in
 chaos. Using this, one can dilineate genetic programs and other
@@ -1522,7 +1567,7 @@ arrangements is similarly not random.
 > This is the kind of stuff everyone learns about life by age 8. I
 > needed to resort to thermodynamics to understand.
 
-Everything reveals information, but parsing incommplete and
+Everything reveals information, but parsing incomplete and
 inschematic information is usually prohibitively complex. look for
 tightly coupled position, orientaion and change in field of view: when
 the specific configuration starkly departs from natural non-coupled
@@ -1729,6 +1774,86 @@ information.
 <a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
 
 ### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+
+
+- the focus here is on the idea of spatially-distributed agency, as it
+  relates to the social/physical distribution of information,
+  consensus of that information, the social perception of concensus
+  - and how various modes of signaling impact the above, especially
+    when there is some simultaneous or socially implicit consumption
+    of signals
+    - (in which case, information consensus is implicit and
+      expectations of deviation from that consensus require
+      justification/explanation)
+
+- the projection of epistemic structures into society (esp logistic)
+  - distributed programs and social physics
+  - amplication of information (X) confidence in the current/future
+    consensus of information.
+    - when we know that information has been distributed, it changes
+      our actions
+    - if information hasn't been distributed yet, but it likely will
+      be, it will affect our current actions
+  - how the recognition & acknowledgement of information consensus
+    amplifies (probabilities of types of actions/reactions by agents.)
+    - deciding what information to propagate (bandwidth constraints)
+    - a good example of this is logistics in business and the
+      establishment of procedures.
+      - how do you change processes?
+      - how do quasi-deterministic aspects of processes yield
+        certainty and reduce risk?
+      - how do concrete expectations influence the decision-making of
+        business partners? i.e. in business-to-business relationships
+        - when something is nearly deterministic, assumptions can be
+          made and even compounded.
+        - this is critical in supply chains: schedules can be set,
+          expectations can be relayed upstream to customers and other
+          business partners.
+        - businesses have capacities for the ad hoc adaptation &
+          flexibility of processes
+          - when relatively few events occur that force a reaction,
+            the business can redirect its resources/personnel
+          - but cumulatively, the effects of (deviation from
+            expectation) are not additive, they are multiplicative
+            - because of this, the differences between (zero risk and
+              minimal risk) in processes are immense.
+        - information about expectations/assumptions (of?) is often
+          more critical than information about the results, yet it is
+          harder to change someone's expectations/assumptions than it
+          is to change the results
+          - especially if their perception of results is biased by
+            existing assumptions
+
+      - so, ensuring that information related to logistics/processes
+        has been propagated is critical to attaining the coherence of
+        decisions/action/reaction in processes that yields the
+        quasi-determinism needed (for certainty/confidence)
+        - refine the above. explain how the prioritization of
+          information for consensus and the measurement of consensus &
+          process adherence relate this section
+        - how specific business relationships (internal/external)
+          break down when guarantees of process can't be met
+          - Service-Level Agreements (SLA)
+        - how some of the most important decisions (involving
+          interpersonal dynamics and developing the intent to
+          coordinate) are set while people are not face-to-face.
+          - describe more.... (making decisions about whether certain
+            types of events are certain/etc as it relates to the
+            coordination of personnel)
+          - expectations/assumptions set in this way are much harder
+            to change. usually, if a manager/coworker decides that
+            they feel that one employee won't adhere to expectations
+            with certainty (specifically certain types of
+            expectations), the employee will never directly hear about
+            it.
+            - that employee will find themselves being isolated, not
+              being brought into the loop and fighting being cut out,
+              perhaps without understanding why.
+            - because these expectations/assumptions are made based on
+              how people feel (esp. without the employee involved)
+              then as that employee becomes more cut out of the loop
+              and has more responsibilities/roles limited, they have
+              less opportunities to change those expectations.
 
 - signaling with Wu Xing (actual name of this?) in the Imperial Palace
   - there should be notes on this somewhere, but it's a perfect
