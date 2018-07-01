@@ -15,6 +15,8 @@ excerpt: ""
   don't have a chance. however, it's not simply popularity that
   dictates which games are "cybersportable" and which are not.
 
+### How Differences in the Computational Complexity of FPS Affects Stategy and Market Viability
+
 - the differences in computational complexity b/w Overwatch and
   Fortnite limit Fortnite's capacity to be a cybersport
   - that is, effective strategies in Fortnite are much more brittle
@@ -37,8 +39,16 @@ excerpt: ""
       it's fun. i've never actually played it.
 
 - how Overwatch's new social features are a great way to address poor
-  match selection and poor team cooperation (if the endorsement
-  feature doesn't find itself hijacked)
+  match selection and poor team cooperation
+  - if the endorsement feature doesn't find itself hijacked
+  - how this endorsement and group-selection feature addresses many of
+    these problems
+  - it also provides a more-simplistic means identifying players who
+    are good team leaders or at least consistently good followers.
+    - this only works as a means of identifying leadership of the
+      economics of the endorsement feature don't encourage players to
+      always attribute endorsement, even when that specific
+      endorsement wasn't deserved.
 
 - throwing people's games as a protest tactic (omg he's online, let's
   make him lose. we're really good at losing. like really good
@@ -438,6 +448,11 @@ unique.
     inter-activation times **with a lower bound** than average players
     - this usually means they're engaging the enemy more often
     - novice players will not activate their abilities as frequently
+    - but there is such a thing as too-frequent activiation
+      - thus, the players that consistently do the opposite and use
+        their abilities as frequently and quickly as possible are
+        likely not capable of recognizing the tactical implications of
+        those abilities.
 
 ### distance from objective
 

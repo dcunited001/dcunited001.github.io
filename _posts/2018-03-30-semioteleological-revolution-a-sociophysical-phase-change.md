@@ -8,6 +8,17 @@ author:
 excerpt: ""
 ---
 
+### Terminology & Definitions
+
+- Cnsensus Reality
+  - equate,  differentiate from, and clarify the following
+    - epistemic structure
+    - information system and the structures thereof
+
+
+
+
+
 [Successive Approximation (Electronics)](https://en.wikipedia.org/wiki/Successive_approximation_ADC))
 
 [Successive Approximation (Shaping)](https://en.wikipedia.org/wiki/Shaping_(psychology))

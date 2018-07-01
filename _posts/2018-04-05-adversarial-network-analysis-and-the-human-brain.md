@@ -268,11 +268,13 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 ### Continuity of Differential Systems Combined With Stochastic Inferences
 
+- the imposition of continuity constraints has significant
+  implications, even for deterministic systems of differential
+  equations. (connect to lie algebra)
+
 - [Stochastic Differential Equations]()
-  -
 
 [^stochastic-runge-katta]: [Performance of stochastic Runge-Kutta Methods in approximating the solution of stochastic model in biological system](http://iopscience.iop.org/article/10.1088/1742-6596/890/1/012083/pdf)
-
 
 - Differential systems have continuity constraints which provide
   points of inference when combined with stochastic modeling. The
@@ -295,12 +297,12 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 - [Integrability conditions for differential
   systems](https://en.wikipedia.org/wiki/Integrability_conditions_for_differential_systems)
   - "overdetermined" systems
+  - does the concept of determined-ness cross with stochastic
+    differential systems? *These systems can't really be known.*
 
 - To predict behavior in systems with adversarial dynamics, (it's
   useful to) make inferences based on which parts of a system that an
   adversary seeks to expend energy and time to predict.
-
-
 
 # Overdetermined
 
