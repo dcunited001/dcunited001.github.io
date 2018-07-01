@@ -10,13 +10,43 @@ excerpt: ""
 
 ### Terminology & Definitions
 
-- Cnsensus Reality
-  - equate,  differentiate from, and clarify the following
+- Consensus Reality
+  - equate, differentiate from, and clarify the following
     - epistemic structure
     - information system and the structures thereof
 
+- socioepistemic schism
+  - distinguish/dilineate from the following
+    - socioepistemic confict (whereof shism is a large-scale example)
+    - conflict of social information systems
+  - rename "socioepistemic structures" to simply "socioepistemics"
 
 
+- socioinformational
+  - generally update "socially distributed X" with "socio-X"
+
+- change socioepistemological => socioepistemic (done)
+
+- ensure noumenological and phenomenological are clarified
+  - for the definitions of epistemic structures and the social clarity
+    thereof, how do they arise and how are they inculcated: fron the
+    noumenaological or phenomenological?
+
+- in relation to the "Chomsky's going to love this" section,
+  - where should the establishment of "Social information Consensus"
+    and "socioepistemic/semioteleological decidability" be placed?"
+  - how does all of this correlate to the section on "semantic
+    triangulation?"
+    - is this a good place to segue into "Semantic hendiadys"
+  - section on "Semioteleological: What Does That Word Even Mean?"
+    comes far too late. As well as the section on "Godel's
+    Incompleteness Theorum and Semioteleological Decidability"
+  - everything afterword should be re-evaluated
+
+- i really need to settle on a consistent set of terms for describing
+  the parts of this "nietzschean" system
+  - for creating a bridge to the ubermensche
+    - (an asymptotic goal which cannot be obtained)
 
 
 [Successive Approximation (Electronics)](https://en.wikipedia.org/wiki/Successive_approximation_ADC))
@@ -28,6 +58,13 @@ excerpt: ""
 
 ![Epistemicide](epistemicide.jpg)
 
+- how to reorganize the concepts before the ToC below?
+  - to maintain continuity, while captivating attention
+
+### (Dominance over the) Metaphysical
+
+- why do powers want to control socioepistemics
+    - where to initially define socioepistemics/etc
 
 ### Social Information Consensus
 
@@ -290,11 +327,21 @@ excerpt: ""
 
 - aetiology
 
-- epistemic mitosis　
-- epistemicide
+### Epistemic Mitosis
+
+- epistemic mitosis
+  - and meiosis (for the sexual-recombination of ideas)
+  - as it relates to the reproduction/propagation of epistemic
+    structures through society
+
+### Epistemicide
+
   - the systematic destruction of information structures deemed
     heretical. the eradication or culling of instantiations of
     forbidden knowledge in society.
+  - the modulation of epistemic propagation by the modulation of
+    attention/focus. i.e. the attenuation of informational spectra,
+    relating to the aggregate of attention to socioepistemics
 
 #### Evolution of Epistemic Structures
 
@@ -327,7 +374,7 @@ excerpt: ""
     intent of an author by attempting to find the middle ground
     between two transations.
 
-####
+#### Liberation from Sociophysical Constraints
 
 - if you seek true liberation and other people subsist by siphoning
   your sociophysical resources -- i.e. they take the value work they
@@ -441,7 +488,9 @@ between generations.
 
 ==========
 
+### Concepts from "Children of the Whales"
 
+- as they relate to socioepistemics and the propagation thereof
 - revisit philosophical concepts from "Children of the Whales"
   - I've seen many of these before, but they were terms which brought
     me to fascinating avenues of thought
@@ -468,6 +517,8 @@ between generations.
       - [Haeccity](https://en.wikipedia.org/wiki/Haecceity)
 
 - connections to some of the above and [Gestalt](https://en.wikipedia.org/wiki/Gestalt_psychology)
+
+### Of Words and Actions: Sociophysical Momentum of Socioepistemics
 
 - information and knowledge created by the effects of actions vs that
   created as a result of words. some information created as a result
@@ -537,9 +588,9 @@ Pendulum.
 
 #### [You Must Choose Between Material Or Idealistic: Go!](#you-must-choose-between-material-or-idealistic)
 
-## [What Is Socioepistemological Churn](#what-is-socioepistemological-churn)
+## [What Is Socioepistemic Churn](#what-is-socioepistemic-churn)
 
-#### (socioepistemological churn)
+#### (socioepistemic churn)
 
 #### (knowledge of good and evil, etc)
 
@@ -744,9 +795,9 @@ deceivers always choose a victim who is clueless to their torment
 because it means they have maximal freedom with regard to perpetuating
 their lies and minimal potential for liability.
 
-<a name="what-is-socioepistemological-churn" />
+<a name="what-is-socioepistemic-churn" />
 
-# [What Is Socioepistemic Churn](#what-is-socioepistemological-churn)
+# [What Is Socioepistemic Churn](#what-is-socioepistemic-churn)
 
 Socioepistemic flux and churn covers regional and sociohierarcical
 changes in how people understand the world through belief systems and
@@ -1218,10 +1269,10 @@ change.
   - multiple acceptable consensus realities
   - gradual psychosocial migration of a group from one consensus
     reality to another
-    - calculated socioepistemological migration conceived as coldly as
+    - calculated socioepistemic migration conceived as coldly as
       a web applications data migration from one SQL database schema
       to the next.
-    - what do such socioepistemological migrations entail? how do you
+    - what do such socioepistemic migrations entail? how do you
       systematically transform the schemata of various social groups?
       the answers are dark.
     - How do these people handle threats to consensus reality breaking
@@ -1231,7 +1282,28 @@ change.
 
 ### [What **Might** You Conceive With Your Mind?]()
 
-- socioepistemological churn:
+- the ability to conjure an idea and (evoke it) socially, with
+  requisite mass-relevance for propagation and persistence, is the
+  ability to fashion ideological weapons.
+  - academic and political dominance over acceptable ideas filters
+    components of rhetoric.
+    - when demonstrating the rationalism of specific ideas through
+      debate and rhetoric, then typologically filtering the viable
+      components of rhetoric, likewise filters the permissability of
+      the conclusions of such rhetoric
+      - argumentative dependencies
+    - for certain conclusions, the specific mode of rhetoric is
+      assumed because the argumentative dependencies that thus
+      rationally establish the conclusions is assumed. the typological
+      range of these propositions is drawn from what the episemics
+      that are typically inculcated by the general population
+
+- the name for the "Window" that the academic elite controls?
+  - changing this window opens possibilties for socioepistemic churn
+
+#### Socioepistemic Churn
+
+- socioepistemic churn:
   - how people's conceptions of society reinforce or diffuse the
     "clarity" of potential futures
     - so, with idealistic conceptions of metaphysics, the
@@ -1322,11 +1394,17 @@ change.
   belief/knowledge/information system
   - religion is a social belief system, but it is acquired gradually
 
-- what is the knowledge of good and evil?
+
+
+### What is the Knowledge of Good and Evil?
+
   - one personal interpretation of this
   - the knowledge of the knowledge of good and evil
     - understanding this is fairly advanced knowledge of power
     - how do people know what's good? how do people know what's evil?
+  - socioepistemic churn of ideas that establish moral frameworks
+    - the flexibility/rigidity of these moral frameworks
+
 
 - is it right do to right? is it wrong to do wrong?
   - is it wrong to stand for what is right?
@@ -1338,6 +1416,9 @@ change.
     right? and what if you encourage them to believe that what is
     right is wrong?
   - (word this so that it is less confusing)
+
+
+
 - there are higher-order aspects at play to determine morality,
   especially when you assume that words and actions can shape
   someone's belief system to define or redefine both right and wrong.
@@ -1391,7 +1472,7 @@ change.
 
 - when good becomes evil and evil becomes good
   - TODO: sin city imagery
-  - or more realistically: when my good becomes your evil and your
+  - or more (realistically): when my good becomes your evil and your
     good becomes my evil
     - adequate converse/inverse etc for the above situation
 
@@ -1509,8 +1590,18 @@ invisible, decentralized power structures.
 
 ### [How Can Pindar Lead an Anonymous, Decentralized Group Of Cigar-Smoking Men?](#how-can-pindar-lead-an-anonymous-decentralized-group-of-cigar-smoking-men)
 
+- (somewhere?) demostrate that the sin of Tantulus relates to (human
+  alchemy).
+  - what was tantulus trying to gain? what was his sin and how/when
+    was it recognized? why did Pindar subtly alter the narrative of
+    Tantulus?
+  - The greeks already had a notion of three "archetypical sins"
+  - why, then, was the sin of Tantulus so , while being
+    unprecendented by the greek's who established the three
+    archetypical sins?
+
 Why is "Pindar" their leader? Because Pindar's vision and authenticity
-is unparalleled. They are constantly looking for the person that has
+was unparalleled. They are constantly looking for the person that has
 what they do not. Pindar is not a single person, per se. Pindar only
 derives his authority from his resistance to their flame, but they do
 not know who Pindar is because they are looking for the person who can
@@ -1625,7 +1716,7 @@ world into rationalization or suppression of that truth.
 
 
 - [Saul and the Witch of Endor](www.mechon-mamre.org/p/pt/pt08a28.htm#3)
-
+  - what was i trying to demostrate with this biblical story?
 
 Why is it so hard to remember? If this really happens, how can we ever
 forget?! The transgenerational components are critical to this
@@ -1643,7 +1734,7 @@ and their children never learn about it, even if their own lives are
 torn apart to be fed to this Beast that re-emerges whenever power
 magnifies itself.
 
-##
+### You Can't Handle The Truth
 
 You want the truth? The truth is that the world is a (dark) place,
 where good people are willing to engage in evil acts, or at least look
@@ -1816,7 +1907,7 @@ insufferable asshole I've ever met like he was Salaryman Stalin.
 Anyways, there's no point in fighting über-powerful people, unless
 you're sadomasochistic. In fact, I'm pretty sure the Rothschilds would
 be on my side -- they hate communism because it means they lose
-control over vast regions of (socioepistemological territory) to
+control over vast regions of (socioepistemic territory) to
 another main branch of the Illuminati.
 
 #### Tanya the Evil is like Salaryman Stalin. [Just watch episode one.](http://www.crunchyroll.com/saga-of-tanya-the-evil/episode-1-the-devil-of-the-rhine-727459) Easy.
@@ -1827,7 +1918,19 @@ another main branch of the Illuminati.
 
 ### [Every Sociophysical Body Has A Brain](#every-sociophysical-body-has-a-brain)
 
-However, just like every physical body has a brain, every
+- tie in the establishment of "agency" of non-corporeal and/or
+  artifical entities. whether metaphysical or the unconscious shadows
+  thereof, how do epistemics themselves demostrate agency, while being
+  purely ephemeral (and whose "knowability" is transient)
+
+- how do social groups present themselves as vesicles (or vessels) for
+  the manisfestation of agency for these non-corporeal entities?
+  - as for the metaphysical root basis of these ideas, how does the
+    (Marxist or Hegelian conception for) these ideas determine the
+    dynamics of socioepistemic morphology?
+
+
+(However), just like every physical body has a brain, every
 sociophysical body has a brain and nerves. The Rothschilds or the
 other (illustriously vague) "Illuminati" families are the
 sociophysical brains that control mechinations in society. They
@@ -1998,6 +2101,9 @@ hit the critical mass for neurogenetic epigenetic evolution.
       in the universe relate to the concept of [orthonormal
       basis](https://en.wikipedia.org/wiki/Orthonormal_basis)
       - what kind of "basis" enables this resolution?
+
+  - define as "semantic pulsars"?
+
   - these idiosyncratic "untranslatables" function similarly to
     pulsars in navigating semantic networks, the convolution of which
     should lead us to becoming capable of mapping the metaphysical.
@@ -2012,6 +2118,8 @@ hit the critical mass for neurogenetic epigenetic evolution.
         Star](https://en.wikipedia.org/wiki/Kleene_star)
         - how does the concept of kleene star connect combinatorics
           and language?
+
+### How are such Untranslatable Semantic Pulsars
 
   - how are such "Untranslatable" signatures useful for NLP or
     computational linguistics?
@@ -2176,10 +2284,11 @@ recombinated through the ages.
       - did it connect moreso to the idea of the evoluation into the
         ubermensche? isn't this idea of moderate artificial conflict
 
-- "Those who fall into the web will be tested" - provocation of
-  artificial conflict, similar to baptism by fire, to test the worth,
-  merit or specific utility of individuals -- or to push them out
-  altogether if they prove useless or risky
+### "Those who fall into the web will be tested"
+
+ - rovocation of artificial conflict, similar to baptism by fire, to
+  test the worth, merit or specific utility of individuals -- or to
+  push them out altogether if they prove useless or risky
   - only those who are strong enough will remain close to the center,
     which ensures that the center is composed of a high density of
     strong people. if the children or 1&deg; connections of those
@@ -2197,6 +2306,7 @@ recombinated through the ages.
 
 ### Lack of Tort Reform Typologically Constrains Life Experience of Americans
 
+- (does this relate significantly enough to the rest of the article?)
 - this section needs to be communicated as demonstrating mechanisms in
   society that contributed systemically (to creating psychologically
   weaker people)
@@ -2288,16 +2398,21 @@ recombinated through the ages.
     - this
 - considering that
 
-###
+### Does the Nietzschean System Counter Socioepistemic Threats effectively enough?
 
-- i really need to settle on a consistent set of terms for describing
-  the parts of this "nietzschean" system
-  - for creating a bridge to the ubermensche
-    - (an asymptotic goal which cannot be obtained)
+- connect this section to the "transvaluation of values systems"
+  - when adopting a purely transvaluational basis for determination of
+    morality, can such a system survive the socioepistemic upending of
+    moral systems? or is such a basis (truely a lack therof) for
+    socially distributed moral systems cause the social system to
+    become inherently vulnarable to external threats?
+  - in aggregate, the spectral composition of moral systems
+    ... implies that a Nietzchean basis yields total non-homogeneity
+    of individuals' moral systems.
 
-- how does the Nietzschean (system) counter external threats that seek
-  to socioepistemologically undermine the evolutionary mechanisms
-  which produce stronger people?
+- how does the Nietzschean (system) counter external (and internal?)
+  threats that seek to socioepistemically undermine the evolutionary
+  mechanisms which produce stronger people?
   - the competition for these systems can easily highlight those who
     could not withstand the evolutionary mechanisms of the society.
     - if the value of those mechanisms cannot be conveyed to the
@@ -2446,6 +2561,8 @@ recombinated through the ages.
         informational weapon that humanity can use to keep these
         sadistic creeps in line for a thousand years or more.
         - pic: doctor strange, making any weapon he needs
+
+### Fluididty of Nietzsche's Proposed Transvaluation of All Values
 
 - fluidity of Nietzsche's proposed transvaluation of all values
   [systems] (although i need to refresh my memory here)
@@ -2741,6 +2858,9 @@ us predict how someone's going to respond. We can't have civil
 discourse without bumping into someone else's triggers implanted by
 fake news stories. It's crazy!
 
+### Godel's Incompleteness Theorum and Semioteleological  Decidability
+
+- TODO: move this section
 - Godel's incompleteness theorum and *decidability* as it relates to
   sociophysical programs, specifically in the limitations to:
 
