@@ -82,6 +82,18 @@ excerpt: ""
         emotional connection via like 8 different personality
         complexes, including an attachment disorder
 
+### Prosody/Rhythm of Speech
+
+- why it's important to control the rhythm and pauses in your
+  speech. how irregular pauses and "filler words" affect the
+  listener's neurological processing of speech
+  - irregular pauses give the listener a chance
+
+- encouraging the mind to disrupt well-worn pathways by destructuring
+  high-level activities in terms of the neurogical feature that they
+  coordinate (possibly move to the elecro/neuro artical)
+
+
 # Hypnosis, NLP and Conceptual Designation
 
 During the mind's infancy, there is a state of tabula rasa, but

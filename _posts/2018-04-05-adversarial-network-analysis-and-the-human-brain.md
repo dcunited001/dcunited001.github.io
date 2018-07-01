@@ -12,8 +12,9 @@ excerpt: ""
 
 
 
-- Analytic neurology and the third-eye: what are the mind and brain
-  doing?
+### Analytic neurology and the third-eye:
+
+- what are the mind and brain doing?
   - in your mind, when preparing for a trance-like state, you focus on
     visualizing semiotic signs, characters, (ASL) signs and gestures
   - first visualize without the notion of color completely, then focus
@@ -30,8 +31,25 @@ excerpt: ""
   - i can't really control the imagery, i am merely witnessing it.
   - it's amazing though, like i've activated some inherent ability of
     my mind to augment it's computation, effortlessly.
+- this experience stands in constrast to these "analytical
+  neurological" conceptions of the mind, unless explained as a
+  visceral experience of the subconscious mind running deep-dream-like
+  generative algorithms on itself.
+  - but generally, analytical machines classify input and experience,
+    leading to a reduction in the dimensionality of input. the
+    complexity of the signal generally funnels into lower
+    dimensionality. it embeds itself or encodes itself into a lower
+    range. this is what encoders do.
+  - for it to expand the range of input implies that the subconscious
+    mind is expanding the complexity of signal and re-experiencing it.
+    - is it doing this constantly, only witness upon the serenity of
+      meditation? or is it the placidity of such trance-like states of
+      consciousness that *enable* the mind to begin generating content
+      in this way.
+    - i believe it is a combination of both.
 
-- varying degrees of dis/entanglement in variational autoencoders
+### Varying degrees of dis/entanglement in variational autoencoders
+
   - extrapolating from the [arXiv insights video on variational
     autoencoders](https://www.youtube.com/watch?v=9zKuYvjFFS8)
   - the "disentangled" networks are closer to a "pure" typological
@@ -80,13 +98,26 @@ excerpt: ""
     the ego/self
 
 
-###
+### The Brain as an Analytical Machine
 
 - other interesting aspects of the brain as an analytical machine
   - it is essentially a quantum computer, although it doesn't harness
     quantum-mechanical effects
-  - THC's mechanisms dampen active neural circuits
-    - describe this mechanism in detail.
+- modeling the brain as an analytical machine requires tensor
+  networks, just as modeling quantum computation. why?
+  - because both are fundamentally stochastic.g
+
+### THC Dampens recently/frequently active neural circuits
+
+- how THC's mechanisms that dampen most active pathways are like the
+  modulation of hyperparameters in Hyperparameters of Neural
+  Networks
+  - as frequent pathways are dampened, this forces the circuits to
+    connect in new ways. these new pathways then reinforce themselves
+    such that when the brain no longer has THC/cannabinoids modulating
+    neural pathways, it's set of frequent pathways are more likely to
+    begin including those pathways reinforced while high.
+  - describe this mechanism in detail.
     - since your brain is an analytical machine, the (neural circuits)
       that are activated are the equivalent to the weighted (paths:
       define this in more detail) in neural networks
@@ -272,8 +303,11 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   enveloping system, moreso when the adjacent variables did not
   present apparent logical decoherence on the surface.
 
-###
+### The Phenomenology of Social Media is a Poor Emulation of Life
 
+- the reproduction and broadcasting of life on social media, when
+  consumed, then (operates) as a dimensional reduction of the
+  phenomenological spectrum of the original experiences
 - social media is almost completely textual. non-graphical experiences
   have an extremely limited spectrum of (phenomenological dimensions)
   - there's video and there's audio, but the phenomonology of the
@@ -315,9 +349,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     underdetermination (in philosophy and math)
     - without spectrally comprehensive sensory activation, the
       - (define spectrally comprehensive earlier)
-
-
-
 
 - correlate the above to (how diminished variety of phenomenological
   dimensions provided by social media: explain this)
@@ -369,7 +400,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
     - evolution of ego/self (revolutions along ego/self axis)
     - basically, so external recognition of your self helps you break
       through and discover aspects of your self previously unknown
-
 
 - how to describe this state of "wholeness" or "completeness" in
   analytical systems? it's like a well-roundedness for analytical
@@ -509,7 +539,6 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   apply to extremely sophisticated observed networks with the ability
   to reorient cognition.
 
-
 ### Detecting [intent of] A Fake Accent (X) Variational Inference
 
 - introduce the concept of variational inference
@@ -540,6 +569,8 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 # Neural Representations of (Inferred Physical Systems)
 
+- (TODO: somewhere in this section include google's recent work on
+  [Scene-Rendering AI](https://arstechnica.com/science/2018/06/this-amazing-google-software-can-sketch-scenes-its-never-seen-before/))
 - is there a better word here meaning "locally" but with the
   connotation of resolving parity?
 - Towards the analysis of networks with partially, locally or
