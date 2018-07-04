@@ -1,5 +1,5 @@
 ---
-title: "Adversarial Network Analysis And The Human Brain"
+title: "Analytic Neurology: Adversarial Network Analysis And The Human Brain"
 categories: "blog"
 tags: ""
 headline: ""
@@ -12,6 +12,80 @@ excerpt: ""
   - why do the techniques of NLP exhibit their specific effects on our
     minds?
 
+
+- zazen meditation and visual input modulation/distortion
+  - connect this to the komuso sect of monks from the 17th century and
+    the tengai(tengui) baskets they wore
+
+- reading discontinuities (& propagation of infinite values/etc) from
+  various points in networks, and inferring the remaining
+  connections/structure of a mostly unknown analytical model
+
+
+- connect neurology to components of analytic psychology, especially
+  the metaphysical components (archetypes) and patterns of
+  developmental (progression)
+  - (this needs to come after establishing this connection)
+  - how do analytical machines tend to give rise to the same
+    developmental/morphological patterns, which result in similar
+    metaphysics
+  - what (architypical phenomena) are typical or consistent or even
+    universal in the development/experience of analytical machines?
+    which facets of their structure/experience are responsible for
+    giving rise to these archetypes/patterns?
+  - how does the apparent "determined-ness" of an analytical
+    model/machine's emulation of a system change as the analytical
+    model/machine develops?
+    - in other words, for the ranges of concepts/inferences that
+      appear to be overdetermined or underdetermined to an analytical
+      machine, how do these change with the structure, training, or
+      development of the analytical machine?
+      - e.g. when you're a kid, your limited knowledge of the world
+        allows you to model/emulate a more limited set of systems and
+        they all mostly appear to be underdetermined -- which makes
+        any concept *seem* flexible and usually novel as well.
+        - by flexible, i mean that you can't anticipate how things
+          will change, but expect what you know to change (or at least
+          expand)
+        - when you're young, there is also much that appears to be
+          overdetermined, but ends up being false or incomplete
+          (because you didn't know what you didn't know)
+    - this over/underdetermined-ness changes over time. how does this
+      relate to the developmental patterns of Jung (hero's journey,
+      etc) and how does it relate to the "analytic/systems philosophy
+      definition of love"
+      - it's this determined-ness that defines how "real" and
+        "well-defined" that reality seems to be to someone
+        - how can change their subjective awareness of the world with
+          the intent of provoking changes to how determined various
+          systems seem to be? is it always easier others to change our
+          perspective & (subjective awareness) in such a way that
+          provokes real change in "determined-ness" of the systems
+          that our sub/conscious mind sees?
+      - even though this determined-ness fluctuates over time, is
+        there some limit to how often/frequently that we can provoke
+        real sub/conscious change in "determined-ness" by relearning
+        the world around us?
+        - how does the residue of what we already know affect the
+          flexibility of our perspective in the future?
+        -
+      - how does this determined-ness affect our perception of the
+        determinism of our lives? if we generally have over-determined
+        conceptions of systems in life (esp. surrounding more critical
+        phenomena/systems) then are we more likely to be
+        pessimists/optimists ... with regard to our trajectary in
+        life?
+        - are we then more likely to see our fate as a mostly fixed
+          path, since our sets of knowledge lead us to subconsciously
+          examine most systems as though they are over-determined?
+        - if we see our personal over-determined (perspective) as a
+          limiting set of beliefs that constrains the flexbility of
+          our sub/consciousness -- but we also *know* that our
+          understanding the world is correct, since it is highly
+          scientific and rational -- then how do we disrupt our
+          determined fate?
+      - why should we ever allow ourselves to be fixed by our own
+        beliefs/knowledge in this way?
 
 ### Analytic neurology and the third-eye:
 

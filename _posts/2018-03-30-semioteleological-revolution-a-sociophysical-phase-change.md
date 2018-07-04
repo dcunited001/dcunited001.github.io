@@ -21,6 +21,7 @@ excerpt: ""
     - conflict of social information systems
   - rename "socioepistemic structures" to simply "socioepistemics"
 
+- "moral panic"
 
 - socioinformational
   - generally update "socially distributed X" with "socio-X"

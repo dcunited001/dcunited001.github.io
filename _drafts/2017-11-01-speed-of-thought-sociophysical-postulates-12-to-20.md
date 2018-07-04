@@ -154,6 +154,7 @@ comparison when you loudly assert your dominance."
 ### "K curve" for estimating speciation
 
 - gene replication vs belief/informational replication
+- move to "geometric mechanics of information"
 
 ### Demographic Stratification
 
@@ -213,46 +214,6 @@ comparison when you loudly assert your dominance."
     components to stories, you can begin to get a feel for who is
     talking to who.
 
-#### Just Like The Body Follows The Head...
-
-- move to 15 (each agents state/context)
-- introduce this concept using soccer
-  - the spatial projection of attention
-
-- just like the body follows the head, both the individual and the
-  social organism follow the projection of attention, in aggregate.
-  where there is aggregate attention, there will be motion towards and
-  away from the object of focus. where there is change in aggregate
-  attention, there will be change in motion and direction of motion,
-  towards and away from the spatially distributed changes.
-  - this applies to abstract notions of space, location, direction,
-    and motion. to understand this, think about how you might measure
-    attention on social networks and imagine what the notion of a
-    space means for social networks.
-  - explain the sociophysical differences between "Attention" and
-    "Parade Rest" as an example to demonstrate how you should follow
-    the logical, higher-order direction of focus instead of simply
-    gauging someone's head/eye orientation
-
-
-- chapman-kolmogorov as applied to the direction of focus/attention as
-  over time, explaining the likelihood of attention
-  - (move to a section on the spatial/informational projection of
-    attention)
-  - ADD & completion of tasks, where the imposition of dependencies in
-    those tasks requires the redirection of attention over more or
-    less distance in "attention-space"
-  - through the course of a small window of time, the more specific
-    the path through attention space is required to be, the more
-    control is required to hold the path fixed to and from those
-    dependencies. therefore, the imposition of additional dependencies
-    requiring the projection of attention in disparate directions
-    implies the need for more control over attention to mitigate the
-    higher probability of deviation from the path.
-
-
-
-
 #### The Prototypical Thought Experiment for S/Phys (w/ both Phys+Virtual)
 
 - Your target uses Google Maps. You know the address they searched &
@@ -269,36 +230,6 @@ comparison when you loudly assert your dominance."
     your data is composed of many virtual sources)
 
 
-#### The Perfect (Recipe) for Cooking Eggs (a complex application of the Heat Equation)
-
-- IRL of probabilistic system with state transformations: cooking eggs
-  with and without oil
-  - this relates to the heat equation, but one who's endogenous and
-    exogenous heat characteristics are strongly warped by the chemical
-    composition
-  - thus, the heat propagation characteristics are altered by system
-    phase changes (less grease == faster rate of heat-consuming
-    reactions bc of less heat radiation absorption & diffusion with
-    grease)
-  - on a skillet, the heat is then diverted to driving a small number
-    of chemical reactions along the boundary where chemical reactions
-    are occuring
-    - because the heat is chemically consumed along phase change
-      boundaries and because the change-in-phase-change is limited
-      (convexly?) to a local region of space, then the food burns
-- think of reactions in social physics like cooking food. in the
-  presence of some ingredients, then:
-  - phase changes are either spatially contained (locally convex?)
-  - or not (phase change dynamics are locally concave and the system
-    is highly turbulent)
-  - what are the facets for convexity/concavity in driving local phase
-    change dynamics?
-  - phenomenologically, how does this translate to sociopolitical
-    games? people like cooking with grease (they like artificially
-    inducing predictable change)
-    - conversely, they like restricting change whose phase change
-      dynamics are predictable -- OR AT LEAST SEEM TO BE
-
 #### Examples of geographic chokepoints:
 
   - khyber pass (silk road & afganistan)
@@ -314,8 +245,8 @@ comparison when you loudly assert your dominance."
 - information flows with and against commerce/trade/movement
   - commerce/trade (& what else) flows with and against information
 
-- modeling sociophysical information dispersion and chokepoints from
-  geographic data
+### (modeling sociophysical information dispersion and chokepoints from geographic data)
+
   - this builds on some of what is mentioned in the previous section:
     - energy from the sun not only causes heat to diffuse through
       physical systems, but it is at least correlated to "heat"
@@ -520,6 +451,9 @@ comparison when you loudly assert your dominance."
 
 #### > > > > &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unattached To Sociophysical Equilibria, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
 
+- Attachment of Behavior, Thoughts and Identity To Equilibria In
+  Social Games. Through detachment, individuals become trackless.
+
 - Once Labile and Unbound From Conceived Attachment, Our Energy
   Becomes Trackless, Formless and Incomprehensible To The
   Unconscionable.
@@ -543,6 +477,7 @@ comparison when you loudly assert your dominance."
 #### &#8855; &#8710; &#8968;xii&#8969; [Even When Invisible, Intent is Signified And Clarified By Parallel, Anti-Parallel and Orthogonal Orientations of Motion As They Relate to Laplacian of High-Dimensional Surfaces](#even-when-invisible-intent-is-signified-and-clarified-by-parallel-antiparallel-and-orthogonal-orientations-of-motion-as-they-relate-to-laplacian-of-high-dimensional-surfaces)
 
 - TODO: talk about variational inference here
+  - gradient descent & uncertainty
 
 - MOVE: spectral decomposition of task-related information-acquisition
   dependencies in general social circumstances.
@@ -1072,6 +1007,47 @@ disintegrate.
 
 ### &#8855; &#8710; &#8968;xv&#8969; [For Timescales Both Small and Large, Each Agent's State and Context Is Constructed From Their Sum Of Experience Via Directed Focus](#each-agents-state-and-context-is-constructed-from-their-sum-of-experience-via-directed-focus)
 
+-  TODO: change the name of the section
+
+#### Just Like The Body Follows The Head...
+
+- introduce this concept using soccer
+  - the spatial projection of attention
+  - especially insofar as the ideas of valence, configuration,
+    conformation affect and are affected by the spatial projection of
+    (visual) attention.
+
+- just like the body follows the head, both the individual and the
+  social organism follow the projection of attention, in aggregate.
+  where there is aggregate attention, there will be motion towards and
+  away from the object of focus. where there is change in aggregate
+  attention, there will be change in motion and direction of motion,
+  towards and away from the spatially distributed changes.
+  - this applies to abstract notions of space, location, direction,
+    and motion. to understand this, think about how you might measure
+    attention on social networks and imagine what the notion of a
+    space means for social networks.
+  - explain the sociophysical differences between "Attention" and
+    "Parade Rest" as an example to demonstrate how you should follow
+    the logical, higher-order direction of focus instead of simply
+    gauging someone's head/eye orientation
+
+
+- chapman-kolmogorov as applied to the direction of focus/attention as
+  over time, explaining the likelihood of attention
+  - (move to a section on the spatial/informational projection of
+    attention)
+  - ADD & completion of tasks, where the imposition of dependencies in
+    those tasks requires the redirection of attention over more or
+    less distance in "attention-space"
+  - through the course of a small window of time, the more specific
+    the path through attention space is required to be, the more
+    control is required to hold the path fixed to and from those
+    dependencies. therefore, the imposition of additional dependencies
+    requiring the projection of attention in disparate directions
+    implies the need for more control over attention to mitigate the
+    higher probability of deviation from the path.
+
 In social physics, all SOF biophysical entities exist in the same
 shared physical space. Their minds are like individual boltzmann
 machines, but with a functional twist. Instead of being machine
@@ -1228,11 +1204,42 @@ what your mind is made of.
 ![Amphiphilic Phases](/img/posts/2017-10-21-speed-of-thought-twenty-postulates-of-social-physics/amphiphilic-lcd-phases.jpg)
 
 
+#### The Perfect (Recipe) for Cooking Eggs (a complex application of the Heat Equation)
+
+- IRL of probabilistic system with state transformations: cooking eggs
+  with and without oil
+  - this relates to the heat equation, but one who's endogenous and
+    exogenous heat characteristics are strongly warped by the chemical
+    composition
+  - thus, the heat propagation characteristics are altered by system
+    phase changes (less grease == faster rate of heat-consuming
+    reactions bc of less heat radiation absorption & diffusion with
+    grease)
+  - on a skillet, the heat is then diverted to driving a small number
+    of chemical reactions along the boundary where chemical reactions
+    are occuring
+    - because the heat is chemically consumed along phase change
+      boundaries and because the change-in-phase-change is limited
+      (convexly?) to a local region of space, then the food burns
+- think of reactions in social physics like cooking food. in the
+  presence of some ingredients, then:
+  - phase changes are either spatially contained (locally convex?)
+  - or not (phase change dynamics are locally concave and the system
+    is highly turbulent)
+  - what are the facets for convexity/concavity in driving local phase
+    change dynamics?
+  - phenomenologically, how does this translate to sociopolitical
+    games? people like cooking with grease (they like artificially
+    inducing predictable change)
+    - conversely, they like restricting change whose phase change
+      dynamics are predictable -- OR AT LEAST SEEM TO BE
+
 - [gibb's entropy?](https://en.wikipedia.org/wiki/Entropy_(statistical_thermodynamics)#Gibbs_entropy_formula)
 
-- for the common person to understand, they need to understand what a
-  phase change in physics actually is and, most importantly, what a
-  phase change is defined as outside of physical systems.
+- for the common person to understand (use the above example of
+  cooking eggs) they need to understand what a phase change in physics
+  actually is and, most importantly, what a phase change is defined as
+  outside of physical systems.
   - if you think of solid, liquid, gas, plasma, BEC ... what makes
     each one what it is?
     - they are composed of the same particles, mostly.
