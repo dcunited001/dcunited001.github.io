@@ -12,15 +12,24 @@ excerpt: ""
   - why do the techniques of NLP exhibit their specific effects on our
     minds?
 
+- apply various filters to audio signals from synth. do specific
+  frequencies have an effect? low frequencies & harmonics?
 
 - zazen meditation and visual input modulation/distortion
   - connect this to the komuso sect of monks from the 17th century and
     the tengai(tengui) baskets they wore
 
 - reading discontinuities (& propagation of infinite values/etc) from
-  various points in networks, and inferring the remaining
-  connections/structure of a mostly unknown analytical model
+  various points in networks,
+  - and inferring the remaining connections/structure of a mostly
+    unknown analytical model
 
+- learning a new topic (e.g. kanji) as an example of progression from
+  underdetermined information system to overdetermined. when the
+  system is overdetermined, the knowledge is self reinforcing, as
+  there are many ways to validate what you know.
+  - on a graph, there would be many "validation paths/cliques" as you
+    add more nodes of information
 
 - connect neurology to components of analytic psychology, especially
   the metaphysical components (archetypes) and patterns of
