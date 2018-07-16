@@ -18,6 +18,61 @@ All #Bilingual, whereby I read aloud, while shadowing #AudioBooks to:
 It’s amazing how practicing accents with focus on authentic dialect *forces* your subconscious mind to reexamine how it coordinates modules for expression of language. It is a #CognitiveBehavioralTherapy approach to stimulating neuroplasticity via insights from #AnayticNeurology @ Roanoke College
 
 
+==== (
+
+- TODO: decide which components of this text are useful
+  - most of this needs to be cut out and/or reworded
+- particularly for connecting Jungian ontological perspectives on:
+  - developmental dynamics (generally composed of archetypical symbols
+    and higher-order outlines of the same rehashed myth/stories)
+  - connect the notions of dev. dynamics to the more well-known
+    patterns that Jung focused on (e.g. Hero's Journey))
+- filtering specific dependencies/components of the
+  typological/ontological space (e.g. of life experience as it relates
+  to one "turning" of the Hero's Journey)
+  - similar to the idea of filtering specific ontological varieties of
+    type & metatypes that i used in the "Memory Hole" and "To Catch a
+    Butterfly" articles, but oriented towards Jungian developmental
+    dynamics
+    - (e.g. how to stall someone out at a point in their "Hero's
+     Journey" and to do so indirectly without appearing to have
+     causally interfered with their life)
+  - focus on drawing the connection between these archetypical
+    developmental progressions and "analytical neurology"
+    - then develop ideas that connect the manifestation of jungian
+      ideals/developmental progressions to metaphysics of:
+      - Life/Awareness/Chaos, regardless of whether it is self-aware,
+        "intelligent" or artificial
+      - one important implication that extends from these
+        conclusions/results: there are ideas from network theory that
+        establish a "heartbeat" and other "organic" attributes for
+        animals of various sizes, but also for large cities.
+        - this arise from network theoretical ideas
+          (well-connectedness, and needing to *cover* a space with
+          regularity, etc), but yield interesting dynamcs at a higher,
+          macroscopic level
+        - so, what are the phenomenological components of input/output
+          & structure in Neurology and Artificial Intelligence (as
+          they connect to Jungian ideas) that yield these architypical
+          developmental progressions. and specificially, how does the
+          quality/nature of a non/sentient entity impact both the
+          rates of developmental progressions and the depending
+          requisites thereof
+          - e.g. are there specific bottlenecks for developmental
+            progressions (specific progressions or progressions
+            generally)
+        - and how does network theory establish the rate of
+          development/progress in specific progressions
+          - this is the element that mimics the "HEARTBEAT"
+      - when someone completes specific progressions that "OPEN UP" a
+        new world, anaytically (see the section of Love), they may be
+        unlikely to revisit those same progressions and their mind
+        rendered less flexible and capable of embarking on or
+        completing new progressions.
+        - how does that "finiteness" affect the dynamics of
+          developmental progressions
+
+
 Please note: i'm not referring to anything that's happened recently or
 to anyone in particular. I have enough of my own problems -- i wish i
 could go back to when people had no limiting beliefs about
