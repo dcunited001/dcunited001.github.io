@@ -15,6 +15,8 @@ excerpt: ""
     - epistemic structure
     - information system and the structures thereof
 
+- delineate typological/onological and replace where necessary
+
 - socioepistemic schism
   - distinguish/dilineate from the following
     - socioepistemic confict (whereof shism is a large-scale example)

@@ -8,6 +8,29 @@ author:
 excerpt: ""
 ---
 
+======
+Move this FB rant
+
+... ugh, here i go: I triggered my PTSD layered by protracted
+isolation after extreme with (1) Boulder and (2) the self-propagating
+#Reputation- #Sociophysical #PerfectStorm yielding #Involuntary
+#Isolation, nurtured by a handful of dementors that maintain 1-2º of
+separation while sucking the soul out of human-decency to inspire
+calculated retaliation for violating some unnamable writhing mass of
+anti-mores and anti-norms, a metastatic malignancy spewing the
+mycellium to bloom all mankind's as-yet-unconscionable enmity. in the
+name of pragmatic attainment of what must not be named and never
+understood, lest reason, mores or righteousness tarnish our bridle
+rust the bit pragma's perfunctory harness.  or known their snaking,
+tendrils homing in onto the . creeping enmity from the recursive . i
+started thinking about "memories" i have, which are all the same:
+isolated & alone, with very little in the way of new distinct/original
+memories that give me something/anything to think about besides the
+abject isolation.
+
+======
+
+
 - intro two this part with discussion on financial, social,
   informational resources and an overview on how all forms of
   government/society can be dilineated based on how they

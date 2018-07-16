@@ -20,6 +20,82 @@ excerpt: ""
   - correlate to signal representation & recovery
   - are there many such "atomic" representations of varying parity?
 
+
+#### TODO: add description of multilinear linear systems,
+
+- connect them to exterior analysis
+  - especially the symbolic/structural impacts of nuanced
+    differentiation onto multilinear systems
+- refer to instagram picture?
+  - and when you go from #Linear (with simple commutivity) to
+    #MultiLinear, it takes shapes like this:
+  - also, this picture helps with imagining shapes:
+    https://math.stackexchange.com/questions/1115910/checking-that-a-3-d-diagram-is-commutative
+  - and adds more complicated, less-regular shapings of paths for
+    transforming the system symbolically. sooo... the local area in a
+    commutativity diagram might then incidentally look something like
+    a ferris wheel (but not really and it probably wouldn't be
+    commutative). this is especially true once you take a system like
+    this and differentiate it, then try to permute it symbolically.and adds more complicated, less-regular shapings of paths for transforming the system symbolically. sooo... the local area in a commutativity diagram might then incidentally look something like a ferris wheel (but not really and it probably wouldn't be commutative). this is especially true once you take a system like this and differentiate it, then try to permute it symbolically.
+
+So I went on a run when I had a Eureka Paths through #Cohomology
+Diagrams of #MultiLinear Function/al/s is like the Ambrosia for
+Tensors ... and under some system configurations i.e. depending on
+coordinates set for the 1-lifted dual vector space and the n-lifted
+dual vector spaces of the BRAIDABLE(?!) co-chain that represents local
+isomorphic “paths” from [(n-2, m-k) .... (n+2, m+2)] .... then the
+image-kernel “transitions” from morphism to morphism can braid or
+loop, though solving for precise equivalently isomorphic paths would
+be complex, perhaps literally)
+
+
+#### MultiLinear systems are relevant for GPS applications but...
+
+are more profitable to learn for data science
+applications. multilinear techniques are useful generally for physics
+and engineering, as the #DifferentialOperator is a linear operator
+that yields multilinear systems. so taking the derivative (gradient)
+of higher-dimensional spaces for anything in vector calculus and
+beyond yields the tools of #ExteriorAnalysis, but quickly becomes
+complicated. #WedgeProducts (which are used for a "simple" definition
+of divergence/curl) are not so bad in 3D because the number of
+differential n-forms is fairly bounded by the few dimensions. In n-D
+systems, the size of matrices/tensors required to complete model
+differential apsects of the system are far more complicated.
+
+#### For machine learning
+
+for machine learning, to inform the backpropagation algorithm that
+changes the weights from training set to training set, ideas from
+#ExteriorAnalysis that build on #MultiLinear systems help you optimize
+the selection of weights, especiaally if your algorithm extrapolates
+many potential sets of weights simultaneously
+
+- connect to energetic dynamics on high-dimensional surfaces &
+  un/restricted boltzman machines
+
+#### In astronomy
+
+A good example of solving #MultiLinear system would be raytracing
+light paths through compounded gravitational lensing, where the 2+
+large galaxy clusters are separated by vast distances. Another very
+interesting aspect of physics where these ideas are applicable is
+considering/assuming the absence of #Jolt in real-world physical
+systems without intelligent life. So, basically because all physical
+laws (i.e. F = m*a = (kg * (m/s*s)) all max out at the second
+derivatve, then when a third derivative emerges, it's interesting,
+though not by itself indicative of intelligent life.
+
+#### Detection of Jolt in physics
+
+So, basically, when physical systems are left play out by themselves
+with their own rules, then certain dynamics related to #WedgeProduct &
+#ExteriorAnalysis show distinctive patterns and almost never exhibit
+3rd or 4th derivatives. When those derivatives emerge in physical
+systems, it is almost always extremely temporary and results from
+high-level phenomena of the system that are usually interesting and
+meaningful, for engineering or philosophy.
+
 ### Resources
 
 #### &#x2605 [Simons Institute](https://www.youtube.com/user/SimonsInstitute): [Workshop on Tensor Networks and Simulations](https://www.youtube.com/playlist?list=PLgKuh-lKre10UQnP7gBCFoKgq5KWIA7el)
@@ -33,12 +109,12 @@ excerpt: ""
 #
 
 Few topics have expanded my mathematic imagination to the degree that
-watching these
-[MIT 6.838 Shape Analysis](https://www.youtube.com/user/justinmsolomon/videos)
-lectures did. I've only watched two hours of the content, but it took
-me about twenty hours to process and absorb the requisite content. Why
-am I so passionate about learning math that is out of my reach?
-Because each new tool opens new worlds to me.
+watching these [MIT 6.838 Shape
+Analysis](https://www.youtube.com/user/justinmsolomon/videos) lectures
+did. I've only watched two hours of the content, but it took me about
+twenty hours to process and absorb the requisite content. Why am I so
+passionate about learning math that is out of my reach?  Because each
+new tool opens new worlds to me.
 
 Shape analysis (and computational geometry) is like the artistic
 application of discrete differential geometry. There is grueling

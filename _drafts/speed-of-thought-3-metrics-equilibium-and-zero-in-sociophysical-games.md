@@ -1233,6 +1233,8 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
 
 ### Conversation Keepaway
 
+- (this might have depencies on the previous FB rant comment, in
+  Analytic Neurology article)
 - playing keepaway with an item of interest, such as a ball, requires
   2+ people to consciously participate in keeping the item away
   - this also has the side-effect of anti-focusing the target's
@@ -1274,6 +1276,176 @@ Modeling](https://research.fb.com/publications/vain-attentional-multi-agent-pred
   - disruption of relationship development
   - enticement of the subject/target into social settings with passive
     aggressive diffusion of their energy
+
+
+
+### ConversationKeepaway
+
+TODO: cut up this ranting description of Conversation Keepaway
+
+it's a version of that noxious kindergarten, but for "well-adjusted"
+adults who compete amongst themselves for the chance to deal with
+uncomfortable REALITY and perhaps shovel off inter-personal problems
+onto whoever's dumb enough to let #DavidConner try to converse for
+more than 30 seconds. It's an easy game to play.
+
+The rules are:
+
+#### (1) You don't talk about #Conversation #Keepaway.
+
+#### (2) There's an invisible #SpeakingBaton.
+
+It's just pretend, but whoever has the speaking baton get's to
+talk. This is easy for people who don't have autism. People who are
+socially inept/vulnerable are the perfect targets. Actually, it's
+nearly a *requirement* ... why? Because this doesn't work against
+normal people, unless they've been subjected to social isolation long
+enough to begin manifesting components of abnormal psychology. If your
+target requires time to think about what to say, that's perfect: it's
+written on their face that they're planning on interjecting, so all
+you have to do is accelerate the prosody of conversation or simply
+look away from the target towards someone else, which usually causes
+the group to react by doing the same, since people follow the social
+projection of attention. Make it difficult for the target, **but make
+sure you throw them some tightly controlled**
+
+#### (3) The short-term objective:
+
+There's one or more #Targets that aren't allowed to have this speaking
+baton. The objective is to minimize *totally* the amount of time that
+they get to speak. Why? Don't worry about "Why" the strict handling
+protocols are necessary! If anyone asks, use hushed tones and subtly
+allude to labels of mental illness. These are standard operating
+procedures for handling someone with suspected mental illness --
+however, these procedures overlap broadly with many other
+inter-personal tactics which are motivated by any number of reasons --
+most of which can be openly questioned, which is a freebie: the
+general allusion of mental illness (true/false) is so effective
+because no reasonable person wants to stir up a family's neatly
+labeled box of crazy at the dinner party.
+
+#### (4) DONT(!) talk about conversation keepaway
+
+And remember, it's a game played with finesse -- you'll know when
+you're playing well: no one can say you're playing at all. That means
+you have loudly (yet naturally) expend social energy *overtly* against
+your latent objectives, so that you obfuscate those objectives. That
+means you have to pass the baton to the target now and then -- BUT
+make sure you retain control, have thought out #ConversationalSegue's
+ahead-of-time and have a few open passes ready in case the target
+manages to influence the topic of conversation and move things towards
+unnamably uncomfortable discussions.
+
+#### (5) The long-term objective:
+
+there's another game from kindergarten that adults still play every
+day, though they don't admit it. What is it? #KICKBALL! Yes, adults
+play kickball every damn day, but they keep it secret. No, there's no
+kicks or balls in #AdultKickball, there's just picking people to be on
+your team. Every well-adjusted adult who isn't targeted has a list
+they maintain subconsciously. Because adults are busy adulting things
+-- and because of #DunbarsRule of 150 #SocialConnections -- they don't
+have time to think about very many people. In fact, amoung those 150
+moderate/frequent/realistic social connections, there are no more than
+a few dozen who are on an adult's mind on any leisure-filled
+day. That's it! That's #AdultStyleKickball. It consists entirely of
+the list of people you might want to pick for your team and the
+mechanics of reading the pecking order to decide who to consider
+seriously enough to be on your team. To be clear: these well-adjusted
+adults don't actually think about the people they want to exclude;
+ONLY the people they want to include, but since that list is so short,
+almost every acquaintance is implicitly filtered. Rumors spread fast,
+in addition to be experts at "adulting" adults also excel at reading
+beliefs/feelings/info from other adults, using this to inform their
+own actions. For the same reason that avoiding curse-words avoids the
+risk of offending people whose tastes you haven't learned, then
+avoiding people who have a strong impact on the other individuals is a
+safe bet -- especially decisions regarding
+aversion/dispersion/inclusion/exclusion. There are people whose
+presence in a social situation is essentially constructive
+interference -- they harmonize. There are others whose presence causes
+strong changes in sociophysical metrics of the group. Since beliefs
+are easy to form and hard to change, once negative information
+attaches itself to a person's social identity, the information --
+whether true/false/irrelevant/irrational --develops a life of its own
+and influences the decisions of others. When either the information is
+highly viral or an individual's social identity has seeded itself
+widely to many social groups, then information can propagate rapidly,
+regardless of its merits and logicality. So, basically, if people run
+the rumor mill at full steam to taint your social identity and if this
+results in being demoted or delisted from enough of your
+friends/acquaintances "Kickball Lists" that they use to prioritze
+selection for social interaction, then you might find yourself eating
+at restaurants with no more options than solo-bar-hopping and drugging
+away the pain whose sources & alleviation you can't
+understand. Fortunately, if you lack the capacity to understand why
+its sad to see someone constantly eating at restaurants alone, then
+you won't understand how seeing someone alone at a restaurant might
+cause "adults" to pause their adulting to obsequiously demote that
+person from their kickball lists. This is probably for the best
+because you don't understand your social pain enough for it to
+actually hurt you -- and you're much better off than the person who
+has time to wonder why you're alone, and sub/consciously allow this to
+affect their decisions/image of you, but not enough time to talk to
+you.
+
+#### (6) The bonus objective:
+
+Projection of information/beliefs that disrupt the target's ability to
+make new friends or be taken seriously. Yes, there are some people
+that don't want to play Conversation Keepaway and others just aren't
+very good at it. It's a game better played by oneself, though it's
+more of a pattern of social responses motivated by the desire to avoid
+the uncomfortable than being actual collusion.
+
+#### (Finishing up FB rant on conversation keepaway & social physics)
+
+Unfortunatly by 2016/2017, many people in my social boundary had been
+*programmed* to believe that if I mention ideas with which they aren’t
+familiar, then —
+
+
+almost as if #AnyMundane #LifeDetails about #DAVIDCONNER *might be*
+strictly controlled #CLASSIFIEDINFORMATION, especially if it deviates
+from some shadowy force's predetermined narrative about aforemented
+non-existent unindividual
+
+
+— then they wouldn’t be a citizen-hero if they let me continue talking
+about #ACADEMIC ideas, topics that might #DemonstrateValue to an
+acquaintence who hasn't "Gotten the Memo"
+
+
+Here's link to the #SpeedOfThought draft that covers forms of
+#Equilibrium in #SocialGames, among which is a discussion of
+"Conversation Keepaway" -- which i originally formulated upon trying
+to destruct how key people in 2015/2016 would disrupt KEY INTERACTIONS
+at KEY OPPORTUNITIES by usurpation of conversational control.
+
+
+https://github.com/.../speed-of-thought-3-metrics...
+
+Colloquially, the tactical hijacking of social dynamics/equilibria are
+known as #GAMES among scientology and/or other groups that engage in
+these #DisNormative behaviors. So they would follow me into a
+conversation and prevent me from forming strong bonds with new people
+or inject conversation topics that would distort the perspectives of
+budding new acquaintances. Or they would pre-empt me from reaching out
+for help when a neutral person was present. If i extrapolated their
+statements to allow others to infer that these people #TARGETING me
+were using #NLP and attempting to psychologically trigger me in
+somewhat humiliating ways, then their responses were **typically**
+functionally coupled to my pleas for attention/help by demostrate to
+others some intentions/facts that they had veiled -- to fill in the
+blanks, so to speak. Whenever there were social
+resources/opportunities, i could count on wierd things happening that
+would nudge the course of events just so no cards ever fell in my
+favor.... Even if it happens to be true, realizing there is a small
+group of people who's trying to subversively disrupt your life is
+itself not healthy because, like the Professional internet troll,
+their duplicity is impossible to distinguish from
+cooperation/sincerity.
+
 
 ### Decision Model Inference & Manipulation
 

@@ -8,9 +8,165 @@ author:
 excerpt: ""
 ---
 
+
+====
+
+All #Bilingual, whereby I read aloud, while shadowing #AudioBooks to:
+👉 (1) to practice #Accents
+👉 (2) experiment with observing, modifying, and demuxing/disaggregating my own linguistic-sensory pathways.
+🌟✨💫 => The goal is to hack my brain’s #ReinforcementLearning and #QLearning by streaming diverse & starkly distinct linguistic data among neural circuits, against the default data flows and compelling *novel* data flow dynamics for grammatical/semantic content.
+It’s amazing how practicing accents with focus on authentic dialect *forces* your subconscious mind to reexamine how it coordinates modules for expression of language. It is a #CognitiveBehavioralTherapy approach to stimulating neuroplasticity via insights from #AnayticNeurology @ Roanoke College
+
+
+Please note: i'm not referring to anything that's happened recently or
+to anyone in particular. I have enough of my own problems -- i wish i
+could go back to when people had no limiting beliefs about
+me. Regardless of what you specifically believe about an individual,
+if they are a younger person or if they are a newer acquaintance, then
+your mind regards them as not yet known. because of this, your mind
+associates possibilities with that individual. typically, but not
+always, the more information you learn about someone the more your
+mind subconsciously (and unconsciously) constrains any associations or
+beliefs about that person. you don't know enough to be certain about
+them, individually, which is also why our minds attempt to fill in the
+gaps with superficial details, by asserting the social pecking order
+or by comparing them with the status of the social connections that
+you are aware of.
+
+Therefore, because your mind doesn't have enough information to
+restrict the #PossibilitySpace -- which is almost always open by
+default; an oversimplification to be sure -- it instead becomes more
+readily influenced by the social/superficial signals that it does
+have. Critically, your mind views this person as undefined and thus
+regards its own awareness of the new relationship as very likely to
+change. as you move through life, accumulating additional
+relationships, new and old, fairweather and tested, how your mind
+reacts to its own lack-of-information about an acquaintance then
+itself changes. This probably correlates to the #HerosJourney or other
+architypes of high-level patterns for developmental & cyclic
+progression. As people become older -- especially those who value
+caution/forethought -- they find a tight circle of relationships they
+value with people whose trustworthiness has been tested. Their overall
+social valence is reduced once they have their social needs met. If
+they're wise they'll test new acquaintances by observing reactions to
+event types that arise incidentally. if they're methodic, they might
+contrive circumstance that help them test new acquaintences or
+employees for reaction types to event types. If they're wiser still,
+they'll avoid confirmation bias and the pitfalls of skewed
+perspective.
+
+As for me, no one ever directly taught me how to do any of that. I
+only began to instinctively do it as a defense mechanism *and i'm
+terrible at vetting people*. For various reasons, I don't think
+parents overtly teach these behaviors to their kids. Instead, it seems
+that what is important to transmit is not HOW, but WHY you should want
+to test people. Things like that have been completely missing from my
+psychology until a few years ago. I only started writing about this
+stuff because of the difficulties that i've had.
+
+Psychologically, i was developmentally delayed in minor ways, which
+didn't present problems in grade school and middle school. They were
+tough to spot then, because the differences in psychological
+development don't manifest until later. That is what it is. What
+pisses me off is that after i turned about 20 years old, it seems that
+people subversively or informally labelled me as some kind of problem;
+instead of helping me, they preferred to keep me socially
+vulnerable. I was always very stubborn and didn't internalize social
+cues *nor the social beliefs of others, almost completely*. For most
+of my twenties, I was almost entirely incapable of predicating my
+actions based on what I believed that other specific individuals and
+groups believed **because i simply did not internalize it and i did
+not think about it whatsoever**. it almost never affected my
+decision-making, unless someone strongly indicated to me that i was
+stepping on their toes or that i should believe that someone had a
+belief -- and crtitically, they needed to bring to my attention *why*
+i should consider it relevant to my goals or my close friends goals.
+
+That this is true and the extent to which it is, should have been
+obvious to almost anyone who spent significant amounts of time with me
+from age 18-28, *especially* any adult more than 10 years older than
+me. There are certain things that should have been obvious and had
+someone approached me in the right way -- investing the required time
+to help me to *psychologically develop* then so i would have
+sidestepped so many problems in my life -- they would be obvious. I
+can revisit the psychology of people who were close to me during that
+time and generally grasp how it changed in response to the years. I
+can see other people who were like me -- the difference is that
+SOMEONE TOLD THEM ABOUT LIFE AND TOLD THEM WHAT IT ALL MEANS. There
+were people that tried to help me and I was stubborn, but i really
+feel like people who should have been able to help did one of two
+things:
+
+- (1) Saw that I had political/moral tendancies that they considered
+  wrong and did not interfere. Marijuana is a great example. I was
+  stubborn and i still don't think i was in the wrong 100%, but i was
+  wrong with how i presented it to other people -- because i had
+  high-functioning autism and didn't realize the damage that
+  introducing drugs can do to someone else's life. i only cared about
+  the political issues, etc. For a few people who maybe should have
+  intervened, I don't think the problems were bad enough to warrant
+  action -- except for the time i wasted, the legal consequences were
+  much more severe.
+
+- (2) (Less than 10 people) Duplicitously stacked the deck against me
+  while pretending to be my friend/colleague OR sought to burden me
+  down with personality disorders and other problems, so that my life
+  and my failures would be an example for other people. These people
+  were the worst. The ones who actively did this to me were VERY good
+  at what they did and hiding what they did. It was the occult
+  application of psychology for harm.
+
+But of all the people who tried to help me throughout my early
+twenties -- and i did receive a lot of help from a very good family
+and some very good friends -- no one could keep me in school. When i
+look back on this now, it doesn't make any sense. It would be easy to
+keep my 20-year-old self at Virginia Tech: just tell me or convince me
+to study mechanical engineering so i could launch a Skate product
+company. That's oddly specific, but i received a lot of financial
+support for school -- yet, no one in my family or at school had enough
+interaction time with me to realistically assess the situation.
+
+It doesn't make much sense for me to bitch about this now, but like
+all the other problems in my life, the reason i dropped out of
+Virginia Tech was primarily #SOCIAL: I only *met* five or six VT
+students before 2007 whose names I remember now and remembered
+by 2008. These are the kind of quantifiable facts I mention in mild
+arguments, but are instantly dismissed as irrelevant. I simply was not
+connected to the school in any serious capacity WHATSOEVER. Yet,
+people that tried to help either assumed that i was doomed to fail or
+was failing because of marijuana. To many of those people, my fate was
+sealed and it was easy to cast the blame on an inanimate drug instead
+of blaming me for failing. This was detrimental, because in *assuming*
+that the cause for my failure was known, no one bothered to actually
+look for the REAL cause of my failure, which was JAMSKATING. And let
+me tell you what: understanding that i sacrificed my full-free-ride to
+virginia tech to get backstabbed and toyed with -- by three or four
+people -- is INFURIATING. I am fairly certain that I HAVE BEEN
+SUBVERSIVELY DISRUPTED IN EVERY SIGNIFICANT ENDEAVOR IN MY FUCKING
+LIFE, SINCE #TWOTHOUSANDFIVE. Despite the caps, what sends me over the
+fucking top is actually understanding #WHAT_I_LOST, compared to
+#WHAT_THEY_GAINED_FOR_DISRUPTING_ME ==> SO I WOULDN'T BE A THREAT TO
+THEIR FUCKING JAAAMSKAATING TEAM. It wasn't personal. I was just
+getting in the way, so what better way to handle that than to
+manipulate me via 2º social connections from FUCKING WISCONSIN. It's
+not people that i have a problem with, it's the one or two people who
+are smart enough to worry about destroying someone's life from OVER
+#ONETHOUSANDMILES AWAY.
+
+I'm sorry, but there are more appropriate ways to handle your goddamn
+dirty laundry and used flatware. Risk mitigation is critical in some
+fields, but seriously? You didn't need to take the 48 LAWS OF POWER so
+literally!
+
+
+====
+
+
 - "analytic neurology" and neuro-lingusitic programming
   - why do the techniques of NLP exhibit their specific effects on our
     minds?
+
+- delineate typological/onological and replace where necessary
 
 - apply various filters to audio signals from synth. do specific
   frequencies have an effect? low frequencies & harmonics?
@@ -30,6 +186,12 @@ excerpt: ""
   there are many ways to validate what you know.
   - on a graph, there would be many "validation paths/cliques" as you
     add more nodes of information
+
+- refer to Ars Technica [Creative Hot
+  Streaks](https://arstechnica.com/science/2018/07/what-do-scientists-artists-and-filmmakers-have-in-common-hot-streaks/)
+  article for verbage describing "break-throughs" in Jungian
+  progression and how these correlate to how flexible/rigid our
+  personal information systems are.
 
 - connect neurology to components of analytic psychology, especially
   the metaphysical components (archetypes) and patterns of
