@@ -743,9 +743,71 @@ because histone H1 winds up nucleosomes in an ordered fashion,
     first to be altered
   - which opens up the nucleosomes' more hidden histone types.
 
-shape and location of chromosomes definite affect their function
+shape and location of chromosomes definitely affect their function
 - chromatin near the periphery is usually heterochromatin
 - chromatin near the center is usually euchromatin
+
+### Interrelationships in Evolutionary Trees
+
+- (not novel, of course)
+- variance, propagation and retention of epi/genetic features
+  - large rearrangement events in chromosomes reverse ordering of
+    genes, disrupting genetic expression like snipping and flipping
+    sections of cassette tape
+  - examine multi-gene chromosome rearragements in context with the
+    functional impacts on:
+    - methylation from long-term genetic expression, which
+      varies among tissue types
+    - impacts on histone mark distribution (mostly impossible to
+      sequence, but can infer histone presence from spatial analysis
+      on themes of chromatin arrangements/movement -- which would be
+      prohibitively expensive)
+    - impacts on expansion of chromatin by tissue type
+      - the chromatin expands and contracts to activate genes.
+      - chromosomes with regions that intersect and interact
+        - extension of the principles of chapman komolgorov to explain
+          the extreme unlikelihood of specific regions in 2+
+          chromosomes docking, in a way, to promote/regulate
+          tissue-specific programs.
+        - (chapman-komolgorov, basically: integration of products of
+          event-chains with conditional probability)
+        - the likelyhood of gene-specific intersections of chromosomes
+          seems infinitesimally small
+        - so, there must be an alternate explanantion for why these
+          programs run similarly in almost all cells of a tissue type.
+      - what are the "themes" of large-scale chromatin rearrangements?
+        e.g. rearrangements that accompany cell division
+        - these *have* been well-studied in recent years, in the [4D
+          Nucleome
+          Project](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5617335/),
+          for example
+  - in summary, examine all of the above epigenetic phenomena, making
+    inferences by pairing the epigenetic data to the large-scale
+    *chromosome* which begin to delineate species
+    - their massive impacts on the biophysical statistical systems of
+      genetic programs significantly disrupt interconnected [gene
+      regulatory
+      networks](https://en.wikipedia.org/wiki/Gene_regulatory_network)
+      (GRN's)
+    - critically, individual chromosome rearragement events mostly
+      isolate GRN expression to those networks which neighbor each
+      other. this alters GRN's and their epigentic feedback
+      mechanisms, while preserving the holistic behavior of the
+      system.
+    - to be passed to offspring, this must occur in the gametes
+      (reproductive tissues)
+  - the combination of these experimental and bioinformatic techniques
+    produces better results when studying closely related sub/species,
+    whose populations over the few centuries have readily accessible
+    specimens, with well-preserved genetic samples
+    - i'm assuming its impossible to sequence epigenetic markers in
+      aged samples
+    - this is all well-studied, but *combining* the inferences from
+      the 4D Nucelome Project with the analysis of GRN's in the
+      context of frequency/preservation of chromosomal rearrangement
+      events would produce amazing results, if tractible
+
+
 
 # Blog Post:
 

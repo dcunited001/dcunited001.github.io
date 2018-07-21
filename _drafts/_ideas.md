@@ -83,7 +83,13 @@
 - UI idea: tilt-to-reveal interaction for GIF's shared online
 
 
-- Oscil8 simplification:
+#### EEG Alarm Clock
+
+- wakes you up in an ideal phase of sleep, before some specified time.
+- allows you to collect data about your sleep patterns/etc
+
+#### Oscil8 simplification:
+
   - a pastie dev site for configuring synth patches and sharing w/
     short-url, text & data
   - would include WebAudio MIDI interface
@@ -276,9 +282,10 @@ of resources in the future when it's not necessary.
   - instead of phrases identifiable to some ideology or group, masking
     your images/ideas in the locutions of another group
 
-- Another argument against dialectical materialism: the existence and
-  structure of forms of the collective unconsciousness challenge the
-  marxist dialectic.
+#### Another argument against dialectical materialism:
+
+- the existence and structure of forms of the collective
+  unconsciousness challenge the marxist dialectic.
   - these forms are intangible. some could be argued to have varying
     degrees of dependence on the material, but other aspects may be
     completely void of dependency on the material.

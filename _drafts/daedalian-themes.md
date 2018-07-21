@@ -8,6 +8,23 @@ author:
 excerpt: ""
 ---
 
+
+misc
+=========
+
+- lovecraft's use of 2nd-hand accounts, especially since those
+  accounts seem authentically delivered/emulated in the spirit of the
+  characters
+  - it's mentioned widely by Lovecraft critics.
+    - it also makes his work difficult to depict cinematically.
+  - lovecraft's detailed account of logistics of exploration in
+    "mountains of madness" contrasts sharply with the cessation of
+    realism
+  - details in the case of charles dexter ward
+  - its specifically the application of chiaroscuro to depiction of
+    realism (instead of intensely contrasting light/dark elements
+    (used cohesively?), it's the starkly contrasting real & unreal)
+
 ghost in the shell style vid
 
 https://www.youtube.com/watch?v=gXTnl1FVFBw
@@ -695,4 +712,3 @@ you're S.O.L. cuz you don't have enough explosions.
       across. when i realized this i immediately became overwhelmingly
       sad. i may have had to get up from my table.
       - it was the way the daughter responded to something
-

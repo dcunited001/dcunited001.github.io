@@ -200,9 +200,13 @@ main outline
   in relation to other types)
 
 - usually, the governmental system seeks to control two of these
-  resource types, to the
+  resource types
 
-
+- as the senses were dilineated phenomenologically by plato, each
+  sense is shown to be distinct in their presentation to the mind
+  (etc..)
+  - similarly, there are fundamental differences between resources of
+    each type.
 
 
 ### Capitalism? Democracy?
@@ -210,8 +214,55 @@ main outline
 
 ### Deconstruct Communism in these terms
 
-- Demonstrate that communism, as defined/constructed by marxist
-    thought-leaders, is
+- according to this s/phys theory of governance, demonstrate that
+  communism, as defined/constructed by marxist thought-leaders, is the
+  zenith of totalitarianism, as is any system which methodically
+  dominates all resources of the three types, according to its
+  ideological principles.
+  - socialism/communism start as systems that focus on social-type
+    resources, often because of the (exploitation and obselescence of
+    the poor) by that society's elite, who dominate financial-type
+    resources.
+  - communists, especially those employing lenins ideas of pragma
+    (etc..), start with what is available: the social resources of the
+    proletariate; resources that are all-but-useless to the
+    bougeuosie.
+    - they start with social-type resources, until they gain power
+      (through ideological mindshare and by establishing their
+      movement throughout a nation slowly, but steadily forward.
+    - after gaining and holding social-type resources, they can turn
+      towards financial-type resources, as long as the distribution of
+      these financially affluent newfound roles in the social
+      hierarchy don't sow derision among more influential party
+      members
+      - the accumulation of mindshare is key for balance here, as the
+        party members need to think and act as one (otherwise as top
+        party members gain power, corruption results, though this is
+        inevitable with governmental systems that monopolize social
+        resources)
+        - (note that such movements begin with slowly/steadily seeding
+          information through social networks ... to people considered
+          irrelevant, invisible and inconsequential by the powers that
+          be)
+
+    - after the attainment of sociohierarchical territory necessary to
+      influence sufficient financial resources, the party can gain
+      near-total dominance over the social distribution &
+      accessibility of information-type resources
+      - e.g. by upscale its expenditures on media/messaging/etc
+      - by depriving party opposition of income
+  - lenin's development of pragma, both as an idea and as policy
+    implementaitons, strongly rooted itself into the bolshevik
+    movement.
+    - this shifts tension from potentially revolution-ending, early
+      violent conflict to slow and steady social conflict
+    - this is very similar to much of the dark social violence i've
+      seen in america over the past decade.
+      - exploitation of social games to perturb regions of social
+        hierarchy
+      - the use of language in an attemp to control thought.
+
+
 
 - it's what them
 - "Communism failed"

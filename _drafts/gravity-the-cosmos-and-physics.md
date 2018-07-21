@@ -755,6 +755,15 @@ our consciousness to epic space bodies and have freeky alien sex and
 there’s probably a lot of tentacles involved.... more is better,
 amirite?
 
+### Analyze *Local* Entropy/Enthalpy in post-Webb astronomical data
+
+- hyperspectrally analyze local variations in EMF spectrum (and the
+  local entropy/enthalpy of that data)
+  - looking for diversity of chemical EMF fingerprints
+  - not sure this kind of analysis is even possible using data from
+    our own solar system. and astronomy, as an intellectual space is
+    *somewhat* competive
+
 ### Galactic ethics 4 time travel
 
 Galaxy where a federation permits cultures to perform time travel
