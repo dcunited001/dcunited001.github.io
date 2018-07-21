@@ -51,6 +51,11 @@ excerpt: ""
   - for creating a bridge to the ubermensche
     - (an asymptotic goal which cannot be obtained)
 
+- "pied piper" and information's effect on micro/macro group dynamics
+  - relate the story to points about the resonance of information,
+    epecially when amplified & constructively in phase
+  - how do people react to these signals? collectively? individually?
+  - why do some topics foment harmonization in "topics of interest"?
 
 [Successive Approximation (Electronics)](https://en.wikipedia.org/wiki/Successive_approximation_ADC))
 

@@ -17,8 +17,7 @@ All #Bilingual, whereby I read aloud, while shadowing #AudioBooks to:
 🌟✨💫 => The goal is to hack my brain’s #ReinforcementLearning and #QLearning by streaming diverse & starkly distinct linguistic data among neural circuits, against the default data flows and compelling *novel* data flow dynamics for grammatical/semantic content.
 It’s amazing how practicing accents with focus on authentic dialect *forces* your subconscious mind to reexamine how it coordinates modules for expression of language. It is a #CognitiveBehavioralTherapy approach to stimulating neuroplasticity via insights from #AnayticNeurology @ Roanoke College
 
-
-==== (
+====
 
 - TODO: decide which components of this text are useful
   - most of this needs to be cut out and/or reworded

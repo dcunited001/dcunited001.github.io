@@ -31,10 +31,7 @@ abject isolation.
 ======
 
 
-- intro two this part with discussion on financial, social,
-  informational resources and an overview on how all forms of
-  government/society can be dilineated based on how they
-  control/disseminate (diffuse) these resources
+- intro two this part with discussion on
   - (no, move this to a separate article)
 
 - TODO: move the section on configurational entropy to be first (as
@@ -174,7 +171,7 @@ comparison when you loudly assert your dominance."
 
 
 
-### "K curve" for estimating speciation
+### "K curve" for estimating speciation of memes
 
 - gene replication vs belief/informational replication
 - move to "geometric mechanics of information"
