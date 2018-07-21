@@ -8,209 +8,46 @@ author:
 excerpt: ""
 ---
 
-
-====
-
-All #Bilingual, whereby I read aloud, while shadowing #AudioBooks to:
-👉 (1) to practice #Accents
-👉 (2) experiment with observing, modifying, and demuxing/disaggregating my own linguistic-sensory pathways.
-🌟✨💫 => The goal is to hack my brain’s #ReinforcementLearning and #QLearning by streaming diverse & starkly distinct linguistic data among neural circuits, against the default data flows and compelling *novel* data flow dynamics for grammatical/semantic content.
-It’s amazing how practicing accents with focus on authentic dialect *forces* your subconscious mind to reexamine how it coordinates modules for expression of language. It is a #CognitiveBehavioralTherapy approach to stimulating neuroplasticity via insights from #AnayticNeurology @ Roanoke College
-
-====
-
-- TODO: decide which components of this text are useful
-  - most of this needs to be cut out and/or reworded
-- particularly for connecting Jungian ontological perspectives on:
-  - developmental dynamics (generally composed of archetypical symbols
-    and higher-order outlines of the same rehashed myth/stories)
-  - connect the notions of dev. dynamics to the more well-known
-    patterns that Jung focused on (e.g. Hero's Journey))
-- filtering specific dependencies/components of the
-  typological/ontological space (e.g. of life experience as it relates
-  to one "turning" of the Hero's Journey)
-  - similar to the idea of filtering specific ontological varieties of
-    type & metatypes that i used in the "Memory Hole" and "To Catch a
-    Butterfly" articles, but oriented towards Jungian developmental
-    dynamics
-    - (e.g. how to stall someone out at a point in their "Hero's
-     Journey" and to do so indirectly without appearing to have
-     causally interfered with their life)
-  - focus on drawing the connection between these archetypical
-    developmental progressions and "analytical neurology"
-    - then develop ideas that connect the manifestation of jungian
-      ideals/developmental progressions to metaphysics of:
-      - Life/Awareness/Chaos, regardless of whether it is self-aware,
-        "intelligent" or artificial
-      - one important implication that extends from these
-        conclusions/results: there are ideas from network theory that
-        establish a "heartbeat" and other "organic" attributes for
-        animals of various sizes, but also for large cities.
-        - this arise from network theoretical ideas
-          (well-connectedness, and needing to *cover* a space with
-          regularity, etc), but yield interesting dynamcs at a higher,
-          macroscopic level
-        - so, what are the phenomenological components of input/output
-          & structure in Neurology and Artificial Intelligence (as
-          they connect to Jungian ideas) that yield these architypical
-          developmental progressions. and specificially, how does the
-          quality/nature of a non/sentient entity impact both the
-          rates of developmental progressions and the depending
-          requisites thereof
-          - e.g. are there specific bottlenecks for developmental
-            progressions (specific progressions or progressions
-            generally)
-        - and how does network theory establish the rate of
-          development/progress in specific progressions
-          - this is the element that mimics the "HEARTBEAT"
-      - when someone completes specific progressions that "OPEN UP" a
-        new world, anaytically (see the section of Love), they may be
-        unlikely to revisit those same progressions and their mind
-        rendered less flexible and capable of embarking on or
-        completing new progressions.
-        - how does that "finiteness" affect the dynamics of
-          developmental progressions
-
-
-Please note: i'm not referring to anything that's happened recently or
-to anyone in particular. I have enough of my own problems -- i wish i
-could go back to when people had no limiting beliefs about
-me. Regardless of what you specifically believe about an individual,
-if they are a younger person or if they are a newer acquaintance, then
-your mind regards them as not yet known. because of this, your mind
-associates possibilities with that individual. typically, but not
-always, the more information you learn about someone the more your
-mind subconsciously (and unconsciously) constrains any associations or
-beliefs about that person. you don't know enough to be certain about
-them, individually, which is also why our minds attempt to fill in the
-gaps with superficial details, by asserting the social pecking order
-or by comparing them with the status of the social connections that
-you are aware of.
-
-Therefore, because your mind doesn't have enough information to
-restrict the #PossibilitySpace -- which is almost always open by
-default; an oversimplification to be sure -- it instead becomes more
-readily influenced by the social/superficial signals that it does
-have. Critically, your mind views this person as undefined and thus
-regards its own awareness of the new relationship as very likely to
-change. as you move through life, accumulating additional
-relationships, new and old, fairweather and tested, how your mind
-reacts to its own lack-of-information about an acquaintance then
-itself changes. This probably correlates to the #HerosJourney or other
-architypes of high-level patterns for developmental & cyclic
-progression. As people become older -- especially those who value
-caution/forethought -- they find a tight circle of relationships they
-value with people whose trustworthiness has been tested. Their overall
-social valence is reduced once they have their social needs met. If
-they're wise they'll test new acquaintances by observing reactions to
-event types that arise incidentally. if they're methodic, they might
-contrive circumstance that help them test new acquaintences or
-employees for reaction types to event types. If they're wiser still,
-they'll avoid confirmation bias and the pitfalls of skewed
-perspective.
-
-As for me, no one ever directly taught me how to do any of that. I
-only began to instinctively do it as a defense mechanism *and i'm
-terrible at vetting people*. For various reasons, I don't think
-parents overtly teach these behaviors to their kids. Instead, it seems
-that what is important to transmit is not HOW, but WHY you should want
-to test people. Things like that have been completely missing from my
-psychology until a few years ago. I only started writing about this
-stuff because of the difficulties that i've had.
-
-Psychologically, i was developmentally delayed in minor ways, which
-didn't present problems in grade school and middle school. They were
-tough to spot then, because the differences in psychological
-development don't manifest until later. That is what it is. What
-pisses me off is that after i turned about 20 years old, it seems that
-people subversively or informally labelled me as some kind of problem;
-instead of helping me, they preferred to keep me socially
-vulnerable. I was always very stubborn and didn't internalize social
-cues *nor the social beliefs of others, almost completely*. For most
-of my twenties, I was almost entirely incapable of predicating my
-actions based on what I believed that other specific individuals and
-groups believed **because i simply did not internalize it and i did
-not think about it whatsoever**. it almost never affected my
-decision-making, unless someone strongly indicated to me that i was
-stepping on their toes or that i should believe that someone had a
-belief -- and crtitically, they needed to bring to my attention *why*
-i should consider it relevant to my goals or my close friends goals.
-
-That this is true and the extent to which it is, should have been
-obvious to almost anyone who spent significant amounts of time with me
-from age 18-28, *especially* any adult more than 10 years older than
-me. There are certain things that should have been obvious and had
-someone approached me in the right way -- investing the required time
-to help me to *psychologically develop* then so i would have
-sidestepped so many problems in my life -- they would be obvious. I
-can revisit the psychology of people who were close to me during that
-time and generally grasp how it changed in response to the years. I
-can see other people who were like me -- the difference is that
-SOMEONE TOLD THEM ABOUT LIFE AND TOLD THEM WHAT IT ALL MEANS. There
-were people that tried to help me and I was stubborn, but i really
-feel like people who should have been able to help did one of two
-things:
-
-- (1) Saw that I had political/moral tendancies that they considered
-  wrong and did not interfere. Marijuana is a great example. I was
-  stubborn and i still don't think i was in the wrong 100%, but i was
-  wrong with how i presented it to other people -- because i had
-  high-functioning autism and didn't realize the damage that
-  introducing drugs can do to someone else's life. i only cared about
-  the political issues, etc. For a few people who maybe should have
-  intervened, I don't think the problems were bad enough to warrant
-  action -- except for the time i wasted, the legal consequences were
-  much more severe.
-
-- (2) (Less than 10 people) Duplicitously stacked the deck against me
-  while pretending to be my friend/colleague OR sought to burden me
-  down with personality disorders and other problems, so that my life
-  and my failures would be an example for other people. These people
-  were the worst. The ones who actively did this to me were VERY good
-  at what they did and hiding what they did. It was the occult
-  application of psychology for harm.
-
-But of all the people who tried to help me throughout my early
-twenties -- and i did receive a lot of help from a very good family
-and some very good friends -- no one could keep me in school. When i
-look back on this now, it doesn't make any sense. It would be easy to
-keep my 20-year-old self at Virginia Tech: just tell me or convince me
-to study mechanical engineering so i could launch a Skate product
-company. That's oddly specific, but i received a lot of financial
-support for school -- yet, no one in my family or at school had enough
-interaction time with me to realistically assess the situation.
-
-It doesn't make much sense for me to bitch about this now, but like
-all the other problems in my life, the reason i dropped out of
-Virginia Tech was primarily #SOCIAL: I only *met* five or six VT
-students before 2007 whose names I remember now and remembered
-by 2008. These are the kind of quantifiable facts I mention in mild
-arguments, but are instantly dismissed as irrelevant. I simply was not
-connected to the school in any serious capacity WHATSOEVER. Yet,
-people that tried to help either assumed that i was doomed to fail or
-was failing because of marijuana. To many of those people, my fate was
-sealed and it was easy to cast the blame on an inanimate drug instead
-of blaming me for failing. This was detrimental, because in *assuming*
-that the cause for my failure was known, no one bothered to actually
-look for the REAL cause of my failure, which was JAMSKATING. And let
-me tell you what: understanding that i sacrificed my full-free-ride to
-virginia tech to get backstabbed and toyed with -- by three or four
-people -- is INFURIATING. I am fairly certain that I HAVE BEEN
-SUBVERSIVELY DISRUPTED IN EVERY SIGNIFICANT ENDEAVOR IN MY FUCKING
-LIFE, SINCE #TWOTHOUSANDFIVE. Despite the caps, what sends me over the
-fucking top is actually understanding #WHAT_I_LOST, compared to
-#WHAT_THEY_GAINED_FOR_DISRUPTING_ME ==> SO I WOULDN'T BE A THREAT TO
-THEIR FUCKING JAAAMSKAATING TEAM. It wasn't personal. I was just
-getting in the way, so what better way to handle that than to
-manipulate me via 2º social connections from FUCKING WISCONSIN. It's
-not people that i have a problem with, it's the one or two people who
-are smart enough to worry about destroying someone's life from OVER
-#ONETHOUSANDMILES AWAY.
-
-I'm sorry, but there are more appropriate ways to handle your goddamn
-dirty laundry and used flatware. Risk mitigation is critical in some
-fields, but seriously? You didn't need to take the 48 LAWS OF POWER so
-literally!
+- "hyperrealism" and over-determinedness of information systems
+  - move this to article with a discussion on epistemology?
+    - semioteleological revolution
+  - how the extremely wide distribution of information results in the
+    cultivation of individual information sets which are thoroughly
+    self-reinforcing, in rationale and logic.
+  - the space of the unknown -- as it people both conceive it and are
+    influenced by the shadow of its unconscious aspects -- shrinks
+    until information systems become rigid (at micro/macro levels)
+    - at a sociological scale, this and other phenomena produce
+      effects similar to jungian developmental progressions seen in
+      the psyche of individuals
+  - though (strangely?) there doesn't seem to be an abundance of this
+    hyperrealism on socially distributed information systems.
+  - an example: the mechanically rigid affect of the zealous athiest
+    or, more socially, of a large group of zealous athiests.
+    - their belief systems reinforce each other.
+  - a less contrived example: think of the internet's influence on
+    society if all the fallacious information never existed?
+    - there is starkly more coherence in these information systems.
+    - in that world, its nearly impossible to introduce new
+      information if it doesn't fit coherently into the graph of
+      information (or knowledge)
+    - since, in that world, all information exhibits similarly high
+      interconnectedness, then to be considered seriously as
+      information in that world, new information needs to
+      stochastically similar degrees of interconnectedness in the
+      graph of information.
+      - if it has inconsistencies, it's thrown right out because
+        almost no information in that world is incongruent with its
+        set of informational connections.
+      - you might try to introduce informational non-sequitor, which
+        is trivial and connected minimally to the graph of information
+        - but this information also deviates sharply along many
+          statisical signals in its neighborhood of the information
+          graph
+    - what happens sociologically as people approach this point? of
+      course, individuals consume small sets of the total graphs of
+      information and knowledge (... define here as higher-order
+      information)
 
 
 ====
@@ -1401,3 +1238,213 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
 
 
 [^a-theory-of-discontinuities]: [A Theory of Discontinuities in Physical System Models](https://doi.org/10.1016/S0016-0032(96)00126-3)
+
+
+
+
+
+
+
+
+====
+
+All #Bilingual, whereby I read aloud, while shadowing #AudioBooks to:
+👉 (1) to practice #Accents
+👉 (2) experiment with observing, modifying, and demuxing/disaggregating my own linguistic-sensory pathways.
+🌟✨💫 => The goal is to hack my brain’s #ReinforcementLearning and #QLearning by streaming diverse & starkly distinct linguistic data among neural circuits, against the default data flows and compelling *novel* data flow dynamics for grammatical/semantic content.
+It’s amazing how practicing accents with focus on authentic dialect *forces* your subconscious mind to reexamine how it coordinates modules for expression of language. It is a #CognitiveBehavioralTherapy approach to stimulating neuroplasticity via insights from #AnayticNeurology @ Roanoke College
+
+====
+
+- TODO: decide which components of this text are useful
+  - most of this needs to be cut out and/or reworded
+- particularly for connecting Jungian ontological perspectives on:
+  - developmental dynamics (generally composed of archetypical symbols
+    and higher-order outlines of the same rehashed myth/stories)
+  - connect the notions of dev. dynamics to the more well-known
+    patterns that Jung focused on (e.g. Hero's Journey))
+- filtering specific dependencies/components of the
+  typological/ontological space (e.g. of life experience as it relates
+  to one "turning" of the Hero's Journey)
+  - similar to the idea of filtering specific ontological varieties of
+    type & metatypes that i used in the "Memory Hole" and "To Catch a
+    Butterfly" articles, but oriented towards Jungian developmental
+    dynamics
+    - (e.g. how to stall someone out at a point in their "Hero's
+     Journey" and to do so indirectly without appearing to have
+     causally interfered with their life)
+  - focus on drawing the connection between these archetypical
+    developmental progressions and "analytical neurology"
+    - then develop ideas that connect the manifestation of jungian
+      ideals/developmental progressions to metaphysics of:
+      - Life/Awareness/Chaos, regardless of whether it is self-aware,
+        "intelligent" or artificial
+      - one important implication that extends from these
+        conclusions/results: there are ideas from network theory that
+        establish a "heartbeat" and other "organic" attributes for
+        animals of various sizes, but also for large cities.
+        - this arise from network theoretical ideas
+          (well-connectedness, and needing to *cover* a space with
+          regularity, etc), but yield interesting dynamcs at a higher,
+          macroscopic level
+        - so, what are the phenomenological components of input/output
+          & structure in Neurology and Artificial Intelligence (as
+          they connect to Jungian ideas) that yield these architypical
+          developmental progressions. and specificially, how does the
+          quality/nature of a non/sentient entity impact both the
+          rates of developmental progressions and the depending
+          requisites thereof
+          - e.g. are there specific bottlenecks for developmental
+            progressions (specific progressions or progressions
+            generally)
+        - and how does network theory establish the rate of
+          development/progress in specific progressions
+          - this is the element that mimics the "HEARTBEAT"
+      - when someone completes specific progressions that "OPEN UP" a
+        new world, anaytically (see the section of Love), they may be
+        unlikely to revisit those same progressions and their mind
+        rendered less flexible and capable of embarking on or
+        completing new progressions.
+        - how does that "finiteness" affect the dynamics of
+          developmental progressions
+
+
+Please note: i'm not referring to anything that's happened recently or
+to anyone in particular. I have enough of my own problems -- i wish i
+could go back to when people had no limiting beliefs about
+me. Regardless of what you specifically believe about an individual,
+if they are a younger person or if they are a newer acquaintance, then
+your mind regards them as not yet known. because of this, your mind
+associates possibilities with that individual. typically, but not
+always, the more information you learn about someone the more your
+mind subconsciously (and unconsciously) constrains any associations or
+beliefs about that person. you don't know enough to be certain about
+them, individually, which is also why our minds attempt to fill in the
+gaps with superficial details, by asserting the social pecking order
+or by comparing them with the status of the social connections that
+you are aware of.
+
+Therefore, because your mind doesn't have enough information to
+restrict the #PossibilitySpace -- which is almost always open by
+default; an oversimplification to be sure -- it instead becomes more
+readily influenced by the social/superficial signals that it does
+have. Critically, your mind views this person as undefined and thus
+regards its own awareness of the new relationship as very likely to
+change. as you move through life, accumulating additional
+relationships, new and old, fairweather and tested, how your mind
+reacts to its own lack-of-information about an acquaintance then
+itself changes. This probably correlates to the #HerosJourney or other
+architypes of high-level patterns for developmental & cyclic
+progression. As people become older -- especially those who value
+caution/forethought -- they find a tight circle of relationships they
+value with people whose trustworthiness has been tested. Their overall
+social valence is reduced once they have their social needs met. If
+they're wise they'll test new acquaintances by observing reactions to
+event types that arise incidentally. if they're methodic, they might
+contrive circumstance that help them test new acquaintences or
+employees for reaction types to event types. If they're wiser still,
+they'll avoid confirmation bias and the pitfalls of skewed
+perspective.
+
+As for me, no one ever directly taught me how to do any of that. I
+only began to instinctively do it as a defense mechanism *and i'm
+terrible at vetting people*. For various reasons, I don't think
+parents overtly teach these behaviors to their kids. Instead, it seems
+that what is important to transmit is not HOW, but WHY you should want
+to test people. Things like that have been completely missing from my
+psychology until a few years ago. I only started writing about this
+stuff because of the difficulties that i've had.
+
+Psychologically, i was developmentally delayed in minor ways, which
+didn't present problems in grade school and middle school. They were
+tough to spot then, because the differences in psychological
+development don't manifest until later. That is what it is. What
+pisses me off is that after i turned about 20 years old, it seems that
+people subversively or informally labelled me as some kind of problem;
+instead of helping me, they preferred to keep me socially
+vulnerable. I was always very stubborn and didn't internalize social
+cues *nor the social beliefs of others, almost completely*. For most
+of my twenties, I was almost entirely incapable of predicating my
+actions based on what I believed that other specific individuals and
+groups believed **because i simply did not internalize it and i did
+not think about it whatsoever**. it almost never affected my
+decision-making, unless someone strongly indicated to me that i was
+stepping on their toes or that i should believe that someone had a
+belief -- and crtitically, they needed to bring to my attention *why*
+i should consider it relevant to my goals or my close friends goals.
+
+That this is true and the extent to which it is, should have been
+obvious to almost anyone who spent significant amounts of time with me
+from age 18-28, *especially* any adult more than 10 years older than
+me. There are certain things that should have been obvious and had
+someone approached me in the right way -- investing the required time
+to help me to *psychologically develop* then so i would have
+sidestepped so many problems in my life -- they would be obvious. I
+can revisit the psychology of people who were close to me during that
+time and generally grasp how it changed in response to the years. I
+can see other people who were like me -- the difference is that
+SOMEONE TOLD THEM ABOUT LIFE AND TOLD THEM WHAT IT ALL MEANS. There
+were people that tried to help me and I was stubborn, but i really
+feel like people who should have been able to help did one of two
+things:
+
+- (1) Saw that I had political/moral tendancies that they considered
+  wrong and did not interfere. Marijuana is a great example. I was
+  stubborn and i still don't think i was in the wrong 100%, but i was
+  wrong with how i presented it to other people -- because i had
+  high-functioning autism and didn't realize the damage that
+  introducing drugs can do to someone else's life. i only cared about
+  the political issues, etc. For a few people who maybe should have
+  intervened, I don't think the problems were bad enough to warrant
+  action -- except for the time i wasted, the legal consequences were
+  much more severe.
+
+- (2) (Less than 10 people) Duplicitously stacked the deck against me
+  while pretending to be my friend/colleague OR sought to burden me
+  down with personality disorders and other problems, so that my life
+  and my failures would be an example for other people. These people
+  were the worst. The ones who actively did this to me were VERY good
+  at what they did and hiding what they did. It was the occult
+  application of psychology for harm.
+
+But of all the people who tried to help me throughout my early
+twenties -- and i did receive a lot of help from a very good family
+and some very good friends -- no one could keep me in school. When i
+look back on this now, it doesn't make any sense. It would be easy to
+keep my 20-year-old self at Virginia Tech: just tell me or convince me
+to study mechanical engineering so i could launch a Skate product
+company. That's oddly specific, but i received a lot of financial
+support for school -- yet, no one in my family or at school had enough
+interaction time with me to realistically assess the situation.
+
+It doesn't make much sense for me to bitch about this now, but like
+all the other problems in my life, the reason i dropped out of
+Virginia Tech was primarily #SOCIAL: I only *met* five or six VT
+students before 2007 whose names I remember now and remembered
+by 2008. These are the kind of quantifiable facts I mention in mild
+arguments, but are instantly dismissed as irrelevant. I simply was not
+connected to the school in any serious capacity WHATSOEVER. Yet,
+people that tried to help either assumed that i was doomed to fail or
+was failing because of marijuana. To many of those people, my fate was
+sealed and it was easy to cast the blame on an inanimate drug instead
+of blaming me for failing. This was detrimental, because in *assuming*
+that the cause for my failure was known, no one bothered to actually
+look for the REAL cause of my failure, which was JAMSKATING. And let
+me tell you what: understanding that i sacrificed my full-free-ride to
+virginia tech to get backstabbed and toyed with -- by three or four
+people -- is INFURIATING. I am fairly certain that I HAVE BEEN
+SUBVERSIVELY DISRUPTED IN EVERY SIGNIFICANT ENDEAVOR IN MY FUCKING
+LIFE, SINCE #TWOTHOUSANDFIVE. Despite the caps, what sends me over the
+fucking top is actually understanding #WHAT_I_LOST, compared to
+#WHAT_THEY_GAINED_FOR_DISRUPTING_ME ==> SO I WOULDN'T BE A THREAT TO
+THEIR FUCKING JAAAMSKAATING TEAM. It wasn't personal. I was just
+getting in the way, so what better way to handle that than to
+manipulate me via 2º social connections from FUCKING WISCONSIN. It's
+not people that i have a problem with, it's the one or two people who
+are smart enough to worry about destroying someone's life from OVER
+#ONETHOUSANDMILES AWAY.
+
+I'm sorry, but there are more appropriate ways to handle your goddamn
+dirty laundry and used flatware. Risk mitigation is critical in some
+fields, but seriously? You didn't need to take the 48 LAWS OF POWER so
+literally!

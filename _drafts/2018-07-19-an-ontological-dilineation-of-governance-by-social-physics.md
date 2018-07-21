@@ -260,8 +260,12 @@ main outline
       seen in america over the past decade.
       - exploitation of social games to perturb regions of social
         hierarchy
-      - the use of language in an attemp to control thought.
+      - the use of language in an attempt to control thought.
 
+- like a bee, leninists can only sting you once and they know it. so
+  they run full-scale theatrics and
+  - they have to keep their party members engaged and feeling like
+    there's a purpose to the time they contribute.
 
 
 - it's what them

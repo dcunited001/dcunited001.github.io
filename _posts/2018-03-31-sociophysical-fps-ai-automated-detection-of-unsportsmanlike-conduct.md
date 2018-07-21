@@ -11,6 +11,11 @@ excerpt: ""
 - bots to balance gameplay, to provide standard candles for matching
   algorithms... (probably a bad idea)
 
+- when i'm playing overwatch while cyclicng on my exercise-bike-desk,
+  enemies that sneak up and attack cause me to start pedaling faster,
+  hilarious, its as if my subconscious can't fully separate it's
+  impulses and knee-jerk reactions.
+
 - there are games that are likely to become cybersports and those that
   don't have a chance. however, it's not simply popularity that
   dictates which games are "cybersportable" and which are not.
