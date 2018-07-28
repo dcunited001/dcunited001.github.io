@@ -10,6 +10,53 @@ excerpt: ""
 
 - TODO: connect to article on hypnosis and Kantian category collapse
 
+
+
+### Cardio's Impact on Substantial Nigra, NaCHR, & Proximal Dopamine Regulation
+
+- how does cardio disrupt/impack the local/regional state of
+  dopamine/ion concentrations
+  - how far/fast do neuronal impulses impact ion concentrations in the
+    immediate vicinity?
+    - how quickly can repetitive impulses be expected to produce local
+      neuronal burnout? how is this local burnout regionally modulated
+      by feedback loops (esp those relating to ion/neurotransmitter
+      concentrations)
+  - the substantia nigra's impact on dopaminergic and cholinergic
+    systems is well-studied.
+    - can this be connected to ML-enhanced DTI imagery? those
+      techniques provide a basis for understanding local composition
+      of fluid containment and the hydrostatics thereof.
+    - so... one can infer *where* fluid (and thus ion concentrations)
+      may move by using the models of neural-connectedness provided by
+      ML-enhanced DTI imagery.
+      - this DTI imagery provides a map of connections in the brain
+        where fluid may move *locally* and therefore regionally.
+      - it tells you what the Potential is for local Divergence of
+        (ionic molarity)
+      - so, therefore, combined with analysis on the Substantia Nigra,
+        you may gain insight into how and where the changes in
+        dopamine/ion concentrations produced by cardio exercise then
+        propagate within the brain, locally.
+
+- how do such disruptions of state tend to create dopamine that
+  diffuses into regional systems (and how does this impact cognition?)
+  - connect this to the spatio-temporal understanding of information
+    representations, as they relate to (phenomonological) demarcation
+    between brain and mind.
+    - Information representations perceived by the mind are encoded
+      into 4D (+) Spectral Dynamics of ion concentrations
+
+### NLP (X) The Nature of Social Commmunication
+
+- ... Given insights into socially relevant aspects of the Collective
+  Unconscious that impact social communication
+- many NLP techniques depend on understanding aspects of the
+  collective unconscious to influence communication and attention
+  - whereas hypnosis modulates more neurological anomolies
+
+### Energy Healing Techniques and Modulation of [my very own] Somatic Tinnitus
+
 - interfering with the ultrasound by utilizing chi and energy healing
   techniques.
   - for me, this turns my torture into a game. it forces me learn
@@ -41,6 +88,14 @@ excerpt: ""
         torture victims have are being subjected to these neurological
         methods, their lives have been meticulously interfered with,
         so that no one will hear their screams for help.
+
+
+
+
+
+
+
+
 
 ### Welcome To The Other, Other Camp XRay
 

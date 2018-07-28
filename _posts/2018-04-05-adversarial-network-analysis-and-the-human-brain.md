@@ -8,6 +8,34 @@ author:
 excerpt: ""
 ---
 
+
+misc
+=======
+
+- terminology
+  - "progression/recession" have special meanings within jungian
+    psychology, so using "progressions" to describe iterations of the
+    hero's journey is imprecise.
+  - individuation/deindividuation
+    - how can these ideas of "analytic neurology" (particularly
+      over/under-determinedness of systems that neurons emulate)
+      connect to the above de/individuation?
+
+- (briefly) contrasting the ideas of freud/jung
+  - compare freud's ideas to be similar to qualitatively dilineating
+    the IV's for a DiffEQ (where you find the IVP)
+    - i.e. what is the beginning state? how does the mind build upon
+      itself when there is very little there and plasticity is
+      pervasive
+  - jung's ideas? (about openings/closings/turnings, cyclic
+    progressions, the end)
+    - the progressions of jung are for the individual what the
+      ebbs/flows of metamodernism are for modernist society (the
+      convergence towards modernism, followed by a need for
+      differentiation that produces the (abstract speciation of ideas)
+      that is post modernism)
+      - how does the above connect to individuation?
+
 - "hyperrealism" and over-determinedness of information systems
   - move this to article with a discussion on epistemology?
     - semioteleological revolution
@@ -49,9 +77,71 @@ excerpt: ""
       information and knowledge (... define here as higher-order
       information)
 
+- how an individual's mind perceives "reality" with/out (pervasive)
+  application of rationalistic/logical tendancies at the
+  metaprogramming level --
+  - all (they) can see is what their mind allows them to accept as
+    true, if they're rationalistic at the metaprogramming level
+
+- [How your brain is conspiring against you making good
+  software](https://www.youtube.com/watch?v=qiNmaUuefCY&index=43&list=PLfMzBWSH11xa-iNnQG2555lgi4574nZOh)
+  - researched used "categorical syllogism" to test processes in
+    rational thought
+    - this and other methods (for confirmation bias, etc)
+
+- how does someone's mind change when certain facets of
+  metaprogramming change? e.g. especially the part of the
+  consciousness that evaluates whether information is true, could be
+  true, etc. and acts as the filter which selects which information to
+  consume and begin extrapolating from?
+  - like the [Overton
+    Window](https://en.wikipedia.org/wiki/Overton_window), this filter
+    can be narrowed/widened. you can be conditioned to have this
+    personal overton window opened wider.
+    - (story about the driftwood?)
+    - in which case, you're more willing to ingest and extrapolate
+      from highly underdetermined information
+      - this is what happens with gaslighting.
+      - you're told to "trust" while you're isolated and not capable
+        of verifying what the gaslighter is feeding you, but don't
+        seek confirmation/consultion from people around you.
+    - the target becomes conditioned to believe anything, given a few
+      cues here and there, which act as reinforcement.
+      - next thing you know, the person has full-blown
+        [Erotomania-by-proxy](https://en.wikipedia.org/wiki/Erotomania)
+  - can this state of individual's rationalistic filter be conditioned
+    when the person (patient?) is voluntary and/or aware?
+    - i don't think so. pretty much not ever.
+
+- how psychedelics modulate this threshold of (required)
+  analytic-determinism, for much lower levels of the brain
+  (sub-subconscious up through the conscious levels) to induce a
+  (state of jungian ... (malleability/plasticity of mind))
+  - there's been a lot of effort to provide purely neurological
+    explanation of psychedelics effects on plasticity, but this is an
+    analytic-psychological explanation for psychedelics, which
+    requires neurological propositions, but explains what it does to
+    the *mind* to experience states like this (connect to the outline
+    on how experiencing first signs of MS might be percieved by the
+    mind, since they are highly distinct from sensory input thus far.)
+
+### Cardio's Impact on Substantial Nigra, NaCHR, & Proximal Dopamine Regulation
+
+- how does cardio disrupt/impack the local/regional state of
+  dopamine/ion concentrations
+  - how far/fast do neuronal impulses impact ion concentrations in the
+    immediate vicinity?
+    - how quickly can repetitive impulses be expected to produce local
+      neuronal burnout? how is this local burnout regionally modulated
+      by feedback loops (esp those relating to ion/neurotransmitter
+      concentrations)
+  - the substantia nigra's impact on dopaminergic and cholinergic
+    systems is well-studied.
+
 
 ====
 
+- concept of salience from neurology
 
 - "analytic neurology" and neuro-lingusitic programming
   - why do the techniques of NLP exhibit their specific effects on our

@@ -26,6 +26,11 @@ misc
   - turbudity
   - LCD terminology
 
+- [Open Source Governance
+  Models: From BDFL to Consensus Seeking](http://www.nodesummit.com/prior-video/node-summit-2017-open-source-governance-models-from-bdfl-to-consensus-seeking-myles-borins/)
+  - Governance in business: management, internally/externally facing
+    policy, board of directors.
+
 ### Permeability of Individuals to Information
 
 - how individuals' permeability to information changes with age
@@ -123,6 +128,24 @@ main outline
 
 - multiple simple examples of each resource type
 
+- what are the kernels of these resource types?
+  - they are informational:
+    - information necessary for finance
+    - that necessary for social (...)
+    - that necessary for the acquisition and development of knowledge,
+      which is solely informational
+  - how does understanding these kernels empower individuals to become
+    affluent in influencing financial, social and informational
+    resources?
+    - what are the minimal levels of knowledge required for each? how
+      do we construct institutions in society for
+      propagating/inculcating knowledge of the three?
+      - what are the institutions for development of knowledge of
+        social resources?
+        - religious institutions, belief systems, families, etc.
+        - some of these are more effective than others.
+
+
 - ok that is what it is. there are resources, some people have them,
   some lack them. this is straightforward.
 
@@ -182,11 +205,75 @@ main outline
 
 - This results in the tendancy for a government to focus on a primary
   and secondary resource type. The channels of exchange for these two
-  types are relatively viscous, leaving the third type
+  types are relatively viscous, leaving the channels of the third type
+  less viscous
+  - 6 permutations of priotization of control, but to simplify, focus
+    on the three types, distinguished by the primary mechanisms set
+    to: financial, social and informational. i.e. what does it imply
+    when each is the channel with highest viscosity?
+    - correlate this to the formula for physical viscosity. viz. what
+      is the S.I. quantity in physical fluids that causes viscosity?
+    - how does viscosity lead to stagnation of mutation rates for:
+      - finanical channels of exchange (and social/informational)
+  - herein, can mechanisms of all types become stagnated?
+    - if so, what does this mean for the common person's experience in
+      such a governmental system?
+  - when financial exch. mech. exhibit the greatest stagnation, this
+    reduces the "turnover rates" for financial control
+  - when social exch. mech. exhibit the greatest stagnation,
+    similarly, this leads to perpetuated social hierachies
+  - when informational exchange mechanisms exhibit the greatest
+    stagnation, this leads to suppression of memetic mutation rates
+
+- explain how diffeomorphic analysis of spaces enables digital video
+  processing, but also applies to any topological spaces, even the
+  topology of the metaphysical.
+- (diffeomorphically, of the three configurations above), the
+  viscosity of informational resources is the most interesting, from a
+  neo-kantian perspective on epistemology. when the idea of kantian
+  categories are applied to nascent developments in the structures of
+  knowledge, then from this lens, the (opening/developing) paths
+  forward are considered.
+  - when this lens is (clouded), then the futuristic anticipations of
+    the future that diffuse (popularly) into that society become
+    anachronistic -- and often humorously so.
+  - when such a lens is clear and widely propagated by thought
+    leaders, then the surface of impending scientific, academic and
+    phenomenological developments becomes well known.
+    - two examples of this happening:
+      - (1) western civilization's propulsion towards the inevitability of
+        modernism from the 17th through the early 20th centuries.
+        - explain this a bit.
+        - examples: the rockefellers and gas/oil investment versus
+          investment in eletrical infrastructure and the technological
+          devleopments thereof
+          - Before Tesla's development of alternating current, for
+            General Electric and other magnates of industry, the
+            unfurling of electronic technological development into
+            industry was to be slow and controlled. (They) saw no
+            other way to package infrastructure implementation and
+            delivery of electricity to consumers by direct current,
+            which starkly limited
+          - The early telecom industry did, however, seem to foresee
+            the development of digital technologies, eventually,
+            though they greatly misestimated the complexity of
+            electronics required
+      - (2) never again, would this lens (reverberate with clarity) in
+        the minds of thought leaders -- until the era of the internet,
+        which set humanity on its current course to rapidly our
+        cognizance of (nascent development),
+        - where the tools of data science have became democratized,
+          this neokantian aperture continues to widen, until no doubt,
+          there is no more developments humanity alone will be capable
+          of realizing.
+        - present day applications of neokantian diffeomorphic
+          analysis of epistemic structures: the fields of
+          - patent data science (expand on patent data science)
+          - biotech investments
 
 - trichotomous
 
-- to the design of the system, second-order effects may be
+- (... segue) to the design of the system, second-order effects may be
   unintential, but can be critical to the system's intended function,
   whether its (participants or designers) are cognizant of those
   secondary effects. (especially true of less-formally defined systems
@@ -196,6 +283,7 @@ main outline
 
 ### These resources form a kind of Triumvirate
 
+- this and the definitions of resources need to be introduced earlier.
 - introduce the notion of triumvirate before/after discussing (..types
   in relation to other types)
 
@@ -208,6 +296,38 @@ main outline
   - similarly, there are fundamental differences between resources of
     each type.
 
+### Mandala Theory (X) Unified Ontological Theory of Governance
+
+- what does it mean for interactions between neighbors of various
+  types of governance systems?
+  - i am likely to compete with my neighbor, my neighbor is likely to
+    compete with me and it's neighbors, but to develop independence
+    from local resource constraints, then if i cooperate with my
+    neighbor's neighbors, i am likely to find that the adversary of my
+    adversaries presents useful mechanisms of influence in political
+    theory
+  - geopolitically and economically, how do these insights extrapolate
+    in the context of specific compositions for local governmental
+    systems?
+    - in the modern era -- especially that of the post-war era, how
+      did dominance over regional political interests lead to the need
+      to control the political thinking (and implementation) of entire
+      regions?
+    - can communism or extreme socialism ever be expected to succeed
+      in isolation? iran in the post-war era is perhaps a counterpoint
+      to the soviet union's extreme dominance over politics for
+      self-perservation.
+      - to the latter, was their need for regional dominance moreso a
+        practical necessity of ideology or an extrapolation of
+        Russia's need for influence over Eastern Europe and the Altaic
+        regions for geopolitical (reassurance) and security? whereof,
+        this need has been a common theme and motivating factor
+        driving Russian policy since the 17th century.
+
+- (back to mandala theory), consider the evolutionary trajectories
+  along this ontological space connecting forms of government
+  - combined with the specific influneces that neighboring &
+    hierarchical groups exert
 
 ### Capitalism? Democracy?
 
@@ -264,8 +384,9 @@ main outline
 
 - like a bee, leninists can only sting you once and they know it. so
   they run full-scale theatrics and
-  - they have to keep their party members engaged and feeling like
-    there's a purpose to the time they contribute.
+  - they need to keep their party members engaged because, as with
+    religions, if your followers have some kind of ""feeling like there's a purpose to the time they
+    contribute.
 
 
 - it's what them

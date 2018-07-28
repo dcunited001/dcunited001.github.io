@@ -8,6 +8,8 @@ author:
 excerpt: ""
 ---
 
+- ![Lucy/Bassnectar Video]()
+
 ### Terminology & Definitions
 
 - Consensus Reality

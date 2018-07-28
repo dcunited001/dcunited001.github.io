@@ -29,7 +29,100 @@ memories that give me something/anything to think about besides the
 abject isolation.
 
 ======
+another fb rant:
 
+Doesn't this sound crazy? it does, doesn't it! That's because it is
+#AbnormalSociology. People don't normally waste their spare time
+thinking about how to shut a loathesome person out and eradicate that
+detestable existence's #SocialMemory... Which is one of the few things
+i dependably comfort myself with: people have just been too busy with
+their own lives to bother with team sociopathy. why would they
+prioritize handling me?
+
+yet, over the past three years, who is left to pick up the pieces of
+my life? me. and i know i've contributed to my own problems and
+shirked on providing my own solutions, but poverty (financial &
+social) leaves you with no options and makes you #PREDICTABLE.
+
+i'm really not upset right now. i just get frustrated thinking about
+the games that some people play to keep me #DISCONNECTED. it's mostly
+that they don't want to be made uncomfortable by what i say. because
+no one has real answers -- other than the admittedly well-advised
+platitudes to avoid focusing on the sources of pain/disconnection/etc.
+
+however, after what happened to me two days before Christmas in 2017,
+it is #Irresponsible for me to seek less information regarding
+potential threats to my #Liberty and #PeaceOfMind.  **understanding
+how much effort that a small group of people really did put into
+evoking circumstances which CERTAINLY would have tormented me for
+YEARS: it greatly troubles me** I was the victim and no one ever
+acknowleded ANYTHING that i went through -- probably because:
+
+(1) it would be #Inconvenient for them to admit anything and (2) if I
+am so socially isolated, which the people who targeted me depended on,
+then **there are NO CONSEQUENCES because information related to my
+life might as well get sucked into a black hole inside another damn
+black hole.**
+
+I'm not so concerned about punishing the people who knowingly
+victimized someone they believed to be vulnerable because i KNOW that
+the people involved have varying levels of cognizance and that some of
+them do not deserve to get dragged down towards #DavidConner's own
+personal #NinthLevel of #DanteInferno (see the section on Dante's)
+
+======
+
+### Religious Institutions and Sociophysical Consensus
+
+- TODO: decide which section of SoT-postulates-12-20 this belongs in
+  - if not in the next section on "metrics and equilibrium"
+- for religious institutions in medieval Europe, the near-universality
+  of attendance allowed for efficient local propagation of
+  communication, yielding near-total 1&deg; "coverage" of the local
+  social network (connect to sheafs)
+  - this leads to weekly information distribution ("bidirectional")
+    with rhythm & guaranteed total coverage, for high-priority
+    communications.
+    - this reduces apparent uncertainty of receipt of critical
+      information (for high-priority comms, no need to receive an ack
+      to undertstand that if the message was critical it was
+      disseminated, esp. if it was delivered from the pulpit)
+      - or if the information had viral components
+
+- congregations still facilitate similar functions (for regular
+  attendees) but without most of the same guarantees of communication
+  distribution.
+  - this is one way that religious institutions have been capable of
+    (serving) the underserved: information about people, their
+    accomplishments and their hardships, is diffused into the
+    community by traditionalizing regular congregation of a community
+  - so even if someone is "sociophysically poor" then they have
+    regular (access) to groups of people (and simple expectations can
+    be made about when people are going to be together)
+    - and critically, these people adhere to a belief system
+      accompanied by a (well-recognized) system of morals/ethics
+    - information is diffused related to people's needs.
+      - (asking people to pray for those in need, etc)
+
+- to summarize
+  - regularity of ritualistic social interactions, where expectations
+    can be made about coverage of the social graph
+  - consensus to the degree that it's practical to make expectations
+    about consensus
+  - by adhering to a belief system, religious institutions hook into a
+    framework that provide conduits for social consensus. whether this
+    is intended or not, it works and provides massive benefits for
+    communities.
+    - but also, the influence conferred by these social conduits is
+      managed by those seen by the community to have moral authority
+      - as long as the followers adhere to rules established by the
+        belief system, then those who preside over these regular
+        congregations must be exemplary in their adherence to the
+        belief system
+        - and demonstrate value/accomplishments towards growth
+        - while also being teachers (...)
+
+### Notes on Intro
 
 - intro two this part with discussion on
   - (no, move this to a separate article)
