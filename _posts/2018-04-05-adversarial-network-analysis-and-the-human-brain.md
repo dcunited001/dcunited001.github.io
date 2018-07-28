@@ -125,19 +125,6 @@ misc
     on how experiencing first signs of MS might be percieved by the
     mind, since they are highly distinct from sensory input thus far.)
 
-### Cardio's Impact on Substantial Nigra, NaCHR, & Proximal Dopamine Regulation
-
-- how does cardio disrupt/impack the local/regional state of
-  dopamine/ion concentrations
-  - how far/fast do neuronal impulses impact ion concentrations in the
-    immediate vicinity?
-    - how quickly can repetitive impulses be expected to produce local
-      neuronal burnout? how is this local burnout regionally modulated
-      by feedback loops (esp those relating to ion/neurotransmitter
-      concentrations)
-  - the substantia nigra's impact on dopaminergic and cholinergic
-    systems is well-studied.
-
 
 ====
 

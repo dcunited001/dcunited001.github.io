@@ -72,6 +72,43 @@ personal #NinthLevel of #DanteInferno (see the section on Dante's)
 
 ======
 
+### The inherent computational potential by leveraging sociophysical networks
+
+- specific example: could organized gambling's potential to informally
+  quantity belief and, critically, trace paths/influence through
+  social networks?
+  - this is computation occuring purely in socially networked wetware
+  - if you identify how people change their position(s) as information
+    titrates/diffuses through social netwoks, then -- because the
+    highly recognizable signatures of novel information that
+    distinguish specific novel datums from frequently propagated
+    datums -- you could theoretically derive, informally, the capacity
+    for inference, propagation and novelty
+    - by leveraging as a protocol, natural human behaviors predicated
+      upon some claim(s) on beliefs
+
+### Repurposing natural biological systems as vehicles for biophysical computation
+
+- this has a fascinating intersection with the Gaia Hypothesis
+- Could natural biological systems, holding to particular assumptions
+  and under careful controls, be repurposed as frameworks for
+  computation that receive analytic informational representations of
+  numerical/analytical systems?
+  - this could, say, allow some biophysical system to produce learning
+    algorithms
+    - ... and isn't that exactly what evolution produced?
+      - the internalization of external form via sensory compelling
+        individual yet interconnected biophysical systems to
+        compartmentalized forms perfracted throughout their
+        environment.
+  - if humanity were to then emulate this process, it would merely be
+    intelligent life creating what would be at first semiintelligent
+    life.
+    - are specific examples where ancient cultures produced systems
+      using artificial configurations of natural biophysical systems
+      that were capable of detecting events?
+      - in th
+
 ### Religious Institutions and Sociophysical Consensus
 
 - TODO: decide which section of SoT-postulates-12-20 this belongs in

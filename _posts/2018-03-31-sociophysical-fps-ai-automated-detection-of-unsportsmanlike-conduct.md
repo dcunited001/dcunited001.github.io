@@ -20,6 +20,10 @@ excerpt: ""
   don't have a chance. however, it's not simply popularity that
   dictates which games are "cybersportable" and which are not.
 
+- in rts battles vs. AI, unpredictably insert new adversaries who
+  fight each other in a way which totally escapes the AI's control/notice.
+  - this (what...) hijacks computational complexity
+
 ### How Differences in the Computational Complexity of FPS Affects Stategy and Market Viability
 
 - the differences in computational complexity b/w Overwatch and
