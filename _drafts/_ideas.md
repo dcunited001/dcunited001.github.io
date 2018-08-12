@@ -113,6 +113,30 @@
 
 ===============
 
+- defeating the digitization of the mind: by disrupting the coherence
+  of psychological/sociological information systems by rendering the
+  following schematically inconsistent (i.e. incapable of embedding by
+  unifying schema)
+  - rendering socially distributed memories/neurological data as
+    inschematic
+  - rendering socially distributed information systems as
+    inschematic. that is, the information systems themselves that must
+    be encoded neurologically within our minds are disparate enough
+    such that embedding them in such format as to be indexable is
+    impossible
+- the intent here is to break the ability to index information from
+  the human mind by leveraging traditional psychosocial mind control
+  techniques early enough in anticipation of techniques that enable
+  the mind to be neurological read.
+  - then, once some adversary has the capability to "read" our minds,
+    it is both spatially and computationally intractible to index the
+    data that is read, which is full of so much inconsistency that it
+    is useless.
+  - this is, from a marxist materialist perspective, rendering those
+    internalized information systems as incogent & unreconcilable.
+
+===============
+
 effort to retain the possibility and existence of conflict or scarcity
 of resources in the future when it's not necessary.
 - the world could evolve into one that all but forgets conflict or
@@ -141,6 +165,7 @@ of resources in the future when it's not necessary.
   - (1) natural ability of someones brain to process information
   - (2) availability of information
 
+
 ==============
 
 
@@ -158,7 +183,6 @@ of resources in the future when it's not necessary.
 
 
 ===============
-
 
 ### Social Physics
 

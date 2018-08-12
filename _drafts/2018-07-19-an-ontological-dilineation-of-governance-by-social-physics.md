@@ -1,5 +1,5 @@
 ---
-title: "An Ontological Dilineation of Governance By Social Physics"
+title: "An Ontological Dilineation of Governance By Sociophysical"
 categories: "blog"
 tags: ""
 headline: ""
@@ -9,6 +9,12 @@ excerpt: ""
 ---
 
 ![Mr. Glass and Bruce Willis from Unbreakable]
+
+- consensus on policy, operations and interface (w/ public, governed,
+  etc)
+
+- summarizing many of my philosophical ideas in one word that
+  addresses and balances metamodernism: finalism
 
 misc
 ===========
@@ -228,6 +234,7 @@ main outline
 - explain how diffeomorphic analysis of spaces enables digital video
   processing, but also applies to any topological spaces, even the
   topology of the metaphysical.
+
 - (diffeomorphically, of the three configurations above), the
   viscosity of informational resources is the most interesting, from a
   neo-kantian perspective on epistemology. when the idea of kantian
@@ -278,8 +285,6 @@ main outline
   whether its (participants or designers) are cognizant of those
   secondary effects. (especially true of less-formally defined systems
   of governance)
-
-
 
 ### These resources form a kind of Triumvirate
 

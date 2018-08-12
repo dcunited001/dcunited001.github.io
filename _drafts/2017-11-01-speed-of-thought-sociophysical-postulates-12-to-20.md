@@ -70,13 +70,164 @@ the people involved have varying levels of cognizance and that some of
 them do not deserve to get dragged down towards #DavidConner's own
 personal #NinthLevel of #DanteInferno (see the section on Dante's)
 
+
+======
+yet another FB rant:
+
+some questions don't have answers; some questions shouldn't be asked;
+sometimes there's things that happen for which there is neither
+resolution nor restitution...
+
+but sometimes you wake up to a terrible curse that has haunted you for
+a decade, sucking your soul like #Azkaban #Dementors and pushing you
+further into isolation/vulnerability... and the cause of this perfect
+storm of social exclusion? no one can say, really. the only cause is
+social information that's spread into the wild and, although this
+information is incorporeal, a handful of people amplified its spectral
+content, so it would mutate into a self-perpetuating, sociophysical
+solitary confinement unit. almost no one appears to influence it
+... and if they did, who would know?
+
+my social boundary is constricted to minimize my connection to the
+outside world. there's no one with enough information about my life to
+understand what i've been through. it just so happens that 99.99% of
+people i meet will almost soon thereafter consume self-replicating
+information about my life, which drastically alters any
+decisions/actions that involve me.
+
+that's why this dark cloud that's followed me around has so
+effectively shut me out. it's a perfect storm of the average person's
+well-intentioned reactions to an abundance of social information about
+me -- over which i have no control. since my social boundary is so
+constricted, i also have no opportunities to influence the social
+memory about my identity in any meaningful way.
+
+To me, that is the definition of #SocialPoverty. Now mix in literal
+financial poverty -- i made less than $2,000 in 2015 -- and such an
+isolated person is now completely predictable because they have no
+options in life. The social & financial poverty cause someone like me
+to trust people they should not, since i don't have options and i
+can't afford to silo myself any further. Mix untrustworthy, predatory
+people with predictable vulnerability who have no options and
+someone's going to get used.
+
+Despite all this, I don't want to squelch out any remaining hope or
+optimism that at some point, I might find myself freely living in the
+same kind of life that everyone is supposed to experience. one that is
+normal. one where your character matters. one where your actions
+matter. one where people are rewarded for doing good and punished for
+not standing against evil. one where a small handful of people can't
+defame someone into a social hole so deep that by the time person
+crawls out, everyone they grew up with has already had their midlife
+crisis while that unfortunate social pauper is still piecing together
+the baseline experiences required complete post-adolescent &
+early-adult psychological development -- all while people criticize
+this person for being "try hard" and "not adulting good"
+
+
 ======
 
-### The inherent computational potential by leveraging sociophysical networks
+
+#### How causality is impacted by beliefs, disposition and general consciousness
+
+- (this may be good to move to an intro, possibly for SoT p3 or p4)
+  - if so, focus on specific problems related to propagating knowledge
+    and experience required to cultivate qualities of consciousness in
+    subsequent generations, (leaving us blind to the effects of (the
+    unperceived), our limits of conception and homogenous/constrained
+    experience)
+- people in sociophysical systems need to make inferences about
+  causality. 21st century technology is profoundly expanding the
+  potential circuit flows of information and resources. (ablation of
+  causality)
+  - the ephemeral structures that we reason upon contain abstractions
+    with elements both discrete and continuous; both deterministic and
+    unpredictably asynchronous (or stochastic)
+  - to operate consciously in a sea of sifting social games where the
+    exception is structure
+    - at tabula rasa, when we first open our eyes to society, our
+      minds are raised devoid of information; our consumption of it
+      bounded by what our minds can possibly consume, but again by
+      what our or (predecessors) yield to us.
+    - instead of tending to empower the next generation, they choose
+      to slowly titrate into society knowledge that unchains us from
+      ignorance: the proverbial sextant and compass of social
+      physics; the knowledge that enables us to see clearly life and
+      society's relationship with metaphysics.
+  - when do we begin to tune our sails in life and why do we so
+    optimistically retune them for decades before we realize: we were
+    born with nothing, raised only with what we're given and never
+    expected to understand how or why our psyche (awakened) to its
+    initial direction.
+
+    - ... (segue) we aren't forever bound by viral the informational
+      footprints of the (mistakes)
+      - in this tabula rasa state, the preexisting social distribution
+        of information implicitly filters the our local social graph's
+        information spectrum. though in the modern era seemingly all
+        branches of knowledge pervade human society, our minds remain
+        as germinated seeds that (fail to take root. teaching the
+        tools that expand consciousness -- especially those that
+        expand an individual's general social consciousness -- is
+        not encouraged and occasionally persecuted.
+        - "ergo cogito sum." I think therefore I am.
+        - To be self-aware is to have a degree of consciousness. To
+          self-awaken again and again, is to broaden your awareness
+          ... (finish this)
+    - (reword) we start at minimally conscious in a world that seems
+      to curtail early and unchecked expansion of the conscious mind,
+      in the psychological sense of widening awareness of the signals
+      at lower levels of the mind and first apprehending impacts of
+      unconscious impacting the mind.
+      - towards filtering, focusing and guiding people, crafting
+        mechanisms to harness unconscious influences is exceedingly
+        effective. until the mind expands the types of social signals
+        it processes, unconscious forces behave as UV light, which
+        produces intense blue light, but only upon flourescence a
+        secondary effect.
+        - this inherently convolutes the perception of causality when
+          (social) control mechanisms prioritize unconscious to
+          mediate their effects.
+      - as for the metaphysics of the unconcious and the abstractions
+        accumulated to model its invisible impacts, with respect to
+        individuals or groups, their enigmatic structure share more
+        than a resemblence to the ineffibly nuanced structures of the
+        uncountably infinite. this connection gives them a certain
+        lack of knowable form.
+      - some members of society are (far more conscious) than others
+        and its clearly possible for some to abstract, apprehend and
+        predict the impact of the unconscious.
+        - to this end, it is necessary to develop awareness of general
+          levels and qualities of consciousness for individuals and
+          groups. thus, this requires becoming conscious of
+          limitations to conscious processing of others.
+  - connect:
+    - how the distribution of consciousness and individuals
+      proficiency for testing for consciousness/cognizance creates a
+      general dynamic where a highly conscious person that is well
+      connected, can (invisibly) influence the lives of less conscious
+      people in their social network, should they choose to. the
+      causal impact of these actions is almost completely unknown to
+      those experiencing disruptive effects.
+    - obviously, that's only possible if the dominant person has
+      connections/resources/etc
+
+  - in summary, why should we be damned from birth to be controlled by
+    forces we can't understand because people around us wanted us to
+    be unconscious to such useful/undetectable/untracable vectors.
+    - is it wrong to desparately want to understand life, so you can
+      protect yourself from forces no one helped you understand?
+    - is it so wrong to want to help people escape this gravity that
+      binds us down to delicately crush our spirit, having sucked the
+      color from our dreams, to render subjugated those who broke
+      early while consuming the rest.
+
+
+### Harness inherent computational potential by leveraging sociophysical networks
 
 - specific example: could organized gambling's potential to informally
   quantity belief and, critically, trace paths/influence through
-  social networks?
+  social networks be leveraged as a giant sociophysical computer?
   - this is computation occuring purely in socially networked wetware
   - if you identify how people change their position(s) as information
     titrates/diffuses through social netwoks, then -- because the
@@ -86,6 +237,26 @@ personal #NinthLevel of #DanteInferno (see the section on Dante's)
     for inference, propagation and novelty
     - by leveraging as a protocol, natural human behaviors predicated
       upon some claim(s) on beliefs
+    - focus on the level of control required for any assumptions
+  - as a late-19th century sicilian mobster, can you try to compute
+    some piece of information by leveraging your gambling network?
+  - gambling on 2016 election
+    - spreads and other constructions of gambling scenarios; how this
+      correlates into more information.
+
+- this is essentially leveraging a social network as a [prediction
+  market](https://en.wikipedia.org/wiki/Prediction_market) with
+  emphasis on interacting with the network to compartmentalize the
+  distribution of information as to maximize the network's ability to
+  compute & predict
+- connect to [darknet market
+  gambling/speculation](https://motherboard.vice.com/en_us/article/gy35mx/ethereum-assassination-market-augur)
+  on Augur, blockchain for prediction markets
+  article
+  - also, [Forbe's
+    Article](https://www.forbes.com/sites/oliversmith/2018/07/31/crypto-gambling-leaves-regulators-in-the-dark-as-blockchain-bets-are-placed-on-trumps-murder/#16e636ef725c)
+
+
 
 ### Repurposing natural biological systems as vehicles for biophysical computation
 
@@ -107,7 +278,30 @@ personal #NinthLevel of #DanteInferno (see the section on Dante's)
     - are specific examples where ancient cultures produced systems
       using artificial configurations of natural biophysical systems
       that were capable of detecting events?
-      - in th
+- for learning to occur in spatially confined 3D structures, the
+  higher-order structures must network and interconnect themselves
+
+### Systemic Macroeconomic Impact of Actuarial Sciences on Individual Industries?
+
+- similar to understading the impact of forex dynamics on
+  macroeconomics of local/regional economies, how do insurance
+  products and the inevitability of insurance offerings for product
+  types and industry types both affect those products/industries?
+  - can some generalities be extracted to understand how insurance
+    products might affect any product or industry, given the
+    supply/demand/pricing/etc dynamics of that industry?
+  - again, similar to forex, insurance products tend to cause
+    large-scale macroscopic distortions of
+    corporate/economic/financial systems that relate to any given
+    product/service/industry?
+    - who do insurance products tend to benefit? The product
+      providers? consumers? actuaries?
+    - Generally insurance products mitigate risk or assuage the
+      concerns of those who believe they are at risk.
+    - when do insurance products become profitable enough to be
+      financially plausible? this depends on the specific
+      product/service at hand and the confidence in the actuarial
+      methods of data backing insurance products.
 
 ### Religious Institutions and Sociophysical Consensus
 
@@ -1943,6 +2137,8 @@ information.
       expectations of deviation from that consensus require
       justification/explanation)
 
+#### Socioepistemic Structures: Distribution, Consensus, Amplication Causal Minutia and Impact on Social Circuits
+
 - the projection of epistemic structures into society (esp logistic)
   - distributed programs and social physics
   - amplication of information (X) confidence in the current/future
@@ -1951,6 +2147,11 @@ information.
       our actions
     - if information hasn't been distributed yet, but it likely will
       be, it will affect our current actions
+
+
+#### Beliefs About Information Consensus Leads to Amplification of Beliefs
+
+  - (maybe reorder this & following sections)
   - how the recognition & acknowledgement of information consensus
     amplifies (probabilities of types of actions/reactions by agents.)
     - deciding what information to propagate (bandwidth constraints)
@@ -2011,6 +2212,8 @@ information.
               then as that employee becomes more cut out of the loop
               and has more responsibilities/roles limited, they have
               less opportunities to change those expectations.
+
+#### Wu Xing
 
 - signaling with Wu Xing (actual name of this?) in the Imperial Palace
   - there should be notes on this somewhere, but it's a perfect

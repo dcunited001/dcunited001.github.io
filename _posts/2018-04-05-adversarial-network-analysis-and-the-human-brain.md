@@ -125,10 +125,24 @@ misc
     on how experiencing first signs of MS might be percieved by the
     mind, since they are highly distinct from sensory input thus far.)
 
+====
+
+- Neuroanalytic impact of sensory imagery in the functioning of
+  neurological manifestations of analytically approximated algorithms
+  - the impact of a stead spatially-locked image in centering the mind
+    with respect to the neurologically encoded state necessary to
+    maintaining balance in a handstand
+  - this seems a little frivolous, so make an analogy to other
+    algorithms with and without such "locking/centering" imagery,
+    which (in an informational sense) reduces the uncertainity of the
+    system via calibration to that sensory stimulus by collapsing the
+    possibility space
 
 ====
 
 - concept of salience from neurology
+  - where/how should this term be applied to simplify expressions in
+    this article and in my writing?
 
 - "analytic neurology" and neuro-lingusitic programming
   - why do the techniques of NLP exhibit their specific effects on our
@@ -281,8 +295,103 @@ misc
       systems
     - correlate this to transcending the limitations of analytic
       philosophy
+  - the usage of the word "disentangled" in Marcel Proust's "Swann's
+    Way"
+
+### Cause of Persistent Hallucinations After Psychedelic Trips
+
+- the same thing can be caused by using mid-quality VR Content where
+  frustum parameters are distoorted in a *distinctly unnatural* way.
+  - doing so, especially with VR, requires high-levels of BDNF to
+    cause neural entworks to attempt to generalize their own new
+    frustum parameters, when before, the need for any parameterization
+    of frustum whatsoever was unnecessary
+    - that is, before any such experience that violates the
+      universiality of the anatomic frustum which has sufficed for
+      one's entire life, there is no need for neural networks to
+      parameterize the aspects of frustum inferred for reconstructing
+      ocular stereoscopic imagery
+  - but as soon as one experiences stereoscopic imagery which requires
+    the inference of dramatically altered frustum in order to
+    reconstruct said imagery, then neural networks respond to the
+    dissonance by attempting to generalize this notion so that the
+    frustum parameters can be generalized.
+    - when there are sufficient neurotrophic factors like BDNF in the
+      synaptic context of the regions relevant to visual processing,
+      then adaptations of the neural circuitry can occur.
+    - if the synapses are pliable enough during these experiences --
+      which were starkley incogent to the axiomatic analytical
+      assumptions of any previous experience known to those neural
+      networks -- then those neural circuits networks can internalize
+      and persist the novel parameterizations.
+    - in the case of psychedelics and visual processing, this can
+      result in permanent distorions of certain patterns of visual
+      input, since given the *DUAL SPACE* of that input pattern's
+      cogency with sets of frustum paramters, the mind must allow
+      itself to experience that visual input as though all valid
+      possibilities in the possibility space were true.
+      - thus: visually distorted imagery.
+  - this concept is similar to the subtle psychological/neurological
+    differences between those who can see the 3D in a magic eye poster
+    and those who cannot. The difference is that the inferred frustum
+    of the 3D imagery is moreso generalized than for Magic Eye posters.
+
+- so, basically, during psychedelic utilization, the neural networks
+  begin processing/forwarding information which completely violates
+  any schematic assumptions, for which those neural networks held
+  processed input to be universally consistent with all previously
+  known input.
+  - this inschematic input acts analogously to machine-learning
+    training data of an ontologically distinct order.
+  - because, during psychedelic utilization, regions of the brain are
+    also in a more neuroplastic state, then this distinct, dissonant
+    training data forces the concurrently flexible neural networks to
+    adapt by generalizing to the newfound *DUAL SPACE* via
+    parameterization.
+  - to the analytical nature of neural networks, the probabilities of
+    occurances similar to the erroneous input are no longer
+    infinitessimal. thus, the analytic models reified by the structure
+    of the neural networks must forevermore account for those fleeting
+    observations which shattered any preconceived axiomatic notions of
+    reality's possibility space.
+
+### Connect the Above To Authentic Transformative Spiritual Experience
+
+- the above ideas only touch on the experience of the visual, the same
+  resounds as true for any experiential information processed by
+  neural networks in the brain.
+
+- how the experience of an authentic transformative spiritual
+  experience ... if it is "allowed" to reverberate through society,
+  impact societies socioinformational circuits in a similar way.
+  - to society, such the reverberations of such transformative
+    spiritual experiences are similar in effect to the experience of
+    love for the individual (according to my explanations below)
+    - in that, to have one, individuals in society must be
+      analytically overdetermined and primed to experience something
+      relevatory that resounds of "the next level"
+    - once a member of society has experienced something that
+      viscerally breaks the overdetermined schema of known-experience
+      and known-experience types, then they are forced to reconcile
+      this difference between the relevatory aspects of this
+      inviolating experience with that (of society's condition) by
+      embarking on a quest for truth.
+      - piece by piece, as propagate the components of such new truth
+        as is required to reconcile their transformative spiritual
+        experience, then individuals in society are transformed
+        themselves, as receipt and forced examination of these pieces
+        of information shatters their own worldview, previously
+        subconsciously held to be overdetermined and now suddenly
+        revealed to be inadequate.
+
+
+
 
 ### And from then everafter, the phrase "we shared a moment" was never the same...
+
+- literal statistical moment's (esp. skew)
+  - the higher the moments that are "shared" the more resounding the
+    implications are for individuals who share moments.
 
 - bridging analytical psychology to neurology
   - covering ideas form analytical psychology at the level of neurology

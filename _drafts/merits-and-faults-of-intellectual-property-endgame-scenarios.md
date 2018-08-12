@@ -56,6 +56,22 @@ international agreements. The seeds of this trend can be seen in
 holdings companies today for patents, *some* of whom you might call
 patent trolls.
 
+- in such situations, as the corporate entities begin to conglomarate
+  and converge into organizations with tighter distribution of
+  decision-making authority:
+  - there will be much less uncertainty to the average person or to
+    any corporate decision-maker with regard to how those fewer and
+    fewer elite will make their decisions.
+    - this is because it doesn't matter who the specific stakeholders
+      are -- board members, c-level execs and owners -- they will all
+      act similarly with regard to the specific decisions they make.
+      - thus the amount of uncertainty remaining that defines the
+        "possibility space" surrounding their range of potential
+        actions coalesces and becomes far more deterministic
+      - this is called FATE
+  - therefore, the system will reach a state where it begins to race
+    towards a final IP-distribution engame scenario.
+
 There is some set of companies that own and license a ton of patents
 out there. These companies and their holdings represent a distribution
 of IP. There are some distributions of IP which would be very
@@ -221,6 +237,9 @@ above and rigorous academic performance to stay on top.
 The unicorns are dying, folks. Keep your fingers crossed, but Facebook
 was a fluke.
 
+[These Corporations are the Walking
+Dead](https://www.wired.com/2015/10/meet-walking-dead-hp-cisco-dell-emc-ibm-oracle/)
+
 <a name="machine-learning-for-x" />
 
 ### [Machine Learning for X](#machine-learning-for-x)
@@ -256,7 +275,7 @@ market viability and competition, competing business models, the state
 of intellectual property distribution, etc. It requires mastery of
 advanced mathematics on top of a rigorous understanding of the
 specific machine learning application, in combination with business,
-legal, networking and financial skills.
+legal, networking and financial skills. (and public relations)
 
 That's just the technical baseline for opportunities machine learning.
 All of that applies, and more, for the opportunities in finance,

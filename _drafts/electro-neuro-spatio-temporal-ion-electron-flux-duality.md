@@ -11,7 +11,6 @@ excerpt: ""
 - TODO: connect to article on hypnosis and Kantian category collapse
 
 
-
 ### Cardio's Impact on Substantial Nigra, NaCHR, & Proximal Dopamine Regulation
 
 - how does cardio disrupt/impack the local/regional state of

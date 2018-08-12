@@ -15,7 +15,8 @@ excerpt: ""
 - Consensus Reality
   - equate, differentiate from, and clarify the following
     - epistemic structure
-    - information system and the structures thereof
+    - information system and the structures th
+    ereof
 
 - delineate typological/onological and replace where necessary
 
@@ -70,6 +71,7 @@ excerpt: ""
 
 - how to reorganize the concepts before the ToC below?
   - to maintain continuity, while captivating attention
+
 
 ### (Dominance over the) Metaphysical
 
@@ -238,6 +240,7 @@ excerpt: ""
 
 ### Semioteleology and information systems
 
+- (segue? from complexity of social... ?)
 - therefore, there is a problem of decidability in probabilistic,
   semioteleolgical system.
   - decidibility in computer science, for deterministic programs
@@ -333,9 +336,95 @@ excerpt: ""
   - how does this relate to the distribution of attention and the
     absorption/retention of information?
 
+### The Socially Unconscious Impact of Unstated Objectives in Informational Conflict
+
+- people have intent as to the distortions/mutations of social
+  informational systems that will lead to ideated, reified components
+  of socioinformational systems.
+  - They will often resort to lies to achieve these informational
+    ends, since they assume that the behavior of individuals within
+    some social situation is bound to the information those
+    individuals process.
+    - therefore, model some individuals decision-making processes,
+      distort the information available to them, seal away the
+      informational alternatives from the social context, and if your
+      models are accurate, people will make decisions and take actions
+      that you predict.
+    - but, in order for any of this to work, you have to ensure that
+      all information available in that social context is
+      compartmentalized by default and that there is no totally free
+      exchange of information: in other words, you don't want a bull
+      in a china shop because that bull is going to break all of your
+      precious socioinformational compartmentalization.
+
+#### But The Truth Will Set You Free
+
+-(cont. from above)
+- these people that work tirelessly towards the maintainence of their
+  socioinformational compartmentalization become slaves to their
+  all-but-socially-unconscious informational objectives:
+  - their distortions, their omissions, their outright lies.
+- they lose themselves to the maintainence and upkeep of the
+  misinformation, which they ascertain will cause other individuals in
+  the social context to act in service of their goals.
+  - In much the same way that their models of individual's socially
+    relevent re/actions are useful for prediction, they themselves
+    become almost-deterministically *programmed* by their intended
+    distortions, which remain as socially unconscious influences to
+    everyone else.
+  - In this way, they become slaves to the service of the
+    misinformation they believe will cause others in their social
+    domain to unconsciously bend to their will. For, even if the
+    impact of their informational objectives remains compartmentalized
+    within the individuals who wake up to the misinformation (and
+    thus, social participants remain individually conscious and
+    socially unconscious), then, so long as the promulgators of such
+    misinformation themselves remain socially unconscious of select
+    individuals newfound cognizance, then they themselves will remain
+    predictably in service of said misinformation.
+  - Like objects in motion, with no forces acting on them to impact
+    their momentum, these liars and half-liars will continue drifting
+    along such a requisite trajectory as is determined by their need
+    to deviate from the truth or act as truth's artificers via
+    outright fabrication of information, for however long they
+    continue to believe such informational distorions will service
+    their ends. Why wake them up? But why place such a game at all,
+    when the truth is on your side?
+  - so, basically, as long as you don't burst their bubble and so long
+    as they don't become cognizant to your cognizance, then you can
+    manipulate them with their very own attempts to manipulate you and
+    the others around you with misinformation. for they will continue
+    to chase their own goals of fabricating and unveiling the
+    information they require to pursue their objectives. if you are
+    successful in such a regard, they are actively and intentionally
+    the liars and fabricators, who might have the upper hand at the
+    moment, but whose reliance on information artifice will drain them.
+  - however, if you or these people were strong enough to have no need
+    for falsehood or artificially fabricated information, then you
+    would be free from the need to chase such informational
+    objectives. Thus, it is the truth that sets you free because the
+    truth is what it is and needs no such upkeep.
+
+#### "All Roads Lead To Rome"
+
+- an example of the above: when someone has a need to paint a target
+  as crazy, then in almost any situation or component of a situation
+  handed to them they will seek to remap it to their own ends
+  - the usage of the word "remap" is intended to evoke undertones
+    involving category theory.
+- they need to discredit you and want to do so by having everyone the
+  target comes into contact with believe that he/she is mentally
+  unstable and/or insane,
+  - so, while they will avoid moving towards the objective when doing
+    so would precipitate conflict, any time they can get away with it,
+    they will generally nudge individuals towards consuming the belief
+    that the target is insane
+
+#### Intended Compaction/Embedding/Compartmentalization of Socioinformational Diffusion
 
 
-- aetiology
+
+- (socioinformational) aetiology
 
 ### Epistemic Mitosis
 
