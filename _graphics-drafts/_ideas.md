@@ -17,6 +17,82 @@ title: "Graphics Ideas"
 
 - calculate/display curvature and d-curvature on surfaces
 
+# Social Physics
+
+### Calculate Physical Distribution of Attention in a 3D Scene
+
+- this is basically a heat-map for the quantity of visual attention
+  being directed at objects by visually aware objects
+  - IRL: these are people;
+  - in simulations: these are enemies, NPCs, objects, etc
+  - people usually focus their visual attention onto the surfaces of
+    objects, not to the space itself, because that is not what is
+    scene. some exceptions are valid (e.g. to guard some ranges of
+    space as a goalie in soccer, you might focus on people entering
+    that space or the ball entering that space)
+- Aggregate a Sum over Depth Shaders for Surfaces in a 3D Scene
+  - Run depth shader calculations for multiple cameras in a scene
+    - examples:
+      - 3D models around a dinner table or still life scene
+      - a flat concert venue
+      - a raised ampitheatre
+      - an open market or downtown area, where the people on the
+        outside can't so easily see all the spaces inside the
+        store/cart (like behind the counter, etc)
+    - there are spaces that tightly restrict the likelyhood that
+      someone would attain visual information from them, without
+      taking prerequisite actions that signal intention/effort.
+      - e.g. the space behind the counter at a store, etc, etc.
+      - this is a design consideration behind the physical layout of
+        these spaces
+  - Attach the 3D position of that rasterized pixel's to another color
+    attachment, so the depth shader corresponds to the 3D space in a
+    way that can be unified with other depth shaders generated in
+    overlapping space
+  - aggregate the values for 3D surfaces for each of the dozen or so
+    depth shaders into one sum that represents the distribution of
+    visual attention or focus onto 3D objects in a scene.
+  - onto a render of the same source scene, layer a colorized
+    representation of the visual attention distribution
+    - red would signify areas of high magnitude shared attention
+    - yellow/green etc show medium potential shared visual attention
+    - blue would show areas that have a low amount of summed visual
+      attention from the intelligent objects in that scene
+  - such a shader can not be assumed to function in realtime, but can
+    demonstrate visually the concepts of "shared attention" that i'm
+    trying to convey in my writing.
+    - that people predicate their actions on inferences from this data
+      in real-time, emphasizes how computationally powerful people
+      are. Even the most blazing current gen hardware butts up against
+      serious limitations in even rendering this data, simply. These
+      are renders that require what is essentially a depth attachment
+      and must be aggregated later. The computations can be simplified
+      somewhat by sampling methods for 3D surfaces and the simple
+      non-reflective ray-tracing required, yet still, it is hard to
+      imagine how to get current-gen to predicate actions for
+      intelligent objects based on some objects inferred construction
+      for the distribution of visual attention.
+    - such information is easily accessible for any human and is
+      required for decisions/actions like:
+      - can i show this to someone else in the same social setting and
+        have only the people intended be the ones that receive that
+        visual information? it's easy for people to think this through
+      - in a social situation with a hundred or more people, where are
+        the maximums of shared visual attention (i.e. there's a
+        concert stage, but i can't see it yet, but i can see nearly
+        everyone aligned in the same direction and can infer what
+        might be in that space)
+      - of course, for the above, the human brain can leverage/combine
+        alternative signals/methods to make inferences. it does so
+        subconsciously and with the drawback that it cannot be so
+        confident in its conclusions or certain about relative values.
+        - computers aren't so flexible in this regard.
+        - so assuming that the method of illustrating the distribution
+          of shared attention is the only means if calculating it,
+          inferring it or drawing conclusions from an approximation of
+          it would be a mistake, since there are most likely more
+          efficient routes computers can use to reach the same
+          conclusions.
 
 # Statistics and Machine Learning
 
