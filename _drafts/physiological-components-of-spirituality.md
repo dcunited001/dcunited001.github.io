@@ -5,6 +5,12 @@ title: "Physiological Components of Spirituality"
 
 - mention glitch mob video as an example of imagery of meditation
 
+### Where Pop locking Intersects with Ancient Kalisthenic Methods for Developing Energy Chi
+
+
+
+========
+
 # General Introduction
 
 There is a higher-order energy field that surrounds your body,
