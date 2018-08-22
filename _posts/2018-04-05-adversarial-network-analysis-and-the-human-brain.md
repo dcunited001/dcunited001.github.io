@@ -127,6 +127,132 @@ misc
 
 ====
 
+- why are tastes & smells far more strongly coupled to memory
+  formation/activation than other senses?
+  - the basis for the answer is not purely psychological or
+    neurological, but rather informational. as Socrates expounds in
+    the latter books of the Republic, the interfaces between the human
+    mind and each sense is phenomenologically distinct. we hear what
+    is close, but can see all that is not directly occluded. we
+    control the volume, tone and even the direction of our voice to
+    modulate the radias of the elipse enveloping people we intend to
+    signal to. in our experience of the visual, anyone's body occupies
+    proportionally equivalent area in our visual field that we occupy
+    in their visual field. If a reflection permits some portion
+    someone's body, then they can likely see our reflection. If any
+    reflection carries in its image an eye, then there is a ray that
+    can be traced from our eye to theirs.
+  - however, upon analyzing each sense's signal quantitatively for the
+    range and variance in forms represented by sensory signal --
+    taking into account how the images are composited into a single
+    stream of sensory data that our mind processes for each -- then
+    one finds that smell and taste are profoundly distinct,
+    *informationally*.
+    - in dogs, olfactory signals implicate the point of origin and
+      trajectory for gustatory images composited into the signal,
+      calculated by comparing timing of signals along with the
+      spatiotemporal components of olfactory receptor activation.
+      - more plainly, a dog can track multiple scents, traveling from
+        various directions because its mind is utilizing the
+        arrangement of olfactory receptors to infer more information.
+      - though dogs as a species are epigenetically tuned to produce a
+        greater variety of gustatory receptors and can thus
+        distinguish between a far greater array of scents, their minds
+        also process a greater range of olfactory signal and enough
+        such that spatiotemporal inferences can be made
+      - dogs can easily navigate towards the gradient of an incredibly
+        faint scent because they process this spatiotemporal
+        information indicating direction, timing and magnitude of
+        components of olfactory signal.
+    - humans lack the diversity of gustatory receptors, but more
+      critically the quantity and anatomic form that enables such
+      spatiotemporal inferences to be made with scent. So, this
+      creates (qualitative and quantitative differences) in the
+      gustatory information that the cranial nerve preprocesses as it
+      carries that signal (into the Thalamus)
+    - if the spectral & representational differences between olfactory
+      functionality provided to dogs and humans is significant, then
+      differences of a similar nature but far greater magnitude
+      present themselves when comparing representations of form
+      encoded into human sensory signal with those representations
+      found in olfactory signal.
+      - that is, especially for vision and hearing, the spectral range
+        of encountered representations is far greater, the clustering
+        of (perceived representation: ~qualia?) around the recognized
+        representation is distributed with more variance/skew and the
+        perceived representations are all classified in a tightly
+        interconnected space of perceiveable forms.
+        - dilineate perceived/recognized representation (where the
+          latter implies the form that the subconscious classifies
+          similarly to computer vision algorithm)
+      - moreover, there are sources of bias in
+        quantity/quality/expression of perceived visual and auditory
+        signals.  particularly, the primarily mechanical complexity of
+        signaling artificially constructed forms within sensory data
+        profoundly impacts the phenomenology of each sense, distinct
+        from sense to sense.
+        - the mechanical complexity of generating olfactory signal
+          means asserting confidence in authenticity of the stimilus
+          is computationally simpler, extrapolating *accurately* to
+          insights associated with the stimulus.
+          - in probabilistic systems, this almost-inherent
+            authenticity is incredibly useful because you can be
+            almost certain that infrequently perceived olfactory forms
+            are authentic, since they typically require natures
+            dominance over organic chemistry to be present whatsoever.
+        - further, specific olfactory forms are tightly bound to their
+          contexts and such context are likewise tightly bound to
+          interconnected olfactory stimuli types.
+        - salience of sensory stimuli is another quality that shapes
+          and skews the distributions of recognized forms carried by
+          sensory signal: recognizing some forms within sensory data
+          can require attention or strongly impact our utlization of
+          it, skewing what our mind perceives. this varies from sense
+          to sense
+    - informational aspects of signal for each sense shapes how our
+      mind extracts forms from them. various metrics associated with
+      the spectral and representational aspects of sensory data
+      strongly affect the basis for *clustering* forms in the
+      high-dimensional space of neural networks. a perceived form,
+      after being classified by deeper layers of sensory processing,
+      triggers neural activations that mimick clustering algorithms,
+      which sparsely encode cluster membership as recognition of
+      represented form.
+      - because mechanics of clustering depends so strongly on the
+        informational aspects of senses, processed individually and
+        concurrently, this quantiatively impacts the basis for
+        indexing, associating and interrelating recognized forms.
+        - in other words, if the mind were to index smells that it
+          recognized, how would it do so logically, informationally,
+          neurologically? is it quantitatively easier to do so for
+          olfactory data, visual data or auditory data?
+    - several primarily informational aspects of specific senses
+      contribute to their strong/weak activation:
+      - (1) the set of associated experience contexts in which the
+        form has been recognized and associated with
+      - (2) the quality of inferences extrapolated from the
+        recognition of a form.
+        - specifically, inferences can be made with near certainty
+          profoundly simplify extrapolation in probabilistic systems
+          -- especially those constructed algebraically from graphs,
+          involving sparse signals. this is because you can assume the
+          probability of some event types is `p(e) >= 0.99` and thus,
+          for "adjacent" events, it is extremely unlikely that the
+          correlated inference does not hold. moreover, *any* insight
+          with a basis of certainty lends itself to deductive
+          inference ... for free!
+      - (3) the "quantity" of recognizable or distinguishable forms
+        (in machine learning, a parallel would be the quantity of
+        neurons/nodes in the uppermost layers of neural networks)
+        - the informationally derived phenomenological differences
+          amoung the senses drastically alter the structure of neural
+          networks that emerge around them.
+        - this has a huge impact on the formation, association and
+          regulation of neural circuits built on top of the sensory
+          processing streams (that converge in the thalamus?)
+
+====
+
 - Neuroanalytic impact of sensory imagery in the functioning of
   neurological manifestations of analytically approximated algorithms
   - the impact of a stead spatially-locked image in centering the mind
