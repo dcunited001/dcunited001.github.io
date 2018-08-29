@@ -8,6 +8,71 @@ title: "Physiological Components of Spirituality"
 ### Where Pop locking Intersects with Ancient Kalisthenic Methods for Developing Energy Chi
 
 
+### Wierd meditation techniques
+
+#### Zazen w/ visual occlusion
+
+- to be combined with zazan meditation (eyes fully relaxed, not
+  closed not open), perhaps with the vision partially obscured by
+  grid-like occlusions that let "some light" in
+  - in this manner, coerce your third eye to rectify the ablated
+    left and right images,
+    - *just* like you would focus your eyes at a particular depth,
+      causing the stereoscopic image to congeal into a 3D image.
+    - this is causing your mind to make sense of image data that
+      doesn't make sense. it's just noise, with a barely discernable
+      pattern (the 3D stereoscopic image you'd normally see, but
+      scrambled with noise, injected just like gaussian noise in
+      machine learning algorithms)
+    - my forcing your inner sight to rectify this obscured image, you
+      should be able to hack/trick your mind into activating these
+      modalities
+    - if you do it right, some non-sensical image will "snap" into
+      resolution and you will hallucinate not unlike with
+      psychedelics, although without the psychotropic side effects.
+  - one way of stating the goal would be provoking a "magic eye" type
+    image, though the image will be more assymetrical, irregular and
+    amorphous.
+    - unlike magic eye, the images aren't actually counterparts of
+      each other, so your mind has to work harder to stitch them
+      together, it's harder to persist the combined image, but because
+      of the disparity, it becomes amorphous and slightly moving.
+    - however, you can't move your eyes whatsoever or the image falls
+      apart
+    - also, in bright light (shielded by whatever is occluding your
+      vision) the cones/rods start to wax/wane at different rates
+      depending on the specific levels of light that break through the
+      occlusion.
+      - this causes a lot of the amorphous, slow-moving effects, but
+        if it happens while your mind has the image stitched together
+        and with zero eye movement, then it results in interesting
+        effects. once your mind is mentally in a meditative state, it
+        should feel like you "zoom into" the illusion.
+
+#### Ohmming vibrations
+
+- use long low-frequency ohm sound as basis,
+  - notice that, as you slowly move your tongue or allow you teeth to
+    transfer the vibration up towards your skull, you're channeling
+    that vibration into different regions of your skull
+  - when the constructive overtones of the "ohm" sound overlap, you
+    can feel various regions of your inner skull resonate.
+  - focus on the "spectral laplaction" -- i.e. can you hear the shape
+    of a drum" -- try to learn how to channel the vibrations to
+    specific areas of your skull intentionally
+  - let this be the focal point of your medition.
+    - combine this motion of the resonant focal point with the motion
+      of your chi from the chakra's in your head
+  - just focus on feeling the resonance ebb in and out
+    - if it is at all possible to actually cause the fluid around your
+      inner skull to vibrate intensely with your ohming, then this
+      should randomize fluid concentrations in those areas (it's
+      impossible to know)
+    - of not, it's a very interestting focal meditation
+  - "move" the area of focus around,
+  where the vibration as though the constructive overtones of the
+  sound
+
 
 ========
 

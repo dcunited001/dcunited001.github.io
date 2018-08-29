@@ -827,14 +827,14 @@ water/supplies would only be dispensed to those friendly to the trade
 network. building these structures gives you an economic advantage
 before access to maritime trade routes.
 
-with aqueducts, romans could position cities and forts in more
-central, easily defended areas that depended on roman
-infrastructure. similarly, these extended settlements and trade routes
-would be more difficult for enemies to compromise. at the time when
-these were initially built, anyone pushing too far into your territory
-would likely run out of supplies. if any these ideas are on the right
-track, then there should be more architectural evidence around the
-smaller sites at higher elevations. specifically, pottery.
+(already used: with aqueducts, romans could position cities and forts
+in more central, easily defended areas that depended on roman
+infrastructure.) similarly, these extended settlements and trade
+routes would be more difficult for enemies to compromise. at the time
+when these were initially built, anyone pushing too far into your
+territory would likely run out of supplies. if any these ideas are on
+the right track, then there should be more architectural evidence
+around the smaller sites at higher elevations. specifically, pottery.
 
 - also could be a game trap, though why are they all constructed
   pointing towards the increase in gradient?
