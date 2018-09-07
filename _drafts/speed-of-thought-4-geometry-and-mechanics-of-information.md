@@ -324,6 +324,48 @@ excerpt: ""
   to identify "longer" and more distant pathways for inferences
   - the types of "inference" pathways are more varied and less typical
 
+  - metrics of n-dimensional "volume" of cliques in activations of an
+    intelligent individual's information/knowledge graph
+    - the more intelligent a person, the higher-dimensional the
+      cliques will be that represent activations of their
+      information-graph
+    - whereas less intelligent individuals will stop...
+      - one major downside to the more profound tools of
+        meta/cognition is that they cannot be readily explained -- to
+        the point of nigh ineffability
+      - this is a major problem for intelligent people
+    - this is
+
+    - critically, such (savants of metacognition) are able to
+      modularly compose together many such activations to validate the
+      same hypothesis/assertions. this vehicle of metacognition allows
+      them to slice through ambiguity, intentional duplicity,
+      uncertainty, etc.
+      - there is paradoxical fallability in all artifical information
+        systems -- those which are constructed within the confines of
+        the marxist dialectic and its materialist impositions.
+        - this paradoxical fallibility implies: **there is always some
+          disinformation in information which has materialist
+          origins**
+        - the only information which does not have such inherent
+          fallibility is universal knowledge -- which transcends
+          time/space, but can be modularly combined for processing
+          with materialistically-derived information.
+        - still, no such universal knowledge can ever be fully known
+          or realize. aside from the recursive kernal which generates
+          the rest of its structure, the universal knowledge itself
+          quickly transcends humanity's limits of computability
+    - when combined with generalized inductive reasoning at the
+      meta/cognitive levels, this ability to modularly compose
+      multiple neuroanalytical pathways to validate the same
+      informational assertion is powerful, but taxing in terms of time
+      and energy.
+      - lower-dimensional activations of an individuals
+        neuroanalytically-constructed information graph are *always*
+        more efficient, but also more versatile, producing more
+        robustly assertable hypotheses for the individual to validate.
+      -
+
 - intelligence as the ability to identify/follow/etc longer paths
   through information networks/graphs
   - most people would find these longer paths and complicated graph
@@ -335,6 +377,35 @@ excerpt: ""
   measures of speed, certainty, etc can be developed
   - here, time can be defined literally or the number of cycles some
     entity might require to make the inferences or connections
+
+=========
+
+- digression from metrics of graph-actiations meta/cognitive
+- however, since **the human brain is analytical machine and one which
+  processes quantum-information systems, our powers of imagination, as
+  methodically applied to abstraction, vastly outweigh that produced
+  - <digression>*BY THE WAY EVERYTHING BELOW IS TRIVIAL KNOWLEDGE FOR
+    MATHEMATICS __PHDs__ so therefore DOES NOT CONTAIN
+    GODDAMN TOP-SECRET INFORMATION YOU SHIT-DICKS*
+    - to those who would seek to cover up warcrimes against a
+      would-have-been Einstein, stop terrifying everyone around me
+      from listening to me by baselessly claiming i have access to
+      top-secret information. i don't have access to anything which
+      cannot be found on Wikipedia, Elsevier, or Sci-Hub</digression>
+  - if i were to be wrong on this, then computers would have
+    cracked the greatest mathematical mysteries in the 1970's
+    via the combinatorial application of universal algebra to
+    the methods of automated-theorum proving
+  - that is, if i'm wrong, then authorities of thought have already
+    received every answer to every mathematic theorum, even those
+    relating to theories of math that cannot be stated in words --
+    those whose symbolic representation vastly expands beyond any
+    human's capacity to emulate symbolic systems of logic
+  - while i do not believe computers yet capable of solving these
+    problems, that is because they are not as great at manipulating
+    symbolic systems using quantim-information processing techniques,
+    which has little to do with systems of computation using quantum
+    computing, but which is greatly augmented by it
 
 # The Informational Physics of Cultural Movements
 

@@ -8,6 +8,134 @@ author:
 excerpt: ""
 ---
 
+- [Henosis](https://en.wikipedia.org/wiki/Henosis) - being in union
+  with the one/monad
+  - living in the midst of ignorance, how do we know what direction is
+    "up"? why is it that some of us decide to so singlemindedly move
+    upward and how has that changed across centuries? is it something
+    that is innate to us or does our propensity to move upwards arise
+    mostly from our exposure to information?
+    - what thoughts could catalyze such a need to pursue higher and
+      better aims? thoughts that are, specifically, possible in the
+      minds of any men, regardless of the age or civilization they
+      live in?
+      - "upward motion" liberation of mind/spirit, specifically
+        through the initial catalyzing pursuit of knowledge for itself
+        - trying to find the most liberating, most empowering
+          knowledge
+    - in terms of buddhism? what sparks the pursuit of bodhicitta (not
+      nominally)
+
+####
+
+- (this connects the section on "predicting the future" to the
+  following apologetic argument for the elites keeping the masses
+  ignorants)
+  - apologetics for the elite lol
+- until the recent past (and still today), knowing the future changed
+  the future. when people remained commonly ignorant of the specific
+  social/economic/geopolitical dynamics they would encounter, (they
+  couldn't know to react to what they didn't know.) by ensuring that
+  people were generally ignorant of their society's "unknown
+  unknowns", the authorities in any system indirectly reinforced the
+  stability of their own intended future.
+  - socially distributing the truth about the future didn't
+    necessarily secure the elite's pre-ordained designs for the
+    future, but instead expanded the potential for the future by the
+    degree to which its (exigent) realities had become understood by
+    the average person.
+  - generally, the challenges we will face in the near-future can not
+    be changed, regardless of (how educated or ignorant of the nature
+    of those challenges) the average person becomes. (rewrite)
+    - only the specifics of our approach towards this singular
+      destination can change.
+   - sooo... what's the answer? (spreading information about the
+     challenges we will face only affects the specifics of our
+     approach towards the same outcome, not the outcome itself)
+     - whereas, in the past, if people had woken up to everything
+       about the present that ordained their near-future, that future
+       would have changed in a very big way.
+  -
+
+####
+
+- TODO: move notes on meta/cognition and volume of graph cliques from
+  draft on geometry/mechanics of information
+- predicting the future for self/community/society/mankind by being in
+  tune with how socially distributed consciousness bridges to God via
+  un/conscious connections that are funneled/shaped by the
+  labyrinthian map of the unconscious (viz. the "over-mind" or
+  collective unconsciousness) (connect this to Henosis)
+
+  - (in other words), given sufficent intelligence, even absent key
+    information, one can extrapolate into the future of variously
+    constructed groups by imagining how that labyrinthian map of the
+    "global unconsciousness" funnels individual/social investment of
+    sociophysical resources
+    - elaborate on the specific structure of this "map"
+      - particularly its structural components that inherit elements
+        of culture, the linguistic intersections between languages,
+        social implications of economics (e.g. how the ever-present
+        divide b/w the rich and the poor leads to important motifs of
+        belief/information systems in society)
+    - to those with less "sight" in that regard, these information
+      systems are perceived as divergent and intractibly complex. but,
+      with sufficient meta/cognition, these information systems
+      instead become unbelievably convergent, especially once the
+      notion of individuated "self" is abstracted away from the
+      individuals that form these groups. the notion of who,
+      specifically, dissolves away from the actions of groups
+      (... because? of how primarily informational forces shape the
+      collective actions of self/community/society and mankind)
+  - of course, achieving the necessary (granularity) of sight that's
+    required for such extrapolation is facilitated by:
+    - social connection -- the composition of the individual's
+      connected social groups
+    - and knowledge, which provides more robust methods of distilling
+      information (by which people can methodically
+      demostrate/generate confidence in their conclusions)
+
+  - (of course,) one particular issue with this understanding: it is
+    inevitable for exponentially many individuals in society to begin
+    developing this kind of sight.
+    - of them, those who surpass a threshold of clarity into the
+      nature of the collective unconscious along with the
+      metacognition to leverage that sight methodologically, this
+      phenomenon of ("converging" intelligence) will begin to manifest
+      macroscopic dynamics at the social level, whereby it becomes
+      impossible for leaders of thought to see any other vision.
+      - as described above, this phenomenon (of the viral of the
+        methods for this sight) is already intolerably disruptive to
+        the powers to be.
+      - but perhaps more dangerous is that these people will all begin
+        to lead humanity towards the same imperfect vision
+        - (which (shares confluence) with the trend whereby the
+          possibility for subjectivity begins to evaporate)
+        - these all accelerate humanity towards vision or destination
+          which is singular but also shared ...
+        - but since that vision could be flawed -- or must be flawed,
+          since it is impossible to achieve perfect vision -- that
+          poverty of subjectivity will (cause us to lose) the
+          flexibility required to change belief systems or change
+          course.
+        - (xlike those people who encode their math/physics in terms of
+          the standard model and those who just make shit up)
+    - ![pic of the ghost from No Longer Human]()
+
+
+- what it means when "God speaks to us" ?
+- what does the "word of God" mean?
+
+- gold from al aqsa to america
+- God has no cause because God only manifests itself in the material
+  realm via emanations from the eternal/metaphysical.
+
+#### Nietzche, *Thus Spake Zarasthustra*
+
+> If I wished to shake this tree with my hands I should not be able
+> to do so. But the wind, which we see not, troubleth and bendeth it
+> as it listeth. We are sorest bent and troubled by invisible hands.
+
 (type up the back)
 
 - also include revelation that the societal analogy of a spiritual
@@ -17,57 +145,118 @@ excerpt: ""
 - [Process
   Philosophy](https://en.wikipedia.org/wiki/Process_philosophy)
 - [Process Theology](https://en.wikipedia.org/wiki/Process_theology)
+  - emphacize that this definition of God as the preciptation of the
+  unconscious is essentially process philosophy/theology
 
-I cannot understand in totality what i only have glimpsed of its faint
-adumbration. I hope what is possible is *almost certain* in its
-definition from second-order logic. Still, then, even if almost
-certain, will sufficient transcendance arrive soon enough to liberate
-us from such chains that implicitly shackle us with desire masked with
-apparent necessity?
+I cannot understand in totality that of which only its faint
+adumbration have I glimpsed. To our deliverence from the necessities
+of self-preservation -- particularly regarding someone with a message
+to innoculate society from metastatic nihilism -- I hope what is
+possible, a la second-order logic, is *almost certain*. Still, even if
+*almost certain*, will sufficient transcendance arrive soon enough as
+to liberate us from such illustrious chains that implicitly shackle us
+with desire masked as apparent necessity?
 
-How would such transcendence be received by humanity? By any society
-that sweeps its dust and dirt under a rug, fixed in place by some
-large dinner table? Does such reception of illumination change its
-nature? How could it and if its nature is changed by its societal
-reception moreso than in how it is perceived by society, could it ever
-be considered an absolute source of elevating transcendance? but if
-the above is true, could this preclude man's salvation from need,
-hunger, greed, desire, and all the pre-eminent enmity that pervades
-nascence? from all this, purity withers away quite quickly. maybe
-humanity would have better luck finding such an uplifting intelligence
+How would such transcendence be received by humanity? Every society
+sweeps under itself its dust and filth under a rug, fixed in place by
+some table? And solely upon which, *must* it dine? Must we seek
+liberation from necessary by compliance with those who ordained the
+precociously final world-order? With what might we struggle? And of
+those who saw, from whom did they receive sight? From what source of
+radiance reflected throughout did the first among them see what had
+not yet been known or seen? Does reception of such illumination thus
+change the nature of transcendence from the as yet unconscious? How
+could it and if its nature is changed by its societal reception moreso
+than in how it is perceived by society, could it ever be considered an
+absolute source of elevating transcendance?
+
+Still, if the cognizance of the unseen and unknown, could this
+preclude man's salvation from need, hunger, greed, desire, and all the
+pre-eminent enmity that pervades our stilted, pre-programmed nascence?
+From all this, any semblance of purity withers away quite
+quickly. Whether we have free will or merely the illusion of choice,
+our own causal fibres are woven into the social fabric of causality by
+those with knowledge of the world who seek to raise our mind through
+gradients of consciousness to phenomena at their convenience so that
+we amount to mere bricks in walls which serve their interests, not
+ours. Moreover, we are only granted the capacity for cognizance of
+phenomena after society has assessed our potential to adversely affect
+their own preexistent designs.
+
+If susceptibility to convenience so often surpasses common intellilect
+and thereby nurtures society's inbred, virulent fallibility, then
+perhaps humanity would have better luck finding uplifting intelligence
 were it borne on Mars, as hidden away from man as society is hidden
-from itself.
+from itself. Still, if the herd can only be awoken to malignancies
+from those on the outside looking in, then perhaps it shouldn't so
+unquestioningly demonize its pariahs. Not all who wander are lost.
 
-> Well then, we should hope such a celestial manisfestation on earth
-> never looks under that rug, uncovering society's accumulated sins of
-> apparent and unavoidable necessity. That guy is screwed.
-
-#### Here's a completely unrelated picture of Goku in his spaceship.
-
-![Goku](/img/posts/2018-08-25-the-holy-grail/son-goku.jpeg)
-
-Though Goku was sure to destroy humanity and conquer the world, an
-early head injury changed all that. Instead, he grew up isolated from
-all society, thus unmarred by it, and thereby pure.
+> We should hope that some celestial manisfestation on earth never
+> looks under that rug to uncover society's accumulated sins of
+> apparent necessity. That guy is screwed.
 
 ## ToC
 
-####
+Winding into the cusp of the age of science, does there exist any such
+belief system with the potential to decouple mankind from its fate:
+devouring itself via violent, metastatic nihilism? God is dead, but
+what *is* God? Was God ever made manifest onto Earth? If God is now
+dead, how would God be reborn and what would that mean? Still,
+further, what would it mean to have the prescient insight to be
+Yeshua, the man who, two thousand years ago, knew all of this
+philosophical, theological evolution would transgress until such end?
 
-- i think its important to define the following concepts first,
-  otherwise, the rest of the arguments will seem to heretical and not
-  well-connected enough to the following definition of God as an all
-  encompassing metaphysical image.
-  - my limited knowledge invites
-    [eisegesis](https://en.wikipedia.org/wiki/Eisegesis)
-  - all the parts and the whole must be mereologically coherent, or
-    consistent with themselves, now and forever.
-    - this means that nothing should ever be capable of emerging which
-      logically, experientially or epistemologyically undermines the
-      belief system in an way that is irreperable or indefensible
-    - (study of religion, connected to negative apologetics, adapting
-      to gradual linguistic shift and anticipating the theological
-      implications of scientific discovery, ... )
+In the minds of men, metaphysically deceased or not, what does the
+possibility of God do for society? If something is so important, then
+how is it, one spiritual revolution after another, that the
+theological elite find themselves subverted and that the idea of the
+supreme entity is so convoluted as to render itself nothing other than
+a tool such that the blind may lead the blind? And for what? Towards
+whose gain is the sum of ideological sacrifice accumulated?
+
+#### John Dee
+
+> Who does not understand should either learn, or be silent.
+
+For any religious belief system, or any aiming to establish a
+universal basis from which one may emulate perspectives and
+worldviews, it is critical that all the parts and the whole be
+mereologically coherent -- consistent with themselves and all
+combinations of components thereof. This mandate of self-consistency
+must be attained not simply for the time being, but for all times,
+present and future. Permitting some ineffability, God and the belief
+system must capture something timeless causing all without root cause
+for itself. There is a Greek word that has seemingly escaped the
+internet -- which perfectly captures this design imperative for truth
+throughout, forever and from all perspectives. The word describes
+perfectly the notion that no information should ever arise which
+logically, experientially or epistemologically undermines the belief
+system, rendering it irreperable or indefensible as it would seem to
+the average follower. The belief system must, itself and in its
+institutional implementation, be capable of adapting to linguistic
+shift and cultural influences. If preservation of the belief system's
+perceived consistency outweighs its support of rationalist inquisition
+or scientific advancement, that would foment economic stagnation and
+it would eventually be superseded.
+
+Unexpectedly, humanity will find it needs religion more than ever, but
+when it finally goes looking for this generations emanation of God, it
+may be too late. In the 21st century, given the acceleration whereby
+information reverberates globally -- particularly more permanently
+than ever, each iota of data capable of converging almost totally --
+this mandate for timeless self-coherence of any theological system is
+almost certainly impossible to attain or preserve. The minutia of the
+dynamics of information exchange today *almost certainly* preclude the
+establishment of a novel belief system which would unify mankind
+against the tyranny of nihilism, especially some system based on the
+events in one man's life.
+
+Where, then, does mankind find its salvation from the *metaphysical
+precipitation* of its more malignant aspects? Perhaps I am neither the
+one to find it nor am I one to relevate it, but who is looking? How
+much time do we have?
+
+###
 
 - define the "Kernel" of God as the (necessary-in-itself) emergence of
   the aspect of the collective unconscious made spectrally harmonious
@@ -174,7 +363,15 @@ is moreso magnified.
     dynamos/vessels of wisdom/knowledge. the more socially connected
     society is, the more likely that the wisdom/knowledge produced by
     or contained by such beings would (copy) itself and spread to
-    beings incapable of reaching those (forms) themselves.
+    beings incapable of reaching those (forms) themselves. There must
+    be some critical mass required for (the epi-genesis...) of
+    spiritual revelation into its worldly implementation. This
+    critical mass could be defined as population density,
+    technological knowledge, (some metric of) collectively traumatic
+    crisis(, motivating diaspora.) For any such cause, the key is a
+    framework of (wise) individuals in place (with the capacity to
+    act) to transmute such catalysts into the (implementation of
+    cultural technology into infrastructure)
     - to find/identify entities capable of embodying such a zenith or
       even approaching such is complicated if the forms that emerge
       thereof have replicated through society.
@@ -313,14 +510,15 @@ surrounding the Black Sea.
 
 ###
 
-- (the Grail as) a unified, geopolitically stable region to a capable vessel and
-  dynamo: for the ensuing period of renaissance, perhaps the most
-  nascent phase of modernism; for the birth of a rationalism whose
-  pedantic quest for absolute truth was borne Science; and for
-  becoming the Age of Enlightenment, detached for better or worse from
-  societal and individual circumstance to become singly focused on
-  absolute truth for all, decoupled from inherited traditional
-  vehicles and modes of the past.
+- (the Grail as) a unified, geopolitically stable region to a capable
+  vessel and dynamo:
+  - for the ensuing period of renaissance, perhaps the most nascent
+    phase of modernism; for the birth of a rationalism whose pedantic
+    quest for absolute truth was borne Science; and for becoming the
+    Age of Enlightenment, detached for better or worse from societal
+    and individual circumstance to become singly focused on absolute
+    truth for all, decoupled from inherited traditional vehicles and
+    modes of the past.
   - "Sapere Aude"
   -
 

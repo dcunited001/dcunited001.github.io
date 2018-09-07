@@ -57,7 +57,7 @@ title: "Physiological Components of Spirituality"
     that vibration into different regions of your skull
   - when the constructive overtones of the "ohm" sound overlap, you
     can feel various regions of your inner skull resonate.
-  - focus on the "spectral laplaction" -- i.e. can you hear the shape
+  - focus on the "spectral laplacian" -- i.e. can you hear the shape
     of a drum" -- try to learn how to channel the vibrations to
     specific areas of your skull intentionally
   - let this be the focal point of your medition.

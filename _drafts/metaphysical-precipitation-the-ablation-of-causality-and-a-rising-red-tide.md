@@ -15,6 +15,27 @@ excerpt: ""
 - bruce lee one inch punch
 
 
+- revelations: in an interpretation centered around sociophysical
+  extrapolation (i.e. theological futurism) what, then, do the verses
+  about the obliviation of family relationships mean?
+  - mother set against son, etc, etc
+    - in terms of strength of relationships, these are supposed to be
+      the strongest bonds, naturally.
+    - in a world that accelerates the disparity of social/financial
+      power (via extrapolation of power dynamics into a future with a
+      maslovian crisis), these are the final bonds to be broken.
+    - when they begin to be broken systematically across society, the
+      end is near. this is possible to know two-thousand years ago. it
+      is something that has, on one level or another, occured time and
+      time again near the power centers of empires. however, when this
+      occurs systematically across society, it means that the
+      disparity in social/financial resources has reached such discord
+      as to destroy the notion of family entirely. this is also
+      similar to the motivation for those studying/writing about the
+      NWO to include the ablation of the concept of family as an
+      objective of the NWO.
+  - and the disruption of sexual taboo
+
 
 #EnterTheDragon => Defeating #HallOfMirrors https://www.youtube.com/watch?v=WoMVfvS8rSo …
 
