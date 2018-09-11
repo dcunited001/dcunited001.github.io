@@ -268,6 +268,8 @@ excerpt: ""
 
 -
 
+#### Telling Standup Jokes
+
 #### Betting/Bookies Example
 
 - five people place bets on two separate sporting events
@@ -306,7 +308,7 @@ excerpt: ""
 
 - fog-of-war in overwatch communication
   - especially the rate of expiration of types of information
-    vs. bandwidth as an immediately expendible, allocatable commodity
+    vs. bandwidth as an immediately expendable, allocatable commodity
 
 
 ### Mechanics and Dynamics Semiolinguistic Games in Social Physics
@@ -364,7 +366,6 @@ excerpt: ""
         neuroanalytically-constructed information graph are *always*
         more efficient, but also more versatile, producing more
         robustly assertable hypotheses for the individual to validate.
-      -
 
 - intelligence as the ability to identify/follow/etc longer paths
   through information networks/graphs

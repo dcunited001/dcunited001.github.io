@@ -60,7 +60,7 @@ excerpt: ""
 ####
 
 - TODO: move notes on meta/cognition and volume of graph cliques from
-  draft on geometry/mechanics of information
+  draft on geometry/mechanics of information?
 - predicting the future for self/community/society/mankind by being in
   tune with how socially distributed consciousness bridges to God via
   un/conscious connections that are funneled/shaped by the
@@ -118,15 +118,85 @@ excerpt: ""
           poverty of subjectivity will (cause us to lose) the
           flexibility required to change belief systems or change
           course.
-        - (xlike those people who encode their math/physics in terms of
+        - (like those people who encode their math/physics in terms of
           the standard model and those who just make shit up)
     - ![pic of the ghost from No Longer Human]()
 
+  - as an example of this kind of sight and of why statistical
+    paradoxes are critical to the vision it provides
+    - as complicated as modern telecommunications are, it is
+      *unbelievable* that there hasn't yet been a single point of
+      failure undermining communications networking technology from
+      early phone systems through the modern internet.
+    - that the protocols and RFC standards -- with their paradoxically
+      overlapping concentricity and inter-stratification -- haven't
+      yet allowed a single point of failure provokes the observation
+      of a pair of statistical paradoxes:
+
+      - 1. that an event-type whose cumulative probability (CDF)
+        seemingly have a value for frequency that is several orders of
+        magnitude, but has never been observed, at least not with the
+        magnitude that such an event would have on the system.
+        - in probability and network-theory, this is what is known as
+          a long-tail event and the same power-laws that emerge from
+          network theory generate the distributions that describe
+          their frequency.
+          - the nature of such long-tail events, coupled with
+            financial engineering methods built from ito-calculus --
+            and thus cannot perceive long-tail events very clearly --
+            describes perfectly why the 2008 financial crisis was
+            missed by so many.
+      - 2. paradox, the second: that systems exist with such long-tail
+        event **types** whose frequency is so intolerable to the
+        frameworks for incentivization of actors within such system
+        could have their probabilities maximal orders of infinitissal
+        as to never be allowed to happen. Of the long-tail event-type
+        whose probability is [almost certain] and whose consequences
+        so intolerable for the actors within the network -- those
+        actors paradoxically manage to collaborate against their
+        incentivization framework and thus can manage to defeat any
+        influence causing the event type to precipitate along with its
+        apocalyptic cascade of undesirable events.
+        - the probability of this event-type is now paradoxically
+          almost never because of the *agency* of actors in the
+          network, combined with their incentivization.
+
+    - the first paradox indicates there is a system whose existence
+      cannot be guaranteed. it is almost certain that it will be
+      destroyed. this is the easy paradox to comprehend.
+      - the second paradox indicates that these systems, when valuable
+        enough to all parties cannot be destroyed because the most
+        influential parties work tirelessly to investigate and defeat
+        any signs of the first paradox and thus protect their own
+        long-term interests.
+      - this is the difficult paradox to apprehend. when you realize
+        the first, but not the second, you infuriate the parties
+        mentioned in the second while only serving their interests, if
+        they happened to miss an indication of system collapse.
+        - however, for such a system, if power manages to become
+          distributed in such a way that it it causes incentivization
+          frameworks to become destabalizing, the system is then no
+          longer anti-fragile. it does not respond to its own threats
+          because the people within the system *do not act as one*.
+
+    - between these two paradoxes one may witness the incidental
+      phenomenon of distributed computation in society. for humanity,
+      this is the collective computation power, prioritized by
+      self-serving and collective economic interests.
+      - each agent attaches itself to networks and when any such
+        agents become aware of their need to seek information of an
+        indescriptively qualitative value and of their need to learn
+        to gravitate towards the gradient of sources of that
+        information, then they become centrally motivating nodes with
+        more power than any others in sociophysical analogiess of
+        fields, a la physics. this is not dissimilar to the primary
+        nodes of cryptocurrency blockchains, though these node
+        broadcast and reach consensus for all information they digest.
 
 - what it means when "God speaks to us" ?
 - what does the "word of God" mean?
 
-- gold from al aqsa to america
+- gold from al aqsa to america? (move notes to this draft)
 - God has no cause because God only manifests itself in the material
   realm via emanations from the eternal/metaphysical.
 

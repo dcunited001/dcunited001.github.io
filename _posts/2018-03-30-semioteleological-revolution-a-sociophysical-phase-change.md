@@ -602,6 +602,7 @@ between generations.
     - falais
     - [Nous](https://en.wikipedia.org/wiki/Nous)
       - and greek [Nous](https://en.wiktionary.org/wiki/νόος)
+
   - misc Kantian concepts
     - [Condition of
       possibility](https://en.wikipedia.org/wiki/Condition_of_possibility)
@@ -1130,6 +1131,7 @@ difficult to leverage the diversity of thought.
 #### What is known? How is it known?
 
 #### What are reasonable extrapolations based on what is known?
+
 
 #### What can be assumed to be a believable extrapolation, to various types of people, based on the distribution of knowledge in a society?
 
