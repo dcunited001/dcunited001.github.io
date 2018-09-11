@@ -23,28 +23,66 @@ excerpt: ""
   - this is probably one of the greatest contributions i could provide
     for philosophy because it is sufficiently different than the
     methods for epistemologic argumentation (listed on wikipedia LOL)
+    - explain how it is differentiated from those argument-types
 - also pull in the other examples of kantian categories from "speed of
   thought 4"
+  - these serve as as analogies that eludicate these complex concepts
+    to the average person
 
 - before developing the need to explain possibiility spaces...
+  - integrate the table of contents as soon as possible
   - describe how understanding kantian categories are critical for
     standup comics. briefly mention that there is a possibility of an
     algorithm
   - refer to the example of the Mexican Standoff
 
-When Will Wright penned this [2006 guest
-editorial](https://www.wired.com/2006/04/wright-2/) on Wired, which
-reads more philosophically than most video game posts, almost matching
-the tone of [David Kirsch's piece on
-Tetris](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1804_1)
-from an actual philosopher. But, why wouldn't the best video game
-developers be philosophers. After all, they must reason about
-experience, collectively -- and what is it that philosopers do, if
-they can be said to do one thing, specifically? They muse upon the
-experience of being human and of experiencing, singly and
-collectively.
+- semantic chiaroscuro and the art of delivering a punchline.
+  - like an artist arranging the use of lighting and positioning light
+    sources, a standup comic needs to arrange the content of their
+    routines so that the right elements stand out. when an artist uses
+    chiaroscuro, they are anticipating how the mind perceives visual
+    imagery to prioritize attention or move in a visual space, so that
+    they might funnel viewers to anchor their focus on specific
+    point. moreover, art with a high degree of contrast tends to
+    excites our mind, partially contrast is deeply rooted and
+    prioritzed in our brains optical processing pipeline.
+    - similarly, standup comics and sitcom writers need to be aware of
+      what people are might be thinking about as they set up a joke.
+      - what's the term for the "reach" a joke might have? ...
+        - some jokes involving physics don't work well, unless you're
+          a writer for Big Bang Theory, where the audience is
+          expecting that content and wants to relate to the
+          character's interest in science.
+      -
+  - how to anticipate what the audience doesn't yet anticipate?
 
-In this article, Will Wright introduces and helps catalyze the notion
+When Will Wright penned this [2006 guest
+editorial](https://www.wired.com/2006/04/wright-2/) on Wired, (... .)
+with an opening that pares the tone and thesis of David Kirsch's piece
+connecting [Tetris and methods of epistemic
+inference](https://onlinelibrary.wiley.com/doi/pdf/10.1207/s15516709cog1804_1),
+Wright's article reads more philosophically than most video game
+posts. Though David Kirsch is an actual philosopher, how could top
+video game developers not pursue philosophy, if not nominally, then at
+least for pragmatic purposes. After all, they must reason both
+deductively and inductively about experience, collectively -- and what
+is it that philosopers do, if they can be said to do one thing,
+specifically? They muse upon the experience of being human and of
+experiencing, singly and collectively. A game designer must have an
+awareness of how gamer will experience their art and, to excel, they
+must efficiently and thoroughly explore the space of experience types,
+ontologically. If an artist wants to be a true explorer of the
+unknown, they must know where one can go, but also where they are and
+where no one has been. Unless by naïve chance, a creator seeking true
+novelty distinguished from mere originality can only find this by
+critically examining their domain's corpus mundī.
+
+What does this mean when the vision motivating art must anticipate
+experience-types of players? What are their sextant and compass?
+
+(...)
+
+In his article, Will Wright introduces and helps catalyze the notion
 of the possibility space, a concept originally derived from math and
 physics. What is a possibility space? It's the space that contains all
 possible system states or game states, which is more simply discribed
@@ -63,6 +101,8 @@ thereby the possibility space.
 > problem, which itself has a possibility space. Of course, no one
 > ever listens to what I say, as such is beyond the sociophysical
 > possibility space ... alas I digress.
+
+incidentally
 
 Collapsing a possibility space can proceed along many different
 surfaces, but not all such methods for collapsing the possibility
@@ -91,16 +131,27 @@ methods that involve a possibility space -- it contains all
 possibilities. It can't always be constructed or efficiently
 represented.
 
+#### All are the generalized construction of a domain
+
+- a possibility space is the domain for all possibilities
+  - (...)
+
+#### All provide metrics for identity or similarity
+
 - the notions of metric from Functional Analysis. (TODO: describe how
   this is useful in constructing im/perfect metrics for identity or
   similarity)
+
+#### All are composed of dimensions which can be combinated or deconstructed
 
 - the notion of algebraically constructed dimensionality, which may
   not be connected to the potentially ineffable numerical means which
   construct the space. The structure for some problem constructions
   may itself be uncountably complex and if so, do not lend themselves
   to numerical methods. Neither Zermelo nor Frankel have enough
-  buckets for that.
+  buckets to count all that.
+
+#### All exhibit spectral phenomena
 
 - the notions of spectral phenomena, which arise in any system that
   has frequency and for which the fourier transform provides an
@@ -108,10 +159,10 @@ represented.
   transform surprisingly becomes incredibly useful in advanced
   statistics, yielding the characteristic function. But again, such
   spectral methods may not be perfect, as neither Zermelo nor Frankel
-  have enough buckets for that. The axiom of choice has implications
-  for the true parity of valuation for infinitesimal values -- this i
-  intuitively believe to be relevant for spectral methods but I do not
-  know.
+  have enough buckets to finish counting that. The axiom of choice has
+  implications for the true parity of valuation for infinitesimal
+  values -- this i intuitively believe to be relevant for spectral
+  methods but I do not know.
 
 - the notions of frequency of events and event types
 
@@ -373,6 +424,15 @@ parallels the idea of Possibility Space collapse
       space to collapse
     - also, brief comment on how implied first-person-only usage of
       some verbs affects the possibility space and why
+
+- because of the (uncountably complex) nature of CCG's, algorithms
+  which use this form of grammatical construction must be analytic in
+  nature.
+  - linguists applying data science must understand well the
+    frustrating limitations of capturing, in totality, all possible
+    grammatical constructions
+
+
 
 - how intentionally preventing kantian category collapse (or
   information-system possibility space collapse) by withholding

@@ -1779,9 +1779,10 @@ consequences in my own life.)
 
 - during and after segregation, social isolation created massive, but
   hard-to-see setbacks for the african american community. this
-  strongly limited social mobility because african americans forged a
-  disproportionately small amount of strong connections with
-  influential people with social/financial capital.
+  strongly limited social mobility because african americans were
+  denied the opportunity to forge more than a disproportionately small
+  amount of strong connections with influential people with
+  social/financial capital.
   - this is especially hard to see if you don't experience it.
   - the exact consequences of this are difficult to see or prove, but
     it means opportunities for advancement and economic well being

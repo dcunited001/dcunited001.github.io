@@ -10,6 +10,63 @@ excerpt: ""
 
 - TODO: connect to article on hypnosis and Kantian category collapse
 
+### Patents Related to Directed Energy
+
+- int'l patents regarding manipulation of neural circuits (esp. relating to
+  the "suppression" of tremors by stimulating afferent pathways)
+  - reading these patents and reaching the conclusion that they might
+    be used for remote control of political dissidents requires a bit
+    of a liberal interpretation, since i know that in particular EU.
+    - for example, that "electric field" might more precisely be
+      defined as "electro-magnetic field" among other similar
+      liberties taken with interpreting semantics.
+  - most of the US patents do not seem to have the owners listed on
+    them, which is strange... especially for medical devices. there is
+    no "patent" ownership transfer information on some of them. who
+    would want to buy them?
+  - I wish i could find products/research which relates to these, so
+    that i could have more reasonable expectations and constrain my
+    interpretation
+
+- [Electric Fringe Field Generator For Manipulating Nervous Systems
+(2000)](https://www.lens.org/lens/patent/114-411-204-551-403)
+  - and [44 cited patents:](https://www.lens.org/lens/patent/114-411-204-551-403/citations#%2Fc%2Fin)
+- [Modulation of Neural Traveling Waves
+  (2010)](https://www.lens.org/lens/patent/US_2010_0036452_A1)
+  - i've never heard of a treatment that uses
+- [Applying A Structured Language Model To Information Extraction
+  (2010)](https://www.lens.org/lens/patent/052-715-429-243-730)
+  - this is a microsoft patent which is for a language-based
+    machine-learning apparatus, which confoundingly cites the
+    US006081744A(2010). what does data science on language have to do
+    with external manipulation of neuro-electric fields? using some
+    creativity, i inductively arrive at a hypothesis that i've
+    previously entertained: street theatre (& etc) is used to prompt
+    patterns of neuro-electric activity, which machine-learning can
+    used to inform tactics of manipulation.... but still, it's hard to
+    imagine this actually being in a public patent.
+    - but, in other words, one could stimulate the emission of
+      neurological activity, which can be fingerprinted and could
+      prompt notifications using pattern recognition.
+    - so, directed energy weapons in combination with street theater
+      and gangstalking, which (again) has been my hypothesis, but i
+      don't believe this patent application is the "smoking gun" it
+      just happens to align interestingly with that hypothesis.
+- [Method And Neuroprosthetic Device For Monitoring And Suppression Of
+  Pathological Tremors Through Neurostimulation Of The Afferent
+  Pathways(EU: 2014, US
+  2016)](https://www.lens.org/lens/patent/116-620-494-076-586)
+  - The only one of these patents with a product I've heard about, an
+    implantable treatment for Parkinson's that my mom told me about.
+    - it requires surgery and literal interpretations of the patents
+      describe it pretty well.
+- [Neurological Monitoring And
+  Alerts](https://www.lens.org/lens/patent/US_9643019_B2)
+  - this patent only admits a single definition of a "signal type" in
+    Claim 1, which is repeatedly referred to later to expand the
+    definition of that claim.
+
+
 
 ### Cardio's Impact on Substantial Nigra, NaCHR, & Proximal Dopamine Regulation
 
