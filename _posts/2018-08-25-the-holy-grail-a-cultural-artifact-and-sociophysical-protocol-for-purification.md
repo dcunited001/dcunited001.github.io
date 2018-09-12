@@ -9,11 +9,71 @@ excerpt: ""
 ---
 
 - there's a disconnect that individuals whose western ideals can't
-  bridge.
-  - they mostly can't recognize this divide, partly (because of
-    homogenously western values systems) but also because how they've
-    been led to recognize me is as the opposite of everything that
-    i've wanted to be.
+  bridge. (this notion of 'western ideals' needs to be far more
+  precise)
+  - the eastern evolution of ideas represents the progression beyond
+    common materialistic traps (of...)
+    - whereas western thought, though not simply a regression
+      backwards, carved out from the remaining space a recession into
+      the components of ideologies built upon materialism, which as a
+      consequence allow those belief systems to
+      (distinguish/highlight) the individual. It is not unlike PepsiCo
+      carving out the remaining marketshare from CocaCola -- there's
+      always an opportunity for a brand to market themselves as the
+      alternative, though businesses who pursue this tactic will
+      always define their identity in terms of their stronger
+      competition. Similarly, eastern thought, philosophy and religion
+      clearly advanced far beyond that of its western
+      counterparts. For Western powers, enabling the common person's
+      believe systems to begin ingesting similar components as the
+      "progressions" of the East would assuming the fawning fate of
+      eternal deference to the East.  Sociophysically, global
+      population dynamics, its flux and the commerce thereof made true
+      novelty of thought nearly impossible for Western thinkers. The
+      inroads paved by Alexander the Great's conquest reaching to
+      establish the Greek colonies in Bactria, would form the basis of
+      their connection to the revolutions of Buddhist and Eastern
+      thought.
+      - Alexander's conquests, extravagantly funded by the Greek's
+        waning dominance over the ancient Mediterranean to include the
+        same commercial success of Pericles' olivary fortune, was
+        motivated by an unquenchable thirst for social actualization
+        of the mind -- to spread the Greak ideas for centuries
+        distilled like fine wine from specialized colonies of
+        philosopher-yeast on its archipelago. Greece was partly
+        insulated from the horrors of war by its geography, making its
+        islands the perfect petri dishes for the evolution of ideas,
+        not unlike the advantages conferred to genetic recombination
+        augmented by diploidic chromosome pairs towards the the
+        phenomenon of speciation.
+      - Alexander the Great, from childhood, was tutored by
+        philosophers who would kindle this love for wisdom until its
+        light would flow over, pushing this leader to so unwisely use
+        Greek's accumulated wealth on the insane idea to conquer the
+        world, of which the immediate and first-order effects were
+        ludicrous and could never be justified without taking into
+        account Alexander's mission to deliver Grecan light to the
+        rest of the world, sewing Grecan fingerprints into every
+        system of thought which would later emerge from the soils of
+        Alexander's brief empire. Alexander did not want to conquer
+        soil, he wanted to conquer minds which did not even exist yet.
+        - However, it was Bactria and the easternmost regions of
+          Alexandria's cultural legacy where Greek philosophy could
+          not have avoided its a significant influx of Eastern
+          thought, and occured 300 years after the life of the Buddha.
+        - After all, the Greeks were not just searching for the
+          Eastern Ocean or spreading the seeds of their culture, but
+          also interested in consuming as much knowledge about the
+          ancient world of that time to inform subsequent calculations
+          for aeons-worth of culturally strategic action.
+          - In the Old World, the West was *always* at a disadvantage
+            to the East, sociophysically.
+
+  - (because of the materialistic influence on western thought),
+    individuals raised solely in its cultural confines can't recognize
+    this divide, partly (because of homogenously western values
+    systems) but also because how they've been led to recognize me is
+    as the opposite of everything that i've wanted to be.
   - to them, almost everyone they have known could be affected by the
     allure of positive reinforcement, especially with material
     incentives, or through shame-based negative reinforcement of a
