@@ -8,6 +8,141 @@ author:
 excerpt: ""
 ---
 
+- there's a disconnect that individuals whose western ideals can't
+  bridge.
+  - they mostly can't recognize this divide, partly (because of
+    homogenously western values systems) but also because how they've
+    been led to recognize me is as the opposite of everything that
+    i've wanted to be.
+  - to them, almost everyone they have known could be affected by the
+    allure of positive reinforcement, especially with material
+    incentives, or through shame-based negative reinforcement of a
+    shared values system with common western heritage.
+    - by structuring situations and anticipating the individual's
+      response within these terms, then, in the western experience,
+      - every individual would be spurred towards action, lead towards
+        their definitions of temptation (to create a record of sin,
+        which is useful for control) or could be coaxed into
+        meaningful long-term change.
+    - but what if there is an individual who this society is utterly
+      blind to -- they can not whatsoever be brought to see this
+      person for who he is ... or at least, the individual the
+      inspiration of buddhism led him to want to be, which is still
+      who he believes he can be.
+    - because society was so blinded, both to his true substance and
+      his intentions -- what if nothing that individuals in that
+      society would ever compel this person to change as intended?
+      like a doctor unknowingly treating patient diagnosed via false
+      positive by utilizing methods that grow increasingly extreme,
+      there is nothing the doctor can ever do to cure that patient,
+      because the symptoms and pathology simply do not exist.
+    - what is a primary difference between the values systems in
+      modern western society and that of my own? In America, a
+      perpetual cycle seems to have emerged, where the naive and young
+      are taught to dupe and deceive those around you into commiting
+      sins by those who are try to escape their own damnation through
+      the temptation of others. if nothing else, then appealing to the
+      materialist aspects of a western individual usually allows you
+      to sway them, if not to your side, then at least to overlook the
+      second and third order consequences of their material gain: the
+      third-world factory worker making pennies, the person who bought
+      the oxycontin that yielded you 5% profit who will eventually
+      destroy every relationship they have touched, the animals
+      churned into pink goo in factory farms, or the poor on another
+      continent who we'll never have to meet. It's just too simple to
+      never think of the people displaced by our success, by our
+      power-plays we justified with our survival or by those desires
+      which, convenient to all, seem so necessary.
+    - it's too simple for all Americans and Westerners to believe that
+      our wealth is representative of everything, or to simply not
+      care.
+      - it all feels so much better that way, doesn't it? could you
+        imagine if society wanted to you suddenly *care* about this
+        cause or that? gradually, ingredients among your neatly
+        wrapped chosen life necessities (... desire for convenience
+        and for ignorance of true cost)
+        - (it's all too easy to see) the price tag as the only cost of
+          commodities or products on store shelves. Instead, each
+          ingrediate or component itself forms part of a story where
+          the aggregate price of each represent (in significance...)
+          merely the dotted i's and crossed t's of some MBA's business
+          model. for components and commodities in the lower tiers of
+          supply chains, their true costs are difficult to cost and
+          price, which the MBA knows well. how do you price the first
+          and second order impacts of policies to strictly control
+          Corundum supply and production? it's a mineral required for
+          all smart phones, yet most of us remain blissfully unaware
+          of the tragedies of its production in the early 2000's.
+        - to the less-socially-conscious MBA, that's somewhat simple:
+          whoever controls supply and production decide what it is
+          worth to them. to westerners, if dictators commit atrocities
+          in the name of controlling corundum, it is causally
+          attributed to them; to westerners, it is their problem and
+          their sin.
+    - there are people who have attempted to deceive, control, destroy
+      or generally disempower me by tempting me or baiting me into
+      acting such that it gives them the information they can diffuse
+      into society to change how people think about me. i have avoided
+      so many traps, but it belies how terribly wrong people are when
+      they try to assess me. or at least, that's what i thought for so
+      long, but i've realized: they don't care whether they are wrong
+      or right about my beliefs, ethics, virtues or aspirations; they
+      just want me to be chained down by fabricating causally
+      obfuscated information, which distorts how others perceive me,
+      fueling the self-perpetuating sociophysical prison which
+      contains me or, worse, could render me a puppet. however, the
+      bars of this prison are entirely composed of the beliefs of
+      others information, which is outside my control. How am I
+      permitted social self-determination, when such a cell composed
+      only of cumulative misattributed sinful nature which resides
+      within the beliefs of others, forever distorted by my very own
+      Azkaban dementors. Is a person's soul self-determined or can it
+      be externally determined by society? Surely it must be a
+      combination, but what happens when those dementors finish
+      sucking out your soul? Do you actually become that malevolent
+      image that their virulent haunting has replicated throughout
+      society? And what of your causal control over what people
+      believe, when mathematically, you are connected to the outside
+      through a handful of 1&deg; social connections? Suggestion,
+      Mandela Effect and viral false belief (manifested) the bars on
+      this informational statis-cell, asphyxiated social and finacial
+      poverty ... what was there you could ever do to change the
+      course of events? Were you supposed to give your soul over to
+      your tormentors? A soul is only something you can give, it is
+      never something one can take. Yet, were you to *give* them what
+      was left of your soul, what would they have you do then? Now
+      that the last supporting remnants of your soul have collapsed,
+      leaving only the distorted, amplified image that occult forces
+      propagated through society, would you ever give in? ... Hell no,
+      such suffering only ossified resilience and catalyzed my desire
+      to resist becoming the opposite of my values and virtues.
+
+    - What western people don't understand is that, when they goad me
+      or tempt me with violating their moral system -- which would be
+      "sinning" for Christians, but these people are almost never
+      Christian -- they tell me that they intend to create what they
+      believe to be wrong in the world, so that they can alchemically
+      use it for power, perhaps by "eating" its energy.
+      - In contrast, I believe that intending to create harm, sin or
+        malicious intent is itself a sin, even though that intent
+        which emerges from the heart is invisible and intangible.
+      - In some moral system, if actions of some type are wrong, then
+        it must be wrong to merely want to manifest these types of
+        actions, in yourself or others.
+      - That is what western people do not understand about the way I
+        think. Though I'm hardly a radiant example of moral purity, I
+        will do anything I can to avoid violating this. With a deft
+        mind tempered by a variety of experience, it should always be
+        possible, though perhaps not easy. If for some reason it was
+        not, then I would seek to avoid the greater harm to the
+        greater number of people.
+    - While empowering themselves through knowledge, if individuals
+      choose to purge their heart of the intent to violate the golden
+      rule as it applies to others and further purge the intent to
+      create intent among themselves and others, then most of the
+      problems in the world become unbound from dependent origination
+      and will thus never have existed.
+
 - [Henosis](https://en.wikipedia.org/wiki/Henosis) - being in union
   with the one/monad
   - living in the midst of ignorance, how do we know what direction is
@@ -25,6 +160,7 @@ excerpt: ""
           knowledge
     - in terms of buddhism? what sparks the pursuit of bodhicitta (not
       nominally)
+    - seeking the grail as seeking henosis (and/or theoria)
 
 ####
 
@@ -56,6 +192,7 @@ excerpt: ""
        about the present that ordained their near-future, that future
        would have changed in a very big way.
   -
+
 
 ####
 
