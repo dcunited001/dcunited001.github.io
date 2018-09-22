@@ -459,7 +459,9 @@ misc
   - this concept is similar to the subtle psychological/neurological
     differences between those who can see the 3D in a magic eye poster
     and those who cannot. The difference is that the inferred frustum
-    of the 3D imagery is moreso generalized than for Magic Eye posters.
+    of the 3D imagery is moreso generalized than for Magic Eye
+    posters.
+    - notes from iPhone about magic eye
 
 - so, basically, during psychedelic utilization, the neural networks
   begin processing/forwarding information which completely violates

@@ -15,6 +15,9 @@ excerpt: ""
   - Dune
   - etc...
 
+- TODO: move discussion on anime aesthetics closer up here
+  - (that's why people are clicking on this link, LOL)
+
 - in the future, if brains/consciousness are cyberized, is there some
   idealized physical form which humanity would prefer to take
   - among several possible such imagined idealized forms, what are the
@@ -29,7 +32,7 @@ excerpt: ""
       have no constraints on the form they choose -- or perhaps only
       socio/economic constraints on that form?
 
-#### (Should we consider any limitations on form?)
+### (Should we consider any limitations on form?)
 
 - basically: why would the cyberbodies of the future look like Major
   Kusanagi's artificial, but entirely human form?
@@ -38,7 +41,7 @@ excerpt: ""
   - is it only our familiarity with our own form that binds our
     selection to such forms?
 
-#### Network Theory and Social Interaction Dynamics Will Constrain Form
+### Network Theory and Social Interaction Dynamics Will Constrain Form
 
 - the limits of our imagination do not define well these forms,
   since they must be voluntarily or un/consciously amplified in
@@ -60,7 +63,7 @@ excerpt: ""
   will amplify certain forms, causing some types of physical form to
   be more prevelant than others.
 
-#### In America, Excessively **Hard Science-Fiction** Is Rewarded With A Witchhunt
+### In America, Excessively **Hard Science-Fiction** Is Rewarded With A Witchhunt
 
 - science fiction is typically concerned with philosophical issues and
   the distortions to fields in the humanities in some future setting
@@ -120,7 +123,11 @@ excerpt: ""
 ### The Mind of the Child at the Intersection of Jung and Freud
 
 - (actually this is closer to Freud's ideas of early-childhood
-  development.
+  development.)
+  - also: perhaps move this to another article (perhaps the one on
+    "adversarial network analysis") since this tangent connects to the
+    that articles exploration of under/over-determinedness
+
 - Much of Freud's work sought construct an *ontological* understanding
   of how the earliest "motion" in the evolution of an individuals mind
   would impact that individual for the rest of their
@@ -136,13 +143,13 @@ excerpt: ""
   evolution. Furthermore, if psychologists could recognize these types
   and metatypes, they'd be better equipped to advise the patient's
   treatment by understanding that patient's early-childhood motion
-  through human-psyche-space, uncountably infinite to be sure.
+  through human-psyche-space.
 
   - regardless of the era, the mind of a child is least-constrained by
-    these influences. to become familiar with expression, seek to
-    understand the world through that lens or, more effectively,
-    observe how they reflect on art and the possibilities of
-    expression and interaction thereof. they don't yet have rigidly
+    hyperrealistic influences. to become familiar with expression,
+    seek to understand the world through that lens or, more
+    effectively, observe how they reflect on art and the possibilities
+    of expression and interaction thereof. they don't yet have rigidly
     defined constructions telling them what is or is not possible, but
     critically, everyone of us beings life in tabula rasa and are
     inlaid with our own combination of experiences which defines which
@@ -170,27 +177,28 @@ excerpt: ""
         message with consistency if I cannot refer to intellectual
         ideas.
 
+
+
 ###
 
-    - Each of us has this "profile of conscious phenomena" that
-      changes as it steadily accumulates new knowledge and perceptive
-      capacity over time.
-
-    - Every adult has their own set of imperceptible phenomena, which
-      will or may remain unconscious to them, but adults in a society
-      generally converge towards more singular "perceptibility
-      profiles". For example, we are all conscious of Uranium's
-      significance to nuclear fission, but the mind of an engineer is
-      much more likely to fixate on realism in future vehicles; for
-      most adults perception of vehicular form factors, these
-      highly-technical concerns remain invisible: the impact that
-      materials selection and cost have on resilience to the
-      accumulation of stresses, especially at joints; the actuarian
-      methods, which statistically define acceptable risk tolerance
-      for cumulative stress.
-    - Obsessing over the authenticity and coherence of details in hard
-      science fiction is lost to most of us: expensive sweat to be
-      wasted.
+- Each of us has this "profile of conscious phenomena" that changes as
+  it steadily accumulates new knowledge and perceptive capacity over
+  time.
+  - Every adult has their own set of imperceptible phenomena, which
+    will or may remain unconscious to them, but adults in a society
+    generally converge towards more singular "perceptibility
+    profiles". For example, we are all conscious of Uranium's
+    significance to nuclear fission, but the mind of an engineer is
+    much more likely to fixate on realism in future vehicles; for most
+    adults perception of vehicular form factors, these
+    highly-technical concerns remain invisible: the impact that
+    materials selection and cost have on resilience to the
+    accumulation of stresses, especially at joints; the actuarian
+    methods, which statistically define acceptable risk tolerance for
+    cumulative stress.
+  - Obsessing over the authenticity and coherence of details in hard
+    science fiction is lost to most of us: expensive sweat to be
+    wasted.
 
 Ghost in the Shell's vehicle design demonstrates the difference
 between presentation of soft and hard science fiction, as well as the

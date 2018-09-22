@@ -8,6 +8,20 @@ author:
 excerpt: ""
 ---
 
+- while i believe people are still inherently good, as is society, it
+  would seem that evil people, implicity, are typically conscious of a
+  broader range of phenomenona than good people. to be good at being
+  evil, you have to be more in tune with social information to analyze
+  it for signals you can use for deception, malicious behavior, etc.
+  - consequentially, by zooming out to consider power dynamics in
+    groups of people with varying levels of consciousness, then evil
+    would tend to outcompete good in social hierarchies, absent some
+    social self-regulation of amoral exploitation -- i.e. law or
+    religion.
+  - (these modes of self-regulation actually tend to be pretty strong,
+    as they need to be... etc, etc, they encode idealized virtues,
+    etc)
+
 - ![Lucy/Bassnectar Video]()
 
 ### Terminology & Definitions
