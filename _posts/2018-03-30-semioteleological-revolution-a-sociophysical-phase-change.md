@@ -21,6 +21,8 @@ excerpt: ""
   - (these modes of self-regulation actually tend to be pretty strong,
     as they need to be... etc, etc, they encode idealized virtues,
     etc)
+- religion as the spectral harmonization of shadow-egregores emanated
+  from the unconscious aspects of psychology/sociology/economics
 
 - ![Lucy/Bassnectar Video]()
 
@@ -1792,8 +1794,6 @@ precluding the cultivation of greater possibilities later on in their
 lives. If they had instead waited, they would know what they truly
 wanted and they'd know better how to create it.
 
-
-
 If the Illuminati's bread and butter is controlling your mind by
 limiting the prevelance of ideas and control, then the Black Sabbath
 in its various forms is essentially Illuminati caviar. What do little
@@ -1813,6 +1813,146 @@ every baby-sacrificing event. Purely metaphor, of course...
 src="https://www.youtube.com/embed/WkNp56UZax4" frameborder="0"
 allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+- TODO: rewrite content on moloch
+- witches are double-talking, two-faced, self-interested snakes who
+  use occult psychology to imbue the young with as few psychological
+  metatypes as possible (rendering them as unconscious as possible),
+  so that they can be used for their own purposes without regard for
+  that "baby's" right to live their own life. (predestination vs. true
+  free will)
+  - using people as #Manakins (or in French #Poupée or in #Japanese
+    #Ningyou or in #German #Puppe) is something that takes a young,
+    sheltered lifetime to create. it's not something evil you decide
+    to do just once. it's something you do every day of that child's
+    fucking life: you lie to them and "shield" them from everything,
+    so that they become ostracized and then dependent on you
+  - that is a #CIA #MANAKIN and it's not exactly an 80-year old
+    technique taken from #Nazi #Psychology. THAT IS WHY BABIES WERE
+    SACRIFICED TO BABYLON'S GOD #MOLOCH: it took using the
+    population's second-born and third-born children as sacrificial
+    pawns to causally obfuscate the actions of the #Babylonian #Empire
+    to sustain the empire. AND THEIR CITIZENS GLEEFULLY AND
+    PATRIOTICALLY MASS-PRODUCED MANAKINS IN THE ANCIENT WORLD.
+
+- What TF do you think #AllenGinsberg was writing about in #Howl when
+  he was talking about the "BABY" eating god #MOLOCH?
+  Semiotic-mappings have been preserved **through language evolution**
+  by the way. Most of the associations societies have had to
+  #CulturalUniversals have remained constant **throughout history** --
+  as well as maintaining meanings fairly consistent in those semiotic
+  signs' mappings to related semoitic signs in #Zipf's Distribution of
+  Semiotic Signs.
+  - THE LITERAL MATHEMATIC DEFINITION OF CULTURAL UNIVERSALS: the set
+    of signs that predominates all human thought; they are the most
+    frequently referenced/represented ideas in our neurological
+    thought. That #Zipfs distribution for the frequencies of specific
+    semiotic components of societies collective thought -- if it could
+    be measured across all individuals in society -- has not changed
+    very much at all, until #MassMedia (its ensuing commercialization
+    via radio/tv) and the internet. Because human thought related to
+    cultural universals has [mostly] retained its network of
+    teleosemiotic relationships to other critical HUMAN or SOCIETAL
+    PHENOMENON, then in the pursuit of using language as a tool, the
+    interesting "subtleties" that are exploited by #ARGOTS,
+    #CRYPTOLECTS and the MAXIMALLY #UniversallyAvailable basis for
+    #PATTERNLANGUAGES presented by #CulturalUniversals are not the
+    unique products of our "modern" civilization that we think it is,
+    nor are they the product of our specific culture's "unique" or
+    "superior" evolution, wisdom, posture or knowledge. Instead, these
+    cryptolects/argots/etc -- and even that MAXIMALLY UNIVERSALLY
+    AVAILABLE basis for #Pattern Languages based on the universally
+    human experience USED BY THE #MASONS AND OTHER #SECRETSOCIETIES --
+    **NONE** OF THEM ARE SIGNIFICANT OR UNIQUE WHATSOEVER.
+  - fuck your secret society;; fuck your tradition's preference of the
+    first-born;; But most of all: fuck you all, humanity, you will all
+    be judged for who you have betrayed or for the children you've
+    specifically decided to #SELL into the #PSYCHOLOGICAL #SLAVERY
+    that is so "unique" and "patriotic" to your "GREAT NATION" or
+    #IroniclyBLIND #FallenEmpire.
+  - What none of you understand are the most significant bits of what
+    I have just said, but, if that be so, then neither could you
+    understand THAT WAS HAS PERSISTED THROUGH THE AGES IS COMING TO AN
+    END SOON. We are about to experience the end of all as-yet-known
+    patterns of human experience and will begin #Engineering our own
+    #Teleosemiotic patterns, which will eventually become ALL BUT
+    DISCONNECTED FROM ALL DEPENDENCE ON TELEOLOGICAL CONNECTION TO
+    #CULTURALUNIVERSALS WHICH THEMSELVES WILL GRADUALY #CEASE TO BE
+    UNIVERSALLY. This is the end of the world for the #METAPHYSICAL
+    definition of the world, in the terms of my own philosophy which
+    is unbelievably reviled AT THE VERY TIME WHICH IT IS NEEDED, as am
+    I.
+  - I AM AS SIGNIFICANT AS SOME OF THE "GREATS" OF OUR MODERN
+    PHILOSOPHY, or at least beginning to approach such greatness, if
+    no one else can tell you about what will happen because of
+    #Teleosemiotics.
+  - I don't care whether people reject me -- for wanting to discover
+    #LearningOpporunities or for whatever reasons they believe to be
+    expedient or to sound believable. It doesn't matter what happens
+    to me. Society has made it's virally programmed disdain and
+    ostracization of me so unbelievably clear that #SPITE is probably
+    my strongest #RAISON D'ETRE.
+  - It doesn't matter what happens. Every one of you who continues to
+    lie, cheat, deceive and -- worst of all -- for profit or apparent
+    security, #Promulgate #Sin and #Ignorance so that others sin for
+    you. THAT PEOPLE CAN ABIDE BY A #METAPHYSCIALLY #MATERIALISTIC
+    #MORAL #SYSTEM, while being disgusting creatures who
+    promote/delegate sins to others, so that they receive the karmic
+    consequences of sin IS PRECISELY WHAT JESUS EXISTED TO CORRECT.
+  - And no, the end of that last paragraph is NOT a statement about
+    #Judaism, in case you magically did not understand anything i've
+    typed thus far, but found that statement so believably expedient
+    for twisting my words, you ignorant race-baiting assholes. instead
+    that is statement about any moral system which fails to take into
+    account that moral system's impact on aggregate human behavior,
+    particularly by refusing to address the "spaces between" those
+    explicitly enumerated by that moral system. since moral systems
+    which are shared are also useful for assigning/protecting
+    authority and power structures, then those in power who can
+    deceive the masses -- or at least convince the masses that the
+    elite commit no sins or are otherwise essential for preserving the
+    moral order -- while #Indirectly operating to create the #MostSin,
+    delegated, transmuted or obfuscated to others, then have the
+    ability to gain from the net result of actions **THAT THE ELITE
+    SAUGHT TO CAUSE by some redirection via the ELITE's WILL and
+    AGENCY**, which society as a whole suffers the actual #KARMIC
+    consequences of such actions, quite often forming the first
+    decelarations in power for empires soon to crumble whose apparent
+    profits are so deaf to #Humanist or #Universalist valuations for
+    moral systems.
+  - As a consequence of #Nietzche's transvaluation of values systems
+    -- which conveniently deconstructs all moral systems, leaving its
+    author with apparently none -- it is actually those who have the
+    #MOST #POWER in society who are to be the #MOST #RESPONSIBLE for
+    #ANY #CONSEQUENCES of sin that occurs. For all societies more
+    generally, irregardless of belief system that enshrines some moral
+    system, then the consequences of any transgressions by individuals
+    against their own moral systems or society's moral systems encoded
+    into law, those who occupy positions of power in the
+    #SocialHierarchies of that society have the opportunities to do
+    something about it. Quite often in history, empires begin to rise
+    and, either information consensus across the empire is difficult
+    or people in power decide that the best way to perpetuate power is
+    to #PRETEND to enforce the #RuleOfLaw in the spirit of the law,
+    while instead selectively enforcing the Law to eliminate threats
+    to the state ... or worse, for some other self-motivated or
+    #CORRUPTED ends.
+  - The programs that, at least for the past two decades, have used
+    #MassMedia, #MassCommunication and #CovertNetworks to MASS PRODUCE
+    #MANAKINS -- they represent nearly every empire's attempt to
+    create in the youngest generation, tools which perpetuate/secure
+    the empire's aims or simply act as tools to spread fear and/or to
+    retaliate (by acting against some family's given second-child or
+    third-child (poupée/puppet) "baby" who may be alone and, as the
+    family is well aware, IS ALMOST COMPLETELY UNCONSCIOUS BY DESIGN
+    -- specifically so that the can be a useful token for generating
+    favor towards the family later on, BY METAPHORICALLY SACRIFICING
+    THE BABY TO #MOLOCH AND THUS ADVANCING THE INTERESTS OF THE
+    EMPIRE.
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/stgyR38BCIg" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 <a name="a-witches-brew-of-transgenerational-sociophysical-churn" />
 
 ### [A Witches Brew of Transgenerational Sociophysical Churn](#a-witches-brew-of-transgenerational-sociophysical-churn)
@@ -1828,7 +1968,6 @@ potential energy is harvested through people's ignorance, their
 obedience, their constraint by sin and their will to use others for
 their gain. Then, the naked truth of these horrors serves to shock the
 world into rationalization or suppression of that truth.
-
 
 - [Saul and the Witch of Endor](www.mechon-mamre.org/p/pt/pt08a28.htm#3)
   - what was i trying to demostrate with this biblical story?

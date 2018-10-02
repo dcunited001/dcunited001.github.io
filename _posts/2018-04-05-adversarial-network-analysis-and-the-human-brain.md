@@ -8,7 +8,7 @@ author:
 excerpt: ""
 ---
 
-misc
+Misc
 =======
 
 - terminology
@@ -35,7 +35,7 @@ misc
       that is post modernism)
       - how does the above connect to individuation?
 
-- "hyperrealism" and over-determinedness of information systems
+- "hyper-realism" and over-determinedness of information systems
   - move this to article with a discussion on epistemology?
     - semioteleological revolution
   - how the extremely wide distribution of information results in the
