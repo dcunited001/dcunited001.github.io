@@ -77,7 +77,7 @@ the degree that vocal phoneme delineation and morpheme selection does.
       expression/interpretation include:
       - degree of root pitch vs change in pitch
       - degree of initial FFT spectra of sound vs change in spectra
-      - degree of initial volume \
+      - degree of initial volume
       - degree of rhythm/repetition of pitch, spectra,
       - degree of control over expression of that specific
         sound/phoneme.
@@ -112,7 +112,7 @@ spaces](https://en.wikipedia.org/wiki/File:The_International_Phonetic_Alphabet_(
 
 ### Misc Linguistic Ideas:
 
-#### Configuration Entropy, Kanji Radicals and Iching
+#### Configuration Entropy, Kanji Radicals and I-Ching
 
 - configuration entropy and the creation of the oracle bone script
   - the seal script supposedly emerged from an earlier "oracle bone
@@ -151,6 +151,114 @@ spaces](https://en.wikipedia.org/wiki/File:The_International_Phonetic_Alphabet_(
     intersect with iching?
     - if there are major connections between kanji radicals, i-ching
       and random stroke configuration distributions ... why?
+
+#### Prioritized Morpheme Selection in (JP/CN and KO/CN)
+
+- Morphemic Drift in Japanese/Chinese and Korean/Chinese, with
+  emphasis on the following ideas:
+
+  - Zipf's Distribution, Configuration Entropy and Dirichlet Energy
+    - Tending to select Grapheme/Morpheme mappings that minimize the
+      number of homonyms introduced into Japanese from Middle Chinese
+    - once some morphemes had been imported from china, this would
+      impact both:
+      - further morphemes that would be prioritized for importation
+      - and also, *how* subsequent morphemes would be changed to fit
+        the existing lexicon of (native+foreign) morphemes.
+    - this implies there is something that parallels a metric of
+      Dirichlet Energy that specifies a least-energy prioritization
+      for morpheme importation
+      - also, a concept that parallels configuration entropy, which
+        describes the "natural" arrangement of morphemes, as mapped in
+        phoneme-space
+  - Diffeomorphic dynamics (altering morpheme selection, given the
+    existing set of adopted morphemes/graphemes into JP/KO from Middle
+    Chinese)
+    - so, in the context of a gradual importation of morphemes, the
+      above metrics of dirichlet energy and configuration entropy
+      imply that there would be dynamics of morpheme-allocation that
+      would emerge based on what unused morphemes were as-yet unused
+    - more concisely, there are diffeomorphic dynamics to morpheme
+      allocation. for east-asian languages, because of the global
+      dynamics in morpheme selection/drift, these diffeomorphic
+      dynamics are simpler to model.
+
+  - The phonentic "transliteration" of morphemes from Middle Chinese
+    into the phonentics of Japanese/Korean.
+    - in order to facillitate commerce, it would be ideal for the
+      morpheme to be as close as possible to the original Middle
+      Chinese
+      - is there a simple phonetic Levenschtein distance for comparing
+        the original adaptation of Middle Chinese morphemes?
+        - the US Gov't uses the
+          [Soundex](https://en.wikipedia.org/wiki/Soundex) algorithm
+          to phonetically index words such that SQL indexes can easily
+          be constructed for phonetic levenschtein distance (the
+          difference between word sounds)
+        - such an algorithm is a starting point for constructing a
+          crypto-lexicon of codewords using state of the art computing
+          technology available with 1970's through 1990's
+        - unfortunately, it's easily defeated with subsequent
+          generations of computing technology
+      - is there any data which can provide an accurate Zipf's
+        distribution for native morphemes?
+        - when importing foreign morphemes into Japanese/Korean, it
+          would be preferable to mutate morphemes, whose phonetic
+          "transliteration" into Japanese/Korean collides with native
+          morphemes that rank as frequently-used (e.g. top 500
+          morphemes in the zipf's distribution for that time)
+        - unfortunately, writing systems such as hiragana/katakana
+          were created after Japan started importing
+          graphemes/morphemes from China.
+
+- As morphemes were introduced into Japanese and Korean from Middle
+  Chinese, it caused changes in how native speakers used their
+  language. The introduction of graphemes, made possible by the
+  potential facilitation of commerce, not only caused Japanese and
+  Korean to experienced paradoxically heightened and dampened
+  morphemic drift, it did so with particularly interesting nuance:
+  - the introduction of morphemes associated with graphemes (Kanji)
+    meant that Japanese and Korean phonetics needed to adapt to import
+    the Middle Chinese morphemes. To deal with the disparity in
+    phonetics, the Middle Chinese morpheme would usually be
+    restructured in terms of Japanese or Korean phonetics.
+  - Since many morphemes in Chinese, Japanese and Korean are composed
+    of grapheme pairings (e.g. Jukugo kanji pairings in Japanese),
+    these morphemes would *exhibit global evolutionary dynamics*,
+    whereby the morphemes would *drift globally* upon their initial
+    consumption into Japanese/Korean or upon their gradual morphemic
+    drift thereafter.
+    - this is an example of the "nuance" i reference above, which
+      differs starkly from morphemic drift and morphemic selection in
+      european languages, where morphemes are selected/reinforced
+      almost in the same way that phenotypes are hybridized in
+      agriculture. here, there are no global graphemically-imposed
+      constraints on morpheme drift that impact *groups* of morphemes
+      (and their morpheme pairings)
+      - further still, since the widely-used vulgate
+        (dialects/langauges) of medieval europe were not literized,
+        spellings and even orthography was not standardized until very
+        late, when compared with the implicit standardization of
+        east-asian orthography via their ideographic nature.
+  - because of these "nuanced" morphemic evolutionary dynamics, it
+    opens the possibility for specialized approaches to linguistic
+    data science not applicable for other language families.
+    - that is, if there is enough data. what is available in early
+      japanese and korean is often limited since the phonetic
+      information is not attached to the ideographic graphemes in
+      available writing samples.
+    - what is available is what was written on media that could
+      persist through the ages and, as such, distorts the data which a
+      zipf's distribution could be constructed from, prohibiting these
+      approaches from making accurate assumptions about the diffusion
+      of morphemes/graphemes throughout society over time.
+      - these concerns are of the same nature as those that limit
+        accurate analysis on European literary data before the
+        Reformation.
+    - however, many of these insights can still be applied, albeit to
+      less quantized analysis of east-asian language evolution.
+
+
 
 #### Names and Unused Phoneme Combinations
 
@@ -1178,3 +1286,61 @@ these specific aspects are desirable:
   - so, the paradox is that, to use norms to signal, you have to
     propagate the norm
     - ....
+
+
+# Levenshtein Distance and Spelling Codes
+
+all of the #SpellingCode's can similarly be combinatorially
+constructed, using ideas of #EditDistance and
+#LevenschteinNeighborhood. So, take any two words spelled with
+Latin/English #Orthography, where one of them is perhaps mispelled,
+and generate the paths through the #MANHATTANPROBLEM, which represent
+the potential paths that constitute the levenschtein neighborhood.
+
+(e.g. illuminati/elluminati yields a levenschtein neighborhood with
+one path: not-e)
+
+Watch this youtube video on [Edit Distance for
+Bioinformatics](https://www.youtube.com/watch?v=3NLYH44F6SU) to
+provide an example.
+
+After you construct the levenshtein neighborhood, then you
+re-phoneticize the paths that constitute the levenschtein paths, where
+there is ideally one obvious path to be chosen. The greater the
+levenshtein distance, the less likely that the spelling-codes will be
+interpreted.
+
+This is the basis behind #SpellingCodes:
+
+- Not-E => "Naughty"
+- No-N => "No Win"
+
+After you construct the levenshtein neighborhood, then you
+re-phoneticize the paths that constitute the levenschtein paths, where
+there is ideally one obvious path to be chosen. The greater the
+levenshtein distance, the less likely that the spelling-codes will be
+interpreted.
+
+This is the basis behind #SpellingCodes:
+
+- Not-E => "Naughty"
+- No-N => "No Win"
+
+and no, what i've written above is not definitively true, BUT COULD
+CERTAINLY PROVIDE THE BASIS OF AN INTRIGUING #CRYPTOLECT
+... theoretically, it is sound; the question would be whether the
+99.99% of people who can't follow my argument above could actually use
+such codes to communicate
+
+Furthermore, it's so interesting that the #EditDistance problem is
+what the #NSA does not want anyone to crack. There was some
+interesting progress in
+[BSAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem)
+in 2015 at the same time that I was trying to construct a means of
+producing #EditDistance for
+#SequenceAlignment.
+
+It may seem like all of the above ideas are disconnected, unrelated or
+scattered -- BUT THEY ARE NOT. They are most definitely connected,
+although there are few people who could follow along with my arguments
+for why.
