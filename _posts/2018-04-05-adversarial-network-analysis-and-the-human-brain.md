@@ -8,6 +8,262 @@ author:
 excerpt: ""
 ---
 
+
+## Leonardo and How Mirrored Writing Expands the Mind
+
+- this is the perfect idea for opening an introduction to analytic
+  neurology.
+
+leonardo da vinci wrote backwards, but only bc he was left-handed and
+didn't want dirty handwriting. increasing efficiency/flexibility of
+visual/symbol recognition expands the mind, neuroanalytically, by
+forcing your neural circuits to convolute and renetwork themselves
+into more advanced information-processing forms. this information
+processing capability must be backed by an encoding of the
+metaphysical into material structure of your neural circuits. most
+people do not bother to trudge through learning how to use their mind
+like this. it is not a coincidence that #LeonardoDaVinci wrote in this
+way and was so intelligent.
+
+- describe the connections between generative networks and
+  (interpretative) networks, but why generative networks are so much
+  more important and more connected.
+  - use guitar vs. guitar hero as an example
+    - although find another app that is closer to guitar/piano than
+      guitar hero
+  - to advance in Guitar Hero, you have to become fairly proficient at
+    rhythm, though the games tolerance is forgiving.
+    - in the end, do you learn to generate those rhythms?
+  - why does it seem like any knowledge or skills gained by playing
+    (guitar hero) is superficial? it doesn't seep into your mind and
+    doesn't reinforce skils related to actually playing music. why?
+    - you are training and reinforcing primarily reactive skills,
+      without streaming any signals through neural circuits
+      responsible for proactively generating the content.
+    - if you have a modular theory of mind, then this comprehensively
+      changes the physical manisfestation of signals streaming through
+      your brain. they don't need to modularly coordinate with any of
+      the generative networks. it's like half your mind is running; in
+      terms of machine learning, these are purely
+      (classification/and?) tasks; there is no need to "think" and all
+      you have to do is react to trigger the rhythms within the level
+      of tolerance permitted. for rhythms with many fast notes, the
+      player actually has a ton of tolerance to work within,
+      proportaional to the length of the smaller units of notes. The
+      the scoring system doesn't adjust for this enough, to make you
+      feel good about playing fast stuff. In real music, it doesn't
+      work like this at all.
+
+- your mind is not engaging the same pathways whatsoever when you play
+  drums or play drums on guitar hero. at all. they are almost entirely
+  separate. you're not thinking about driving the sound or about the
+  subtle facets of technique which will have a huge effect on how a
+  listener might perceive your expression.
+  - the neural circuits responsible for this stuff just are not
+    engaged whatsoever when you're playing Guitar Hero, so there
+    should be zero expectation that playing will improve your musical
+    skills. Truthfully, you need some knack for rhythm to beat it with
+    drums, but it doesn't help you gain anything.
+
+
+- what does any of this have to do with Leonardo Da Vinci's mirrored,
+  left-hand handwriting? And expansive symbol-recognition?
+  - connect to a modular theory of language/mind.
+  - ![image of optical processing pathways]() from Optic Nerve through
+    Occipital Lobe. (imagine connecting these pathways to langauge,
+    but that the mid-tier symbol recognition centers are more
+    expansively built out.
+    - now, imagine that you are forced to not only write in mirrored
+      handwriting, but you are the only individual to do so and that
+      you prefer to write in script that corresponds to the scripts in
+      society through a simple 2D/3D LINEAR TRANSFORMATION, which
+      neural networks are EXCELLENT at recognizing.
+
+
+### Expansive Symbol Recognition
+
+- increasing the occipital lobe's range of neural pathways which
+  correspond to grapheme-semiotic activation.
+  - explain why this is helpful in expanding intelligence.
+  - explain more: while writing systems with more complicated
+    orthography are harder to learn, they have more profound impacts
+    on the structure of the mind, especially when someone learns
+    multiple writing systems.
+
+- How does this correspond to Da Vinci's handwriting? In comparison,
+  why is merely expanding orthographic recognition with more symbols
+  still deficient? From a neuro-analytic perspective, why does the
+  increased pathway inter-connection for mirrored writing require more
+  profound effects to the brain's visual-processing interface with the
+  rest of the brain?
+  - it is because of the highly diverse neural activations associated
+    with reading and writing in a person who voluntarily engages in
+    mirrored writing, especially from a young age.
+  - These pathway activations are distinctly different in a huge way
+    and over time have a major impact on the structure of the brain's
+    visuolinguistic pathways. Sure, I've presented very little
+    evidence, but that will all soon emerge from data science
+    connecting psychology to in-depth analysis of neural pathways from
+    MRI or SPION imagery. The implication is that the way you use your
+    brain, how you choose to structure cognition and the younger you
+    are when you develop various components of cognitive approach has
+    a major impact on how individuals skills manifest in a person,
+    which corresponds to physical differences in the brain.
+
+### The Hegelians Win
+
+- this is why taking art, music, etc out of primary/secondary
+  education is a major mistake. it is essential for developing
+  (structured cognition) that is both (interpretive) and (generative)
+- (This is why) presenting the child's mind with the right approaches
+  for deconstructing information and constructing cognition provides a
+  set of "initiation"-like methods for nudging the child's mind in the
+  correct direction to develop intelligence.
+  - Sure, in the Nature vs. Nurture argument, epi/genetics helps quite
+    a bit. However, for plastic neural networks like the circuits and
+    pathways of the human mind, the specific information processed
+    coupled to the structure of approach used to destructure and
+    restructure it has a far greater impact than psychology and
+    neurology seem to realize.
+    - That is -- and this will satisfy Hegelian philosophers and
+      Buddhists quite a bit -- your mind primarily adapts to
+      metaphysical structures that are pre-eminent. It does so by
+      constructing its own images of those metaphysical structures,
+      which ontologically correspond to deconstructions and
+      typological permutations of invisible metaphysical forms which
+      are pre-eminant. So, as for the Hegelian and Marxist
+      Metaphysicists, both sides are somewhat correct, since it's
+      recursive, but truncate the recursion in an inductive mathematic
+      proof and you'll see the Hegelian conception of metaphysics
+      provides the forms to which the materially derived Marxist forms
+      converge.
+
+### Back to Da Vinci
+
+
+Instagram Post
+==============
+
+## NeuroAnalytic Thought Experiment
+
+Lately I’ve been writing a lot about a #NeuroAnalytical conception of
+the brain and mind, which bridges some very important gaps in:
+
+### What questions/problems does this help us reason about?
+
+- 1️⃣ #Philosophy (What distinguishes the mind from the brain? Are
+  metaphysical forms universal (Hegelian) or materially dependent
+  (Marxist?) between the mind and the brain)
+
+- 2️⃣ #Psychology: How do Jüng’s archetypes and ontological patterns
+  (typologieS, plural) correspond to neurological circuits &
+  structures?
+
+- 3️⃣ #Neurology: If archetypes and developmental dynamics are
+  represented by motifs of neurocircuitry, where form is shared among
+  our species, is information that encodes this form persisted through
+  #Nature (epi/genetic) or #Nurture (through social information,
+  mostly conscious) or #Enigma (Hegelian metaphysical forms emanate
+  from the structure of the mind and society’s intersection with the
+  unconsious) ... ?!
+
+- 4️⃣ #Phenomenology: If the presentation of informational forms related
+  through the metaphysical and unconscious result in motifs of
+  neurocircuitry, then how much of our brains structure would change
+  if the #SpectralComposition of sensory data our mind processed were
+  to suddenly change? (i.e. like the Neuro research where a sense like
+  sight is mapped from optical nerves to gustatory or auditory cranial
+  nerves) Or what is the impact on the mind’s structure in people who
+  lack specific senses?) 🤨🧐
+
+By establishing a #Neuro #Analytic conception of the brain/mind —
+i.e. by modeling the brain as an analytic machine AND UNIVERSAL
+COMPUTER — i can answer all of those questions with at least as much
+depth as existing thought leaders and also bridge Jüng’s ideas of
+#AnalyticPsychology to neurology🧐😎
+
+### So, that #NeuroAnalytical #ThoughtExperiment:
+
+- This may sound silly, but is a pretty difficult #ComputerVision
+  problem to solve in software, but by imagining how to imitate such a
+  software design in the brain, we can infer a lot of information
+  about how our optical pathways process visual data, as well as what
+  the limits are. Also, when doing this, it is unreasonably hard to
+  operate your mind to subjectively process these if they are not
+  aligned in the same direction... which is an example of a fantastic
+  question to ask that has neuroanalytic implications => Why is it
+  easier for your brain to process the image data and yield an answer
+  when the diodes are lined up? The overly general answer: your brain
+  is an analytical machine.
+
+#### 1️⃣ attempt to operate your brain’s low level optical pathways...
+
+- to identify whether one of these components has the same distinct
+  #ProductNumber, without moving them within the bag
+
+#### 2️⃣ Imagine this as an exercise in cutting and gluing the textures...
+
+- from the cylindrical #Diode surfaces to identify any part with a
+  code that is not shared by the rest of the group
+
+#### 3️⃣ If you're familiar with techniques from #ComputerVision...
+
+- like the #WatershedAlgorithm and #MorphologicalOperators, imagine
+  how your brain preprocesses visual data en route to the
+  #OccipitalLobe.
+
+#### 4️⃣ Once the processed signals reach the #OccipitalLobe...
+
+- then your brain uses #Spatiotemporal methods to process the visual
+  data to sub/consciously identify facts & info to extract, yet you
+  can conscious operate your brain to alter how this proceeds. **And
+  this is the most important implication** In order to identify
+  whether the diodes are of only one type or there are multiple types
+  of diode included (without moving the diodes in the bag) your brain
+  can to "cut & paste" images from the cylinders, while also
+  identifying diodes that present with indistinct and ambiguous
+  partial codes (e.g. the letters "IN" are used on many types) So this
+  algorithm/process can be unsolvable, but your brain can tag regions
+  of this visual image as "unsolvable" without interaction.
+
+### Questions
+
+- FINALLY, some questions that result from the thought experiment:
+
+- 1️⃣ Does the shape of the diodes/components affect the hardness of the
+  problem? (Yes, but why? because for cylindrical diodes, your brain
+  cannot make assumptions about the regularity of the image of the
+  objects. this makes the problem less tractible, as the specific
+  orientation of the cylinders is always ambiguous)
+
+- 2️⃣ Does the manner in which you choose to operate your mind cause you
+  to engage different sets of neural circuits? (Also, yes: since the
+  cylindrical shape of the diodes doesn't allow you to see the entire
+  label of any of them at once, you either must ( 1 ) "stitch" images
+  together in your mind to form a complete reference #Texture, then
+  try to fit sub-images into that reference image, like pieces of a
+  puzzle, which is impossible for me or ( 2 ) process the sub-images
+  from each cylinder that are visible for Letters/Numbers to find some
+  that don't match the known code (in this case IN4007), which is the
+  process I have to take to resolve the ambiguity
+
+### To Summarize
+
+- While this all sounds dumb to put on instagram, reasoning about how
+  your mind directs the lower-level circuitry of your brain, allows
+  you to make interesting inferences about how the brain operates as
+  an analytical machine. Feeling out the limitations imposed on the
+  brain by intractible approaches to everyday IRL tasks gives you a
+  ton of information about how information is processed.
+
+- (sorry, this is going in my draft on a #NeuroAnalytical conception
+  of the brain/mind ... but it's what i'm thinking about at the
+  moment, so i'm putting it online LOL ... I've been working on that
+  article (and others) for like 5 months and there's just too much
+  content for me to handle. I'm just lucky that i managed to not
+  discuss the #Unconscious in these rambing instagram posts.
+
+
 Misc
 =======
 

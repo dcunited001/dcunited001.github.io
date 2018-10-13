@@ -73,7 +73,47 @@ misc
     progression?
   - how does this description intersect with a total generalization of
     governance?
-  -
+
+### Already becoming communist without even understanding why
+
+- We're already gravitating closer to Communism or other totalitarian
+  systems of governance. Why?
+  - Social media is prepping us to have tightly regulated social
+    resources. Social media must quantifies social interaction, so
+    that algorithms can influence it. At the moment, there is no over
+    ideological bent to how Facebook regulates social interaction, but
+    we are creating many of the same tools to do so, accompanied by
+    the cultivation of social responses to the ubiquity of data-driven
+    social manipulation.
+    - These social responses include economic responses -- SEO and
+      more behavioral responses where groups collectively work
+      together to manage their own social resources not unlike how
+      commercial groups facilitate commerce of financial
+      resources. When people organize around a facebook group and use
+      the community for the benefit of the admins, they are
+      facillitating commerce of social resources.
+    - Other social responses include the development of beliefs,
+      social norms and the reflections of each -- i.e. beliefs about
+      norms, norms of belief, beliefs about belief, etc.
+    - Society is adapting to the changes in viscosity of resources: of
+      social-type, financial-type and informational-type. The systems
+      are fast-evolving and complex; they don't so simply permit those
+      on the inside from understanding how the systems are changing.
+  - At the same time, mechanisms for value accumulation, storage and
+    commerce that involve primarily financial resources will become
+    less viable. This will pace economic problems; as liquidity
+    becomes scarce and the distribution of economic opportunities
+    becomes more restricted, this eliminates savings as a store of
+    value and generally makes financial resources less accessible. The
+    result is that people will gravitate towards the commerce of
+    influence using what is available and less viscous: social and
+    informational resources, but we will find those are difficult to
+    exchange as well.
+
+- therefore, our societal and governmental systems will approach the
+   zenith of totalitarian configuration, regardless of the nominal
+   ideology its supporters rally behind or what anyone names it in the
+   end.
 
 main outline
 ===========

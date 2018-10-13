@@ -8,6 +8,27 @@ author:
 excerpt: ""
 ---
 
+
+- review this question: more important than the quesiton of whether
+  God create a rock that he cannot lift is:
+  - can God create a world where individuals with/out free will who
+    must understand the basis & specifics of their obligation to
+    follow an omnipotent God by being able to answer that unanswerable
+    question?
+    - that is, individuals without free will, if they cannot answer
+      the question "can god create a rock that he cannot lift" could
+      they truly be said to be in line with the Diety who must be able
+      to answer that question?
+      - further, if instead we consider God's omniscience, can God ask
+        himself a question that he cannot answer? specifically, can
+        God provide an answer to a question, which metaphysically, has
+        no answer?
+      - yet, if God cannot because there is no answer, then how can
+        individuals with/out free will be expected to obey God, who is
+        not so omnipotent as to be able to defy particular
+        metaphysical constrants.
+
+
 - there's a disconnect that individuals whose western ideals can't
   bridge. (this notion of 'western ideals' needs to be far more
   precise)

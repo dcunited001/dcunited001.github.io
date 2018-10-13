@@ -379,6 +379,77 @@ excerpt: ""
   - here, time can be defined literally or the number of cycles some
     entity might require to make the inferences or connections
 
+
+- modeling the impact that the initial presentation of information has
+  on the mind as a path through this information graph.
+  - the relatable example would be deciding what to put on a business
+    card and trying to reason about how the specific pieces of
+    information you include "root" the forms of paths that become
+    possible
+    - what is the right level of information?
+    - what are the right specific pieces of information?
+    - can you guarantee that specific symbols which are included will
+      be conveyed as expected?
+    - if your understanding of which specific piece of information are
+      to be consistently conveyed is assumed to be correct, then how
+      does knowing the basis of symbols/ideas to be conjured in the
+      mind of someone who has just met you tell you about how their
+      minds will extrapolate from that basis?
+
+  - i started thinking about this because i looked at a business card
+    for a church which included the name only...
+    - did they expect someone to Google the name? isn't that leaving
+      the person with a range of experiences which would be too
+      open-ended?
+    - because of the open-endedness, there are no guarantees for
+      assumptions on the range of thoughts/experiences that a prospect
+      had when connecting the dots b/w your business card and finding
+      a person associated with your church.
+    - because you did not include the right pieces of information,
+      and because this implies you cannot rationally make assumptions
+      about the sets of information they accumulated along the way
+      when googling your Church, then it limits how you can reason
+      about their experience in finding you ... or does it?
+      - in some instances, allowing this to be more open-ended
+        (instead of simply including the direct link to a website or a
+        facebook page) will cause the prospects who manage to contact
+        you to present you with information that includes information
+        they accumulated along the way in finding you
+        - but ONLY if you ask the right questions when someone new
+          contacts you.
+
+  - when deciding what the basis of information should be, there are a
+    few factors which predominate how you will reason about
+    this. given a collection of symbols presented in a visual format:
+    - you cannot guarantee how long someone will give your business
+      card their attention.
+      - the longer someone gives you their attention, the more
+        information they will absorb, but this doesn't necessarily
+        correspond to the amount of information they will retain.
+    - people can only remember two or three of those symbols included
+    - people will typically search for types of information (this
+      corresponds to their personal "schema" for the collection of
+      information which is relevant on a business card)
+  - once you have decided on the set of symbols to consider to be the
+    basis of symbols that will be evoked when someone views your
+    business card (or painting), you can reason about this like you
+    have planted some "force-producing" "objects" into the
+    "informational-field" of someone's mind
+    - here, informational field should be a space, where it's
+      field-like nature causes it to operate in much the same way as
+      the electromagnetic field.
+    - the collection of objects exert a "force" in a high-dimensional,
+      semiotic space that distorts the paths that people's minds will
+      take on that space.
+    - so, by choosing a particular set of symbols, you are choosing to
+      distort the paths that people might take in space (once you
+      separate yourself from having to make assumptions about how and
+      whether their minds will actually evoke activations associated
+      to those symbols)
+    - by choosing this set of symbols, you're basically "rooting" the
+      precipitation of paths along which people's minds will guided
+
+
 =========
 
 - digression from metrics of graph-actiations meta/cognitive

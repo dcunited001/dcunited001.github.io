@@ -21,8 +21,15 @@ excerpt: ""
   - (these modes of self-regulation actually tend to be pretty strong,
     as they need to be... etc, etc, they encode idealized virtues,
     etc)
+
+- the emanation of "shadow-egregores"
+  - segue into this
 - religion as the spectral harmonization of shadow-egregores emanated
   from the unconscious aspects of psychology/sociology/economics
+  - why such spectral harmonization is critical to simplifying the
+    possibility space and making sense of humanity, society and our
+    direction forward. without this spectral harmonization, modeling
+    individual and social behavior is far more intractible.
 
 - ![Lucy/Bassnectar Video]()
 
@@ -31,10 +38,9 @@ excerpt: ""
 - Consensus Reality
   - equate, differentiate from, and clarify the following
     - epistemic structure
-    - information system and the structures th
-    ereof
+    - information system and the structures thereof
 
-- delineate typological/onological and replace where necessary
+- delineate typological/ontological and replace where necessary
 
 - socioepistemic schism
   - distinguish/dilineate from the following
@@ -172,6 +178,7 @@ excerpt: ""
         extrapolate the consequences when their (status) is influenced
         by these actions in terse-yet-underdetermined sociopolitical
         situations
+
   - so, sociopolitically, controlling the inferences and
     extrapolations made into socially distributed information systems
     is critical for maintaining power. there are those information
