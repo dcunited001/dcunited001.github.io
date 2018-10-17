@@ -8,6 +8,39 @@ author:
 excerpt: ""
 ---
 
+- how does ML fit into Actuarial Industries?
+  - most of the profit is found assessing risk people think is high,
+    but either you know is low or you know you can mitigate.
+    - the obvious example for AI/ML is on the car insurance industry,
+      since at some point, the risk for accidents plummets -- albeit
+      with fairly flat payout costs.
+    - how does this change pricing and the dynamics of competition in
+      an auto insurance industry once various thresholds of cars are
+      automated and thus the total risk systemically plummets? this
+      total as calculated with accident & safe driving stats, both of
+      which can be factors for mitigation with automated cars.
+  - but generally, how many similar trends will play out across
+    actuarial industruies, since similar risk evaporation trends will
+    play out across them systemically? further, similar mechanisms for
+    risk mitigation will also emerge, which were unavailable before
+    because of any such hardware platform to
+    collect, communicate & analyze the data?
+  - TODO: updload the other notes which mention the economics of
+    actuarial interconnections between businesses/industries
+    - these notes cover how actuarial entities for many categories of
+      product, many of which are industries themselves, impact those
+      businesses as well as macroeconomics in generally. i.e. there
+      are businesses selling products in categories, which are covered
+      by various actuarial products. from the perspective of the
+      economic graph, this is like a meta or hyper dynamic that
+      inflates costs and lowers risks, while providing profit motives.
+      - describe the macro/micro-economics of insurance companies.
+    - insurance companies will need to diversify and restructure. they
+      will be presented with further opportunities to destructure and
+      reconglomerate once the industry begins to change
+
+====
+
 - need to explore more about the merits/faults of final distributions
   of intellectual property holdings.
 - this is the interesting idea here, but

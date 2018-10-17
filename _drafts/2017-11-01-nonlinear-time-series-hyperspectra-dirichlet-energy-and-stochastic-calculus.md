@@ -936,7 +936,7 @@ mesh that represents some point along a [mesh morph]().
 
   - (bitemark analysis: there are huge connections b/w confidence in
     techniques like those and computational methods used in the
-    humanities)
+    humanities)psyq
     - the hardest part about designing studies using these methods is
       proving that one can be confident in the conclusions. if the
       analytical methods can't be proven, inferences and deductions

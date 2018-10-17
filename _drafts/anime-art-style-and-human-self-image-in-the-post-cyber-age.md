@@ -182,7 +182,6 @@ excerpt: ""
 ###
 
 - Each of us has this "profile of conscious phenomena" that changes as
-  it steadily accumulates new knowledge and perceptive capacity over
   time.
   - Every adult has their own set of imperceptible phenomena, which
     will or may remain unconscious to them, but adults in a society

@@ -9,6 +9,38 @@ excerpt: ""
 ---
 
 
+- alchemy: pyramidal alignment of the weak-willed to a strong will, as
+  it relates to sociophysical singularities, the nature of power and
+  the emergence of large concentric stratificiations of hierarchies
+  around sole individuals/dynasties
+  - e.g. persian dynasty, japanese dynasty, mohammed's dynasty
+  - why Jesus differed from other kings (e.g. he was the king of kings
+    because he was a king that could never be killed, as the basis for
+    a belief system which transcended life/death)
+    - this forced the earthly manisfestations of Christian
+      institutions to remain moored to ideology and avoided the
+      gradual taint of sins necessary for maintaining power.
+  - (develop this idea, with focus on sociophysical singularity)
+    - it's really willpower accumulated from innumerous individuals
+      who choose to align themselves with some belief system or
+      crystalize themselves to some clearly understood common purpse,
+      which yields the monopolar alignment of will. in this way, each
+      emergence of concetric stratification of hierarchical structures
+      aligned in unity are like monopolar singularities, which all
+      share the same world while competing for
+      resources/opportunity/attention
+      (i.e. financial/social/informational resources)
+      - this kind of order can emerge as a result of alignment to
+        ideology; to a belief system based on the narrative of
+        someone's life; to some common, utilitarian ends (but this
+        last cause is usually very weak and thus transient)
+      - regardless of the purpose for crystallization/alignment of
+        wills, the nature and dynamics of such sociophysical
+        singularities are identical, only differing in quality and
+        proportion.
+
+
+
 - review this question: more important than the quesiton of whether
   God create a rock that he cannot lift is:
   - can God create a world where individuals with/out free will who

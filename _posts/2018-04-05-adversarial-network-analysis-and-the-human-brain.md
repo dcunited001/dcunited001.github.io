@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 ## Leonardo and How Mirrored Writing Expands the Mind
 
 - this is the perfect idea for opening an introduction to analytic
@@ -766,6 +765,62 @@ Misc
         of information shatters their own worldview, previously
         subconsciously held to be overdetermined and now suddenly
         revealed to be inadequate.
+
+
+### The purely informational impact of Infinitesimals on Psychology and AI
+
+
+- in statistical models and systems theory, the effect that
+  infinitesimals have on how people:
+  - model systems,
+  - develop beliefs about confidence,
+  - miscalculate,
+  - struggle w/ unknown unknowns
+  - respond to traumatic/rare experiences
+
+- and this is because attempting to model event types for which there
+  is no precedent or extremely rare precedent requires turning our
+  values systems and models of systems upside
+  - why? because the expection of events which seemed to have had
+    “almost never” probability (a misnomer) now appear to be more
+    frequent (in P(e) terms) than they did before or than the average
+    person would tend to believe that they are.
+  - thus, to the person (or system or AI) experiencing the event with
+    infinitesimal probability, the event no appears to be
+    infinitesimal.
+  - in the context of psychology (esp. psychology w.r.t. traumatic
+    events with high magnitude impacts) the person/system then
+    responds to that infinitesimal event with individualized responses
+    & motivations & coping mechanisms that seem to be distorted or
+    inordinate to others
+
+- phenomonologically (or perhaps noumenologically), this is a purely
+  informational effect that the existence/experience of the
+  infinitesimal has on the re/evaluation of beliefs system,
+  re/evaluation of beliefs about the probabilistic Expectation of
+  similar events in the future … causes complex de/structuring of
+  systems which render many game theory or systems theory models
+  wildly inaccurate.
+  - these are defect of information theory, systems theory, etc that
+    pose major challenges for artificial intelligence, since these are
+    not defects of a model (per se), but purely informational
+    consequences based on the stroke of luck of having experienced
+    some range of infinitesimal set of events.
+  - the same AI or person could re-experience a typical “life” or set
+    of experiences and emerge with a different collection of
+    infinitesimal-probability events that — because of the
+    high-magnitude impact of their experience on the analytical
+    system’s evolution — necessitate a divergence in the direction of
+    their specific development.
+  - so, based on the specific collection of the high-magnitude
+    infinitesimal events and the sequence in which it encounters those
+    events, it causes the AI/person to develop in a completely
+    different direction.
+  - this is no consequence of the hardware/wetware that the person/AI
+    is running on. these are purely noumenological/informational. the
+    specific hardware type does have some correlation to the types of
+    effects these high-magnitude, low-probability events can have.
+
 
 
 

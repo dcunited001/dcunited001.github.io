@@ -431,6 +431,8 @@ as integers and rational numbers.
   - further, the amount of computing power required means targets
     would be limited
 
+
+
 # GPU Ideas
 
 - GPU algorithm to utilize lighting/spectra/raytracing in a
@@ -638,7 +640,27 @@ as integers and rational numbers.
 - https://www.incendia.net/wiki/index.php?title=Fractal_Types#Kleinian_sets
 - http://www.popularmechanics.com/technology/robots/news/g2095/deep-dreaming-fractal-nightmares/?slide=22&thumbnails=
 
+# Infinitesimals
 
+### Stratification of Infinitesimals in Analytical/Numerical models
+
+- ODE's, PDE's, Continuity, Lie Algebra, E8 and the consequences
+  therein for infinitesimals, when they must align to E8.
+
+- The gradiation or stratification that results from the specific
+  algebraic structure for analytical/numerical models and the
+  observation/encoding of infinitesimal probability events.
+  - e.g. `(1/∞), (1/∞)ˆ2, (1/∞)ˆ3, ... , (1/∞)^n.`
+  - this seemingly idiosyncratic behavior occurs because of the
+    non-uniform distribution of infinitesimal values in statisical
+    systems, since the distribution of probabilities must result in
+    sums of products.
+  - therefore, for whatever values are determined to be infinitesimal
+    for a system (depending on the timescale of the frame of
+    reference) then for an analytical/numerical systems, the
+    infinitesimal values which emerge would tend to stratify or
+    gradiate along `(1/∞), (1/∞)ˆ2, (1/∞)ˆ3, ... , (1/∞)^n`, but
+    tending to break down very quickly.
 
 # Ir/Rationality
 

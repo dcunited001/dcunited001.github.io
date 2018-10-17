@@ -1,5 +1,5 @@
 ---
-title: "An Ontological Dilineation of Governance By Sociophysical"
+title: "An Ontological Dilineation of Governance By Sociophysical Typology"
 categories: "blog"
 tags: ""
 headline: ""

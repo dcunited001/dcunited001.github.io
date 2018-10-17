@@ -24,6 +24,7 @@ excerpt: ""
 
 - the emanation of "shadow-egregores"
   - segue into this
+
 - religion as the spectral harmonization of shadow-egregores emanated
   from the unconscious aspects of psychology/sociology/economics
   - why such spectral harmonization is critical to simplifying the
@@ -32,6 +33,16 @@ excerpt: ""
     individual and social behavior is far more intractible.
 
 - ![Lucy/Bassnectar Video]()
+
+### Molding/Disrupting Social Consensus of Worldview
+
+- consider paths of worldview evolution (context: socio-informational
+  conflict)
+  - consider components of a worldview, diffeomorphicly
+    - how can componets of worldview with social consensus be changed?
+    - what components are flexible enough to be changed?
+    - which components are advantageous to change to decouple dynamics
+      which tend to fasten the social consensus of the worldview?
 
 ### Terminology & Definitions
 
