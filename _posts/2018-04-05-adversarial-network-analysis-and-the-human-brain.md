@@ -97,19 +97,21 @@ way and was so intelligent.
   - linguisits and polyglots
 
 - the answer is two-fold:
-  - recognizing mirrored handwriting (connect this to more
+  - (1) recognizing mirrored handwriting (connect this to more
     perfect/complete solutions of analytical systems that represent
     linear transformations on glyphs)
-  - while writing with both regular and mirrored forces, you are
-    generatively engaging the handwriting recognition circuits in your
+  - (2) while writing with both regular and mirrored forces, you are
+    *generatively* engaging the handwriting recognition circuits in your
     mind, which compels these circuits to embody more refined
     analytical systems representing all affine transformations on
     latin glyphs. the impact of having or not having these low-level
     structures in visual-symbol recognition pathways reverberates
     through the brain/mind as a modular analytical machine.
-  - how can you prove this? by studying the differences between
-    machine learning that recognizes both mirrored and non-mirrored
-    handwriting and normal handwriting recognition systems.
+
+- how can you prove this?
+  - (1) by studying the differences between machine learning that
+    recognizes both mirrored and non-mirrored handwriting and normal
+    handwriting recognition systems.
     - however, there may be some constraints on the hypothesis/methods
       used for experiments to prove this, otherwise results would seem
       inconclusive.
@@ -125,6 +127,27 @@ way and was so intelligent.
       likely ineffective. also, since people who do so are so rare,
       this would bias the data towards inconclusive results, if you
       could get past the difficulties in imagery.
+  - (2) to informally test whether this is effective is by learning to
+    read/write mirrored kanji left-handed. since an analytical
+    representation of affine transformations expanded to such a vast
+    set of symbols must be even more expansive/comprehensive, then it
+    more strenuously tests the hypothesis.
+    - however, any results would be anecdotal. they need to be
+      performed voluntarily at a young age to show results, since it
+      is the development of this skill of mirrored writing in a young,
+      undeveloped mind that allows the brain to neurally congeal
+      around it.
+
+- for Da Vinci, it's the synergy between expanding *representational
+  networks* in the brain that represent complete solutions for affine
+  transofrmations of symbols the *generative* application of those
+  networks, that resulted in expanding his intelligence. according to
+  a neuroanalytical conception of the divide between the brain and the
+  mind, there are many anomolous "keys" to unlocking greatly expanded
+  intelligence. these are primarily the specific cognitive approach to
+  skills, which may not be the most effective approach for solving a
+  problem or utilizing a skill, but for whatever reason, anomolously
+  expand the mind to develop intelligence.
 
 - How does this correspond to Da Vinci's handwriting? In comparison,
   why is merely expanding orthographic recognition with more symbols

@@ -8,6 +8,45 @@ author:
 excerpt: ""
 ---
 
+### False Projection of Unconsciousness to Stimuli as a Skill
+
+- and particularly, leveraging tricks of rhetoric at the intersection
+  of logical paradoxes and psychology (like some of those I
+  experienced in the workplace) to dupe someone falsely projecting the
+  lack of a trigger response to a stimulus into repeatedly displaying
+  unconscious null-responses
+  - what was i being triggered on? information of various kinds that
+    should have been impossible to obtain without at least one of the
+    following: criminal background, medical records, surveillance
+  - but i have been constantly subjected to artificial dialogue meant
+    to project mostly false beliefs upon others, one of whom will
+    refer to programmed trigger stimili in an attempt to convince
+    others in the same social circumstance that something about me is
+    or is not true.
+    - eventually, i grew tired of psychologically twisted workplace
+      bullies being able to leverage my engrained triggers to provoke
+      an anxiety response, so i learned how to harden the artificial
+      response that projects unconscious non-acknowledgement of
+      triggers by default.
+      - but occasionally, people were able to break through even this
+        by compelling me to project non-acknowledgement when it should
+        be logically impossible for me to do so, were i not falsely
+        projecting non-acknowledgement most of the time.
+      - the problem this, these were always catch-22 false tests that
+        i was intended to fail. most of the trigger stimuli i became
+        conscious to, i only ever became conscious to after having
+        those stimuli asserted against me dozens or hundreds of times.
+      - to *most* of those people who are shit-testing me with such
+        terribly subjective methodologies as "we're going to see how
+        you respond to *this*!!" ... **FUCK YOU** have you ever tried
+        talking to someone and having a Goddamn conversation because
+        first of all, _you get it wrong every damn time_. whatever
+        group(s) of people this emanates from, the intent is to
+        construct ad hoc tests that the target will fail, but
+        propagate FALSE beliefs in society to cause people around the
+        target to generally distance themselves, thus marginalizing
+        the target.
+
 
 ### S/Phys Singularities
 
