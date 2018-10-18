@@ -1,5 +1,5 @@
 ---
-title: "The Holy Grail"
+title: "Wherefore Art Thou Wokest: The Holy Grail"
 categories: "blog"
 tags: ""
 headline: ""
@@ -7,6 +7,7 @@ author:
   name: "David Conner"
 excerpt: ""
 ---
+
 
 ### S/Phys Singularities
 
@@ -92,6 +93,7 @@ excerpt: ""
         not so omnipotent as to be able to defy particular
         metaphysical constrants.
 
+### Disconnect b/w eastern/western ideals
 
 - there's a disconnect that individuals whose western ideals can't
   bridge. (this notion of 'western ideals' needs to be far more
@@ -288,6 +290,8 @@ excerpt: ""
       problems in the world become unbound from dependent origination
       and will thus never have existed.
 
+# Of Demigods and Henosis
+
 - [Henosis](https://en.wikipedia.org/wiki/Henosis) - being in union
   with the one/monad
   - living in the midst of ignorance, how do we know what direction is
@@ -306,6 +310,13 @@ excerpt: ""
     - in terms of buddhism? what sparks the pursuit of bodhicitta (not
       nominally)
     - seeking the grail as seeking henosis (and/or theoria)
+
+### Why was Jesus the zenith of henosis for the Abrahamic God?
+
+- according to Jewish thought on how authority derived from purity and
+  (complete separateness) from Sin, how did this gave Jesus dominion
+  over Jewish social institutions?
+
 
 ####
 

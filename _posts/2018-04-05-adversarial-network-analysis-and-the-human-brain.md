@@ -89,6 +89,43 @@ way and was so intelligent.
     on the structure of the mind, especially when someone learns
     multiple writing systems.
 
+- counterexamples: why would mirrored handwriting expand the mind
+  so profoundly when these don't:
+  - reading from multiple orientations
+  - ambidextruous writing
+  - kanji/hanja/kiangxi writing system
+  - linguisits and polyglots
+
+- the answer is two-fold:
+  - recognizing mirrored handwriting (connect this to more
+    perfect/complete solutions of analytical systems that represent
+    linear transformations on glyphs)
+  - while writing with both regular and mirrored forces, you are
+    generatively engaging the handwriting recognition circuits in your
+    mind, which compels these circuits to embody more refined
+    analytical systems representing all affine transformations on
+    latin glyphs. the impact of having or not having these low-level
+    structures in visual-symbol recognition pathways reverberates
+    through the brain/mind as a modular analytical machine.
+  - how can you prove this? by studying the differences between
+    machine learning that recognizes both mirrored and non-mirrored
+    handwriting and normal handwriting recognition systems.
+    - however, there may be some constraints on the hypothesis/methods
+      used for experiments to prove this, otherwise results would seem
+      inconclusive.
+    - i.e. the neural networks constructed/trained need to focus on
+      emulating *compete* representations of all linear/affine
+      transformations on latin glyphs, while being capable of
+      recognizing strings of cursive glyphs (both non/mirrored)
+    - since the brain is a modular analytical machine, where structure
+      is dispersed through the brain (e.g. you'll hear that the
+      neurons are connected in up to 11 dimensions), detecting
+      patterns differences in MRI/etc imagery that would distinguish
+      the brains of people who utilize mirrored handwriting styles is
+      likely ineffective. also, since people who do so are so rare,
+      this would bias the data towards inconclusive results, if you
+      could get past the difficulties in imagery.
+
 - How does this correspond to Da Vinci's handwriting? In comparison,
   why is merely expanding orthographic recognition with more symbols
   still deficient? From a neuro-analytic perspective, why does the
@@ -138,6 +175,8 @@ way and was so intelligent.
       converge.
 
 ### Back to Da Vinci
+
+
 
 
 Instagram Post
@@ -801,6 +840,38 @@ Misc
         artificial intelligence also has the capacity for
         transformative spiritual experience.
 
+### Preserving Continuity of Function Requires Persisting Structure in Evolving Analytical Machines
+
+- learning things incorrectly, then untangling the mess to unlearn,
+  then relearning things correctly. why doing so leaves a disorganized
+  structure in an analytical machine (like the human brain)
+  - the neural circuits that correspond to the incorrect way of
+    learning things can never be completely lost. furthermore, an
+    analytical machine will then tend to learn the "correct" way in
+    terms of symbols/structures encoded by it's initial formartion of
+    structures representing the "incorrect way".
+  - this means there is always some "cruft" left behind in the form of
+    neural circuits which can't be completely pruned away, especially
+    since they encode the "correct" understanding of some phenomenon
+    in terms of classifications dilineating the correct in terms of
+    the incorrect. So thereafter, some analytical machine that must
+    preserve continuity of functionality never has a purely correct
+    construction, but a mixture of correct in terms of the incorrect.
+
+#### While Meditating, To Observe One's Cognition of The Experience of One's Cognition Of...
+
+![Recursion, as it relates to the image of the Lotus]()
+
+- (in other words), There is no perfect means of development or form
+  for analytical machines. As such, they are inherently flawed. the
+  only perfection is in moving forward with their existing form's
+  recursive development. To this end, if the mind is a jewel, one
+  should not simply accept its imperfections as they are, but leverage
+  the jewel's flaws as a kind of fingerprint that ripples through its
+  structure as an analytical machine in order to make inferences about
+  the structure of the jewel of their mind as it evolves towards
+  perfection.
+
 [Bender's Spritual
 Experience](https://www.youtube.com/watch?v=_nwvCGLmFEA&fbclid=IwAR1N22G9iCVmrIDWS1x_RSe-Bg-8m-UAYFonz2RE64naTZwlYV1jgp0o3GY)
 
@@ -834,6 +905,9 @@ Experience](https://www.youtube.com/watch?v=_nwvCGLmFEA&fbclid=IwAR1N22G9iCVmrID
         of information shatters their own worldview, previously
         subconsciously held to be overdetermined and now suddenly
         revealed to be inadequate.
+
+- expound more on socioinformational circuits and spiritual
+  transformation with sociological consequences
 
 ### The purely informational impact of Infinitesimals on Psychology and AI
 
@@ -889,9 +963,37 @@ Experience](https://www.youtube.com/watch?v=_nwvCGLmFEA&fbclid=IwAR1N22G9iCVmrID
     specific hardware type does have some correlation to the types of
     effects these high-magnitude, low-probability events can have.
 
+- in skewing social media algorithm results
 
 
+### How to address the informational impacts of Infinitesimals in AI
 
+- from a qualitative understanding of the how infinitesimal values
+  from many trainings of an algorithm relate to each other, refine
+  many instances of an analytical model into a single instance of an
+  analytical model with far more effective "coverage" of the space of
+  infinitesimally-valued events. so, you are focused on refining the
+  parity of the space of infinitesimals -- since the presence/absence
+  of encountering infinitesimally-valued and properly valuing their
+  impact on your algorithm is critical for accuracy and comprehensive
+  coverage of cases/types.
+  - this is critical for representation learning and quantum learning
+
+- train many instances of a machine learning algorithm (ML1).
+  - have the higher-level algorithm (ML2) note a "boundary" of
+    infinitesimally-valued layers or event types. extract
+    ontologically a quantitative understanding of the qualitative
+    "meanings" of your infinitesimally valued nodes/elements from ML1
+    algorithm instances
+    - here, you are correlating subsets of values from ML1 instances
+      with each other. Each their own analytical system with similar
+      rates of accuracy, . such approaches for refining many instances
+      of some lower-level ML1 algorithm are already widely used.
+  - from there, utilize a diffeomorphic approach.
+
+- how to apply the above to psychology and why it matters for
+  freud/jung (especially for diffeomorphic understandings of
+  psychological development contained in Freud's work)
 
 ### And from then everafter, the phrase "we shared a moment" was never the same...
 
