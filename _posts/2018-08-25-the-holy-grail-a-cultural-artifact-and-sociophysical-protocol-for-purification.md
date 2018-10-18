@@ -8,7 +8,9 @@ author:
 excerpt: ""
 ---
 
+### S/Phys Singularities
 
+- abberations of alchemy
 - alchemy: pyramidal alignment of the weak-willed to a strong will, as
   it relates to sociophysical singularities, the nature of power and
   the emergence of large concentric stratificiations of hierarchies
@@ -38,6 +40,36 @@ excerpt: ""
         wills, the nature and dynamics of such sociophysical
         singularities are identical, only differing in quality and
         proportion.
+
+# If God is Metaphysical/Unconscious...
+
+### How Can God Mediate Action Into the Material World?
+
+- when societies flaunt aspects of the collective unconscious, which
+  should be acknowledged as socially resonant/harmonious, then the
+  longer this is permitted to continue, the more out-of-balance that a
+  sociophysical system becomes.
+  - such out of balance systems will eventually correct themselves
+    with the application of natural justice (in the sense of what i
+    wrote about in my article on natural justice)
+    - that is, wrong-doing or amoral behavior cannot so easily sustain
+      itself to perpetuate an out-of-balance system
+
+### how to more precisely define balance in terms of sociophysical equilibria?
+
+- it is not correct to say that any and every system must bring itself
+  back into balance in such a way, since sociophysical systems only
+  exhibit equilibria-like dynamics, but do not have any singular
+  notion of equilibria, nor do they maintain perfect equilibria.
+
+### how do these notions of various equilibria types relate to eastern concepts of karma and causal balance?
+
+### Does our true understanding of our relationship to this entity change from epoch to epoch?
+
+- more terse/precise theological language for the above
+-
+
+###
 
 
 

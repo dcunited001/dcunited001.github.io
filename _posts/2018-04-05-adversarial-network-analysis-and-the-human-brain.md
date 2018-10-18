@@ -737,6 +737,73 @@ Misc
     observations which shattered any preconceived axiomatic notions of
     reality's possibility space.
 
+#### Missing No., the Pokemon That Breaks Your Game
+
+![Missing No., the Pokemon that breaks your game]()
+
+- [the reasoning is...] From an analytic philosophy standpoint, if the
+  epistemic structure of all pokemen can be represented by discretized
+  data -- or at least defined represented in terms of the other
+  available pokemon data -- then Missing No is a value for a
+  Pokemon-type epistemic structure which breaks the mold (and even
+  breaks the game's save-data)
+  - similarly, there are experiences which can break our own
+    neuroanalytical systems which our minds use to represent
+    reality. encountering and processing information about such
+    metempsychotic (...-breaking) experiences does not necessarily
+    break our conception of reality so severely as to render us
+    completely insane. still like
+
+- the more overall "symmetrical" or coherent an analytical system
+  seems to be when such a transformative reevaluation event is caused,
+  the greater the resulting structural effects will be
+  - an image for zenith of this concept is like imagining the
+    distribution of mass/energy before the big-bang as complete and
+    perfect, except for a single flaw, which sparks all of the myriad
+    forms that emerge to reconcile such a minuscule lack of symmetry
+    - the more perfectly (symmetrical) that a container for analytical
+      representations is before the moment that sparks its
+      destructuring and reorganization, the greater the impact will
+      generally be on its more final organization after restructuring.
+      - an example of a "container for analytical representations"
+        would be the part of the human mind that is the "universal"
+        part of the human mind's "universal quantum-information
+        computer", the part that emulates analytical represenations
+        within it.
+  - further, this is not an instantaneous change. similar to the
+    mandate that valid solutions to Navier-Stokes must not contain
+    discontinuities within that solution's solvable bounds for `t` in
+    `0 >= t > T`, such an analytical system must continue to be
+    capable of operating with valid analytical representations of the
+    information systems it processes while it undergoes its structural
+    changes.
+    - what would the human mind experience if it could not maintain
+      these functions while it's mental structure were undergoing
+      minor or major changes? psychosis, nervous breakdown, extreme
+      anxiety.
+      - these are informational consequences of analytical forms
+        represented by neural structures of various scales. the
+        structure and interconnections of these neural features
+        themselves are always shifting to adjust to input/experience.
+    - this process of psychological/neurological reconfiguration would
+      seem to violate perceived continuity of qualititive aspects of
+      consciousness and might include particular mental states while
+      dreaming and transformative spiritual experiences
+      - the capacity for these states of consciousness to reconfigure
+        the human mind is related to the degree of incoherence of the
+        signals being processed. the greater the ineffability of the
+        experience when processed analytically, generally the more the
+        mind will need to reorient itself to process, understand or
+        explain the experience.
+      - the person or artificial entity experiencing these states of
+        mind with profound ineffability may not emerge as the same
+        entity. if these theories are correct, then it may mean that
+        artificial intelligence also has the capacity for
+        transformative spiritual experience.
+
+[Bender's Spritual
+Experience](https://www.youtube.com/watch?v=_nwvCGLmFEA&fbclid=IwAR1N22G9iCVmrIDWS1x_RSe-Bg-8m-UAYFonz2RE64naTZwlYV1jgp0o3GY)
+
 ### Connect the Above To Authentic Transformative Spiritual Experience
 
 - the above ideas only touch on the experience of the visual, the same
@@ -744,8 +811,10 @@ Misc
   neural networks in the brain.
 
 - how the experience of an authentic transformative spiritual
-  experience ... if it is "allowed" to reverberate through society,
-  impact societies socioinformational circuits in a similar way.
+  experience ... if its reverberations through socioinformational
+  circuits are not dampened, then impact societies' information
+  systems by provoking a similar reevaluation of socioanalytical
+  systems.
   - to society, such the reverberations of such transformative
     spiritual experiences are similar in effect to the experience of
     love for the individual (according to my explanations below)
@@ -765,7 +834,6 @@ Misc
         of information shatters their own worldview, previously
         subconsciously held to be overdetermined and now suddenly
         revealed to be inadequate.
-
 
 ### The purely informational impact of Infinitesimals on Psychology and AI
 
@@ -1244,7 +1312,7 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
         the mind. when the mind expands, provoking an unexpected
         reevaluation, this can only happen so many times.
     - if it is possible to psychologically process someone else, so that
-      they are mentally capable of falling in love, is it possible to
+      they are mentally capable of falling in lov, is eit possible to
       reconfigure one's own psychology for the same purpose?
 
 ![that girl from bahamut]()
