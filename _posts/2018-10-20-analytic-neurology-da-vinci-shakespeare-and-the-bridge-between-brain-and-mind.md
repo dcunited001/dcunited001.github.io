@@ -9,22 +9,22 @@ excerpt: ""
 ---
 
 
-## NeuroAnalytic Thought Experiment
+## (NeuroAnalytic Thought Experiment)
 
 (Recently... ), analytic neurology, a conception of the brain and
 mind, bridges some very important gaps in the following fields:
 
 ### (What questions/problems does this help us reason about?)
 
-- 1️⃣ #Philosophy (What distinguishes the mind from the brain? Are
+- 1️⃣ Philosophy (What distinguishes the mind from the brain? Are
   metaphysical forms universal (Hegelian) or materially dependent
   (Marxist?) between the mind and the brain)
 
-- 2️⃣ #Psychology: How do Jüng’s archetypes and ontological patterns
+- 2️⃣ Psychology: How do Jüng’s archetypes and ontological patterns
   (typologieS, plural) correspond to neurological circuits &
   structures?
 
-- 3️⃣ #Neurology: If archetypes and developmental dynamics are
+- 3️⃣ Neurology: If archetypes and developmental dynamics are
   represented by motifs of neurocircuitry, where form is shared among
   our species, is information that encodes this form persisted through
   #Nature (epi/genetic) or #Nurture (through social information,
@@ -32,7 +32,7 @@ mind, bridges some very important gaps in the following fields:
   from the structure of the mind and society’s intersection with the
   unconsious) ... ?!
 
-- 4️⃣ #Phenomenology: If the presentation of informational forms related
+- 4️⃣ Phenomenology: If the presentation of informational forms related
   through the metaphysical and unconscious result in motifs of
   neurocircuitry, then how much of our brains structure would change
   if the #SpectralComposition of sensory data our mind processed were
@@ -47,6 +47,8 @@ quantum-information computer]() each of those questions above may be
 answered with at least as much depth as existing thought
 leaders.
 
+
+
 (...), this allows the psychologist and neurologist to bridge Jüng’s
 ideas of [analytic psychology]() to neurology
 
@@ -59,7 +61,88 @@ ideas of [analytic psychology]() to neurology
   entirely and provide a language in which most of NLP's
   mechanisms/techniques/results could be explained.
 
-### So, that #NeuroAnalytical #ThoughtExperiment:
+# Neuroanalytic Thought Experiments
+
+### Meta/cognitive skills to Enhance
+
+- more specific than what's listed in [epistemology, cognition and
+  category theory, pt 3]()
+
+
+### Basic ideas for Neuroanalytic thought experiments
+
+- come up with some more simple neuroanalytic thought experiments,
+  stressing some structured meta/cognitive approach to tasks that are
+  similar to those below (but not as silly as sorting diodes)
+
+- expanding more logical patterns of visual focus projection and
+
+###
+
+- these are really frustrating tasks to attempt, if meta/cognitively
+  reasoning about them in the intended manner. not only does the
+  wetware in the human brain seem unable to naturally reorient itself
+  to these metacognitive approaches, it usually seems impossible.
+  - however, if one succeeds in expanding meta/cognitive
+    skills/coordination, then major leaps in intelligence could be
+    expected. these would correspond
+
+
+- if approached in these ways when 4-10 years old, then the brain
+  would be much more capable of adapting to these approaches. if the
+  ideas of analytic neurology are correct, then if at a young age, one
+  excels at these extremely abstract metacognitive approaches to
+  operating the brain, then one is likely to develop extreme
+  intelligence. still, not only is it difficult to assert that a child
+  is cognitively approaching these tasks with the intended
+  metacognition, if indeed they are to do so, it is also difficult to
+  train adults to recognize such *and* it is difficult to communicate
+  the instructions behind these thought experiments to children, while
+  disguising them as games.
+  - it is unclear which is the greater challenge:
+    - (1) convince children young enough to be profoundly impacted by
+      neuroanalytic meta/cognitive skills development exercises that
+      engaging in them is fun.
+    - (2) accurately convey the instructions behind these exercises
+      (perhaps disguised as games)
+  - it's important to emphasize that some puzzle games embody these
+    ideas. however, it's not simply completing the exercise(s) that is
+    important -- regardless of the score, were they packaged as puzzle
+    games. only by completing the exercises *while expanding both the
+    number and strength of tools available in mind's metacognitive
+    wheelhouse* will be effective in producing moderate to extreme
+    leaps in intelligence. and if it's not natural for children or
+    adolescents to apply these metacognitive tools and cognitive
+    perspectives to other activities, then any activated cognitive
+    patterns of coordination of neural pathways will not become
+    systematic. the goal should be to identify activities that tend to
+    produce rare, non-typical lower-level neural circuits patterns and
+    to strengthen higher level modular coordination of those
+    circuits/pathways via expanded meta/cognitive skills.
+    - it's also important to structure these in a non-serious way,
+      otherwise it may come across as "toying with children's minds",
+      which is not what I intend whatsoever. instead, these are moreso
+      like more advanced Luminosity games that focus specifically on
+      tools and coordination of meta/cognition.
+    - first and foremost, they are thought experiments.
+
+### (So, the second/third Neuroanalytic Thought Experiment #2 & #3)
+
+- #2: sorting colored pencils by brand
+  - describe the task and the motivations behind the metacognitive
+    approach to thinking about modularly leveraging your mind to
+    achieve distributed (concurrent) computer vision.
+  - so, the idea is to try to reason about structuring thought around
+    the task, knowing that if a computer were to approach the same
+    task, more efficient methods would be available to it: namely, the
+    utilization of concurrency.
+    - the metacognitive meditation of the "sorting colored pencils"
+      task is to train the mind to dynamically spread it's focus onto
+      visual elements in ways that are moreso connected to the logic
+      of the task items instead of directing visual focus in the
+      manner that humans accustomed to doing.
+    - (in other words), instead
+
 
 - This may sound silly, but is a pretty difficult #ComputerVision
   problem to solve in software, but by imagining how to imitate such a
@@ -139,3 +222,597 @@ ideas of [analytic psychology]() to neurology
   article (and others) for like 5 months and there's just too much
   content for me to handle. I'm just lucky that i managed to not
   discuss the #Unconscious in these rambing instagram posts.
+
+
+
+## Leonardo and How Mirrored Writing Expands the Mind
+
+- this is the perfect idea for opening an introduction to analytic
+  neurology.
+
+Leonardo da vinci wrote backwards, (but only bc he was left-handed and
+didn't want dirty handwriting.) increasing efficiency/flexibility of
+visual/symbol recognition expands the mind, neuroanalytically, by
+forcing your neural circuits to convolute and renetwork themselves
+into more advanced information-processing forms. this information
+processing capability must be backed by an encoding of the
+metaphysical into material structure of your neural circuits. most
+people do not bother to trudge through learning how to use their mind
+like this. it is not a coincidence that Leonardo da Vinci wrote in
+this way and was so intelligent.
+
+- describe the connections between generative networks and
+  (interpretative) networks, but why generative networks are so much
+  more important and more connected.
+  - use guitar vs. guitar hero as an example
+    - although find another app that is closer to guitar/piano than
+      guitar hero
+  - to advance in Guitar Hero, you have to become fairly proficient at
+    rhythm, though the games tolerance is forgiving.
+    - in the end, do you learn to generate those rhythms?
+  - why does it seem like any knowledge or skills gained by playing
+    (guitar hero) is superficial? it doesn't seep into your mind and
+    doesn't reinforce skils related to actually playing music. why?
+    - you are training and reinforcing primarily reactive skills,
+      without streaming any signals through neural circuits
+      responsible for proactively generating the content.
+    - if you have a modular theory of mind, then this comprehensively
+      changes the physical manisfestation of signals streaming through
+      your brain. they don't need to modularly coordinate with any of
+      the generative networks. it's like half your mind is running; in
+      terms of machine learning, these are purely
+      (classification/and?) tasks; there is no need to "think" and all
+      you have to do is react to trigger the rhythms within the level
+      of tolerance permitted. for rhythms with many fast notes, the
+      player actually has a ton of tolerance to work within,
+      proportaional to the length of the smaller units of notes. The
+      the scoring system doesn't adjust for this enough, to make you
+      feel good about playing fast stuff. In real music, it doesn't
+      work like this at all.
+
+- your mind is not engaging the same pathways whatsoever when you play
+  drums or play drums on guitar hero. at all. they are almost entirely
+  separate. you're not thinking about driving the sound or about the
+  subtle facets of technique which will have a huge effect on how a
+  listener might perceive your expression.
+
+  - the neural circuits responsible for this stuff just are not
+    engaged whatsoever when you're playing Guitar Hero, so there
+    should be zero expectation that playing will improve your musical
+    skills. Truthfully, you need some knack for rhythm to beat it with
+    drums, but it doesn't help you gain anything.
+
+
+- what does any of this have to do with Leonardo Da Vinci's mirrored,
+  left-hand handwriting? And expansive symbol-recognition?
+  - connect to a modular theory of language/mind.
+  - ![image of optical processing pathways]() from Optic Nerve through
+    Occipital Lobe. (imagine connecting these pathways to langauge,
+    but that the mid-tier symbol recognition centers are more
+    expansively built out.
+    - now, imagine that you are forced to not only write in mirrored
+      handwriting, but you are the only individual to do so and that
+      you prefer to write in script that corresponds to the scripts in
+      society through a simple 2D/3D LINEAR TRANSFORMATION, which
+      neural networks are EXCELLENT at recognizing.
+
+
+### Expansive Symbol Recognition
+
+- increasing the occipital lobe's range of neural pathways which
+  correspond to grapheme-semiotic activation.
+  - explain why this is helpful in expanding intelligence.
+  - explain more: while writing systems with more complicated
+    orthography are harder to learn, they have more profound impacts
+    on the structure of the mind, especially when someone learns
+    multiple writing systems.
+
+- counterexamples: why would mirrored handwriting expand the mind
+  so profoundly when these don't:
+  - reading from multiple orientations
+  - ambidextruous writing
+  - kanji/hanja/kiangxi writing system
+  - linguisits and polyglots
+
+- the answer is two-fold:
+  - (1) recognizing mirrored handwriting (connect this to more
+    perfect/complete solutions of analytical systems that represent
+    linear transformations on glyphs)
+  - (2) while writing with both regular and mirrored forces, you are
+    *generatively* engaging the handwriting recognition circuits in your
+    mind, which compels these circuits to embody more refined
+    analytical systems representing all affine transformations on
+    latin glyphs. the impact of having or not having these low-level
+    structures in visual-symbol recognition pathways reverberates
+    through the brain/mind as a modular analytical machine.
+
+- how can you prove this?
+  - (1) by studying the differences between machine learning that
+    recognizes both mirrored and non-mirrored handwriting and normal
+    handwriting recognition systems.
+    - however, there may be some constraints on the hypothesis/methods
+      used for experiments to prove this, otherwise results would seem
+      inconclusive.
+    - i.e. the neural networks constructed/trained need to focus on
+      emulating *compete* representations of all linear/affine
+      transformations on latin glyphs, while being capable of
+      recognizing strings of cursive glyphs (both non/mirrored)
+    - since the brain is a modular analytical machine, where structure
+      is dispersed through the brain (e.g. you'll hear that the
+      neurons are connected in up to 11 dimensions), detecting
+      patterns differences in MRI/etc imagery that would distinguish
+      the brains of people who utilize mirrored handwriting styles is
+      likely ineffective. also, since people who do so are so rare,
+      this would bias the data towards inconclusive results, if you
+      could get past the difficulties in imagery.
+  - (2) to informally test whether this is effective is by learning to
+    read/write mirrored kanji left-handed. since an analytical
+    representation of affine transformations expanded to such a vast
+    set of symbols must be even more expansive/comprehensive, then it
+    more strenuously tests the hypothesis.
+    - however, any results would be anecdotal. they need to be
+      performed voluntarily at a young age to show results, since it
+      is the development of this skill of mirrored writing in a young,
+      undeveloped mind that allows the brain to neurally congeal
+      around it.
+
+- for Da Vinci, it's the synergy between expanding *representational
+  networks* in the brain that represent complete solutions for affine
+  transofrmations of symbols the *generative* application of those
+  networks, that resulted in expanding his intelligence. according to
+  a neuroanalytical conception of the divide between the brain and the
+  mind, there are many anomolous "keys" to unlocking greatly expanded
+  intelligence. these are primarily the specific cognitive approach to
+  skills, which may not be the most effective approach for solving a
+  problem or utilizing a skill, but for whatever reason, anomolously
+  expand the mind to develop intelligence.
+
+- How does this correspond to Da Vinci's handwriting? In comparison,
+  why is merely expanding orthographic recognition with more symbols
+  still deficient? From a neuro-analytic perspective, why does the
+  increased pathway inter-connection for mirrored writing require more
+  profound effects to the brain's visual-processing interface with the
+  rest of the brain?
+  - it is because of the highly diverse neural activations associated
+    with reading and writing in a person who voluntarily engages in
+    mirrored writing, especially from a young age.
+  - These pathway activations are distinctly different in a huge way
+    and over time have a major impact on the structure of the brain's
+    visuolinguistic pathways. Sure, I've presented very little
+    evidence, but that will all soon emerge from data science
+    connecting psychology to in-depth analysis of neural pathways from
+    MRI or SPION imagery. The implication is that the way you use your
+    brain, how you choose to structure cognition and the younger you
+    are when you develop various components of cognitive approach has
+    a major impact on how individuals skills manifest in a person,
+    which corresponds to physical differences in the brain.
+
+### The Hegelians Win
+
+- this is why taking art, music, etc out of primary/secondary
+  education is a major mistake. it is essential for developing
+  (structured cognition) that is both (interpretive) and (generative)
+- (This is why) presenting the child's mind with the right approaches
+  for deconstructing information and constructing cognition provides a
+  set of "initiation"-like methods for nudging the child's mind in the
+  correct direction to develop intelligence.
+  - Sure, in the Nature vs. Nurture argument, epi/genetics helps quite
+    a bit. However, for plastic neural networks like the circuits and
+    pathways of the human mind, the specific information processed
+    coupled to the structure of approach used to destructure and
+    restructure it has a far greater impact than psychology and
+    neurology seem to realize.
+    - That is -- and this will satisfy Hegelian philosophers and
+      Buddhists quite a bit -- your mind primarily adapts to
+      metaphysical structures that are pre-eminent. It does so by
+      constructing its own images of those metaphysical structures,
+      which ontologically correspond to deconstructions and
+      typological permutations of invisible metaphysical forms which
+      are pre-eminant. So, as for the Hegelian and Marxist
+      Metaphysicists, both sides are somewhat correct, since it's
+      recursive, but truncate the recursion in an inductive mathematic
+      proof and you'll see the Hegelian conception of metaphysics
+      provides the forms to which the materially derived Marxist forms
+      converge.
+
+### Back to Da Vinci
+
+
+
+
+# A Neuroanalytic Perspective on Shakespeare and other Dead Poets
+
+
+
+### Why Writing With Meter At The Forefront (Expands Your Skill At Writing)
+
+- for the same reason that artificially-imposed constraints in some
+  art/skill tend to expand your creativity
+  - circumventing/transcending those constraints force you to
+    constantly search *outside of your comfort zone*, since most of
+    your default, go-to behaviors/etc don't allow you to complete the
+    task/art at hand while satisfying the constraints
+
+- by developing the deftness of wit and (...) to overcome the
+  artificial imposition of the adherence to literary devices and
+  particularly meter throughout some literary work that reinforces, an
+  author must adapt their neural pathways to constantly reinforce what
+  typically lies outside their wheelhouse.
+  - after developing sufficient flexibility to retain meter and
+    literary devices, this "deftness" of
+    articulation/wit/expressiveness engrains itself at the
+    subconscious level into the author's approach to writing
+  - examples of neural circuits whose reinforcement is made more
+    frequent by adherence to meter and literary devices:
+    - (1) flexibility with permuting grammatical structure
+      -
+    - (2) usage of nuanced vocabularily, resulting in a wider Zipf's
+      distribution for that work and eventually a greater spread for
+      that author's Hapax Legamenon (the set of words the author only
+      ever uses once across their entire body of work or in one
+      particular work)
+      - in order to satisfy constraints of iambic/etc meter, you need
+        to find words with alternative stress patterns, with a
+        specific length of syllables. computationally, this is a
+        harder problem. neurally, linguistic pathways connected must
+        adapt to artificially imposed expansion of computational
+        hardness, which doesn't simply expand in terms of `O(n)`
+        temporal complexity, but also the `S(n)` Spatial complexity
+        element.
+      - The benefits for an author's mind that derive from changes to
+        the task's hardness are mostly related expanding the Spatial
+        complexity of tasks. Given that the mind is an analytic
+        machine with dynamically rewired modular behavior, this
+        expansion of spatial complexity (i.e. the search space) with
+        additional constraints imposed cause the mind to physically
+        distributed the computational load to engage a wider swath of
+        neural representations of linguistic data.
+      - In the end, the brain must engage more of itself to satisfy
+        the mind's demands, but since human wetware also comes bundled
+        with its own biophysical demands for energy consumption,
+        nutrient distribution and limitations on the mechanisms
+        thereof which replentish those biophysical resources -- this
+        means the brain's distribution of the taskload across a
+        greater physical neurological space in the brain comes with
+        two advantages:
+        - (1) it increases the spread of neural circuits that are
+          engages by the author, which causes those circuits to shift
+          epigenetic machinery responsible for upregulating those
+          neurons -- this parallels the "cost/reward" mechanisms of
+          artificial intelligence. therefore, the author's skill for
+          rhyme, meter and wordplay should expand faster. thereby,
+          this enables those neural circuits and pathways to
+          interweave themselves more tightly and reinforce themselves
+          through expanded interconnection. This results in more
+          overdetermined information systems in the mind;
+          neurologically, overdetermined information systems are
+          robust, more powerful and more adaptive.
+        - (2) it distributes and shifts the taskload across the
+          interior of the brain. this, to some extent, must result in
+          smarter, more efficient nutrient/energy consumption by
+          biophysical processes in the brain! thereby, the author
+          should be able to write longer, with less burnout, with
+          fewer need for breaks.
+          - no, citations were not included above, which are
+            desperately needed. however -- were these biophysical and
+            mechanisms to have such significance as to to scale with
+            qualitative, observable results; none of which is clear --
+            methodologies to research this quantitatively would still
+            be difficult to develop, implying a scarcity of citations
+            of any kind.
+          - that is not to say that clear research with clear data is
+            not necessary to make such claims about Da Vinci's
+            mirrored handwriting or the nuance of Shakespeare and
+            Co.'s prodigious development as English author(s)...
+
+- still, if the neuro-analytic conception of the brain & mind divide
+  are correct, the
+
+###
+
+
+
+# Genetic Factors Influencing Intelligence
+
+- It's not Nature or Nurture, it's how our mind's process
+  information...
+  - this is what results in the most profound changes to the structure
+    of lower-level neural circuits, as well as higher level
+    coordination of meta/cogntion
+
+### All that we are is the result of what we have thought
+
+Consider the divide between the brain and the mind as an
+inter-face. Visualize the brain as a complex river with many channels,
+canals and gates. Imagine there are many levels to this metaphor:
+there are microcosms and macrocosms. This river's water levels can
+raised and lowered. This interface is similar to a river bed eroding
+over time in response to to the velocity and volume of water flowing
+through it. How you choose to engage your mind opens and closes gates,
+diverts fluid through canals, and channels varying volumes of water to
+various segments of this river.
+
+What results: changing the flow of water impacts the movement and
+distribution of volumes of water, its velocity and its
+vorticity. Similar to processes in fluid dynamics and erosion, then if
+you consistently engage your mind in a confined manner, where the
+gates and canals are fixed in place, then erosion takes its toll and
+even if you open different gates, water flows through these segments
+of the river, similarly impacted by the changes to the brain's river
+bed. After years, the water tends to form the similar surface ripples,
+similar swirls and hint at similar undercurrents around the same
+obstacles along the river, all emerging from long-term changes in the
+surface of the river's bed from erosion.
+
+This metaphor is not so different from understanding the Buddhist
+maxim:
+
+> All that we are is the result of what we have thought: it is founded
+> on our thoughts, it is made up of our thoughts. If a man speaks or
+> acts with an evil thought, pain follows him, as the wheel follows
+> the foot of the ox that draws the carriage... If a man speaks or
+> acts with a pure thought, happiness follows him, like a shadow that
+> never leaves him.
+
+Zooming out, the brain's neurological structure adapts to how you
+choose to engage your mind. The effects of repeated cognitive
+patterns, especially given intense focus on specific objects of
+thought are very similar to how the process of erosion would impact
+the flow of water. In the brain, water is everywhere and the motion of
+its solutes is governed by [hydrostatics]() and
+[osmotics](). Nutrients arrive by capillary and are filtered through
+the blood brain barrier. In contrast to the river described above,
+whether water flows from source to sink, there are many types of flows
+in the brain. There are four major ions, whose changes in distribution
+are determined by how ion-channels are gated; its this change in
+voltage that causes neurons to fire; in turn, these spikes of
+electricity impact the distributions around the surfaces of the
+neuron.
+
+In the neuroanalytical description of brain-mind divide, thoughts are
+not pared one-to-one with neural structures or encoded as information
+on internal neural structures. Instead, thoughts and information are
+encoded *spatiotemporally* as patterns of fluid flow through through
+various surface features of neural networks and gating
+mechanisms. There are two main flows of signals: electrical and
+ionic. Encoded into the spectral distributions and harmonics of
+wave-like interactions between electrical and flows are
+representations of thoughts and ideas. Therefore, by changing the
+structure and interconnection of neurons, the riverbed changes,
+shifting the flow of these ionic and electrical signals. To be sure,
+there are other means of encoding and persisting information within
+the brain. Yet, as for the most immediate representation of state and
+epistemic structures, this lives within the spectra of waves,
+primarily those of ionic and electrical signals, that flow through
+neural circuits. This makes our thoughts like spirits that live within
+self-perpetuating forms in the surface of a river, in dust-devils and
+like the other dryads and nymphs of nature.
+
+There are several strata of state-preservation in the brain, ranging
+from immediate and short-term to medium and long-term. As patterns of
+thought become more consistent and coherent, then state becomes
+persisted in longer-term tiers. The physical structure of neural
+networks seems to be a long-term mechanism of state-preservation,
+where neural surfaces and interconnections funnel ion flows and impact
+their corresponding electrical flows. As dendrites and axons of
+neurons adjust to patterns of (electroionic) flows, their structure
+allows fluid dynamics with similar harmonics and dispersion
+characteristics to emerge: thus their structure encourages similar
+spectral components of information to re-emerge.
+
+There is much more to be described from this perspective of the
+interface between brain and mind ... depending on how well it pares to
+experimental observation. As one last note, what is clear: if the
+spectral and harmonic aspects of (electroionic) fluid flows does
+correspond to components of deconstructed informational
+representations, then *this* is a basis for quantum-information
+algorithms at an extremely low level in the human brain. It's not
+quantum mechanical; it's quantum-informational
+
+[Epistemology/cognition/CatTheory pt 2](/posts/2015-08-23-epistemology-cognition-and-category-theory-part-two.html)
+
+### Genetic Factors Are Less Relevant Than Most People Believe
+
+- in anomolous CI/TE's and epigenetic configurations, there are a few
+  psychological faculties that are expanded/altered by genetics, but
+  their occurance is mostly anomolous and not linked to visually
+  identifyable phenotypes.
+  - these include genetic factors related to photographic memory,
+    other savant-like memory abilities, synesthetic blending of senses
+    - these are all minor factors, but in various academic and
+      professional fields, can make cognitive load seem much
+      lighter. pianists may be able to memorize ten times the pieces
+      as their peers or someone may memorize 10,000 digits of pi.
+    - **ironically, it is when you do not recognize the limitations of
+      your brain and meta/cognition that you mostly remain unconscious
+      to them**
+      - therefore, when environmental factors, like early childhood
+        head trauma, or genetic factors impose constraints of
+        processing/memory onto cognitive processes, the limitations of
+        your mind become more clear to you than when there are no
+        limitations.
+      - you may struggle with neurological faculties, like short-term
+        or working memory, resulting in abnormal coordination of
+        neural pathways for cogntion
+      - this can profoundly change how your brain as an analytical
+        machine approaches
+
+### It's Unclear Whether Advantageous Genetic Mutations Are Expressed in your Children
+
+  - genes are activated randomly
+  - it's not clear whether these can even be passed down to subsequent
+    generations. depending on which genetic network and specific genes
+    which compose it, then body randomly activates one or both copies
+    of genes in the chromosomes. this is most profoundly seen in
+    X-inactivation in female mammals, where all of the genes on one
+    X-chromosome will be deactivated -- which are changes
+    epigenetically passed down to the cell's descendents. This
+    occasionally allows one copy of *different* X-chromesomes to
+    remain active, resulting in phenomena like heterochromia.
+    - most genetic networks are not impacted by X-inactivation and
+      thus, which gene copy is active, if not both depends on the
+      network at hand. For example, a single bad copy of the
+      Huntington's gene results in the disease because both copies are
+      used.
+    - RNA-polymerase binds to transcription factors and transcribes
+      multiple genes at once, generally executing the same length of
+      genetic regions repeatedly for a specific transcription factor.
+      therefore, for a genetic network of multiple genes on the same
+      chromosome, when RNA-polymerase begins transcribing it, it will
+      tend to execute one chromosome's instructions at a time.
+    - this implies that anomolies related to CI/TE's may or _may not_
+      be activated in children who have copies of those genes, but
+      typically it is impossible to know which gene copies are active
+      for local neighborhoods of genetic networks expressed together.
+      - when a CI/TE mutation creates a frameshift, sometimes RNA
+        polymerase will miss the [stop coding]() instructions. it will
+        continue transcribing adjacent genes that are not normally
+        associated with that genetic network's local neighborhood on
+        that chromosome. this is one reason CI/TE mutations can result
+        in a profound effect on genetic expression, resulting in
+        qualitative/quantitative changes to phenotypes.
+      - One vector for colon cancer occurs when a copy-and-paste
+        mechanism is repeated too often in colon tissue. similar to
+        CI/TE mutations, this mechanism copies large regions of genes
+        around to different chromosomes to upregulate genes necessary
+        in the colon. As described above, this occasionally causes
+        RNA-polymerase to continue transcribing, where it misses a
+        stop-coding instruction and either begins coding
+        tumor-promotion factors or limiting tumor suppression genes.
+    - this all sounds overly complicated, but the point is: when there
+      is one copy of a transcription neighborhood activated for a
+      segments of a genetic network, **its selection is usually
+      random** and therefore, even if you children have some of your
+      genes, it is impossible to tell which ones are active.
+
+- genetic factors influencing intelligence (this is important for
+  pushing back against genetic arguments for influencing cognition)
+  - why? intellgence is a quality derived moreso from *how* we learn
+    to operate our brain and organize our knowledge. it is much less
+    about genetics proper. The main differences whose origins are
+    genetic would arise from chromosome inversion & translocation
+    events (CI/TE's) which effect networks of genes on single
+    chromes. But only handful of chromosome reversal/rearragement
+    events with the potential to impact intelligence and neural
+    development since the last glacial maximum (LGM: 100,000 years)
+    would be close enough to transcription factors and genes relevant
+    to neurology. Why use the date of the LGM? It's when human
+    migrations expanded; before this time, any large-chromosome
+    reversals would be mostly geographically contained by the ice age;
+    furthermore, social behavior was limited during the ice age and
+    especially large-scale sociological phenomena like trade,
+    commerce, metallurgy, architecture, religion, etc. Since none of
+    these had emerged, few mutations until 10,000 years ago would
+    produce competitive advantages. Finally, until the Holocene Era
+    (10,000 BC), human populations practiced no agriculture and thus
+    were strictly bounded by the populations of food sources. So, the
+    effects of mutations, especially neurologically relevant .
+
+    Why are CI/TE's more neurologically relevant than mutations of
+    individual genes? Because individual mutations in a gene's exon --
+    the coding region -- are almost always harmless and pointless,
+    unless they occur in areas that are functionally relevant to the
+    gene, in which case they will almost certainly cause harm instead
+    of conferring an advantage. Most mutations that the layperson
+    associates with genetics -- that is, being caused by DNA broadly
+    -- are not the typical changes in DNA they first bring to
+    mind. These misconception yields a serious sociological kind of
+    existential crisis -- they believe "I am born with my DNA, it
+    decides who I am" when this couldn't be further from the truth.
+    That misconception is a false paradigm; it causes the average
+    person to believe they are trapped by the fate of their DNA when
+    really, they are trapped by how they understand DNA in relation to
+    their body's fate. Instead most "genetic" mutations with
+    observable consequences are one of two phenomena: (1) they are
+    CI/TE's or (2) changes in transgenerational epigenetic
+    markers. Everything from hair color to freckles to average foot
+    size to skin color and so on derive from one of these two
+    factors. The same can be said about phenotypes related to the
+    neurological components of intelligence.
+
+    However, it's important to state that humans on every continent
+    have made far more progress in the past 3,000 years than in the
+    previous 3 million years. Therefore, the development of new
+    cultural universals -- and also the development of metallurgy, of
+    architecture, of commerce, of art, of mythology and of religion --
+    each one of these has had more impact on humanity as a whole and
+    of any social group than all of the genetic mutations in the past
+    100,000 years combined, which is an understatement. How our minds
+    develop has almost to do with genetics -- except in limited cases,
+    which to emphasize does not correspond to racial group or
+    ethnicity. One of the only critical genetic features for
+    intelligence? The conservation of anatomic features related to
+    langauge, speech and the universiality of a common set of
+    phonemes, which is only critical for intelligence by consequence
+    of being universal.
+
+    Furthermore, since epigenetics is so critical in tuning genetic
+    expression, such false paradigms of DNA and genetic-predestiny not
+    only trap individuals in their own reactions to genetics, but --
+    when such misunderstandings persist over multiple generations --
+    actually cause people to avoid behaviors which result in
+    epigenetic changes. Because we can influence our epigenetics and
+    the epigentic programs of our children and grandchildren (since
+    epigenetic changes usually skip a generation) then it seems the
+    [Lamarckian]() ideas behind evolution were far closer than the
+    average middle school student is led to believe. This is why it's
+    tragic that people believe they are trapped by their DNA! This
+    false paradigm is a consequence of general social misunderstanding
+    of genetics, but it also robs individuals and social groups of the
+    chance to change their collective epigenetic destinies. Belief can
+    empower us or it can disempower us.
+
+    Further still: why would you structure your self-conception around
+    any limiting beliefs? In the context of intelligence, if genetics
+    did so definitely correspond to innate destiny, then why would you
+    choose to limit yourself by centering so many beliefs around
+    factors of life you didn't choose and you think that you can't
+    change? Limiting beliefs like those rob you of the opportunity to
+    try to transcend your limitation or to grow stronger by
+    struggling. If you struggle through your limitations, you will
+    always be stronger for it. Since our limitations are usually the
+    result of some weak factors or facets, then by forcing ourselves
+    to focus on them, either they are exercised and strengthend or we
+    become more aware of them and in tune with them.
+
+    ({restructure this entire paragragh}: Normally, when a person
+    believes that an individual or group's genetic background
+    determines their fitness in various facets of life, whether its
+    sports, academics, or whatever, or otherwise makes assumptions
+    based on primarily visual phenotypes -- which to be sure, are in
+    fact, completely decoupled from the non-visual phenotypes which
+    can't be identified -- then the implications include:)
+
+
+    - (1) the distortion in how you view the world results in
+      misapprehensions that are disconnected from reality. therefore,
+      it doesn't even serve the interests of the person who believes
+      these things; they are not true.
+    - (2) the person's beliefs distort their confidence and
+      expectation in others. because of how beliefs about confidence
+      affect others, this is (malevolent/negative) in and of
+      itself. therefore, the beliefs limit and constrain people's
+      lives and development, individually.
+    - (3) the person reinforces social beliefs that *collectively*
+      constrain those individuals, limiting them access to
+      opportunities as a group, etc
+      - This third implication is perhaps the worst of all (though
+        this list is far from exhaustive) )because it encourages
+        people to unconsciously reshape their world so that it *seems*
+        to affirm their flawed assumptions stemming from ethnicity,
+        sexuality, etc.
+      - However, since this is an unconscious implication of such
+        toxic limiting beliefs (e.g. racism), it is difficult for
+        people to connect their beliefs to the consequences they have
+        on the world around them. Thus, in the contexts of such
+        consequences, the person can't see how their beliefs mold
+        their words/decisions/actions. Thus, they assume their beliefs
+        are not responsible for such unconscious implications, if they
+        are at all conscious to the consequences.
+
+  - Though epigeneics and early childhood nutrition likely play a
+    large part in producing intelligence, the latter can be addressed
+    if it is acknowledged (with some money) and the former is far more
+    under our control than the term epigenetics might imply. This
+    concept relates to how our cells, tissues, the brain and the body
+    tune networks of genes in response to our environment.
