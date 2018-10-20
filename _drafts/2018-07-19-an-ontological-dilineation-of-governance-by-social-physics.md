@@ -52,7 +52,8 @@ misc
 ### Life Expectancy and Dynamics of Intergenerational Social Influence
 
 - when the number of generations simultaneously alive contracts,
-  expands or is otherwise systematically impacted, it impacts the
+  expands or is otherwise systematically impacted, it im
+  pacts the
   mechanics, dynamics and frequencies of the typology of
   intergenerational social interactions.
   - consider alzheimer's disease. if the rates of alzheimers or

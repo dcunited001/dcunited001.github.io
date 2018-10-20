@@ -1,62 +1,4 @@
 
-### Navier Stokes
-
-So this new #ArsTechnica article covers #NavierStokes and
-#TurbulentFlows in depth, for which there are many unsolved
-problems. However, my rambling idea to revolutionize
-#ChemicalEngineering by measuring changes in #Photon #Polarization
-requires dealing with Navier-Stokes and turbulent flows. In the posts
-& stream, there are some #NOVEL #IDEAS (i think?) for
-#AnalyticalMethods in handling such flows, albeit producing additional
-solutions/methods. I wonder if anyone associated with the tagged
-#VirginiaTech pages even bothered to notice this... ?? Certainly, no
-one mentioned it to me.
-
-In particular, applying #MachineLearning to an experimental version of
-example the #LaminarFlow regions exhibiting something like
-#PhaseChange into #TurbulentFlows is why i mentioned #Kinematics in
-the #Livestream. See the second pic i uploaded to understand which
-example from the article i'm talking abou. The author mentions it as a
-problem of theory/math, whereas I'm referring to a similar experiment
-where a <200nm capillary-like tube would provide a basis for
-collecting data Polarization & #SpectralDistortion that indicates how
-components of the fluid moves through space and for which turbulent
-regions will refract/polarize light in completely different ways IN
-THE REGION BOUNDED BY THE PHASE CHANGE AND TRACKABLE WITH KINEMATIC
-METHODS -- e.g. #Displacement & #Deformation.
-
-Once refined with machine learning, this data could allow a
-generalization from analytically-processed, refined data, connected to
-the space of numerical solutions .... not unlike with Nash's work on
-#AnalyticGeometry (see pic three) .  Furthermore, #PerturbationMethods
-on the #AnalyticMachineLearning (not those applied to the theoretical
-physical systems mentioned in the article) could accelerate bridging
-this gap from analytic reflection on experimental data to theoretical
-models -- or perhaps would be useful in getting much closer to the
-answer of whether complete theoretical, numerical solutions exist
-regardless of whether all numerical cases are tractable (they are not)
-
-https://arstechnica.com/science/2018/10/turbulence-the-oldest-unsolved-problem-in-physics/
-
-- these methods may not allow data science to bridge from machine
-  learning models to validate Navier-Stokes' smoothness/completeness
-  conjectures (by bridging them to numerical constructions via Nash
-  Functions)
-  - however, the techniques used to gather the data, along with the
-    data science for analysis, is still very useful in identifying
-    fingerprints of solute composition via kinematic inference with
-    displacement/deformation.
-  - for any and every stage of chemical reactions engineered for
-    lab-scale or industrial scale, there are many reasons to assume
-    such a mechanism to be limited in its viability. however, it might
-    be exceedingly valuable for the production and sorting of
-    nanotubes and nano-spheres, since their specialized shape/size
-    would have a characteristic impact on the fluid's optical
-    refraction. for the simplist nanotubes, other sorting techniques
-    would likely be more effective.
-
-==========
-
 ### Cards Against David Conner #1
 
 # The Kobayashi Maru of Nihilism
@@ -239,7 +181,7 @@ Cards Against David Conner #3: Autopsychoanalysis
          do that and instead ignored me at best. or worse, they wanted
          me to fail, so they could use my suffering as an allegory for
          the next
-         generation in my family/communities/whatever and felt completely justified in doing so primarily bc i smoked weed and talked about the government    
+         generation in my family/communities/whatever and felt completely justified in doing so primarily bc i smoked weed and talked about the government
           - this is of course, while you are becoming disconnected,
              where the only informational images of you percolate into
              society are disinformation produced by a rumor mill
@@ -252,18 +194,18 @@ Cards Against David Conner #3: Autopsychoanalysis
              child actor
 
            - and this is all so that society can mold your life’s narrative into an allegory for the next generation, before it’s entirely forgotten.
-             - Southpark did an episode about it (more or less) where they sacrifice Britney Spears, although my life isn’t ALL SOO intentional. 
+             - Southpark did an episode about it (more or less) where they sacrifice Britney Spears, although my life isn’t ALL SOO intentional.
              - https://www.youtube.com/watch?v=ZlP3T6n7o48
           - at best, when everyone goads you into being the kind of spectacular train wreck that is both fun to watch but also easy to rewrite later on.
-            - you’re raised as someone’s only partially aware puppet, who doesn’t understand the consequences of their actions whatsoever. 
-            - it’s this version of you that is well-connected and whose memories are well-embedded through society. 
-            - then later, along the way you were gradually extracted from social connections, leaving only the memories which ripple through society to be those 
-              the completely unconscious, younger version of yourself created 
-              (i.e. the PRE-PROGRAMMED version of you that was fun to watch who only later inexplicably turned into a bitter, mostly disconnected asshole, whose 
-              pain no one took seriously — because that’s the point of the artificial narrative, it’s a fable with a lesson. if people identify with your pain for what it is, 
+            - you’re raised as someone’s only partially aware puppet, who doesn’t understand the consequences of their actions whatsoever.
+            - it’s this version of you that is well-connected and whose memories are well-embedded through society.
+            - then later, along the way you were gradually extracted from social connections, leaving only the memories which ripple through society to be those
+              the completely unconscious, younger version of yourself created
+              (i.e. the PRE-PROGRAMMED version of you that was fun to watch who only later inexplicably turned into a bitter, mostly disconnected asshole, whose
+              pain no one took seriously — because that’s the point of the artificial narrative, it’s a fable with a lesson. if people identify with your pain for what it is,
               then they don’t accept it as the kind of allegory that controlled demolition was meant to be)
 
-           - Socrate’s was also charged with corrupting the youth and revealing the Eleusinian mysteries, which are connected to each other… 
+           - Socrate’s was also charged with corrupting the youth and revealing the Eleusinian mysteries, which are connected to each other…
              - he also produced no writing that remains.
 
        - (3) also, i’m kind of bitter, so i seem like an asshole, who
@@ -316,7 +258,7 @@ Cards Against David Conner #3: Autopsychoanalysis
                 maximum extent possible, so that anyone can call them
                 on their malignant bullshit. and i haven’t even
                 started talking about NLP/hypnosis.
-         
+
   - again, it is not about who is right and who is wrong, but how my
     life can be fixed and how i am supposed to move forward.
      - again, i’m not judging. the only reason i’m stuck in the
@@ -629,7 +571,7 @@ Cards Against David Conner #3: Autopsychoanalysis
         institution, under 24/7 observation.
           - i never should have been sent to this facility and it very
             nearly cost me over $10,000 total!!
-        - all for me to came out with a prescription for STRATERA.  
+        - all for me to came out with a prescription for STRATERA.
       - despite the friendly and attentive nursing staff i encountered
          being friendly and attentive, the real problem i have with
          these facilities is that they are dehumanizing out of
@@ -866,4 +808,3 @@ post-revolutionary leninism 303, but it happens every single time.
 - https://www.youtube.com/watch?v=vt_ClNrcfJc
 - [Gastrosplenic
   Ligament](https://en.wikipedia.org/wiki/Gastrosplenic_ligament)
-

@@ -1,12 +1,225 @@
 ---
-title: "Wherefore Art Thou Wokest: The Holy Grail"
+title: "Wherefore Art Thou Wokest: Ineffable Is The Name of God"
 categories: "blog"
-tags: ""
+tags: "process-theology"
 headline: ""
 author:
   name: "David Conner"
 excerpt: ""
 ---
+
+- Curve-shifting levels of intelligence
+  - intelligence (IQ) with the capacity to make large-scale changes in
+    a society/population's IQ curve
+  - Leonardo da Vinci is an example of curve-shifting intelligence
+  - connect to the idea of Prophet-level IQ (though the main
+    distintuishing factor here is the source that provides a person
+    with "prophet-level IQ" with their intelligence: does it stem from
+    an intimiate awareness of God (emanations from the metaphysical
+    and collective unconscious)
+
+### To Be Unconscious to Unconsciousness is the Definition of Insanity.
+
+It is to be incapable of knowing yourself or knowing your self in
+relation to your world. It is to render yourself helpless to the
+intentions of others and to the confluence of phenomena to which they
+conscious. Who wants to be helpless?
+- To be unconscious to the notion of unconsciousness is to be unable
+  to valuate that which you are unfamiliar with. Thus, you will be
+  unable to determine how you should prioritize your accumulation of
+  knowledge to become conscious to that which will benefit you.
+- And therefore, you will be helpless in escaping helplessness,
+  regardless of the skills you command and the virtues which drive
+  you.
+- To me, this helplessness to helplessness is the definition of Hell,
+  which is engrained upon someone’s psyche in same manner as one
+  raises veal. It is the careful providence of the needs of one who is
+  to remain dependent, with emphasis on not waking that person in the
+  slightest to ideas and phenomena which that person is not already
+  aware.
+- Done correctly, it completely reversed the appearance of the
+  situation from the outside. The veal — the person who has received
+  resources and has seems to have benefitted most at the expense of
+  someone else — is seen as a lecher and perhaps an abuser.
+- However, the opposite is true, for the person who must operate along
+  such calculated methods as to never awaken the veal is the one who
+  is conscious and intentional to the true abuse all along. They are
+  the ones on the outside who sell the situation as having been
+  leached and used, when at any time, had they not CONTINUOUSLY been
+  ever so careful in the signals they emitted, in understanding how
+  those signals would have been interpreted and in preserving
+  artificial social isolation, then they would have woken their veal
+  and their source of narcissistic supply would have escaped.
+
+### Post-Transformation, religious traditions to disconnect man from God by institutionalizing spirituality
+
+#### Unraveling of Henosis -- direct union with God
+
+- So (after finishing discussion stemming from aphorism), if to be
+  unconscious to unconsciousness is the definition of insanity...
+  - then why is it, (reword this: through history's tendancy to lose
+    details to the sands of time and through the disruptive mechanisms
+    of power)...
+    - ... that after their theological institutionalization, that
+      religious institutions would dare wall off man from:
+      - the wisdom of truly aligning with God
+      - the knowledge of ... (?)
+      - and *especially* from authentic, *visceral* experience of God.
+
+- Theological institutions are initially constructed to
+  preserve/augment the dynamics put into motion by spiritual
+  transformation of society: the founders of these institutions
+  primarily seek to aid and strengthen the effects of God and their
+  belief system in bettering the world around them.
+
+- How are men gradually rendered unconscious to God and to the
+  authentic (structure/knowledge of) their own belief system?
+  - and why?
+  - initially this is a consequnce of (theological necessities)
+  - the more sinister motivations of this have to do with social power
+    dynamics
+    - e.g. the intentional gradiation of men by their consciousness to
+      various phenomena (TODO: restructure so that an explanation of
+      this occurs earlier)
+
+#### (1) the institutionatlization of sociohierarchical strata --
+
+  - viz. roles and positions in (theological institutions)
+    - these self-aggrandizing positions of influence are (alluring to
+      occupy for those who seek power)
+    - of course, a benefit to such structures in theological
+      institutions is that men who seek power *are* bound by a moral
+      code that they, in the least, cannot *appear* to violate, though
+      they may contort the moral system to their own purposes.
+
+#### (2) by facilitation of the gradual identification of the conscious individuals.
+
+- taxonomic speciation of epistemic forms, structured into the
+  theological language of the belief system, helps identify phenomena
+  that men may be conscious to or be capable of becoming conscious to.
+
+#### (3) transgenerationally, the socially distributed informational
+
+- ... left by the initial two generations after (the initial
+  sociologically-significant spiritual transformation) begins to
+  rapidly recede.
+  - not all of the informational residue disappears completely:
+    instead, the theological institutions which were constructed to
+    (facilitate) the propagation of the belief system encode/reinforce
+    values systems among believers.
+    - since religion is, at least in effect, proto-social-engineering,
+      evolution of values systems from individuals to communities to
+      nations gradually yield changes in behavior, altering the
+      frequencies, expectations and perceived expecations of event
+      types, (stochastically: link to article on the Sword in the
+      Stone).
+      - (from cultural practices, changes in beliefs about morals,
+        with socially ) alter
+      - this results in shifts in behavior around holidays and even
+        results in changes to large-scale migrations, which may be
+        temporary, permanent or cyclic in nature. the changes in
+        population flux from cyclic migrations in belief systems
+        (pilgramages to Jerusalem and the Hajj are two examples) can
+        even refocus the centers of trade.
+      - (the point is:) religion and belief systems have powerful
+        effects on sociological dynamics. they are powerful tools for
+        social engineering.
+    - however, there are two points more critical than the rest for
+      impacting how theological authorities may make early changes in
+      the evolutionary trajectory of a young religion:
+      - after the religion's founder and/or inner circle have died
+      - and after the first generation has mostly died out.
+    - primarily for the sake of maintaining authentic adherence to the
+      intentions of the religion's founder, its raison d'être, its
+      objectives to serve the embetterment of common man, the edifaces
+      of the religion must remain rigid in order for it to
+      propagate.
+      - a belief system which changes doesn't without more explanation
+        match the will of an eternal God or gods, who existed before
+        the Creation and who transcends time and space. If they are
+        truly timeless then such entities cannot change. Therefore, if
+        they relevate ultimate truth to the religion's founder, it
+        necessarily must also remain fixed in place after, until
+        perhaps the God-like entities relevate ultimate truth to
+        another prophet.
+    - Therefore, as the man-made edifaces of a sociophysical machine,
+      religious institutions codify doctrine and generally prefer to
+      keep it as it is, especially the most core pieces of
+      doctrine. The Catholic church's adherence to this is why over
+      1,000 years before someone like Martin Luther was capable of
+      standing up without being burned at the stake. What resulted
+      from the fallout of the Reformation? The Catholic Church lost
+      its hold in Germany and Prussia, states became fragmented and
+      were decoupled from geographic boundaries. This precipated war
+      and eventually the Westphalian paradigm, coupling states to
+      geographic boundaries.
+      - The only reason the Catholic Church attained and maintained
+        theological dominion over Europe was because of it's singular
+        structure of authority. Otherwise, events like the Reformation
+        and its fallout would have happened earlier, yielding a
+        decentralized Europe as a supple three-course meal for the
+        next empire to emerge from the Old World's sociophysical
+        center: the Middle East.
+    - The undertones and implications are clear: there is strong
+      purpose behind keeping doctrine and dogma fixed in place. it's
+      necessary for the belief system to attain theological coherence;
+      it's necessary for the pragmatic attainment of unity and
+      projection of God's will into subsequent generations; in a
+      turbulent world, it's necessary for the God, Supreme Being or
+      Truth of the religion to seem like a concrete, unwavering
+      fortress that is dead simple to explain. Mean are only willing
+      to die for the whims of an emperor extrapolated for so long
+    - Extrapolate these undertones along with their implications: once
+      set in motion, the sociophysical machines of institutionalized
+      theology will tend remain in motion, not unlike Newton's second
+      law regarding mommentum.
+
+
+#### (4) ???
+
+
+
+
+
+
+### Definand expition of Consciousness
+
+- place this close to an intro (for this article?)
+
+consciousness is our mind's awareness of itself. it is "user" to the
+operating system of the mind, which is only exposed to the user in a
+experiential, non-definite way. because of this, it is hard for the
+user to be precise about what it's own experience "is" since a mind
+operating as a consciousness can't completely examine the pieces of
+information compose itself or its interface to the rest of the mind.
+
+while our experience of consciousness does originate from the
+material, the forms that consciousness and our mind bind to are like
+archetypes -- or the composition of metatypes of archetypes, more
+precisely. furthermore, as Jüng would explain, the patterns of
+experience we perceive through consciousness can also be abstracted as
+archetypes. in this way, all the stories and memories we share have
+common traits and a common framework of symbols/patterns. if you
+understand all this, then reincarnations are like the rebirth of
+specific sets of metatypes/archetypes of consciousness, which will
+react similarly to the metatypes/archetypes of life experience. our
+minds map asymptotically to these archetypes, never embodying them
+completely, but neither can we separate ourselves from the impact of
+that the unconscious (external or internal) has on our forms of
+thought, sensory experience and unconscious psycho/social phenomena.
+
+the last bit (unconscious psycho/social phenomena) is what Jüng's work
+is all about -- some of us are "more conscious" to various patterns,
+while some of us are completely unconscious to them. i would prefer
+being as conscious as is possible to these phenomena, since gauging
+what individuals are aware of is critical to personal psychological
+development and successfully managing your interface to social
+groups. this all sounds very complicated, but parenting is an exercise
+in becoming aware of the information/patterns that an individual
+gradually becomes aware of themselves.
+
+
+
 
 ### False Projection of Unconsciousness to Stimuli as a Skill
 
@@ -48,9 +261,201 @@ excerpt: ""
         the target.
 
 
-### S/Phys Singularities
+# S/Phys Singularities
 
-- abberations of alchemy
+- Sociophysical Singularities are alchemical perpetual-motion
+  machines, whose existance is guaranteed since values of energy in
+  social physics are higher-order and thus systems are decoupled from
+  strict conservation of energy.
+  - **therefore, perpetual-motion machines DO exist in alchemy**,
+    though the structure of these is not yet clear to me.
+
+### Reification of Metatypes, Epitypes and Prototype in Metaphysical Singleton Types
+
+- the ontological structure of a typology of sociophysical perpetual
+  motion machines remains unclear. Further, as with every ontology
+  whose types, metatypes and epitypes are reified into the material
+  plane, there accompanies such ontologies taxonomical structures and
+  speciations of singleton-type instantiations of those types.
+    - What are singletons? They are concepts from type theory,
+      category theory and functional programming, which are usually
+      collections of type-structure that are one-off and
+      single-instance -- hence the name Singleton
+
+- This definition important to emphasize for it's critical to
+  understand the nature of metaphysical forms -- singleton types are
+  the containers of type, metatype and epitype which are the
+  reifications of ontology. This is made more clear through the lens
+  of [Tao](http://www.sacred-texts.com/oto/lib157.htm) Te
+  [Ching](http://www.acmuller.net/con-dao/daodejing.html):
+
+> The Way that can be followed is not the eternal Way.
+>
+> The name that can be named is not the eternal name.
+>
+> The nameless is the origin of heaven and earth
+>
+> While naming is the origin of the myriad things.
+
+### (Adam was to name the animals, Noah was the last of men who saved the animals)
+
+The task laid out for Adam by God to name the animals is connected to
+the task entrusted with Noah to recognize the animals and to save
+them. One need only consider figuratively Adam's animals as aborignal
+discovery of metaphysical and unconscious forms, collected into a
+loose taxonomy of forms. Trans-linguistic analysis of the Book of
+Genesis, Enoch, Exodus and the other most ancient works of Semitic
+origin would render clear my imagined, figurative classification
+metaphysical forms as animals. Regardless, a purely literary
+interpretation of religious text dissecates the fluid of truth from
+religious tradition and, along with that fluid, constricts most of the
+value.
+
+### Extrapolating Logical Consequences of Epistemic Structures With Epistemological Virtual Machines
+
+In what order did God create light, heavens, firmament, the seas, the
+sky, the plants and the animals? In a purely literarary reading, in
+precisely six 24-hour periods, one after another, before taking a 24
+hour rest. Nevermind that before God began, there was no light, no
+earth, and very *literally* no definiton of day or night. So even
+within the confines of a literal reading of the Abrahamic creation
+myth, you can emulate questions which inviolate the logic of the
+reading.
+
+Above, the term "emulate" is a precise, technical analogy for
+theology: a (style of reading) invokes a system of ideas within your
+mind, which acts as a theological virtual machine. The (particular
+style of reading) -- how you choose to adopt the text of multiple
+translations, your choice of acknowledging linguistic evolution, your
+definition for "Word of God", your opinion of the authors, and
+immaculate preservation of lettering through transcriptions of the
+original text -- each of these critical choices for your interpretion
+rhetorically extrapolates your interpretation into enabling specific
+angles of theological discourse and argument.
+
+Abrahamic traditions multiplied from various progenitors across
+generations who -- in response pragmatic Mesopotamean quasi-theism
+which existed to establish basis for waves of empire and to the
+polytheism of waning New Kingdom Egypt -- saw their belief systems to
+be the more perfect monadic instantions of philosophical ideals. The
+idea of monotheistic God developed as a response to turbulent
+polytheistic mythos whose dubiously engineered narratives existed to
+justify and facilitate subjugation experienced by outsiders to the
+benefit ruling and priest class, ideas of truth were centered around
+narratives while true themselves also laid the groundwork for a belief
+system of higher truths.
+
+- from here, segue from:
+  - the establishment of philosophic motivations of (the lower classes
+  of people) -- some of whom were slaves and others whose lives were
+  upended by lawlessness and non-universal moral systems -- whose
+  lives were fixed in place by turbulent polythestic belief systems
+  shifting at the whims of ruling class, primarily concerned with
+  geopolitics, sustainance/magnification of power, response to threats
+  and (most critically) perpetually economic self-enrichment.
+  - For conceptions of metaphysics whose dependencies and taxonomies
+    of metaphysical form arise primarily within the material realm:
+    why do such metaphysical conceptions with their
+    [dependent origination]() centered on the material appeal to the lower
+    classes? Why would it be advantageous to for some progressive
+    movements and more radical Marxists to center dialectical
+    argumentation leading materially-dependent abstractions and
+    rhetorical consequences thereof?
+  - For conceptions of metaphysics whose dependencies and taxonomies
+    of metaphysical form arise primiarily from ethereal
+      concreteness ... in any d
+    non-materialist origins,
+    - difficult to verify and thereby, often lacking the semblance of
+
+
+    to the lower classes? because to the impoverished, poor and sick,
+    their condition is very real and despite any prevalent belief
+    system(s), it seems far too easy to overlook their
+    materially-dependent causes of their suffering.
+  - why do the Hegelian
+
+
+  priest-classes of polytheistic
+
+
+### Jesus, The Stone The Builders Rejected
+
+That Jesus is the stone the builders rejected is an epithet with Old
+Testament roots in Psalm 118 and was quoted [Acts 4:11](), [1 Peter
+2:7]() and in three Gospels: [Matthew 21:42](), [Mark 12:10]() and
+[Luke 20:17]().
+
+- TODO: link biblical chapters
+
+- (certainly pre/post-Socratic motivations,)
+
+Authors of three Gospels -- in all except the more figurative text of
+John -- in deference to Jesus, referred to the epithet of *the stone
+that the builders rejected*.
+
+### How to Engineer the *TRUE* Narrative of Your Messiah(s)
+
+I believe the narrative of Jesus to be one inspired by post-Socratic
+developments in Philosophy and to be one pre-ordained independently
+ideated over the course of generations: internally, via
+transgenerational circles in the Jewish theocratic establishment; and
+externally, from theological thought leaders external to Judaism
+entirely -- e.g. from the hermetically sealed communities of Essenes
+and/or from eastern Philosophic developments such as Mahayana
+Buddhism.
+
+- Why was Jesus the stone that the *builders* rejected? Who were the
+  builders? Why the allusion to masonry? Why was this first reference
+  to a messianic figure found in Psalms.?
+
+- Albeit a notion of personal conjecture, it seems that Essenes were
+  something of a community centered around proto-futurism and
+  theological research. What is certain: it was not easy to enter the
+  Essene community and become initiated; their mandates on purity and
+  sinlessness were (total). What is unclear: did the Essenes choose
+  geographic features and locale which limited sociophysical flux? It
+  is not rare to center monastaries and spirital communities upon
+  natural fortesses, but it seems the Essenes selection of geographic
+  locale was to
+
+- Assume a group like the Essenes wanted to establish the next phase
+  for Abrahamic religion: how would they go about it; how would they
+  avoid scrutiny; how would the "dogfood" specific theologically
+  necessary elements of their proto-narrative, like abject and
+  complete sinlessness?
+
+including information control and
+
+#### Why was Psalm 118 favorite psalm of Martin Luther, of whom the German Translator Tholuck noted had written:
+
+> "This psalm has been of special service to me. It has helped me out
+> of many great troubles, when neither emperor nor kings nor wise men
+> nor saints could help."
+
+### No Mere Stone: The Keystone Connecting Eastern and Western Traditions
+
+- How do you birth a true theological revolutionary, if the narrative
+  of one without sin must also be true? The answer is that you cannot
+  -- no, in deed, *you must not* merely have a single possibility for
+  the centerpiece to your narrative.
+
+- The narrative of jesus was motivated by eastern traditions
+
+
+If you want your belief system to stand the test of time
+-- and, like
+
+that the *Universal* belief systems of the
+God they claim invioably to be *the* One True God -- then you will
+consider all angles of attack and want your belief
+
+
+- copy notes from the draft that describes
+
+the *emulation* of
+
+### Alchemy & Pyramidal Alignment of the Weak-Willed to a Strong Will
+
 - alchemy: pyramidal alignment of the weak-willed to a strong will, as
   it relates to sociophysical singularities, the nature of power and
   the emergence of large concentric stratificiations of hierarchies
@@ -80,6 +485,81 @@ excerpt: ""
         wills, the nature and dynamics of such sociophysical
         singularities are identical, only differing in quality and
         proportion.
+
+### Sociophysical Singularities and Sociohierchical Crystallization
+
+- Sociophysical singularities are like abberations of alchemy,
+  self-sustaining vortices of alchemical charge that feed themselves
+  on the social, financial and informational energies of
+  others. Growing exponentially larger until the singularity's nearly
+  rips a discontinuity into a sociophysical higher-order analogy for
+  space and time. The magnification of power causes nearby social
+  particles to align with the sociophysical energy landscape, becoming
+  crystallized with the source of energy amplification.
+  - These phenomena always seem to form structures of (concentric
+    stratification) of social heirarchy, where (the disruption thereby
+    of lower-strata monopolar alignment implies further (opportunity)
+    for disruption) ...
+    - ... thus *chaos begets chaos*. this is a paradox of solidified
+      regimes whose significance ripples through the global system:
+      they are *the* definitive powers, whereas to exist, they must
+      hold dominion over those who do not support the regime(s).
+      whether merely in practice or even through nominal rebellion,
+      there will be nascent, growing and real threats to a dominant
+      power. this is a challenge that every maturing empire must
+      foresee and that every mature empire must deal with: there are
+      those who do not appreciate your order and for every seed of
+      discord they sown which blooms today or tomorrow, each is a
+      small victory for them and a loss for your hegemony.
+      - this holds true regardless of the size of the power structure
+        in question -- for empires as well as for interpersonal
+        networks of power.
+
+    - there is a optimal number of downstream nodes connected below
+      each node, around twelve or so. this is rendered more
+      complicated by the different types of relationships we form in
+      our life as they relate to power -- e.g. family, work,
+      sport. still, it is more clearly seen in the direct associates
+      to tyrants and their direct subordinates in authoritarian
+      governments.
+    - for fair distribution sociophysical resource-types -- and truly,
+      for a distribution that is optimal for the progressive
+      advancement of individuals in that society itself -- then
+      sociophysical singularities are (bad). the magnification of
+      power tends to not only corrupt, but also to be inherently
+      unstable in most cases. its magnetism binds individuals to power
+      for their survival, (only to render itself either some
+      structural flaw in the process or competition with external
+      power structures whereby some externalities then cause the
+      teetering strata of the sociophysical singularity to rip itself
+      apart).
+
+### Not Every Sociophysical Singularity Results in Regressive Regimes of Power
+
+- The Sumerians: they rose and they fell. The Akkadians? They toppled,
+  they consumed, they rose and they fell. The Babylonians? The course
+  was the same as with the Akkadians, but they were to be torn apart,
+  first by the chaos of the Sea Peoples, then by the Assyrians and
+  Persians.
+  - These were each empires whose crystallization of power structures
+    was centered around great men, but what is certain of great men,
+    if there is anything? Great men are still simply men, who live and
+    who die, but what is eternal? The metaphysical. What is ineffable?
+    The myriad shadows of the metaphysical: the collective
+    unconscious.
+
+- Not every basis for a sociophysical singularity results in an
+  unstable or regressive regime. Far more resilient are those regimes
+  whose center of power resides in ideas and whose power structure are
+  crystallizations around those ideas. Why? Because you can kill a man
+  or topple his empire, but you can never kill an idea. Therefore, if
+  power structures crystallize themselves around ideas, whose
+  noumenological existence has troubled philosophers for millennia --
+  that is, if no man can precisely name or definitively structure any
+  idea -- then how can adversaries so easily destructure a regime
+  built upon them?
+
+
 
 # If God is Metaphysical/Unconscious...
 
@@ -111,14 +591,11 @@ excerpt: ""
 
 ###
 
+### More important than the quesiton of whether God create a rock that he cannot lift is:
 
-
-- review this question: more important than the quesiton of whether
-  God create a rock that he cannot lift is:
-  - can God create a world where individuals with/out free will who
-    must understand the basis & specifics of their obligation to
-    follow an omnipotent God by being able to answer that unanswerable
-    question?
+- can God create a world where individuals with/out free will who must
+  understand the basis & specifics of their obligation to follow an
+  omnipotent God by being able to answer that unanswerable question?
     - that is, individuals without free will, if they cannot answer
       the question "can god create a rock that he cannot lift" could
       they truly be said to be in line with the Diety who must be able

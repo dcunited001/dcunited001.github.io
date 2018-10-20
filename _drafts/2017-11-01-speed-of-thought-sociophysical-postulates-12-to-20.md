@@ -8,8 +8,7 @@ author:
 excerpt: ""
 ---
 
-======
-Move this FB rant
+====== Move this FB rant
 
 ... ugh, here i go: I triggered my PTSD layered by protracted
 isolation after extreme with (1) Boulder and (2) the self-propagating
@@ -497,8 +496,10 @@ comparison when you loudly assert your dominance."
 
 ### "K curve" for estimating speciation of memes
 
-- gene replication vs belief/informational replication
-- move to "geometric mechanics of information"
+- taxonomical understanding of information
+- gene replication vs belief/informational (memetic) replication
+  - move to "geometric mechanics of information"
+
 
 ### Demographic Stratification
 
@@ -1537,6 +1538,18 @@ what your mind is made of.
   m*c^2`
   - mention here, but dicsuss in further detail in part 3 (metrics)
 
+
+#### Informational Equilibrium Depends on The Bottleneck of Attention and the Rate of Replication
+
+- until now, almost any ideas or informational effects of causal
+  consequences, regardless of their social distribution, would
+  disappear within four generations
+  - information encoded within writing seems to be a major exception
+    to this, but writing itself is can be considered a monadic vehicle
+    for information replication. the information replicates whenever
+    it is read by someone who can interpret the meaning.
+
+
 <a name="models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies" />
 
 ### &#8855; &#8710; &#8968;xvii&#8969; [Models of Sociophysical Phase Change Require Topological Spaces Imbued Onto Physical and Aphysical Topologies](#models-of-sociophysical-phase-change-require-topological-spaces-imbued-onto-physical-and-aphysical-topologies)
@@ -1656,6 +1669,30 @@ what your mind is made of.
 <a name="independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies" />
 
 ### &#8855; &#8710; &#8968;xviii&#8969; [Independence and Connectedness Can Be Measured In Sociophysical Network Topologies](#independence-and-connectedness-can-be-measured-in-sociophysical-network-topologies)
+
+
+- measure of the sum of sociophysical flux over time, per capita
+  - measure of connectedness of geographic regions
+  - modeling geographic connectedness as a Riemannian manifold
+    - barriers to early transit of people are modeled not as
+      disconnected region of the space, but with a slow transit
+      velocity or with infinitessimal likelihood of transit
+  - once you have a well-constructed map of the old world as such a
+    Riemannian manifold, you can conduct far more accurate simulations
+    of population migrations. from here, you can begin to estimate the
+    sum of sociophysical flux through various regions.
+    - such hotspots would include:
+      - the bosporous strait and it's adjacent isthmus
+      - the mouth of the persian gulf
+      - the entrance to the silk road
+      - the strait of gibralter
+      - the middle east, generally
+    - if you can extend your model to consider the old world globally,
+      then the spots with the greatest cumulative sum of sociophysical
+      flux are all chokepoints in the middle east
+    - until more modern eras, these hotspots consisted of the most
+      valuable real estate in the world, economically and
+      geopolitically
 
 Social isolation correlates strongly with vulnerability, poverty,
 mental illness and the inability to tap into local economic
