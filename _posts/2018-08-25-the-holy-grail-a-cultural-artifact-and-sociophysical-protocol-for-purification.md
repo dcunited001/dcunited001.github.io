@@ -180,11 +180,11 @@ conscious. Who wants to be helpless?
 
 
 
-
-
-### Definand expition of Consciousness
-
 - place this close to an intro (for this article?)
+
+
+
+### What is Consciousness (round one)
 
 consciousness is our mind's awareness of itself. it is "user" to the
 operating system of the mind, which is only exposed to the user in a

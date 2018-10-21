@@ -8,6 +8,132 @@ author:
 excerpt: ""
 ---
 
+### What is consciousness (round two: ship of theseus)
+
+- how does the electro-ionic spatio-temporal approach to the
+  mind/brain divide answer the question of the Ship of Theseus?
+  - every "discrete" point in the continuous experience of
+    consciousness is a distinct entity technically, where the material
+    configuration of awareness-entities have a metric of
+    similarity. this can be used to gauge similarity in
+    awareness-entity instantiations at different points in time.
+    - establish that this distinctness from moment to moment implies
+      the sense of awaremenss consciousness is (non-temporal; perhaps
+      a different term)
+    - if someone is to have a near-death experience, then the entity's
+      self-awareness that returns (depending on how dim their light
+      became before coming back) would generally be somewhat
+      dissimilar along this measure.
+
+
+    - if someone is beamed up on board the USS Enterprise, then the
+      material configuration that results would need a (jolt of
+      electricity) to get their electroionic juices flowing. once they
+      do, an exact or near-replica would seem to function almost
+      entirely the same. to that instantiation of awareness, it would
+      be no more separate than...
+
+    - if someone who is beamed up aboard the USS Enterprise has their
+      material configuration instead cloned, then depending on whether
+      the "beaming" device reads & persists quantum state of
+      molecules/ions then the cloned entities awareness may briefly be
+      "duplexed" for a single instant, until the quantum state of
+      entanglement between molecules in each copy decoheres. until
+      this decoheres, each clone may have molecules entangled within
+      itself, as well as entanglement pairings shared between the
+      clones or between each clone and the beaming mechanism. since
+      thermodynamic effects render quantum entanglement insignificant
+      and untraceable, this will last a single instant only if the new
+      clone is instantaneously materialized or a single instant in the
+      accumulating regions of the beamed up clone. regardless, its
+      important to recognize this bridge between quantum state of the
+      two clones and/or the beaming mechanism. Yes, it sounds like [Wu
+      Wu Physics](), since unless the Star Trek beaming mechanism
+      operates on the structure of space itself and not matter, this
+      defies Thermodynamics: reassembling such an exact replica
+      requires an immense amount of energy to counteract entropy.
+
+      - optogenetics (a recently developed, but commonly used
+        experimental methodology in genetics research) is an example
+        of a mechanism of non-local consciousness, which is much less
+        Wu Wu physics.
+
+      - Still, it's critical to examine those instants when the
+        material mechanisms yielding awareness in the reconstructed
+        clone would partially bridge their state to the source
+        individual. because it means that the mechanisms for the sense
+        of awareness accompanying consciousness can be non-locallized
+        and "forked", if this sense of self-awareness does truly
+        extend from (1) a bridge between mind and brain and (2) the
+        interface between the dynamical analytical machines of the
+        brain and the [universal quantum-information computer]() (UQC)
+        that seems to modularly coordinate those analytical machines
+        for cognition.
+
+      - therefore, similar to the notion that consciousness is
+        non-temporal, a unit of consciousness that arises from the UQC
+        can also be non-local -- *briefly* bridged via quantum
+        entanglement on the timescale of picoseconds. This quality of
+        non-locality must be distinguished from the kind of non-local
+        consciousness implied by Wu Wu physics, where unless I'm
+        tripping over camoflaged metaphors, entanglement is a kind of
+        magic. But this begs the question: if consciousness is mostly
+        localized, but its physical mechanisms are spatially
+        amorphous, then what is a spatiotemporal unit of
+        consciousness? if distributing consciousness across space is
+        possible via entanglement *however briefly*, then perhaps each
+        material unit representing part of a analytical "thinking
+        machines" is itself a unit of consciousness. Without
+        meta/physically being causally coupled to a UQC whose
+        interface generates the sensation of awareness, such units of
+        consciousness are (pointless) individually, but collectively
+        can extend the awareness of any mechanism/interface for
+        distributing consciousness.
+
+      - And, to dangerously court Wu Wu Physics once again, the entire
+        universe is a web of causal channels that distribute
+        consciousness via the surface for causal signals offered by
+        physical interactions. What distinguishes the material
+        universe or some space rock from a human brain? The
+        internetworked structure of neurons is specialized for
+        distributing causal signals to facilitate action predicated on
+        logical systems emulated by anayltical machines -- all
+        coordinated via the interface to a UQC, which may be necessary
+        for the sensation of highly-localized awareness. Yet,
+        critical, is the notion that, for any localized "material
+        units" of consciousness, they are neither separate nor do they
+        belong to the same precise (instrument) of
+        consciousness. Everything is all one, but some
+        surfaces/membranes for causal signals are woven more tightly
+        together, accelerating the exchange and organizaton of
+        information.
+
+        - thus, every mind absorbs physical signals and begins
+          accumulating logical state that, given enough time, begins
+          to transmute its experience into the reifification of the
+          noumenological: the purely metaphysical made physical. once
+          infinity can be made certain to exist, then perhaps
+          analytical philosophy will have (measured/modeled) the
+          noumenon.
+
+        - such is the precipitation of the metaphysical into the
+          physical realm and as physical barriers to information
+          exchange begin to breakdown. through history information
+          exchange gradually increases, widening the gates to
+          metaphysical nether-realm from which beautiful and grotesque
+          specimens of form emerge. on the eve of the Singularity,
+          this precipitation boils over into a Hegelian nightmare.
+
+        - segue => emphasize the intrinsic inseparability of
+          consciousness from causality, where higher-levels of
+          consciousness begin reifying highly-abstracted phenomena
+          that are the manisfestation of noumenological. that is,
+          given the exponential expansion of fibers, surfaces and
+          membranes for the transmission of causal signals, what
+          results are analytical systems which converge towards higher
+          levels of abstraction, where signals over the expanded
+          causal interface become increasingly coupled to logic and
+          epistemic structures.
 
 ## (NeuroAnalytic Thought Experiment)
 
@@ -39,15 +165,14 @@ mind, bridges some very important gaps in the following fields:
   to suddenly change? (i.e. like the Neuro research where a sense like
   sight is mapped from optical nerves to gustatory or auditory cranial
   nerves) Or what is the impact on the mind’s structure in people who
-  lack specific senses?) 🤨🧐
+  lack specific senses?)
+  - is there any limit on the range of epistemic strucures that can be
+    represented
 
 By establishing a #Neuro #Analytic conception of the brain/mind —
 i.e. by modeling the brain as an analytic machine and [universal
-quantum-information computer]() each of those questions above may be
-answered with at least as much depth as existing thought
-leaders.
-
-
+quantum-information computer]() each of those questions above may beg
+answered with at least as much depth as existing thought leaders.
 
 (...), this allows the psychologist and neurologist to bridge Jüng’s
 ideas of [analytic psychology]() to neurology
@@ -61,6 +186,9 @@ ideas of [analytic psychology]() to neurology
   entirely and provide a language in which most of NLP's
   mechanisms/techniques/results could be explained.
 
+
+
+
 # Neuroanalytic Thought Experiments
 
 ### Meta/cognitive skills to Enhance
@@ -69,13 +197,123 @@ ideas of [analytic psychology]() to neurology
   category theory, pt 3]()
 
 
-### Basic ideas for Neuroanalytic thought experiments
+### Differentiating Analytic Neurology
 
 - come up with some more simple neuroanalytic thought experiments,
   stressing some structured meta/cognitive approach to tasks that are
   similar to those below (but not as silly as sorting diodes)
 
+#### Shadow Puppets and The Search-Space of High-Complexity Problems
+
+- while it seems that shadow puppets are a simple means of expression
+  for children at summer camp, it is actually a fascinating problem
+  related to dimensionality reduction and affine transformations.
+  - a popular problem in recent Artificial Intelligence research
+    amounts to nothing more than simplifying the search-space of
+    "shadow-puppets" ...
+    - that is being able to recognize/classify connections in
+      structure of objects before/after dimensional reductions, even
+      when the dimensionally-reduced objects
+    - find a link to this
+
+  - it's actually a very difficult problem, which is why it's a
+    perfect neuroanalytic thought experiment for reflecting on
+    metacognition. it doubles as a means of identifying extreme
+    intelligence, since children who can reason about how to scan the
+    search space of shadow puppets projections *without being given
+    patterns beforehand* to emulate the shapes of animals must have
+    minds capable of fairly sophisticated neural computation.
+    - if a child or person is capable of starting from zero and then
+      works through the potential solutions for expression through
+      dimensional reduction, it means that not only do they possess
+      sophisticated intuition for meta/cognition, their minds are also
+      innately powerful.
+
+    - once the mind is given several patterns to work from, it is easy
+      to find connected solutions. this is why it's important to
+      challenge the child or person before they have internalized a
+      list of patterns for shadow-puppet solution.
+
+      - furthermore, the complexity of this problem (is beyond P/NP)
+        which means it is more efficient for many processes to explore
+        the solution-space, identify patterns and communicate about
+        them. when nodes leverage socially-distributed computation to
+        solve a (> P/NP) problem like this, they each have their own
+        analytic representations of the search space and
+        problems. then, when some nodes serendipitously discover
+        certains solution types and communicate their
+        solution-patterns to other nodes, those nodes must decode the
+        solution-representations and internalized it according to
+        their own analytic representations of shadow puppets.
+
+      - the defect of this approach is that, once someone has given
+        you a list of solution-patterns, your analytic representations
+        will begin to congeal forever around that core set of patterns
+        and the cognitive processes of most people will tend to only
+        extrapolate from that set of solutions.
+
+        - this is a neuroanalytic basis for one kind of
+          beginners-mind: where the the set of solution-space your
+          mind explores for high-complexity becomes rigidly defined as
+          soon as you internalize any information -- this
+          unconsciously defines diffeomorphic surfaces of for
+          solution-space exploration and solution-ideation. before the
+          person internalizes any information whatsoever, they may
+          identify a completely unique approach to scanning the
+          surface space, which results in new basis-patterns. for
+          socially-distributed computation approaching
+          (high-complexity problems) generally, this means that the
+          network as a whole benefits when new nodes added have
+          minimal preconceived notions of the search space.
+
+          - *SERENDIPITOUSLY, THE MAY WILL MIRACULOUSLY DISCOVER
+            SOLUTION CONFIGURATIONS WHOSE P(e) OF DISCOVERY IS
+            INFINITESSIMAL*
+            - since the solutions and patterns in the searchspace are
+              usually inter-connected, you need new nodes with no
+              pre-existing apprehensions to search their own unique
+              direction, before they are tainted by the networks
+              preconceptions of the search space.
+
+        - this is another perspective illuminating the deep meaning
+          behind my article on [To Catch a Butterfly: Epistemic
+          Miracles of
+          Serendipity](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html),
+          which opens with a discussion on the importance behind
+          diversity of thought in socially-distributed computation!
+          - e.g. that butterfly doesn't need you to install your
+            unconscious imprint and cripple it's beginner's mind, but
+            you may learn from its serendipitous discovery of novel
+            solution-patterns
+
+#### Phenomena/Mechanisms which are readily explained from a Neuroanalytic perspective
+
 - expanding more logical patterns of visual focus projection and
+- "priming" neural circuits
+  - (mechanism that works via attuning infinitesimally valued events)
+    - where neural circuits which have been engaged recently are more
+      likely to fire again or to influence the operation of adjacent
+      neural circuits.
+  - an example of an activity that would use this mechanism: before
+    writing, spend 30 minutes of reading aloud an author whose style
+    (particularly vocabulary) you want to emulate. for me, this is HP
+    Lovecraft.
+    - this shouldn't be used to copy an author's style, but instead as
+      a method for priming lower-level neural circuits related to
+      obscure vocabulary, etc.
+    - it won't work for priming usage of higher-order facets of style:
+      e.g. Lovecraft's utilization of mixed-media and mixed-source
+      secondhand accounts
+  - this method of "priming" works to tune infinitesimals in spectral,
+    time-series algorithms generally, even in social media newsfeed
+    algorithms. e.g. if you want to see more of someone's posts on
+    Facebook, view their content frequently and interact with them
+    more often. if you go from minimal interactions with a person to
+    moderate interactions, then facebook's stream-processing newsfeed
+    algorithm is going to attune its values that prioritize that
+    person's content to appear in your newsfeed.
+    - this is similar to how and why similar tactics of "priming" work
+      in the human brain.
 
 ###
 
