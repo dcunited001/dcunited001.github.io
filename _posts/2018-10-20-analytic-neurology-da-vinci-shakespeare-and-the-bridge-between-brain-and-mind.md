@@ -8,7 +8,170 @@ author:
 excerpt: ""
 ---
 
+#### Language/Terminology
+
+the article needs its terminology clarified and it's content condensed
+
+- awareness-entity: i need a term for a instantiation of self-aware
+  consciousness from one point to another.
+- non-temporality of consciousness:
+
+- neural circuits: this term needs to be clarified, then distinguished
+  from "neural pathways"
+- **particularly**: i hate repeating this word
+
+
+Article Structure:
+===========
+
+- (is there some kind of better mind-mapping tool for this?!)
+
+#### introduce questions answered by the analytic neurology perspective *BRIEFLY*
+
+1. Philosophical (generally)
+  - perhaps split this into (???) and epistemological/metaphysical
+1. Psychological
+1. Neurological
+1. Phenomenological
+
+#### Justify the "new thing i made up"
+
+- the objective is to introduce tough questons in each domain that can
+  be more effectively addressed with a Neuroanalytic perspective
+
+  - if this can be accomplished, while sufficiently distinguishing
+    "Analytic Neurology" as a set of conceptions/perspectives/patterns
+    that are distinct from other formulation, then Analytic Neurology
+    has significance.
+    - the difficulty in demostrating significance is that, not only is
+      "Analytic Neurology" a term I made up, but that the collection
+      of concepts/patterns/perspectives it encompasses also intersect
+      and overlap with many other forms.
+    - however, i posit that "analytic neurology" more effectively and
+      comprehensively organizes within it all of those other
+      connections, overlapping fields, etc.
+
+####
+
+
+## Analytic Neurology 101
+
+(Recently... ), analytic neurology, a conception of the brain and
+mind, bridges some very important gaps in the following fields:
+
+### (What questions/problems does this help us reason about?)
+
+- 1️⃣ Philosophy (What distinguishes the mind from the brain? Are
+  metaphysical forms universal or materially dependent?
+
+  - If metaphysical forms arise from the physical alone, then all
+    similarity amongst metaphysical forms is purely incidental; that
+    is to say that relationships and patterns that we identify in
+    these forms can't be mapped to some global ontology in the sky,
+    which contains all metaphysical structures that were pre-ordained
+    before the material universe was created.
+    - The truth is that we perceive our own analytic representations
+      of form and, not only do these forms all relate to each other
+      via some [topological metric]() of similarity, *there is a
+      global ontology in the sky* to which all these forms
+      map. However, confounding even Kant, we may never know the true
+      substance of those noumenological forms emanating from such a
+      ontological repository of *all-myriad form*. The [Tao de
+      Ching]() names these forms: nameless, the mother of all things.
+    - (HERE...) These Analytic representations of form are encoded
+      into matter and energy arising from the material of these forms
+      can never.
+
+  is any relationship between patterns
+  amongst those forms is purely incidental; that is to say, forms
+  materiall
+
+
+
+- 2️⃣ Psychology: How do Jüng’s archetypes and ontological patterns
+  (typologieS, plural) correspond to neurological circuits &
+  structures?
+
+  - TODO: move the following
+  - Brief overview on how Analytic Neurology accounts for how the
+    unconscious bleeds into the material realm, congealing into the
+    materially metaphysical. Thereby, the unconscious manifests
+    tangibly as phenomena and results in tendency for analytical
+    representations to shape themselves. In Hegelian fashion, ever so
+    do these facets of the mind as analytical machines shape
+    themselves, converging to noumenological forms of the unconscious
+    made metaphysical.
+  - Every machine is a complex configuration of simple machines. Every
+    analytical machine is composed of lower-level structures --
+    perhaps there are most fundamental component-types mirroring those
+    of simple machines.
+    - For analytical machines with potential for dynamic structure,
+      since they gradually evolve to mirror or embody abstractions of
+      logic, metaphysics and even the unconscious, they replicate and
+      convolute forms that approximate the noumenological.
+    - This is what precipites Jüngian archetypes and the large-scale
+      patterns of developmental dynamics that accompany his
+      ideas. Jüng's ideas apply to the development of _all analytical
+      machines_
+      - (this "brief aside" is factually incorrect as stated)
+      - a brief aside on the seemingly intentional "misnomerization"
+        of Jung's concepts of typology, which nearly blinds
+        psychologic students who may be conned into misidentifying the
+        MBTI personality as *the typology*, whereas it is merely the
+        reification of *a typological construct*. Whereas ontological
+        objects seem to the global patterns within which are placed
+        typological constructs for some domain, typologies are like
+        microcosms of ontological structure. If psychology students
+        were instead introduced to the concepts of typology, it
+        wouldn't be so easy to misconstrue the ideas of Jung's
+        [Psychological
+        Types](https://en.wikipedia.org/wiki/Psychological_Types)
+
+- 3️⃣ Neurology: If archetypes and developmental dynamics are
+  represented by motifs of neurocircuitry, where form is shared among
+  our species, is information that encodes this form persisted through
+  #Nature (epi/genetic) or #Nurture (through social information,
+  mostly conscious) or #Enigma (Hegelian metaphysical forms emanate
+  from the structure of the mind and society’s intersection with the
+  unconsious) ... ?!
+
+- 4️⃣ Phenomenology: If the presentation of informational forms related
+  through the metaphysical and unconscious result in motifs of
+  neurocircuitry, then how much of our brains structure would change
+  if the #SpectralComposition of sensory data our mind processed were
+  to suddenly change? (i.e. like the Neuro research where a sense like
+  sight is mapped from optical nerves to gustatory or auditory cranial
+  nerves) Or what is the impact on the mind’s structure in people who
+  lack specific senses?)
+  - is there any limit on the range of epistemic strucures that can be
+    represented
+
+By establishing a #Neuro #Analytic conception of the brain/mind —
+i.e. by modeling the brain as an analytic machine and [universal
+quantum-information computer]() each of those questions above may beg
+answered with at least as much depth as existing thought leaders.
+
+(...), this allows the psychologist and neurologist to bridge Jüng’s
+ideas of [analytic psychology]() to neurology
+
+- mention that analytic neurology overlaps with the ideas/motivations
+  behind [Neuro-Linguistic Programming]()(NLP) -- no, *not* the
+  junk-science, gypsy side-show NLP of charlattan scam-artists; the
+  actual ideas of NLP for which the side-show scam-artists provide a
+  convenient distraction. (λ), were my own theories of Analytic
+  Neurology to be completely developed, then they would encompass NLP
+  entirely and provide a language in which most of NLP's
+  mechanisms/techniques/results could be explained.
+
+
+## ここには目次が
+
+-
+
+
+
 ### What is consciousness (round two: ship of theseus)
+
 
 - how does the electro-ionic spatio-temporal approach to the
   mind/brain divide answer the question of the Ship of Theseus?
@@ -24,7 +187,7 @@ excerpt: ""
       self-awareness that returns (depending on how dim their light
       became before coming back) would generally be somewhat
       dissimilar along this measure.
-
+      - in fact, every time you sleep and wake, the
 
     - if someone is beamed up on board the USS Enterprise, then the
       material configuration that results would need a (jolt of
@@ -135,58 +298,6 @@ excerpt: ""
           causal interface become increasingly coupled to logic and
           epistemic structures.
 
-## (NeuroAnalytic Thought Experiment)
-
-(Recently... ), analytic neurology, a conception of the brain and
-mind, bridges some very important gaps in the following fields:
-
-### (What questions/problems does this help us reason about?)
-
-- 1️⃣ Philosophy (What distinguishes the mind from the brain? Are
-  metaphysical forms universal (Hegelian) or materially dependent
-  (Marxist?) between the mind and the brain)
-
-- 2️⃣ Psychology: How do Jüng’s archetypes and ontological patterns
-  (typologieS, plural) correspond to neurological circuits &
-  structures?
-
-- 3️⃣ Neurology: If archetypes and developmental dynamics are
-  represented by motifs of neurocircuitry, where form is shared among
-  our species, is information that encodes this form persisted through
-  #Nature (epi/genetic) or #Nurture (through social information,
-  mostly conscious) or #Enigma (Hegelian metaphysical forms emanate
-  from the structure of the mind and society’s intersection with the
-  unconsious) ... ?!
-
-- 4️⃣ Phenomenology: If the presentation of informational forms related
-  through the metaphysical and unconscious result in motifs of
-  neurocircuitry, then how much of our brains structure would change
-  if the #SpectralComposition of sensory data our mind processed were
-  to suddenly change? (i.e. like the Neuro research where a sense like
-  sight is mapped from optical nerves to gustatory or auditory cranial
-  nerves) Or what is the impact on the mind’s structure in people who
-  lack specific senses?)
-  - is there any limit on the range of epistemic strucures that can be
-    represented
-
-By establishing a #Neuro #Analytic conception of the brain/mind —
-i.e. by modeling the brain as an analytic machine and [universal
-quantum-information computer]() each of those questions above may beg
-answered with at least as much depth as existing thought leaders.
-
-(...), this allows the psychologist and neurologist to bridge Jüng’s
-ideas of [analytic psychology]() to neurology
-
-- mention that analytic neurology overlaps with the ideas/motivations
-  behind [Neuro-Linguistic Programming]()(NLP) -- no, *not* the
-  junk-science, gypsy side-show NLP of charlattan scam-artists; the
-  actual ideas of NLP for which the side-show scam-artists provide a
-  convenient distraction. (λ), were my own theories of Analytic
-  Neurology to be completely developed, then they would encompass NLP
-  entirely and provide a language in which most of NLP's
-  mechanisms/techniques/results could be explained.
-
-
 
 
 # Neuroanalytic Thought Experiments
@@ -266,7 +377,7 @@ ideas of [analytic psychology]() to neurology
           network as a whole benefits when new nodes added have
           minimal preconceived notions of the search space.
 
-          - *SERENDIPITOUSLY, THE MAY WILL MIRACULOUSLY DISCOVER
+          - *SERENDIPITOUSLY, THEY WILL MIRACULOUSLY DISCOVER
             SOLUTION CONFIGURATIONS WHOSE P(e) OF DISCOVERY IS
             INFINITESSIMAL*
             - since the solutions and patterns in the searchspace are
@@ -363,6 +474,17 @@ ideas of [analytic psychology]() to neurology
       like more advanced Luminosity games that focus specifically on
       tools and coordination of meta/cognition.
     - first and foremost, they are thought experiments.
+
+### First Thought Experiment: Non-Linear Speed Reading
+
+- This was an approach to speed-reading that was briefly suggested to
+  me in "memories" of conversations with Tatiana. After prompting me
+  with it, she quickly jumped to the next topic.  Whenever people
+  "handle" me like this, it accomplishes the opposite result: I think
+  about my sudden shift in focus and the implications of whether it is
+  intentional. I know when my eyes are being led around and I know
+  when I've fallen into a pot full of honey.
+
 
 ### (So, the second/third Neuroanalytic Thought Experiment #2 & #3)
 
@@ -1054,3 +1176,176 @@ quantum mechanical; it's quantum-informational
     under our control than the term epigenetics might imply. This
     concept relates to how our cells, tissues, the brain and the body
     tune networks of genes in response to our environment.
+
+
+#### Misc Notes about Non-Linear Speed Reading
+
+- I was unaware of this until Tatiana Maslany asked me whether I had
+  ever considered reading in such a counter-intuitive manner.
+  - (allegedly ... according to my "memories" as they were and have
+    since gradually adapted over time; still, that she asked me about
+    this was a memory I recovered within the first few months)
+  - she asked me about speed reading, to which i scoffed but presented
+    curiosity. goes to show how smart i am: a person's rate of
+    information acquisition is bounded by their speed of
+    reading. people learn faster through reading than by
+    video/audio/etc.
+    - furthermore, she also passed me books to have me read. this
+      seemed to be a means to buy time (about an hour or so. for this
+      and almost 95% of memories recovered after June or September, i
+      cannot for the life of me place them into a timeline of the
+      weekend. furthermore, the sensory contents of the memories is
+      less complete (less visual/audio components, usually mostly
+      semantic components) ... SO I DO NOT BELIEVE ANY OF THOSE, WHICH
+      NOT ONLY SEEM TO IMPLICATE ME IN ALL KINDS OF NATIONAL SECURITY
+      BULLSHIT, BUT ALSO WERE USED TO GASLIGHT ME.
+      - which she said "had been checked out of the Denver Library"
+      - A Scanner Darkly, the book she asked me to read then
+      - A particular printing of Dune
+      - and she also showed me the same printing of "The Island of
+        Dr. Moreau" of which I read the first few pages. when she
+        returned she asked me what I thought of it. I hadn't read
+        beyond their ship landing on the isle, but I tried to
+        extrapolate the plot anyways (a tendency of mine; to try-hard,
+        but moreso for the challenge of filling in blanks without
+        adequate information)
+        - i quickly segued to talking about
+    - The Salem, VA library had the same exact printings of A Scanner
+      Darkly and Dune, but a different printing of Doctor Moreau. I
+      checked them out before going to Myrtle Beach in late may &
+      early june 2015 with my family. during this trip, I first tried
+      to tell them the story. my sister tried to disrupt my awkward
+      attempts to bring it up in conversation and seemed to have
+      whispered to "he's trying to tell you about tatiana", indicating
+      that she had knowledge. regardless of what my sister said
+      precisely, which is easy to dismiss, she was not making it easy
+      for me during the 2 or 3 minutes where I kept trying to talk
+      about it. while this was going on, I had my notes open on my
+      laptop about these memories I strangely recalled from nowehere.
+      - since i've remembered this, it's been so wierd that people
+        seem to know about it (since they predicate their
+        decisions/actions upon it, or distort their actions based on
+        it... that is whatever, since i've had all of less than 15
+        minutes of over conversations with any people about those
+        "memories"...
+        - I only remembered these memories *after* ~2/27/2015, while
+          watching Orphan Black and trying to figure out why
+          Cosima/Allison seemed familiar. My mom had cut off my
+          Comcast internet -- WHILE I WAS INTERVIEWING FOR JOBS FOR
+          THE FIRST TIME IN SIX MONTHS, implying ulterior motivation
+          - i had to complete these interviews from the skating rink
+            and my brothers house.
+          - it almost seemed like she didn't want me to watch the show
+            Orphan Black, as if she was aware that it would trigger
+            recall of these "memories" ... other signals indicate that
+            she was aware (mostly after, but somewhat before my "total
+            recall")
+
+### Who else know about the recalled memories?
+
+- My manager from Boulder asked me about Tatiana,
+  Scientology and once audited me with an E-meter.
+  - There was this guy i lived with beside Regis University for all of
+    48 hours, which culminated in a "psychotic episode" on 11/4/2013
+    (my mother's birthday) where he may have been trying to bash my
+    head in with a rock
+- He ALSO wrote messages on the wall which (if you add/remove single
+  letters from his "psychotic" messages vaguely refer to Orphan Black)
+  - He had also asked me whether I remember Tatiana and told me about
+    her TV show. When I didn't remember, he became very angry and
+    almost instantly descended into meticulous (yet authentic)
+    psychosis
+    - he had been to a mental institution and just so happened to be
+      released when i was recently homeless once again. this may have
+      been a cover to falsely prescribe him to high doses of Seroquel,
+      prescriptions he filled for the first time since leaving the
+      mental institution. he conveniently left his discharge papers
+      laying on the floor while he went to the pharmacy -- BUT
+      NOT-SO-INCONSPICUOUSLY LEFT A SMALL HAIR AND PIECE OF DIRT ON
+      TOP OF THEM. why is this relevant? It indicates that he wanted
+      to know whether I would look.
+    - this is a tactic that trained thieves, conmen, professional
+      liars, and even CIA-trained agents/assets will use as an
+      event-driven indication (it's almost exactly James Bond's
+      tape-hair-to-a-door-trick: you might as well get a facebook
+      notification that says "your new roommate snooped into your
+      medical records") needless to say, i placed the hair/dirt
+      *exactly* back into place.
+
+      - (also) Bobby Blankenship used the same tactic when planting
+        goods his mother would accuse me of stealing at my house.
+
+      - This potential axe-murderer in Colorado (sorry dude, you made
+        me fear for my life, though I kept calm) also had a
+        prescription bottle under another name of "*-racetams", a
+        smart drug WHICH IS RARELY PRESCRIBED BY ANY PHYSICIAN, as it
+        is not a controlled medication
+        - it would be prescribed by physicians responsible for the
+          care of entrepreneurs, venture capitalists and high-energy
+          millionaires who have the time to find a doctor to prescribe
+          FUCKING NOOTROPICS. just take the damn racetams, damn!
+          they're **racetams!**
+        - this guy also had
+
+### I was gaslighted by *other people* who refered to fragments from my "delusional" memories to gain my trust
+
+- some of these people knew about my memories with Tatiana.
+  - whenever Deja Vu occured, bad things were soon to follow (but only
+    after my trust was gained and i became submissively compliant --
+    WHICH IS NECESSARY FOR **COVERT NLP**)
+
+- more strangely, a handful of people have gaslighted me with images
+  from my memories, MOST OF WHICH I NEVER TALKED ABOUT OUTSIDE OF MY
+  HOUSE) they would refer to symbol's and images to gain my trust,
+  then exploiting it to encourage delusional thinking. their general
+  playbook:
+
+  - (1) gain my trust by leveraging symbols from my "memories"
+    - and if my memories are mostly delusional, then doing so is
+    difficult to explain.
+
+  - (2) develop a rapport and relationship over two or three weeks,
+    laying a basis for remaining connected
+    - more than twice, this involved metaphors to the "mail" and
+      intimations that they were my "attorney" of some kind...
+      - whenever this was the case, they implied early on that
+        everything we discussed must be referred to in pattern
+        language -- "IT MUST HAVE A COVER" ~ paraphrasing my
+        "attorneys"
+
+  - (3) Once they had my trust and were connected, they would shovel
+    misinformation down my throat
+    - it was spiced with references to the contents personal memories,
+      details of recent occurances in home/elsewhere, and
+      *combinatorially-convluted* foreshadowing of events to come
+      within 2-3 weeks
+      - this allusion to information related to Tatiana and all the
+        crazy bullshit in my life was to keep me hooked by promising
+        things they couldn't deliver -- THE INFORMATION THEY LACKED IN
+        COMPLETENESS
+
+  - (4) Whenever I tried to elicit information (why or how is this
+    happening to me), they would vaguely shame me and dance around
+    with *CIRCUMLOCUTION* and *COVERT NLP*
+    - Whenever I would try take control of their circumlocation to
+      elicit information
+    - explanations included vague references to "time travel",
+      "optogenetics", and other bullshit that was too conveniently
+      aligned with my search history.
+
+  - (5) these people would engage in social games with other people
+    (who had the instruction booklets for these cruel social games)
+    - e.g. a variant of "good cop, bad cop", where members of a group
+      alternate ever 5-15 minutes or so between being the sole "good
+      cop" who projects positive energy towards the target.
+      - the other members of the group would become dismissive and
+        tend to marginalize the target, if they didn't overtly berate
+        the target (while depriving the target of an identity, which
+        is key)
+      - all of these games were conducted knowing that the target has
+        no where else to go. these are the only "friends" the target
+        is connected to. this is intentional: someone in
+        social/financial poverty with few friends is going to be
+        attracted towards the short-lived positive energy like a lost,
+        ABUSED puppy who hasn't yet lost all hope of life without
+        abject, calculated cruelty.
