@@ -1552,8 +1552,6 @@ change.
     right is wrong?
   - (word this so that it is less confusing)
 
-
-
 - there are higher-order aspects at play to determine morality,
   especially when you assume that words and actions can shape
   someone's belief system to define or redefine both right and wrong.
@@ -1573,12 +1571,129 @@ change.
     - the wrong answers to the questions above allow you to *appear*
       moral, but encouarge immoral behavior of 1&deg; and 2&deg;
       connections.
-      - you can appear moral while encouraging/using negative
-        behavior. this is a tool of karmic obfuscation. this is yet
-        another reason why intent is so important. Do you intend for
-        negativity and malice to spew from your heart through the
-        actions of another? Because if you are skilled, you can do so,
-        while appearing like a saint.
+      - (elaborate...) expound on the tactic of "creating a monster"
+        which can be generally to alchemically consume your would-be
+        enemies.
+        - you allow certain goetian forces to be released in the
+          social neighborhood of the nascent, unsuspecting
+          monster-to-be, who is not yet infested by daemonic forces.
+          - gradual possession by entities, almost form-for-form
+            apparating from out of the ars goetia.
+          - these are like the dementors from Harry Potter, who exist
+            to create horrible socioinformational forms, which leap
+            from host to host, unbounded by a need for localized
+            awareness of their own. they are forms composed purely of
+            information which act upon their hosts, vectors and their
+            devoutly moral Typhoid Mary's.
+          - Some vectors have a kind of moral righteousness that,
+            unchecked, is unconsciously corrupted by a tendency to be
+            blinded by pride; contrary to their moral intentions, they
+            are unwittingly used in ways they would never allow, were
+            they to see it for what it is.
+            - Once their conceptualization of some sitution is made
+              conscious, they defend it because they are proud of how
+              moral they are and how much they believe they've
+              sacrificed to *NOT* engage in immoral behavior.
+            - If they, a last bastion of the moral minority, were to
+              misperceive the ethics of some situation, it would mean
+              they must reassess their values; lo! thus is impossible,
+              because they are a radiant vassal of morality.
+            - When this occurs in someone who tells themselves their
+              adherence to *negatively defined* moral codes --
+              e.g. though shalt *NOT* lie, thou shalt *NOT* commit
+              adultry -- then, their sense of morality results not
+              from the good deeds they've done, *but the bad deeds
+              they haven't done*.
+            - This is unfortunately common in Christians; sadly it
+              presents moreso in the Christians who do not forgive.
+              It is further problematic when the moralist at hand is a
+              narcissist, since such people already have a tendancy to
+              mispercieve their interactions with others as tending to
+              reaffirm their own value, thus inflating their
+              self-perception as *moral by inaction*. With this
+              mindset, it is not necessary to sacrifice or work hard
+              to drink *the opiate of religion*.
+            - Not doing something?  It might require willpower, but it
+              doesn't require effort: especially in the people that
+              have *never* engaged in that behavior.
+              - I'm influenced by Buddhist beliefs: I don't step on a
+                bug; I don't kill spiders, even if they bite me;
+                still, i don't pat myself on the back for being a good
+                Buddhist because I feel like *not* killing an insect
+                or animal is easy: I just don't do it. Also, I'm not a
+                vegetarian: taking that in perspective with my
+                tendancy to allow my negative emotions to control me
+                implies I'm a bad example of someone influenced by
+                Buddhism. However, it's difficult for me to deal with
+                the following: that I have been deprived of the
+                ability to help others (socially/financially), while
+                being held in virtual solitary confinement, abused at
+                work and psychologically tormented -- by people who
+                considered my religious beliefs and once set me up in
+                an apartment where I lived with bedbugs.
+                - so, not a readily provable example, but my religous
+                  influences have been used to incite psychological
+                  distress, while being tempted towards freedom with
+                  the cost of being required to psychologically
+                  torment other people. with a Buddhist mindset --
+                  this is inconceivable. Firstmost, just like a
+                  doctor's Hippocratic oath, the buddhist would never
+                  intentionally create problems in someone's life, at
+                  least when it requires conscious consideration of
+                  such a decision morally: the true Buddhist could
+                  never think about it for long. The length of time
+                  they spend considering such an option speaks to
+                  their inherent fallibility, since the subconscious
+                  is the first mental process which assesses such
+                  actions.
+                - so yes, to speak to my own morality, i do make
+                  mistakes, i do engage in moral consequentialism
+                  (where it's easy to make mistakes, especially if
+                  you're socially blind.)
+                - i become angry when I have been subjected to abject
+                  poverty (finacial/social) which leaves me with not a
+                  single soul whose lives i've positively contributed
+                  to -- and thereby never accumulated good Karma. The
+                  kind of situation I'm in is very effective for
+                  handling someone who is influenced by Buddhism or
+                  for handling anyone unconscious to social dynamics
+                  in life.
+
+            - For the pridefully righteous, the quantity of requisite
+              information to change their beliefs and the degree of
+              improbability by which they change their views depends
+              not on the morally relevant specifics of the situation
+              at hand. Instead: righteous person who lacks piety or
+              high-resolution self-awareness exhibits rigidity of
+              belief which is is coupled to:
+            - (1) how causally-invested they have become in it.
+              i.e. did they act to intervene? who is aware of their
+              intervention?
+            - (2) what do they have to lose, if they were wrong? even
+              if they didn't intend to do harm? a person who prides
+              themselves on strict adherence to a moral system doesn't
+              want to be seen as wrong, but can they themselves
+              continue to see themselves as righteous? what if they
+              acted according to their belief system, but because they
+              didn't see misinformation for what it was, their strong
+              sense of morality was used to trigger consequences of
+              judgement onto someone else's life.
+
+      - For the dementor figures and their Thetanic hellspawn of rogue
+        self-replicating information forms can infest hosts who appear
+        moral while encouraging negativity to precipitate around the
+        target, binding them into a living Hell. these Hegelian
+        nightmares suck the color out of life, but leverage karmic
+        obfuscation to appear as non-connected to the target as
+        possible. This is yet another reason why intent is so
+        important. Do you intend for negativity and malice to spew
+        from your heart through the actions of another? Because if you
+        are skilled, you can do so, while appearing like a saint -- or
+        you can get others to foment toxic sociophysical miasma. Yet,
+        if you do have good intentions, then are you being used to act
+        against someone else? Usually, if you ask the questions and
+        **communicate**, you can assess the situation and correlate
+        outcomes to causal influence.
       - intent is critical, especially if you are wise and skilled
         enough to judge or even measure the downstream consequences of
         your actions. even the most skilled person may create problems
@@ -1588,9 +1703,154 @@ change.
           do evil. but are the actions of the good man well-rewarded?
           by who? by himself? by society? by law? why then, would man
           do good and profit not, when he could do ill and society
-          rewards him? if naivety and wishful thinking are all that
+          rewards him? if naïvety and wishful thinking are all that
           keeps a society's evil in check, that society won't have the
           teeth to restrain lust for power, greed or malice for long.
+      - Who are these dementors? They can't be connected to any
+        obvious belief system. They don't project strong identity into
+        social networks who don't want to be remembered. They retain
+        tight-knit social networks because it is otherwise trivial to
+        pinpoint their influence. Their psychology, their methods and
+        especially their own moral systems are haunting to examine.
+        - What drives someone to unleash such negativity into society?
+          It seems these are people on tight leashes themselves, whose
+          moral systems can be nihilistic or moral consequentialist,
+          but if the latter, the motivations are perhaps as dark as
+          the methods, while their definition of an "end that
+          justifies the means" is almost certainly skewed by their
+          sparse social networks. If these dementors are terrible
+          enough to conceive, spawning swirling eddies of caustic
+          sociophysical torrent, and if "what is below is as above",
+          then what the hell is controlling such daemonic influence?
+          It must be hideously inconceivably awful, whatever it is, to
+          spur such insipid, cancerous demon spawn to act against the
+          good. It must be shape-shifting entity with chameleon values
+          that adapt to project precisely the influence required to
+          spawn sociophysical turblence and to invert any specific
+          connection's apprehension of good, evil and morality as to
+          render them unable to see anything but action to destroy
+          truly good people as necessary action. These dementors often
+          feel morally compelled to complete their objective without
+          demonstrating causal interference -- out of fear of reprisal
+          or discover, who knows? However they conceive of the
+          situation, they must act because they see the good as the
+          evil. Because they've been deceived, just as they do to
+          everyone they project influence through. The difference is,
+          the source projecting their darkness and distorting their
+          values is just more powerful than they ... or perhaps simply
+          older, more connected and more mature. But how long can such
+          evil remain? Is it Lawful Evil? Or is this Chaotic Evil?
+          Does either make sense? Does either lead to sustained social
+          dynamics? Doesn't each destroy totally? Neutral Evil is the
+          only D&D moral type which makes sense -- out of the sense
+          that the character simply isn't intelligent enough to choose
+          between Chaotic or Lawful. They simply want any thing within
+          their grasp which they are capable of grasping, with limited
+          understanding of the consequences. The Dementors? It seems
+          both that: Lawful Evil is projected from above and Chaotic
+          through the lower entities; while simultaneously, Chaotic
+          Evil, as unstable as it is, seeks to become the Lawful Evil
+          and thus projects chaos upwards, in a power-bid to
+          destabalize or to seek freedom from the thumbscrews which
+          bind it.
+          - ![Chaotic Evil]()
+        - Perhaps, at the top of this food-chain of moral perversion,
+          there is some force of Good, who has simply bound Evils for
+          its own ends. The truth is that every animal, every plant,
+          every thought, every idea, every behavior: they all have
+          their purpose. The highlights mean nothing without the
+          shadows, themselves only brought to our eyes by the
+          light. Further, every phenomena has its application,
+          regardless of its causal consequences, its moral
+          implications of use or its intended causal and moral
+          objectives. And furthermore, what is good or evil? Are they
+          totally relative or is there some ideal perfected conception
+          of morality? For those Good on top -- Lawful or not -- what
+          are their morals that can enable them to leverage such evil
+          to disrupt lives from afar? What do they stand to gain? Is
+          it truly a moral gain? If so, why can't they be
+          direct. Usually the moral person is overt, unless they are
+          compelled to act unpredictably or imperceptably. They have
+          nothing to hide. What is to be gained through such
+          subversive karmic obfuscation? Is existing order, then, the
+          highest good? And whose existing order is that? Is it better
+          than any imagined or potential order could be? For social
+          systems and competing civilizations, the new consumes the
+          old to rejuvinate itself, does it not? Since the "Good"
+          commanding the morality of their order enable their despised
+          evils to exist to counteract chaos, keeping it at bay, this
+          perplexes and eventually enrages those in lower echelons of
+          such order.  When order stagnates, chaos disrupts,
+          incentivized by derision and disillusionment in the lower
+          strata aren't privy to precepts and knowledge from
+          above. This ebb and flow of information, it's supply and
+          demand, all determines what people believe to be
+          moral. Alter its flow and command conception of good and
+          evil, yet disrupted too turbulent, society will rot from
+          within. When its difficult to state morality precisely or
+          agree to common conceptions of it, then it's difficult to
+          determine when you've transgressed against another person or
+          when they will see it that way -- yet, most critical, with
+          no clear conception of morality, its impossible to propagate
+          clear definitions of moral behavior to the next
+          generation. If moral behavior is necessary to maintain
+          order, then what have you, self-proclaimed overlords of the
+          "Good" other than another waning, debased culture? There is
+          balance in harmony, which applies to all information
+          systems. Harmony arises in any spectral phenomena, which all
+          emerge from the frequency and interrelation of components of
+          any informational system: be it audio, video, pure
+          information or raw feels.
+        - Since the stability of moral systems is critical for order
+          in any society, then to debase and weaken that order,
+          external forces may target morality as a vector to corrode
+          and confuse those within. Civilizations compete in parallel
+          and do so with short-term, medium-term and long-term
+          strategies. Debasing morality is a long-term strategy. In
+          the midst of fallout from shorter-term strategies, the
+          population becomes hypnotized by these counteracting
+          dynamics rippling through a society's suspension, which pull
+          everyone in myriad directions. The civilization's citizenry
+          posture themselves against threats, perceived and real, each
+          according to their values and life experience. By doing so,
+          when there is some threshold of conflict, they come into
+          conflict with one another, while all being generally blind
+          to the long-term impact of corroding moral systems and a
+          corrosive lack of harmony.
+        - When this happens, emanations from the collective
+          unconscious eventually guide people to seek harmonization.
+          Such emanations filter and direct people's actions not
+          unlike valleys and hills that shape the course of a
+          river. Identify the terrain of the unconscious and you'll
+          have a much clearer picture of where the river will flow.
+          Out of chaos, people seek order. Why? Because they need
+          it. So when you see chaos, order is soon to follow ... or
+          else. When there is order, but the myriad bases of that
+          order's strength have been forgotten or its core becomes
+          rotten, then order descends into chaos. If these dynamics
+          are playing out in a society, this weakens the society and
+          usually exacerbates the impact that manipulation of its
+          externalities will have.
+        - The quality of a moral system is critical to the
+          perpetuation of any order, especially some moral system to
+          be encoded in law or enshrined in theology. If there are
+          flaws in the morality or the basis for its social
+          propagation and transgenerational rejuvination, then it will
+          wax and wane, eventually yielding chaos. This is why it is
+          critical to survey the terrain of the collective
+          unconscious, which contains everything that people don't
+          expect to encounter. Religions usually enshrine values: that
+          account for specific phenomena with unconscious consequences
+          which may require generations to awaken to; that protect
+          people totally from encountering phenomena emanating from
+          the unconscious by encouraging them to live in a way that
+          prevents those consequences entirely. e.g. If it is immoral
+          to commit adultery, then on average, families are stronger
+          and will endure for longer, but also consequences of
+          adultery will be sidestepped: like children with unclear
+          parents and the spread of STD's.
+
+
 
 - It terrifies me to think of an Earth with a few billion less
   people. The remnants of such a planet are filled with the

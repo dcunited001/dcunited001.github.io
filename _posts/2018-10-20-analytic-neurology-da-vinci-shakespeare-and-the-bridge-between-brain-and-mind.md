@@ -298,7 +298,11 @@ ideas of [analytic psychology]() to neurology
           causal interface become increasingly coupled to logic and
           epistemic structures.
 
-
+- When consciousnesses are bridged by some means of physically
+  propagating information ... (e.g. I am having a conversation with
+  you and can see you) then there is an image of you inside me and
+  vice versa. This bidirectional exchange of information is a causal
+  bridge between two consciousnesses
 
 # Neuroanalytic Thought Experiments
 
@@ -477,13 +481,56 @@ ideas of [analytic psychology]() to neurology
 
 ### First Thought Experiment: Non-Linear Speed Reading
 
+- Reading horizontal text (left to right or right to left) and parsing
+  grammatical elements out of sequence. In other words, you are
+  scanning the text and deferring the gramatical parsing of three
+  lines of text as a time. Each line of text is still scanned, but you
+  are pulling in text from the next lines as you are reading the
+  current line. When your eyes reach those next lines, your
+  subconscious mind has prepared monoidal CCG structures representing
+  the partial context of the incoming subsequent line. So this next
+  line's space is already filtered by that grammatical partial
+  context.
+  - How can the grammar of the visually consumed quasi-sentences and
+    fragments be monadically modeled as in higher-order dual spaces of
+    CCG-trees? It can't. Not by humans.
+    - now that I understand more about the computational complexity of
+      combinatorial problems involving category theory, it seems that
+      non-linear speed reading would be impossible for humans. For
+      space-lizards whose brains contain a connection to a planet-wide
+      quantum computing cloud in the molter core for the earth?
+      Perhaps not impossible.
+- Since it's possible, this is merely a thought experiment on
+  metacognition related to maximizing the computational efficiency of
+  reading. How could one get the mind to cognitively coordinate the
+  subconscious to read with this process instead of the normal process
+  bounded by single lines of ingestion? From a computer science
+  perspective, this would be parallel; though the processes which are
+  ingesting lines seem to be concurrent, parallelism is acheived.
+  - Once you've metacognitively reasoned about reading in this way,
+    the next step is to try to get your mind to accomplish this,
+    though I'm not presenting these thought experiements as though
+    they are possible. While you're trying non-linear speed reading,
+    you should observe your own cognition to collect subjective
+    information to leverage to deduce how your mind operates
+    generally.
+  - (Doing so) is much easier when the mind is challenged because you
+    can "feel" it butt up against various limitations. Though these
+    facets and edifaces which constrain your cognition are invisible
+    and convoluted by each faculty's modularity, it's still possible
+    to make useful inferences from such purely subjective aspects of
+    your experience. This facilitates inductive reasoning to form
+    hypothesis about neurological experiementation and the methods to
+    validate them.
+
 - This was an approach to speed-reading that was briefly suggested to
   me in "memories" of conversations with Tatiana. After prompting me
   with it, she quickly jumped to the next topic.  Whenever people
   "handle" me like this, it accomplishes the opposite result: I think
   about my sudden shift in focus and the implications of whether it is
   intentional. I know when my eyes are being led around and I know
-  when I've fallen into a pot full of honey.
+  when I've fallen into a pot full of honey...
+
 
 
 ### (So, the second/third Neuroanalytic Thought Experiment #2 & #3)
@@ -747,38 +794,184 @@ this way and was so intelligent.
     a major impact on how individuals skills manifest in a person,
     which corresponds to physical differences in the brain.
 
-### The Hegelians Win
+# Education, Early Childhood, Healthy Social Interaction and ...
 
-- this is why taking art, music, etc out of primary/secondary
-  education is a major mistake. it is essential for developing
-  (structured cognition) that is both (interpretive) and (generative)
-- (This is why) presenting the child's mind with the right approaches
-  for deconstructing information and constructing cognition provides a
-  set of "initiation"-like methods for nudging the child's mind in the
-  correct direction to develop intelligence.
-  - Sure, in the Nature vs. Nurture argument, epi/genetics helps quite
-    a bit. However, for plastic neural networks like the circuits and
-    pathways of the human mind, the specific information processed
-    coupled to the structure of approach used to destructure and
-    restructure it has a far greater impact than psychology and
-    neurology seem to realize.
-    - That is -- and this will satisfy Hegelian philosophers and
-      Buddhists quite a bit -- your mind primarily adapts to
-      metaphysical structures that are pre-eminent. It does so by
-      constructing its own images of those metaphysical structures,
-      which ontologically correspond to deconstructions and
-      typological permutations of invisible metaphysical forms which
-      are pre-eminant. So, as for the Hegelian and Marxist
-      Metaphysicists, both sides are somewhat correct, since it's
-      recursive, but truncate the recursion in an inductive mathematic
-      proof and you'll see the Hegelian conception of metaphysics
-      provides the forms to which the materially derived Marxist forms
-      converge.
+- (Understanding the neuroanalytic perspective on the neurological
+  aspects of psychological development underscores the mistakes of)
+  taking art, music, etc out of primary/secondary education. it is
+  essential for developing (structured cognition) that is both
+  (interpretive) and (generative)
+
+- Embed K-OS Love Song music video
+
+### *Don't* Slash Educational Budgets
+
+
+  - in fact, we need more of these programs. we need after-school
+    programs to engage kids in these positive pursuits that help us
+    develop our minds early on. every primary and secondary classroom
+    should have one or two teaching assistants on staff. Why? Because
+    a single teacher should be expected to dedicate ZERO TIME to
+    disciplinary issues and maintain class-room order. This is
+    especially true in tougher schools (like the ???  program covers.
+    You'll find adding a second person resolves 90% of any
+    disruptions, simply because -- SOCIAL PHYSICS.  However, these
+    additional teaching assistants should NOT be thought of as
+    disciplinary grunts because they should be hired as adjunct staff
+    **foremost**, to facilite adult-child interaction, which is purely
+    bounded by a single teacher and a 30 to 1 teacher to child
+    ratio. This ratio should be 5 to 1, but 10 staff members to every
+    child would be reasonable for the budget.
+    - This sounds expensive?! I posit that it is expensive in the
+      long-term to *NOT* invest these resources in childred. Further,
+      our economy is going to be strained and we will need to
+      reallocate resources to compensate for unemployment.
+    - By analogy, if such teaching assistants parallel nurses under
+      doctors in the hierarchy of authority, then it means that staff
+      may be hired without needing needing an education major as a
+      college graduate -- or perhaps they would only need a two year
+      degree.
+
+#### Think of the Children? Ummm ... Think of the Economy!
+
+- When automation first leads to rising unemployment, federal and
+  state governments will need a mild form of [Employer of Last
+  Resort]() to artificially increase supply of jobs to maintain higher
+  levels of employment. Yes, it's Keynesian economics. Technically,
+  that's all that ELR programs are: you're paying people to dig holes,
+  so they can fill them in again. This all falls under the government
+  budget, which simply means we damn well sure better get our value
+  out of the budget expenditures, which is why UBI programs are a sick
+  joke: they don't deliver anything but idealistic hope of value
+  returns.
+  - Instead, by systematically increasing the student-to-teacher ratio
+    in classrooms across america -- and by NOT slashing arts programs
+    -- then we will end up with a smarter, more diversely employable
+    youth population. This means that the initial impacts of the
+    automation crisis like employment rates disrupted across economic
+    segments will be aided by having a young population that is more
+    widely skilled that can be dynamically reallocated.
+    - Yes, this is expensive, but realisticially sizing up the crisis
+      we will encounter less than two decades from now, can we afford
+      not to seek to improve metrics like student-to-teacher ratio and
+      diversity of skill? NOW is the time to act. Sadly, the *only*
+      solutions which will help are those with long-term payoff. There
+      are very few effective short-term policy responses to the
+      automation crisis. We will either be ready for it, or we may end
+      up tearing ourselves apart.
+
+### Activating Meta/Cognition in Early Childhood Development and Adolescence
+
+(segue ... This is why) presenting the child's mind with the right
+approaches for deconstructing information and constructing cognition
+provides a set of "initiation"-like methods for nudging the child's
+mind in the correct direction to develop intelligence. If you "awaken"
+certain methods of meta/cognition while providing the child with
+incentives for consistently reinforcing specific cognitive methods,
+then these tools will feel more natural as they develop. Done
+correctly, the the child will continue to engage in problem solving by
+independently leveraging these meta/cognitive methods in dynamic and
+modular ways. They won't necessarily understand why they approach new
+problems in creative ways, they just will. When the mind is young,
+reinforcement has a greater effect on a mind that is far more
+flexible. The younger people are when they strengthen these
+meta/cognitive methods, the more natural they feel and the more likely
+that subsequent evolution of the brain as an analytical machine will
+structure itself around a dense core of meta/cognitive intelligence.
+
+###
+
+Children that lack interaction as babies and toddlers is an extreme
+example of the opposite of this idea. Research shows that
+intergenerational interaction with uncles, grandparents and other
+family members is correlates with higher intelligence. When you lack
+interaction, you're presented less often with new perspectives and
+methods of cognition. Children and adolescents that lack interaction
+or other components of psychological development feel unconsciously
+compelled to seek them out elsewhere. They don't usually know what
+they're looking for, *but they will look for something*, which makes
+them unwisely dependent on people outside the family who may be
+untrustworthy. However, a younger person may neither have a strongly
+developed values system nor may they have tools to vet new social
+connections, especially if they don't receive enough exposure to those
+skills for whatever reason: sometimes parents try to over-protect
+their children from some facets of life, unaware that they're leaving
+their children more vulnerable. As a parent, you need to encourage
+your child to engage in a diverse set of experiences: independently;
+in a safe environment; making their own choices and dealing with the
+consequences.
+
+###
+
+Sadly, the "Nuclear family" of the 1950's disrupted extended family
+living situations; however, bankers who wanted to accelerate demand
+for housing bloated the price of real-estate by pulling the family
+unit apart and, perhaps incidentally, gained money and power. The
+spread of Nuclear family units had a huge impact on rates of
+adult-child interaction and other sociophysical metrics like breadth
+of information exposure: in childhood and adolescence, if you live
+with more people, they are connected to a larger network and thus you
+will receive and process a more broad set of information and
+perspectives; dynamics that have evolved with broadband internet to be
+sure.
+
+Today, you simply cross your fingers and hope that politicized
+newsfeed algorithms will teach your child which piercings are
+appropriate, among other critical lifestyle decisions that no
+artificial intelligence could ever get horribly wrong -- as judged
+from the perspective of the parents and family. To be sure, neither
+strongly defined values nor judgement (cast by people with mindful
+awareness of circumstances, open minds and open hearts) are always
+toxic. The opposite is seen: societies are self-corrupting that are
+devoid of people with strongly developed values and morals or who do
+not have pronounced, shared systems of values. Both diversity of moral
+system and social consensus on values are critical to the next
+generation's apprehension of morality: *when this swings out of
+balance, it is an example of the collective unconscious emanating into
+sociophysical systems, thereby stirring society to self-correct the
+lack of balance.*
+
+What social liberals don't understand about social conservatives:
+people have a right to build diverse communities with different sets
+of values and families have a right to raise their children according
+to the set of values that they and their children come to see as
+correct. If you describe yourself as someone who vigorously defends
+diversity, then that previous sentence should make your head explode.
+
+There is no "perfect" answer; still, deciding on the right moment to
+introduce a child to specific topics, ideas, mindsets or lifestyles
+should be a decision for the family to make; not some algorithm; not
+an untrustworthy person introduced into your child's life because they
+sought something not found in nearby healthy social outlets; not
+circumstances induced by poverty and overworking parents in a
+community that lacks adequate afterschool programs after having their
+budgets slashed.
+
+- TODO: move the section on how it's impossible for parents to not
+  understand some psychological concepts, albeit intuitively.
+
+- Sure, in the Nature vs. Nurture argument, epi/genetics helps quite a
+  bit. However, for plastic neural networks like the circuits and
+  pathways of the human mind, the specific information processed
+  coupled to the structure of approach used to destructure and
+  restructure it has a far greater impact than psychology and
+  neurology seem to realize.
+  - That is -- and this will satisfy Hegelian philosophers and
+    Buddhists quite a bit -- your mind primarily adapts to
+    metaphysical structures that are pre-eminent. It does so by
+    constructing its own images of those metaphysical structures,
+    which ontologically correspond to deconstructions and typological
+    permutations of invisible metaphysical forms which are
+    pre-eminant. So, as for the Hegelian and Marxist Metaphysicists,
+    both sides are somewhat correct, since it's recursive, but
+    truncate the recursion in an inductive mathematic proof and you'll
+    see the Hegelian conception of metaphysics provides the forms to
+    which the materially derived Marxist forms converge.
 
 ### Back to Da Vinci
 
 
-
+(TODO: move up these sections up)
 
 # A Neuroanalytic Perspective on Shakespeare and other Dead Poets
 

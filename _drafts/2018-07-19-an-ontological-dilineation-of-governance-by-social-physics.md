@@ -12,7 +12,7 @@ excerpt: ""
 
 - consensus on policy, operations and interface (w/ public, governed,
   etc)
-
+q
 - summarizing many of my philosophical ideas in one word that
   addresses and balances metamodernism: finalism
 
