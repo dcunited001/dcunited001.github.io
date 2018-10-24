@@ -48,6 +48,78 @@ excerpt: ""
     to win?
     - or, in my case, can i ever hope to have a job outside of
       BestBuy? I mean really?
+  - so, if such shady dealings must remain secret and you can curry
+    favor with various secret societies by (...) then, do they
+    exchange access to the more valuable opportunities to people who
+    have gotten their hands dirty?
+    - NO, that seems like a con that plays out like a bad joke. the
+      grunt who gets their hand dirty loses the ability to become
+      known, since the risk of damaging information would be magnified
+      the grunt attained some position of power. if you choose to do
+      fucked up things for powerful people, they will always control
+      you with that information, unless you are very careful to
+      proceed in such a way as to make everyone aware that NOTHING
+      will ever emerge later on. it basically ensures that you will
+      amount to nothing but a pawn in their eyes and the person who
+      knows this and still plays the pawn is a spineless shit anyways.
+      - all around, not the best way to curry favor *for yourself*.
+      - however, consider the person who played the pawn, had
+        children, family and friends, none of whom ever learned of the
+        truth, even decades later.
+      - the notion of "service" to the more powerful is respectable
+        when you can openly talk about it, but not every secret is
+        hidden for malicious reasons. so, for this person who served
+        interests higher or lower, who couldn't say what they did or
+        gained, it could be the risk of information exposure imply
+        this person's opportunity for success is foregone. may their
+        sons then reap the fruits of their favors? only time will tell
+        whether secrets remain hidden.
+    - people at the top are either aware or must remain unaware -- but
+      if aware, you sure never hear about conspiracies or sheisty
+      dealings of much truth. so either these are well covered up,
+      securely orchestrated or they just don't happen.
+    - those who are fortunate enough to attain some position of
+      influence are just that -- lucky, perhaps in tandem with hard
+      work and a few strings pulled here and there.
+    - briefly assume there are shadowy brokers of positions of social
+      influence: how would the economics work there? you would want to
+      control access to as many positions of power as possible: for
+      flexibility, for profit, for appearance of power to influence,
+      for redundancy, and for options to influence and retaliate.
+      - also, if you generally prevent individuals from accomplishing
+        much of anything without serving you -- by preferring to hold
+        opportunities for those who have served you, or those your
+        network has vetted -- then people generally will be more
+        likely to submit to your authority.
+    - but what about some person who is never permitted to access
+      sufficient opportunites to have financial or social independence
+      whatsoever? how can they serve someone? can they flip a sign for
+      Liberty Tax on a street corner? if they don't have a car, can
+      they ever give someone a ride? if they don't have a home, can
+      they ever let a friend crash at their place for a week? if they
+      can't afford tools, what can they help build? if they don't have
+      money, what can they loan or give?
+      - by choking out threats -- or simply competition for your
+        networks social resources -- then you ensure *they* have less
+        to give to others. people gravitate towards social and
+        financial resources. if by mandate, you can never accomplish
+        anything but to get jobs where you are abused psychologically,
+        then what can you EVER do for anyone else?
+        - what does this do for society's social memory of you?
+          there's not a single person that can remember how you've
+          helped them. why? because you whole life was a fucking lie
+          and no one understands that you have nothing because every
+          opportunty, if it wasn't a setup, was quickly destroyed. no
+          one knows what that feels like for you. they don't care
+          because no one remembers you ... because no one reconnects
+          to you ... because the social memory that has diffused into
+          society is a twisted horrid mockery of the truth and **no
+          one cares to see how your life was a meticulous lie, to
+          create a monster or scapegoat to be destroyed in a
+          spectacular trainwreck, so that you would be frozen into a
+          cautionary tale that 5 years later, no one would ever
+          remember.**
+
   - my whole argument: i became "tainted" by asking critical questions
     and for the past few years, this has reached critical
     mass. usually, there's some "truth" that the "powers that be"
