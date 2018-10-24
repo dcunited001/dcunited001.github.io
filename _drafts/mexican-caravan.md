@@ -48,6 +48,10 @@ with.
   formed? what becomes their purpose and their movement's raison
   d'être?
 
+- is this really timed to coincide with elections? because that's
+  really shitty to put 100,000 people living in Latin America up to
+  something just to create a PR-showdown to influence elections
+  domestically. that's reallly shitty.
 
 - TODO: ![Population Density Map of Mexico]()
   - overlaid with major road maps

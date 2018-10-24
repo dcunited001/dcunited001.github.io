@@ -404,9 +404,11 @@ etworks
             you may learn from its serendipitous discovery of novel
             solution-patterns
 
-#### Phenomena/Mechanisms which are readily explained from a Neuroanalytic perspective
+### Phenomena/Mechanisms which are readily explained from a Neuroanalytic perspective
 
-- expanding more logical patterns of visual focus projection and
+
+####
+
 - "priming" neural circuits
   - (mechanism that works via attuning infinitesimally valued events)
     - where neural circuits which have been engaged recently are more
@@ -432,6 +434,124 @@ etworks
     person's content to appear in your newsfeed.
     - this is similar to how and why similar tactics of "priming" work
       in the human brain.
+
+#### Double Images in Art and Psychology Research
+
+![Pic of Occipital Lobe Pathways]()
+
+- neurological explanation for double images in art (Dali) and
+  psych. research ... specifically activations & image classifications
+  - explain how the tendency to "lock in" the first image seen is
+    explained by the initial set of activations, which primes the
+    brain's pathways to continue seeing the first recognized image.
+    - to the brain's trained image classification networks report 2+
+      classifications whose probabilities are evenly shared, then it
+      is more likely for the subconscious to bubble up the other image
+      class(es) responsible for activiations in that region.
+      - here, if image classification possibilities reported by
+        (visuo-object) pathways are moreso evenly distributed across
+        multiple pathways, then the "primed" and active circuits are
+        less stable and will incentivize cognition to continue
+        looking, as though something is missing/incomplete
+        - explain confidence in object/phenomena classification
+    - on the other hand, borrowing more metaphors from computer vision
+      image classification, if one image class is reporting
+      probabilities far higher than others (e.g. class A: 90%; class
+      B: 8%; C: 1%; ...) then the subconscious is likely to respond by
+      holding existing pathway activity stable, leaving the
+      consciousness *almost completely* unaware of a possibility for a
+      second image.
+      - here, the consciousness at most should receive a vague
+        sensation that something is missing, if anything at all, but
+        is more likely to remain completely unaware of a second image.
+      - if the person is told to reevaluate and identify the second
+        image, then they can focus their cognition to reengage their
+        subconscious to identify further image classes.
+        - yet, the strength of the original classification should
+          persist cause the mind to experience difficulty in
+          overturning the existing primed circuit pathways.
+
+- copy/rewrite footnotes on sketches? (from "to catch a butterfly")
+  - how to find double images by sketching (why you need to explore
+    through sketches and why working with double images is so hard)
+  - the main problems with double images in art with realistic or
+    expert technique:
+
+    - (1) it usually requires remaking the piece repeatedly, but each
+      time, it's difficult to maintain the dependencies for double
+      iamges that make them work without trying too hard.
+      - when you redo the piece, unless you have granular control over
+        where you place elements and how you maintain proportions,
+        then your intended direction unwinds and the effect is
+        properly received. or ... worse, it looks like everything in
+        your piece became contrived around that single element.
+
+    - (2) features of perceived depth of matching image classes must
+      be coherent, not simply the silouettes. why? because neurons
+      also leverage design patterns like Capsule Network -- Gregory
+      Hinton and other researchers inferred inspiration behind the
+      Capsule Network from interleaving neurons whose silicon
+      counterparts feed encodings back into themselves, in a
+      way. (double check the last part)
+      - the addition of lighting can complicate things, but also opens
+        up the possibility for "partializing" the intended recognized
+        image classes. in this way, you deconstruct the recognized
+        features of two image classes, keeping those most
+        characteristic to the type of object and discarding the rest.
+        - after the constraints have been loosened, its easier to find
+          pairs whose partial definitions match.
+        - the above technique is almost essential for getting lighting
+          to work, since it allows you to toy with how the lighting
+          interactions from various sources hit the objects' surfaces
+          - here you use the same "partialization" technique to decide
+            which surfaces receive light with various light sources.
+            - tuning/emphasizing the color of each light source allows
+              you to emphasize the characteristics of each intended
+              image class across various surfaces.
+        - yet, to pull any of this off, you have to have expert
+          proficiency in artistic ideation, visualization, lighting,
+          color, abstraction and depth, along with enough time and
+          patience.
+
+    - (3) greyscale images make it easy; color makes it hard
+      - if doodling to explore possibilities, but without color, then
+        the double image possibilities you identify won't necessarily
+        translate to color easily. so the artist needs to have
+        extremely developed ideation with intricate visualization to
+        imagine the possibilities before they waste the time.
+
+  - why double images with black and white are easier to identify.
+    - how color evokes an aspect of the "curse of dimensionality"
+      which gives classes of visual patterns more distinct
+      "fingerprints".
+    - black and white images are simple. with some drawing techniques
+      or abstract art visual styles/content, then it can be difficult
+      to avoid provoking difficult to resolve classification without
+      the use of color
+      - it may be possible to verify this in art by running image
+        classification algorithms over smaller regions of art
+        pieces. the probabilities reported for top class matches in
+        greyscale should result in more spread over more image
+        classes.
+        - to control, you can easily remove color channel content from
+          the color test cases, giving you three categories:
+          greyscale, rgb, rgb => greyscale.
+        - there are other interesting things you can do with hue/etc
+          to tune recognition.
+    - the more abstract the style, techniques or subject of the piece,
+      the more likely there will be poor activation of final image
+      classes, spreading the probability over several classes.
+
+  - how to search for double images, and why it's a hard problem,
+    unless you have some miraculous instantiation of neural circuits
+    the enable you to "mix" image classifications, almost like Google
+    Deep Dream running content through the intersection of image
+    classification weights.
+    - this would be the only way to identify the "rare" image classes
+      which result in superimposable
+
+
+#### expanding more logical patterns of visual focus projection and
 
 ###
 
