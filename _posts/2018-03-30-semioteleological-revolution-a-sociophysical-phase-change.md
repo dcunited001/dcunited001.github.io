@@ -8,6 +8,288 @@ author:
 excerpt: ""
 ---
 
+### Was Steve Jobs a Shill?
+
+- so, assume for a second that shadowy groups of people coordinate
+  from behind the scenes for whatever reason; they're not connected
+  and their incentives to collude arise from the terrrain of the
+  collective unconscious, which funnels factors and decisions related
+  to economics, knowledge and power.
+  - now assume that these people have interests to protect and threats
+    to protect them from, so -- without necessarily being aware of
+    their their behavior being sync'd up or needing to communicat
+    whatsoever -- those who advance their interests are rewarded, so
+    long as the powers that be appear disconnected from how those
+    interests are advanced; they respond to threats and dissidents by
+    ripping them to pieces or gradually staining them with a kind of
+    "taint" which is visible to society generally.
+  - this would parallel the ideas of of "taint" discussed in [The Law
+    is a White Dog](): It can be inherent as a result of lineage or
+    upbringing, which was a basis for seeing whites as superior
+    blacks, rationalizing slavery in 16th century Europe, albeit an
+    ideological basis mostly unconscious except to those who plotted
+    the system's establishment and who framed the intellectual
+    motivations behind transgenerational reinforcement of racism; it
+    parallels the examples of tainted nobles as traitors in
+    post-Richard or Tudor England, to be deprived of all property;
+    This can also be "taint" that is acquired as a result of social
+    dispersion of information, where people whose statements or the
+    rumors which follow them indicate taint that, in effect, is no
+    different than markings on brightly colored poisonous frogs.
+
+- the whole point of the above was to beg some very important
+  questions about:
+  - how does anyone ever play the game of life and win ... without
+    selling their soul
+  - once you have sold your soul, can you ever win?
+  - if you've accumulated too much "taint" or sociophysical
+    information that holds you back, robs you of opportunity and
+    contorts people's interactions with you .. then can you ever hope
+    to win?
+    - or, in my case, can i ever hope to have a job outside of
+      BestBuy? I mean really?
+  - my whole argument: i became "tainted" by asking critical questions
+    and for the past few years, this has reached critical
+    mass. usually, there's some "truth" that the "powers that be"
+    would *really, really* like to remain true, as it appears to the
+    common person. Under no circumstances, do they ever want this to
+    be questioned. This can related to government, policy, business
+    model, intellectual property, trade secrets and countless other
+    areas. It can even be information that is personal in nature, if
+    that person for some reason has enough money & power to lash out
+    at you.
+    - Still, with today's increasingly disrupted economy, there are
+      countless examples of someone's big corporation being disrupted
+      into oblivion by some garage-startup!
+    - So how the fuck did some guys in a garage manage to poke holes
+      in someone's big bad business model without being squashed like
+      bugs? I mean are Steve Jobs, Bill Gates or innovators like that
+      even real? Or are they shills? Why did Nikola Tesla get squashed
+      into poverty until the FBI killed in in 1943, sealing away all
+      his intellectual property into the [Office of Alien Property
+      Custodian](), for all we know never to be released?
+    - If almost every person that challenges the status quo does so at
+      some other interest's misfortune, then why doesn't everyone get
+      squashed who is so far ahead in their field(s) that they are
+      even capable of intelligently structuring questions which could
+      potential disrupt someone's business model?
+    - except those who sell their souls to become empty shills, if
+      every person who is capable of innovation, disruption or
+      critical insight ends up getting squashed by bigger, more
+      powerful interests, then is Western World's economic progress
+      since the Industrial Revolution just based on lie after lie
+      after lie?
+    - why the fuck does your probability of being squashed and ruined
+      correspond hyperbolically with how developed your innate
+      abilities are that give you well-rounded skill in innovation?
+      e.g. The most complete definition of creativity I can think of:
+      combinatorial reconstruction of phenomena in society to
+      diffeomorphically expand on epistemological developments in
+      knowledge?
+      - it seeems like the very thing that makes people valuable and
+        strong makes them worth destroying or stringing up like
+        puppets.
+    - so maybe its not this extreme. I do not believe it is
+      coordinated or conscious retaliation, which is worse because it
+      means these are just horrid socioeconomic consequence of endemic
+      flaws of human behavior experienced at scale. The more people
+      you have, the more power that powerful people can use to destroy
+      anyone, whose strength or intellect is not some from innate
+      genetic or cultural (source), but is merely a consequence of
+      exposure to socially distributed information throughout life,
+      causing someone to act on their hopes and dreams. So, the rich
+      get richer ... yet, given that early 21st century innovation is
+      systemically disruptive and we are close to economic
+      convergence, aren't we getting closer to a period where there
+      will be more disruption than ever? So why the hell does it seem
+      so "normal" for someone like me to be so utterly destroyed? what
+      the hell did I ever do that is so unlike what a Steve Jobs, a
+      Bill Gates, a Neitzsche, a Tesla or any other heroes throughout
+      history have done *when they build their life's work questioning
+      things that escapes almost every person on the planet?* When
+      doing so almost certainly necessarily disrupts things for
+      someone else? How many souls did they buy and coerce to get
+      their success?
+  - My argument is not that I'm crying about a lack of success that
+    can't be expected, but instead that *even trying* resulted in my
+    life being so completely destroyed for reasons so *insipidly
+    unnameable* ... When I did nothing but imitate people whose routes
+    to success I studied, hoping that if my burning passion to
+    innovate didn't get me a lottery ticket, I might have just shot
+    for the moon to miss, becoming a star.
+    - instead, it's fairly clear to me: no one will ever help me. no
+      one will ever connect to me. my life is as close to
+      **sociophysically zero** as one can get without waking up in the
+      Mojave Desert, unable to remember the past three months with
+      nothing but a bottle of sunscreen and a DVD copy of Memento the
+      movie.
+    - Shoot for the moon? And warp into some transplanar
+      manisfestation of a Hell on Earth, where your torment is
+      personally tailored to the pleasure of those who'd love to dance
+      on you grave ... all because I had the intelligence to ask the
+      kinds of questions which are necessary for innovation?
+    - if this isn't level of Hell isn't some kind of torment that I
+      deserve for being so bold as to think I might succeed with my
+      soul in tact, then what did I do that is so unnameable?
+
+
+#### Explaining the ....
+
+  - (perhaps move this) if it's so crucial for the common person to
+    remain unaware of any system, whether coordinated or the
+    collectively unconscious result of groups (interacting with)
+    social signals, occasionally with unbelievable feedback loops,
+    then there must be some reason for all the secrecy. To be certain,
+    it doesn't appear that there is any singular Illuminati or set of
+    conspiratorial secret societies -- far worse, these are dynamics
+    that result purely as a consequence of collective human behavior
+    responding with varying degrees of consciousness to facets of the
+    unconscious made conscious.
+    - as social groups in competition become aware of needs, desires
+      and objectives, then according to how individuals are
+      distributed in a gradiation of consciousness to phenomena, each
+      group responds to awareness of these needs, which are *usually*
+      easier to obtain in competition if they remain unconscious.
+      Since every person begins life almost completely *tabula rasa*,
+      then with respect to almost every phenomena, they are completely
+      unconscious and will rise in society's gradiation of
+      consciousness as they encounter socially available information.
+      Factions can cooperate, but one aspect of nearly every game
+      theory scenario is universally true: it is easier to control the
+      outcomes when you can control information distribution. More
+      precisely, by limiting the spread of nearly any information by
+      default, then for some competitive domain, it is advantageous to
+      systematically control the [spatial complexity]() of statistical
+      models by tending to constrain the dispersion of relevent
+      information. Though there are some exceptions, people are more
+      predictable when they have less information. The leaders filling
+      various roles in cooperating factions, however, are not useful
+      without the requisite information to interface with the social
+      system to win the game.
+
+#### What has this "Taint" been like for me?
+
+  - What has it been like for me? Every new acquaintance you make:
+    initially they're warm and receptive, then neutral and
+    apprehensive; finally vaporous and dispersivel, usually after the
+    third time meeting them. You're never invited in and usually
+    arrive when people leave. People configure themselves so they
+    remain functionally distant from you, along various sociophysical
+    metrics like seating arrangement, physical orientation, etc. In
+    terms of social valence, you're like a Nobel gas and nothing has
+    compatible valence to bind to you. At the same time, if you are
+    socially weak, you may not know what to do.  Dementors bind you
+    down to scrutible predictability in poverty with minimal options,
+    intending to stagnate your psychological development by limiting
+    access to any social experience (since development impairs
+    predictability), then if you can even assess sociophysical metrics
+    -- and manage to clearly state them without being vulnerable to
+    derision by imps who are have created your circumstances, while
+    intending to throw you in a sanitarium -- then people still move
+    away from you. Why? First, the successful should tend to avoid the
+    unfortunate, as dictated to the soulless by the 48 Laws of
+    Power. Moreover, if your apprehension of a Rumor Mill staffed 24/7
+    by entities from Hegel's nightmares is not a slow-cooking crock of
+    crazy, then illusions surrounding the fallacious torment of your
+    life are easier to see and discuss from the outside looking in. If
+    there reallly is some intent to isolate you from any who may aid,
+    abet or use a targeted individual, where the fate is the same for
+    anyone who intervenes, then to prevent anyone from being the "good
+    person" that so many unfortunate schmucks in humanity are wont to
+    do, the illusions to those on the outside are rendered slightly
+    easier to see. The goal is to deprive you of financial
+    independence, then social independence and finally informational
+    independence; the last being induced once you are swimming in a
+    sea of lies with not a soul to reach in and tell you so much as
+    "Hey buddy, your shoes are untied. If I was you, I wouldn't want
+    to trip up on my face" ... or "Hey dumbass, you might want leave
+    the country or at least get a lawyer." ... or "Give up, there's no
+    hope, your life is a lie; you also might want to find friends less
+    interested in gaslighting you." The intent is to deprive you of
+    all options, not only rendering you predictable, but more likely
+    to reach for help from people that you never, ever should have
+    trusted. With no social experience, you can be emotionally
+    harassed to almost guarantee that you'll never have the
+    wherewithall to positively adapt or develop new behaviors: AND IN
+    HUMAN FACTORS ENGINEERING, STATISTICALLY, YOUR MODEL FOR A PERSON
+    MUST BE COMPLETELY RECONSTRUCTED WHEN THEY DEVELOP SUFFICIENTLY
+    NEW BEHAVIORS AND HABITS.
+    - If all or some of this is actually true, what does this all
+      mean? Your life is a fucking lie and every person knows it: they
+      can see through what's happening, but if they want to help you,
+      they have to dampen any visible signs of *hoping* to ever do so.
+      This seems to be what motivated a handful of the most tragic
+      expressions I've ever seen: usually from an old friend when they
+      didn't expect to see me. It was a split second of a specific
+      kind of confliction: as the expression of their recognition of
+      me developed from unconscious to subconscious, they
+      simultaneously presented extreme hope, sadness, fear and love,
+      each pulling the person's body language and thought in different
+      directions, like they wanted to reach out and hug me, but
+      weren't sure if they could run away without hurting me, since
+      they acknowledged my isolation.
+      - My personal response to these kinds of expressions? It was
+        similarly conflicted, though usually my response to the
+        expression with anomolously modular confliction took time to
+        grow. In retrospect, these are moments where I felt like I had
+        seen more truth than I had for months and I felt symmetry,
+        honesty, love, authenticity and fear. In the end, I felt
+        mostly love and fear. Fear: that I had seen the effect of
+        power know one felt surmountable to ever relay to me and how
+        could any fear be so authentic, so instant, but unnameable?
+        And love: that despite all that power to instill fear, all to
+        isolate me for unspeakable sins against it, there was nothing
+        it could do about truth. The truth of moments like that, would
+        be redeeming and renewing, since without the need whatsoever
+        for words, I remembered that everything else had been an
+        illusion: no one hated me or, at least, the people who had
+        known the real me recognized truth and never stopped loving
+        me.
+    - It could be said: you're crazy or you couldn't possibly know
+      that's what they were thinking. Fair. Still, if everyone in
+      society reacts to information about you, the origins of which
+      you can't trace that seems to globally impact the decisions,
+      then how do you distinguish what is "normal" when you only ever
+      experience life from you own perspective. If society at large
+      has pulled the wool over your eyes and you feel the need to
+      reach for such colorful language as "dementors from Hegel's
+      nightmares -- who are responsible contorting everyone's
+      conception of you until you never feel love, but only the
+      auto-informational echo of ruminating on emotional trauma in
+      solitary confinement", and it then turns out that you can
+      provably confirm many of your suspicions (that people close to
+      you intend you to tread delusionally in a sea of lies to
+      gaslight you, while you speak to no one who could shatter those
+      illusions), THEN HOW CAN YOU DISTINGUISH NORMAL SOCIAL DYNAMICS
+      FROM THE HELL THAT IS YOUR LIFE? What is normal and what is
+      exceptional? All I know is that there were a few moments like
+      that, where the illusion was broken, often by such means that
+      couldn't be relayed in words alone, *since surveillance not only
+      informs my victimizers with how to gaslight me, but also to
+      discover who should be retaliated against, were I to ever reveal
+      names of people who had even unintentionally given me a damn
+      clue! Is it no wonder that I see the tragic confliction of love
+      and fear ripping people in multiple directions at once?
+      Physically, causing their body language to physically move in
+      directions counter to it's several directions: the head's change
+      in orientation, the upper torso, the shifting of weight planted
+      in the feet and most of all, the eyes, all moving incoherently
+      as though cognitive processes overdriven need to recollect
+      divergent threads from the subconscious reacting to the
+      unconscious needs suddenly made manifest. Each of these is a
+      potential signal: though easy to misread can usually lead you in
+      the right direction.
+
+
+
+    - [The Law is a White Dog](): BY THE WAY, READ THAT FUCKING BOOK!
+      SLOWLY AND MAKE SURE YOU ABSORB EVERY FUCKING SENTENCE BECAUSE
+      IT WAS WRITTEN SO THAT IT WOULD SLIP THROUGH THE CRACKS. It's
+      crafty use of language and prose disguises its message. It's
+      masterfully written non-fiction prose.  -
+
+======
+
 - while i believe people are still inherently good, as is society, it
   would seem that evil people, implicity, are typically conscious of a
   broader range of phenomenona than good people. to be good at being
@@ -97,6 +379,53 @@ excerpt: ""
 
 [Successive Approximation (Shaping)](https://en.wikipedia.org/wiki/Shaping_(psychology))
 
+#### Consider the following concepts in relation to diffemorphic epistemology and shifting values systems
+
+- these are all issues of
+  [Framing](https://en.wikipedia.org/wiki/Framing_(social_sciences))
+  as it relates to discourse.
+
+`principiis obsta (et respice finem)`- resist the beginnings (and
+consider the end)
+
+- [Tyrrany of Small
+  Decisions](https://en.wikipedia.org/wiki/Tyranny_of_small_decisions)
+  - and [tragedy of the
+    commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
+  - as they relate to:
+    - motivating systemic gradual change via creeping normailty
+      - by understanding tendancies of thought/rhetoric in mostly
+        uninformed members of the populace. especially when they are
+        too busy to consume information, they can be driven on in the
+        same direction, supporting policy which seems to relieve their
+        problems, but ultimately results in some systemic harm
+        contrary to their interests.
+    - corraling people into Tyrrany of Small Decisions by placing
+      constraints on valid thought/rhetoric/discource, which nullify
+      the likelihood of argumentative conclusions adverse to intended
+      change?
+      - isn't this similar in nature to the idea of [Opinion
+    Corridor](https://en.wikipedia.org/wiki/Opinion_corridor)?  -
+
+- [Creeping
+  Normality](https://en.wikipedia.org/wiki/Creeping_normality)
+  - it happens... what can you do about it? are the "thousand cuts"
+    incentivized from sources/means external to the system/culture?
+  - or is the creeping normality simply a result of accelerating
+    social interaction and other characteristc dynamics of
+    sociophysical metrics, since the modern era, the internet and
+    especially social media?
+- [Overton Window](https://en.wikipedia.org/wiki/Overton_window)
+  - [Hallin's
+    Spheres](https://en.wikipedia.org/wiki/Hallin%27s_spheres)
+- [Continuum Fallacy](https://en.wikipedia.org/wiki/Continuum_fallacy)
+  - in relation to rhetoric? straw-man arguments?
+- [Sorites Paradox](https://en.wikipedia.org/wiki/Sorites_paradox)
+- [Chesterton's
+  Fence](https://en.wikipedia.org/wiki/G._K._Chesterton#Chesterton's_fence)
+  - in relation to understanding other value's systems, particularly
+    those of tradition
+-
 
 [Jormamu]()
 
