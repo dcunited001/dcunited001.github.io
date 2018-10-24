@@ -243,3 +243,78 @@ GUARANTEE.
     wandering aimlessly between goal after goal, never dwelling long
     enough on one to have anything to show for their effort, no matter
     how hard they work.
+
+
+
+--------
+
+
+
+Socioinformational conflict, Aspergers and social miscalculation: basically, as someone with high-functioning autism, when i would stand up for myself against with others over some narrative/controversy, i lacked the tools to read the situation, to infer what i was up against, to understand whatsoever social/financial resources, to understand how things would play out.
+
+So people would assume:
+
+- that they could leapfrog me and use me as a benchmark by constructing some situation where they could demostrate the pecking order and come out on top
+- that i was weak and thus wouldn’t fight back
+
+But what would happen:
+
+- they would miscalculate my vulnerability and i would fight back, with no regard for whether it would be worth it to stand up for myself and with zero concern to the collateral damage i would cause for myself and others.
+
+==========
+
+A lot of "mental illness" is misunderstood. in many cases, it's not so
+much what is happening neuropharmacologically, in the chemistry of the
+brain, as it is the effects of socially distributed information. This
+distorts how people perceive information associated with that
+person. This information exists completely outside of the person’s
+brain who society claims exhibits some inherent neuropharmacological
+defect.
+
+Regardless of whether the cause is neuropharmacological or social,
+what fuels mental illness, generally, is misunderstanding the self in
+relation to society, society misunderstanding an individual and
+socio-informational conflict of realities as perceived by
+individuals/groups.
+
+People have a tendancy to project informational components of their
+constructed reality or their group's reality/worldview into
+society. When components of these constructed realities come into
+conflict, stronger people with more social & financial resources have
+the ability to project their reality more dominantly, which is
+socio-informational conflict. This means that if someone had minimal
+social or financial resources (i.e. ME), they never stood a chance
+against society. It is one person’s truth over another’s or one
+group’s truth over another’s, magnified by the social/financial
+resources that they wish to invest to see their truth dominate. When
+you quantitatively have zero resources, there is nothing you can do to
+fight back, regardless of the truth of your claims. The other sides
+information merely out-replicates your socially-disconnected attempts
+to tell other people what the truth is. It doesn’t matter what
+happened, which is what makes it so interesting that people concerned
+with “God” and “truth” would have zero moral qualms in allowing you to
+be abused, psychologically tortured and in practical solitary
+confinement.
+
+In my own life, this has lead to **socially repressed memories**;
+forcing someone to accept some facts/beliefs which are not true as
+though they are. This happens often in cases of abuse: the alleged
+information is simply not taken seriously.
+
+Also, from my understanding of the manisfestation of some mental
+illness as socioinformational conflict, this has interesting
+consequences for regimes which mandate belief and engage in widespread
+social engineering, especially when it's applied incoherently and
+inconsistently.  e.g. regimes like communism and socialism. The Soviet
+Union had an entire subtype of schizophrenia dedicated to punishing
+political dissidents, which was useful in labelling those the
+authorities wanted to be mis-handled by the psychiatric
+institutions. Once this false diagnosis was notated on your medical
+records, it essentially indicated handling instructions to any medical
+or psychiatric personnel who encountered your case. it was a signal to
+mis-handle your case.
+
+Being diagnosed with mental illness and being medicated really is the
+modern era's absolution of sin, since society is programmed to give
+you a free pass, under the authority of important people with lab
+coats and fancy letters behind their name.

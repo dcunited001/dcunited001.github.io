@@ -54,3 +54,6 @@ permalink: /quotes/
 > countless strata of ancient facade.
 
 > Simple wants what simple gets.
+
+> The definition of insanity is to remain unconscious to one's
+> unconsciousness.

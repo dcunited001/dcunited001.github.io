@@ -312,6 +312,9 @@ ideas of [analytic psychology]() to neurology
   category theory, pt 3]()
 
 
+### Describe the Importance of Interpretive & Generative N
+etworks
+
 ### Differentiating Analytic Neurology
 
 - come up with some more simple neuroanalytic thought experiments,

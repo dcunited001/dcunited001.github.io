@@ -4,6 +4,11 @@ headline: "Informational Territory > Sociohierarchical Territory > Economic Terr
 ---
 
 
+- how social technology platforms establish a cottage industry for SEO
+  & social media, which effectively paywall access to information.
+  - with a chronological newsfeed, you wouldn't need such large
+    SEO/Social budgets to even reach your friends.
+
 - ![Gulliver and the Lilliputians]()
 
 - TODO: use ender's game pictures

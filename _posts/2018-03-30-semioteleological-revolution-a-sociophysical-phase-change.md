@@ -1847,10 +1847,8 @@ change.
           prevents those consequences entirely. e.g. If it is immoral
           to commit adultery, then on average, families are stronger
           and will endure for longer, but also consequences of
-          adultery will be sidestepped: like children with unclear
-          parents and the spread of STD's.
-
-
+          adultery will be sidestepped: like unknown husbandry and the
+          spread of STD's.
 
 - It terrifies me to think of an Earth with a few billion less
   people. The remnants of such a planet are filled with the
@@ -2785,20 +2783,27 @@ recombinated through the ages.
     ideal Nietzschean psychological metatypes for the constant
     struggle forward, despite the apparent need to overcome struggle
 
-
 - This came as a response to watching the second episode of Dies Irae,
   but I thought the idea was terrible, so I guess I threw away the
   post-it note. now I'm pissed off and less willing to compromise by
   throwing away ideas that might be considered ... bad
   - people are born thinking they are Tabula Rasa, but they are imbued
     with psychological meta/types that shape them into who they are.
+    - the initial states of their psychological development is
+      configured to include various experiences that evoke these
+      meta/types.
+
   - how does this relate to extrapolating Nietzsche's philosophy into
     social engineering? creating a world without conflict makes people
-    weak. a world with constant conflict, so long as that conflict is
-    not destabalizing, forces people to struggle with each other.
+    weak. a world with constant conflict, forces people to struggle
+    with each other, so long as that conflict is not destabalizing.
     - in the end, this affects some people negatively, but on the
-      whole, the society is stronger. the people are psychologically
-      stronger and more resilient.
+      whole, the society is revitalized and stronger. (the people are
+      psychologically more resilient. sociologically, individuals have
+      been tested against enough situations, while contrary in nature
+      and motivation with the real threats encountered outside, they
+      pare to the challenge.)
+
       - without this process, the society as a whole stops
         adapting. struggle leads to adaptation and social darwinisim
         produces a stronger society. when the society is insulated
@@ -2810,6 +2815,7 @@ recombinated through the ages.
         world outside that (shangri-la). it is thus unable to
         perpetuate it's prosperity and the source if it's power begins
         to dwindle.
+
     - connect this to the extrapolation of nietzsche's philosophy
       - does it connect to Schopenhauer? did the philosophy of
         heideggar and others "fill in" these extrapolations?
@@ -3104,7 +3110,8 @@ recombinated through the ages.
     - either way, it does form the basis of potentially amoral values
       systems, especially if your goal is the pursuit of
       power. basically, this idea of "transvaluation" is the the
-      pinnacle of values systems abstractions or genericizations.
+      pinnacle (& nadir?) of values systems abstractions or
+      genericizations.
       - and insomuch, it allows you to "wrap" any existing values
         systems. you can undermine them, if you so choose, or play
         them aganst each other.
@@ -3150,21 +3157,22 @@ recombinated through the ages.
   programming)
   - make a "ludicrous speed" joke.
 
-Überpowerful people generally cannot stand someone who encourages
-people to think in unpredictable ways. This vastly expands the
-sociophysical gamespace. They already have control. Why do they need
-you? They rather wait it out and play it safe. You cannot be permitted
-to enjoy success, fame or even a modicum of attention why you're
-working with such magickal witchcraft as *novel ideas*. Those are
-dangerous. Instead these elite would much rather watch as you quietly
-flail in agony, so they can completely control the destiny of your
-image after you die, sucking you dry while you live with no one around
-to help you. This allows them to maintain control of your ideas,
-preventing them from spreading,giving the überelite the time and space
-they desparately need to react strategically to unprecented GENIUS.
-This is why every living successful artist is probably a fraud and
-every wildly successful artist has been dead for a generation before
-anyone ever "discovered" him.
+(Überpowerful? ... Weak people with power) people generally cannot
+stand someone who encourages people to think in unpredictable
+ways. This vastly expands the sociophysical gamespace. They already
+have control. Why do they need you? They rather wait it out and play
+it safe. You cannot be permitted to enjoy success, fame or even a
+modicum of attention why you're working with such magickal witchcraft
+as *novel ideas*. Those are dangerous. Instead these elite would much
+rather watch as you quietly flail in agony, so they can completely
+control the destiny of your image after you die, sucking you dry while
+you live with no one around to help you. This allows them to maintain
+control of your ideas, preventing them from spreading,giving the
+überelite the time and space they desparately need to react
+strategically to unprecented GENIUS.  This is why every living
+successful artist is probably a fraud and every wildly successful
+artist has been dead for a generation before anyone ever "discovered"
+him.
 
 When do they need someone who pushes the envelope and expands the
 sociophysical gamespace? When they're losing and don't know it.
