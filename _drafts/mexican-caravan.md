@@ -43,15 +43,37 @@ or it could easily cause more instability than #LatinAmerica can cope
 with.
 
 
+- The organizers seem to have understood there was enough potential
+  for social momentum for this to work. The movement started at a
+  natural chokepoint, which is an ideal location for building
+  momentum.
+
+- where are they going to go afterwards? the organizers will have
+  planned for multiple options, but those within the movement will be
+  signaling their intent to handle success, to boost expectation of
+  the same within their supporters. they will be counter-signaling to
+  cover options for other scenarios: people tend to signal towards,
+  away or orthogonally to their intentions; by understanding the push,
+  pull and correlation of counter-signaling to someone's options, you
+  can deal with almost any misinformation and infer the directions
+  that person is coming from and intending to go to.
+  - the movement will likely plan for a scenario with publicity, where
+    they may have the opportunity to influence the elections, while
+    preparing to remain networked close to the border.
+
+
+
+- is this really timed to coincide with elections? because that really
+  shitty to put 100,000 people living in Latin America up to something
+  just to create a PR-showdown to influence elections
+  domestically.
+  - but it seems like this is the Democratic October Surprise.
+
+
 - what happens if conflict emerges?
 - what happens as a result of these new social connections that are
   formed? what becomes their purpose and their movement's raison
   d'être?
-
-- is this really timed to coincide with elections? because that's
-  really shitty to put 100,000 people living in Latin America up to
-  something just to create a PR-showdown to influence elections
-  domestically. that's reallly shitty.
 
 - TODO: ![Population Density Map of Mexico]()
   - overlaid with major road maps

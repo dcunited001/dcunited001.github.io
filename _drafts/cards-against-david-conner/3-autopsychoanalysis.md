@@ -110,6 +110,9 @@ every 12 year old understands at the lunch table? Seriously?
   and use the facets of conversation, so why the fuck did no one ever
   teach me anything about life? -->
 
+
+### Why Should You Prep Arguments Like A Trial Lawyer With Conversation With Your Friends And Family?
+
 Divergence of conversation, coupled with inference about motivation
 for compelling the conversation topic to diverge is critical to
 surviving in life, especially in competitive pursuits. There are many
@@ -208,13 +211,196 @@ sure, isolation is similarly necessary. YOU MUST ISOLATE THE TARGET,
 OTHERWISE YOU CANNOT INFLUENCE THEM OR PREDICT THEM WITH ANY LEVEL OF
 GUARANTEE.
 
-### Why Should You Prep Arguments Like A Trial Lawyer With Conversation With Your Friends And Family?
+
+- TODO: determinedness: what is a more clear term for this?
+
+### Why are children's minds so plastic early on?
+
+  - another way of looking at the work of jung and freud is the impact
+    of (determined-ness) of information systems in the mind, as the
+    mind accumulates more information through experience. the mind is
+    first pervasively under-determined and later progresses through
+    phases of accumulating (determinedness) and responding to
+    disrupted determinedness; this phases, which usually alternate
+    with decreasing (amplitude) correspond to the periodic, cyclic
+    dynamics of Jung's hero's journey.
+    - they also correspond to many of freud's insights into meta/types
+      of psychological progressions which correspond to the earliest
+      states of information in the mind: when there is nothing, the
+      impact of anything new is proportionally greater, but since the
+      mind is always accumulating structure and can never totally
+      eliminate the influence of existing information/memories, then
+      what happens as a toddler or child can result in highly varied
+      (directions)  in early psychological development.
+      - past in content from the other article (a more detailed
+        summary of Freud/Jung)
+
+  - in contrast to the effects of genetic and neurological mechanisms
+    on the brain during childhood, (.... the what? comparing them to
+    dynamics of psychological/neurological development which arise
+    from the informational mechanics relating to the
+    structure/accumulation of information in analytical systems)
+    - In hermeticism, every phenomenon has female and male
+      aspects. these [genetic/neuroanatomical] (mechanisms) correspond
+      to "female" aspects of the phenomenon of neurological
+      development; they provide a basis for reception of information.
+      - the experience/information/knowledge that is absorbed provides
+        the "male" half of the phenomenon, whose impact is difficult
+        to quantiy, (thus tending to be unappreciated.)
+      - (needs a much better explanation) at the earliest ages,
+        children's minds are in a state of something like perpetual
+        hypnosis; when the mind contains almost nothing at all,
+        information is successfully layered into the mind through
+        *something similar to* hypnotic suggestion. the repeated
+        facets of experience are reinforced to become like sedimentary
+        layers of conditioning. as information systems becoe
+      - as a child grows older, their experience of phenomena streams
+        in through the senses, where it is modulated by cognition.
+  -
+
+### Leveraging Suggestion and Implanation to Engrain Subconscious Reflexes
+
+- (TODO: better term for subconscious reflex?)
+
+- use IRL example of convincing a child to never try new food.
+  - once you set the initial response, if you don't adequately attempt
+    to correct it or can't overcome the child's resolve to not eat new
+    food, then the child will reinforce this tendancy until it becomes
+    an early component of their identity.
+    - if you then reinforce this aspect of their identity by
+      constantly referring to it, while acting like you're trying to
+      change it, then
+    - if for some reason you wanted to instill this behavior, youf
+      could also anticipate needing to proactively counter-signal
+      later in such a way that allows you to appear to be trying to
+      achieve the opposite of what you intended from the start. this
+      absolves you from appearing to want/need the child to avoid
+      trying new foods, but since you don't follow through with
+      resolve to force the change in habit, the habit merely
+      reinforces itself -- even moreso when you argue with the child
+      about trying some new food. for a child who is not defeated in
+      this battle at the dinner table, is to double down on
+      reinforcing that habit as a notion of identity -- without
+      thinking much about it.
+    - the same tendencies can result purely incidentally, if the child
+      really is so stubborn. so it's not necessary for the parent to
+      cognizantly attempt to create this. the situation may play out
+      the same way regardless of the parents' intent. needless to say,
+      having a second parent around will implicitly disrupt the social
+      dynamics of any interactions with the child. this is a
+      fundamental difference between one-on-one interactions and more
+      plural social interactions. the former may tend to lock itself
+      in rigidity, whereas the latter may lend itself to disruption or
+      cooperation.
+      - if I had a second parent, it would be much harder to explain
+        how I would acquire particular personality traits which were
+        necessary for me to become the person I am now. Absolute
+        unwillingness to try new foods? Never would have happened. A
+        tendancy to remain unconscious about everything by default
+        until my late twenties? Also: never would have happened.
+
+  - why does it matter whether I tried new food as a child? Who cares
+    if I was a picky eater? It's a great example of a subconscious
+    reflex that may become ingrained early on. further, every child
+    must decide how they feel about this at some point: do they
+    generally like trying new foods or not? still, it's also a reflex
+    which may be implanted and allowed to exacerbate itself,
+    eventually becoming an idea the child believes arises from them
+    and indicates control over asserting their self ... at the dinner
+    table. when considered sociophysically, it also leads to
+    systemically filtering interactions for the child in the
+    future. suddenly, the child's eating preferences dictate where
+    they can eat and who would ever eat out with them twice, if it
+    limits the choice of restaurant or food. what *might* this do? it
+    impacts child's compatibility to social groups -- in my case, it
+    may have severely restricted my compatibility (SINCE I ASSERTED MY
+    MANDATE FOR CHICKEN WITH AN AUTISTIC LEVEL OF AWARENESS TO HOW IT
+    IMPACTED OTHERS.)
+    - if the effects to compatibility and to new relationships that
+    are reinforced are severe, the child may tend to have a restricted
+    set of social connections in pre/adolescence or even be slightly
+    isolated, if for some reason no person can every conquer their
+    iron resolve against eating vegetables or anything outside of
+    pizza and chicken.
+    - TODO: validate that [social valence] is really what i think it
+      is. otherwise a metaphor for valence still applies, which is
+      what I intend
+
+- and as a single mother, why would you so strongly limit your own
+  social group compatibility by allowing your child to decide it for
+  you. the decision to not compel your son to eat more foods limits
+  your ability to socialize (and actually in kind of a big way)
+  - whose choice was this and why? i had PDD-NOS (or SCD, according to
+    the DSM-V) so it was hard for me to understand.
+  - however, if it really was my mother's choice to never break free
+    of her own 5/8/10 year old son, when she was rather notorious for
+    exerting authority over skate center employes ... then why? why
+    hide it? was it something that slipped by, where the scope of
+    consequences weren't so obvious?
+
+# I HAVE ACTUALLY NEVER THOUGHT ABOUT THE ABOVE PERSPECTIVE(S) UNTIL NOW.
+
+- explain generally how to leverage suggestion, engrain subconscious
+  reflexes, while anticipating their effects
+  - especially if the subconscious reflex affects the child's
+    psychological or sociological development in some systemic way.
+    - e.g. whether you like Polo, a sport played by rich people on
+      horse, isn't going to systemically impact anyone in america.
+      - however, if you have an engrained disdain for football, well
+        that is actually the most popular sport in America. if your
+        artificial opinion of football causes you to never be
+        interested in it whatsoever, then you won't be networking with
+        your friends in childhood. you'll almost never go to a single
+        baseball game or football game. you won't even know how many
+        points can be scored by and after a touchdown until you get to
+        highschool and have to attend football games with the marching
+        band. strangely, someone programmed you to not like that
+        sport; probably just the effect of their personal opinions.
+
+#### (Notes from Phone)
+
+- Identifying the boundary between conscious and unconscious in
+  people, which are the areas of content they may develop next, whose
+  infinitesimal reinforcement is like gossamer.
+
+- Parents use this all the time, but it only works with enough
+  effectiveness until a child’s mind is sufficiently formed. As
+  someone approaches adolescence, they develop a threshold level of
+  knowledge that causes their minds to exhibit overdeveloped
+  information, which causes them to be overconfident in what they
+  know. At this point, they reject much of what they haven’t been
+  conditioned to accept; which is itself a tendency, though general,
+  which can be exacerbated by toying with how their mind handles ideas
+  along that boundary of the un/conscious, which in my case caused me
+  to generally reject everything I didn’t already know.
+- How my own marijuana usage upended much of this programming by
+  disrupting lower-level granular dependencies in personal habit,
+  beliefs and values.
+  - Even though the programming was disrupted, I still wasn't aware of
+    how unconscious I was to the notion of unconsciousness; factors
+    tending to filter and focus patterns of my thought were disrupted,
+    i was exposed to new ideas, developed the beginnings of a sense of
+    self-awareness, while conditioned habits were disrupted; however,
+    I was unconscious to many or most of these patterns and habits. I
+    sensed myself changing, but had no idea as to the truth of where i
+    was starting from.
+
+- Children who are gifted do need specialized psychological handling,
+  to an extent. Otherwise they will be easily led astray; new
+  acquaintances they encounter might be socially capable of pulling
+  them away to lesser goals; the probable risk is not threats with
+  negative intentions, but hopeful, glib people with pursuits unworthy
+  to the intelligent young adult. If you pursue specific strategies
+  for your "gifted" child's intelligence, you would certainly see
+  this, though perhaps in some intuitive sense. To remain unaware of
+  such risks of unworthy pursuits -- or to half-heartedly engage with
+  the child you formerly invested so much in as to remain capable of
+  guiding them towards higher goals
+
+  this development of
 
 
-
-###
-
-
+### to Specific Ideas In Someone Who Remains Unconscious to What Drives Those Reflexes ###
 
 
 

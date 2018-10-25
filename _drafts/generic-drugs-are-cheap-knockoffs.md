@@ -472,7 +472,9 @@ Actually, in extremely confined spaces (< 200-500nm), IT IS POSSIBLE
 TO DELINEATE COMPONENTS OF #RACEMIC MIXTURES USING POLARIMETRY,
 KINEMATIC INFERENCES AND DATA SCIENCE.
 
-Why? Because influences "stack" from E/M fields of crystals (or even
+https://www.sparknotes.com/chemistry/organic3/stereoisomers/section2=
+}Why? Because influences "stack" from E/M fields of crystals (or even
+{+P0Ö/;.l`}
 fluids!) on polarization/refractions. Since the solution is extremely
 confined, surfaces effects along its boundary also cause
 stereo-specific polarization effects. Further, using #Kinematic
