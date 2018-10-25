@@ -19,6 +19,8 @@ excerpt: ""
 Intro
 ==========
 
+
+
 - the main point: although pharmaceutical companies could have been
   ignorant of (this) in the 1980's, the time is coming when it will be
   clear they are cognizant of problems related to generic formulations
@@ -129,6 +131,8 @@ there is assessment of the patient's metabolic dynamics and diet.
     for medication would become more clear
     prescription-titration and with a bit of subsequent data science
     to match predictive medicine, genotypes to
+
+[dsa]:
 
 ## Production Generics Have Unpredictable Effects on Genetic Pathways
 

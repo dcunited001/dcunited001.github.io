@@ -404,10 +404,9 @@ etworks
             you may learn from its serendipitous discovery of novel
             solution-patterns
 
-### Phenomena/Mechanisms which are readily explained from a Neuroanalytic perspective
+# Phenomena/Mechanisms which are readily explained from a Neuroanalytic perspective
 
-
-####
+### Priming Neural Circuits
 
 - "priming" neural circuits
   - (mechanism that works via attuning infinitesimally valued events)
@@ -435,7 +434,7 @@ etworks
     - this is similar to how and why similar tactics of "priming" work
       in the human brain.
 
-#### Double Images in Art and Psychology Research
+### Double Images in Art and Psychology ResearchB
 
 ![Pic of Occipital Lobe Pathways]()
 
@@ -471,76 +470,83 @@ etworks
           persist cause the mind to experience difficulty in
           overturning the existing primed circuit pathways.
 
+### How an Artist Finds Double Images
+
 - copy/rewrite footnotes on sketches? (from "to catch a butterfly")
   - how to find double images by sketching (why you need to explore
     through sketches and why working with double images is so hard)
   - the main problems with double images in art with realistic or
     expert technique:
 
-    - (1) it usually requires remaking the piece repeatedly, but each
-      time, it's difficult to maintain the dependencies for double
-      iamges that make them work without trying too hard.
-      - when you redo the piece, unless you have granular control over
-        where you place elements and how you maintain proportions,
-        then your intended direction unwinds and the effect is
-        properly received. or ... worse, it looks like everything in
-        your piece became contrived around that single element.
+#### (1) Sketching & Remaking Pieces Repeatedly
 
-    - (2) features of perceived depth of matching image classes must
-      be coherent, not simply the silouettes. why? because neurons
-      also leverage design patterns like Capsule Network -- Gregory
-      Hinton and other researchers inferred inspiration behind the
-      Capsule Network from interleaving neurons whose silicon
-      counterparts feed encodings back into themselves, in a
-      way. (double check the last part)
-      - the addition of lighting can complicate things, but also opens
-        up the possibility for "partializing" the intended recognized
-        image classes. in this way, you deconstruct the recognized
-        features of two image classes, keeping those most
-        characteristic to the type of object and discarding the rest.
-        - after the constraints have been loosened, its easier to find
-          pairs whose partial definitions match.
-        - the above technique is almost essential for getting lighting
-          to work, since it allows you to toy with how the lighting
-          interactions from various sources hit the objects' surfaces
-          - here you use the same "partialization" technique to decide
-            which surfaces receive light with various light sources.
-            - tuning/emphasizing the color of each light source allows
-              you to emphasize the characteristics of each intended
-              image class across various surfaces.
-        - yet, to pull any of this off, you have to have expert
-          proficiency in artistic ideation, visualization, lighting,
-          color, abstraction and depth, along with enough time and
-          patience.
+- (1) it usually requires remaking the piece repeatedly, but each
+  time, it's difficult to maintain the dependencies for double
+  iamges that make them work without trying too hard.
+  - when you redo the piece, unless you have granular control over
+    where you place elements and how you maintain proportions,
+    then your intended direction unwinds and the effect is
+    properly received. or ... worse, it looks like everything in
+    your piece became contrived around that single element.
 
-    - (3) greyscale images make it easy; color makes it hard
-      - if doodling to explore possibilities, but without color, then
-        the double image possibilities you identify won't necessarily
-        translate to color easily. so the artist needs to have
-        extremely developed ideation with intricate visualization to
-        imagine the possibilities before they waste the time.
+#### (2) Depth Effects must be coherent (lighting can be deconstructed)
 
-  - why double images with black and white are easier to identify.
-    - how color evokes an aspect of the "curse of dimensionality"
-      which gives classes of visual patterns more distinct
-      "fingerprints".
-    - black and white images are simple. with some drawing techniques
-      or abstract art visual styles/content, then it can be difficult
-      to avoid provoking difficult to resolve classification without
-      the use of color
-      - it may be possible to verify this in art by running image
-        classification algorithms over smaller regions of art
-        pieces. the probabilities reported for top class matches in
-        greyscale should result in more spread over more image
-        classes.
-        - to control, you can easily remove color channel content from
-          the color test cases, giving you three categories:
-          greyscale, rgb, rgb => greyscale.
-        - there are other interesting things you can do with hue/etc
-          to tune recognition.
-    - the more abstract the style, techniques or subject of the piece,
-      the more likely there will be poor activation of final image
-      classes, spreading the probability over several classes.
+- (2) features of perceived depth of matching image classes must
+  be coherent, not simply the silouettes. why? because neurons
+  also leverage design patterns like Capsule Network -- Gregory
+  Hinton and other researchers inferred inspiration behind the
+  Capsule Network from interleaving neurons whose silicon
+  counterparts feed encodings back into themselves, in a
+  way. (double check the last part)
+  - the addition of lighting can complicate things, but also opens
+    up the possibility for "partializing" the intended recognized
+    image classes. in this way, you deconstruct the recognized
+    features of two image classes, keeping those most
+    characteristic to the type of object and discarding the rest.
+    - after the constraints have been loosened, its easier to find
+      pairs whose partial definitions match.
+    - the above technique is almost essential for getting lighting
+      to work, since it allows you to toy with how the lighting
+      interactions from various sources hit the objects' surfaces
+      - here you use the same "partialization" technique to decide
+        which surfaces receive light with various light sources.
+        - tuning/emphasizing the color of each light source allows
+          you to emphasize the characteristics of each intended
+          image class across various surfaces.
+    - yet, to pull any of this off, you have to have expert
+      proficiency in artistic ideation, visualization, lighting,
+      color, abstraction and depth, along with enough time and
+      patience.
+
+#### (3) greyscale images make double images easy; color makes them hard ####
+
+  - if doodling to explore possibilities, but without color, then
+    the double image possibilities you identify won't necessarily
+    translate to color easily. so the artist needs to have
+    extremely developed ideation with intricate visualization to
+    imagine the possibilities before they waste the time.
+
+- why double images with black and white are easier to identify.
+  - how color evokes an aspect of the "curse of dimensionality" which
+    gives classes of visual patterns more distinct "fingerprints".
+  - black and white images are simple. with some drawing techniques or
+    abstract art visual styles/content, then it can be difficult to
+    avoid provoking difficult to resolve classification without the
+    use of color
+  - it may be possible to verify this in art by running image
+    classification algorithms over smaller regions of art pieces. the
+    probabilities reported for top class matches in greyscale should
+    result in more spread over more image classes.
+    - to control, you can easily remove color channel content from
+      the color test cases, giving you three categories:
+      greyscale, rgb, rgb => greyscale.
+    - there are other interesting things you can do with hue/etc
+      to tune recognition.
+  - the more abstract the style, techniques or subject of the piece,
+    the more likely there will be poor activation of final image
+    classes, spreading the probability over several classes.
+
+# How to Search for Double Images, Algorithmically
 
   - how to search for double images, and why it's a hard problem,
     unless you have some miraculous instantiation of neural circuits
@@ -549,6 +555,76 @@ etworks
     classification weights.
     - this would be the only way to identify the "rare" image classes
       which result in superimposable
+
+### Algorithm #1:
+
+#### Training an RBM network to produce intersections for pairs of image-classes trained on another network
+
+- train skewed image classification networks (e.g. for the image class
+  cars, instead of sampling evenly over all models/years, skew the set
+  for older makes that emphasize anthropomorphic features; i.e. the
+  front is designed to resemble a face)
+- train other non-skewed classes in the same set, but ensure classes
+  that present with facial structures are included.
+- once your network is trained, reverse the network and, for
+  image-class-pairs, intersect their upper-middle tiers of neurons
+  using correlation, autocorrelation, tensor-analysis
+  (e.g. convolution, antisymmetry, etc)
+- another neural network (an RBM?) could drive this process to
+  identify parameters of image-class-pair activation to discover
+  optimally "mixed function" representing a new class for the mixed
+  pair.
+- to train this RBM network, the performance of its candidate boltzman
+  processes would need a cost function: the original image
+  classification algorithm would be run on images for those classes
+  (and control classes?) to provide scores for how the new mixed image
+  classes improve. poorly performing boltzmann processes for
+  mixed-pair-classes would be reset to random or to diverge along the
+  gradient of more successful boltzmann processes.
+- then, generate blank and random images of various kinds (this needs
+  to resemble basic abstract art of some kind, not perlin noise)
+- finally, hook the trained mixed-pair-classes into a deep-dream
+  pattern and see what comes out. the input images need to be simpler;
+  preferably the algorithm can generate its representation
+- a goal: can you get the algorithm to produce a 1968 VW beetle with
+  cat-ears?
+
+### Algorithm #2: "partializing" image classes
+
+- find some means of deconstruct the upper 2 or 3 tiers of neuron
+  weights for some image class, to identify "partial" versions of the
+  classes's analytic definitions that can be combined in more
+  compositional ways.
+- here, you are searching for the "partialized" functions which
+  represent the "cat ears" of the cat, which could be applied to other
+  image classes so the above "1968 VW beetle with cat-ears" could be
+  produced more easily.
+- this would be an incredibly powerful technique, but the math is
+  ... probably ridiculous. on the other hand, the math in the first
+  project idea isn't so bad: it's basically machine learning to screw
+  with machine learning results. in the first project, your boltzmann
+  processes are essentially wandering around in spaces between image
+  pairs. here, if the same RBM (or higher-level network is used), then
+  you're doing something similar, but for a single class.
+- since analytic networks start with randomized data, every time they
+  are trained, they produce completely random weights that still yield
+  roughly the same results. each training results in analytical
+  solutions that lie along the same surface, but at completely
+  different points along that surface. the difficulty in untangling
+  image class definitions (to explore it's partial features) is that
+  no definition is "separate" from the others: they are all defined in
+  terms of their relation to the rest of the system.
+
+### "Partializing" Disentangled Representations of Single Image Classes
+
+- (verify: is this the same thing as a disentangled solutions in
+  machine learning? particularly representational learning?)
+- with this, a process that successfully trains to capture "untangled"
+  representations of image-classes (and perhaps partialized
+  definitions as well), then the resulting network/data could be used
+  with a deep dream process to produce double images with
+  deconstructed lighting effects.
+
 
 
 #### expanding more logical patterns of visual focus projection and

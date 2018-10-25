@@ -21,7 +21,7 @@ indians did in provoking British massacres) is a horrible idea because
 it doesn't even make sense why you see #Americans as OPPRESSORS? what
 the fuck? You're coming here because you want money and stability that
 your own governments won't give you. SO DEMAND IT FROM YOUR
-GOVERNMENTS AND #GoTheFuckHome\
+GOVERNMENTS AND #GoTheFuckHome
 
 but since its hard to stop mobs from doing mob things (including not
 thinking in straightforward terms) then no matter what, this will

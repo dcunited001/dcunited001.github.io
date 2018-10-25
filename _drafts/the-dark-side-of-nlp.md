@@ -116,6 +116,52 @@ title: "the dark side of NLP"
         included by a handler at first: it is part of Covert NLP =>
         it's fucking *covert*)
 
+- covert NLP, metaprogramming and over/under-determinedness of a
+  target's logical evaluation of statements
+
+  - the goal is to encourage the target to consume statements which
+    are less logical and to think in less-determined terms. when they
+    exhibit compliance with someone feeding them "covert messages"
+    that *are* layered with hidden messages, then the target may
+    similarly trust other people and look for hidden meaning when it
+    is not there.
+
+  - once you encourage a trusting target to give you write access to
+    their mind's metaprogramming and they change how they process
+    statements/logic, then they compel themselves to operate within
+    under-determined information systems, where the truth of
+    statements/beliefs is very difficult to verify.
+
+    - (1) this accelerates the development of magickal thinking,
+
+    - (2) it accelerates destabalization of any relationships which are
+      not strong enough to tolerate having to deal with someone who
+      may appear delusional
+
+    - (3) if the target is isolated, they will readily accept people who
+      approach them because it's what the vulnerable person without
+      options needs. any new relationships will be based on need, but
+      the target will appear vulnerable to *general abuse*, since
+      their metaprogramming surrounding communication and logical
+      validation has been disrupted.
+
+    - (4) this all causes the target to appear delusional (if they even
+      retain the prioritization of logically parsed statements over
+      magickal parsing), which really pushes people away fast
+
+  - a targets near-total or total isolation robs them of receiving
+    information -- whether incidental, implicit or intentionally
+    passed to them -- which would make their internal information
+    systems more determined.
+    - isolation induces vulnerabilities, robs the target of
+      opportunity and makes them infinitely more predictable.
+    - in this context, a target who isn't completely isolated may be
+      exposed to information causing them to consider logical
+      inconsistencies and begin distrusting their handler(s) or the
+      influences in their lives *who've worked so hard* to get the
+      target into this state, exposing them to the risk of being the
+      slimeist, invertabrate scum they are.
+
 ### Process Vulnerability Must Be Zero and So Must Legal Liability for Human Rights
 
 - before i get to NLP, i want to talk about some new
@@ -183,7 +229,7 @@ case,
       but there i started studying about intelligence agencies just in
       case, so that i wouldn't become overly paranoid)
 
-#### (5) if you legally cannot aid someone at all for whatever reason (which i think applies to NDAA non-enemy-combatants) then 
+#### (5) if you legally cannot aid someone at all for whatever reason (which i think applies to NDAA non-enemy-combatants) then
 
 - i tried to talk to a lawyer, but if you're under surveillance and
   people can manipulate you psychologically and you have no resources,
@@ -209,7 +255,7 @@ case,
         for my psychology and there were many elements which were
         legally material to the establishment of cognizance within the
         memories ... from the beginning.
-        - 
+        -
       - people asked me about things related to this, but then "after
         i remembered" no one ever, ever, ever talked to me about it.
         - after i tried to tell my brother about some elements of it
@@ -330,7 +376,7 @@ case,
     1. receive more blood flow
     2. receive more nutrients
     3. transform & alter expression of surrounding networks more
-- 
+-
 
 669-221-6251
 
@@ -360,7 +406,7 @@ case,
 - TCCD is more powerful than TMS.
 
         or other analogous techniques like, especially when in the context
-        of ultrasound 
+        of ultrasound
 
 
 ### Being "Range Bound"
