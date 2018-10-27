@@ -276,6 +276,58 @@ main outline
   processing, but also applies to any topological spaces, even the
   topology of the metaphysical.
 
+- when it appears that social/financial channels will become viscous,
+  people have the option to retreat into informational resources. they
+  can manipulate/optimize the state of [common knowledge]() by trying
+  to harmonize the distribution of key types of information.
+  - this enables people to work together after social/financial
+    channels are (prohibitively viscous), without the need to
+    communicate
+  - *at least some solutions* to the [two generals problem]() require
+    the establishment/propagation of knowledge about communication
+    protocols **before** the need arises to communicate.
+    - totalitarian movements anticipate this (without the need for
+      s/phys theories or terminology) but the crackdown on exchange of
+      information is a signal people will definitely feel, at least
+      indirectly, before they lose the ability to stand up.
+    - when people shift into informational resources for this reason,
+      they do so by: extending myth, creating pattern languages,
+      communicating in unpredictable ways, pulling their social circle
+      tighter, trying to harmonize information containing rules for
+      protocols of communication, etc
+  - there can also be less-extreme motivations for harmonizing
+    informational resources.
+    - e.g. when savings-rates are low, if people are poor, they may
+      respond by shifting towards social channels to exchange
+      influence. but if the knowledge of how to do so is limited, then
+      the resulting information economics are supply-bound.
+    - e.g. when obsolescence of norms/traditions/incentivization
+      rapidly accelerates, the existing distributed information
+      becomes less relevant, requiring social exchange to adjust to
+      cultural changes. Cultural evolution to recent technological
+      advancement is the most impactful example of this dynamic.
+      - here, informational/social economics have changed, since those
+        who are less socially connected to the change tend to adapt
+        less quickly. in these periods, the economics of financial
+        resources will also likely change as a result.
+      - those who are more connected to relevant information for how
+        to leverage or interface with the cultural changes have
+        significant social/financial advantages as a result.
+      - with accelerating/decelerating obsolescence, the state of
+        [common knowledge]() (esp. that which is still valid) will
+        usually tend to decohere (according to mechanics of economics
+        of information which determine rates of replication... TODO:
+        more precise terms for info economics here).
+        -
+        - epistemological dynamics impacting the most widely
+          distributed information/norms (esp. those which confer
+          advantage) .... how can these result to changes in the
+          distribution/utility of useful knowledge?
+
+
+- the *state* of [common knowledge](), as it applies to the content
+  below (i.e. neo-kantian perspective on epistemology)
+
 - (diffeomorphically, of the three configurations above), the
   viscosity of informational resources is the most interesting, from a
   neo-kantian perspective on epistemology. when the idea of kantian
@@ -417,6 +469,10 @@ main outline
       accessibility of information-type resources
       - e.g. by upscale its expenditures on media/messaging/etc
       - by depriving party opposition of income
+      - this describes cultural revolution, engineering changes to
+        language (including orthography) and cultural artifacts
+
+
   - lenin's development of pragma, both as an idea and as policy
     implementaitons, strongly rooted itself into the bolshevik
     movement.
@@ -431,10 +487,34 @@ main outline
 - like a bee, leninists can only sting you once and they know it. so
   they run full-scale theatrics and
   - they need to keep their party members engaged because, as with
-    religions, if your followers have some kind of ""feeling like there's a purpose to the time they
-    contribute.
+    religions, if your followers have some kind of ""feeling like
+    there's a purpose to the time they contribute.
+
+### The Invisible Hand as Distributed Machine Learning for the Marketplace
+
+- in capitalism which hasn't lost itself in corporatism or oligarchy,
+  the invisible hand acts similarly to collective machine learning
+  processes in socially distributed computation which optimizes
+  economic parameters in the economy.
+
+#### The vitality of (accurate & unskewed) economic signals in microeconomic decisions
+
+- once communists implement a command economy, they make macro/micro
+  economic decisions based on the information at hand, while
+  orchestrating the implementation. this results in distorted pricing
+  decisions and supply-chain sourcing decisions. in an economy with
+  low savings rates, people and social institutions exhibit vastly
+  different behavior as customers. this distorts informational signals
+  that central planners use to make policy decisions and adjust
+  implementation details. this is a feedback loop which produces
+  waste, inefficiency, poor resource allocation, missed opportunities,
+  and unrealized innovation.
 
 
-- it's what them
+orchestrate
+  macro and micro economic policy
+
+
+- it's what them (...?)
 - "Communism failed"
   - "That wasn't real communism."

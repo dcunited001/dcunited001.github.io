@@ -122,6 +122,8 @@ excerpt: ""
 
 ### The Mind of the Child at the Intersection of Jung and Freud
 
+![Diffeomorphic & Doctor Jacobi]
+
 - (actually this is closer to Freud's ideas of early-childhood
   development.)
   - also: perhaps move this to another article (perhaps the one on

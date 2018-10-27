@@ -126,6 +126,24 @@ this person for being "try hard" and "not adulting good"
 
 ======
 
+-
+
+- philosophical problem of provability of hypotheses when methods are
+  far, far beyond computable. application of the scientific method to
+  data science may have limited viable methods to prove or reasonably
+  establish the validity of phenomena/dynamics. data scientists must
+  be creative in how they approach methodology capable of
+  demonstrating hypotheses in specific domains that generalize well.
+  - if there are limited practical methods for attaining consistency
+    across domains/datasets, then it's difficult to developing
+    confidence/consensus in wider generalizations. this is a major
+    problem in social physics, where people seeking consensus within a
+    social system themselves balance computability/simplicity with
+    granularity of inferences about belief/state of groups in social
+    systems.
+    - reasoning in detail about beliefs, especially those of (the state
+      of common knowledge,
+
 
 #### How causality is impacted by beliefs, disposition and general consciousness
 
@@ -1038,6 +1056,27 @@ Given a simplified model of a sociophysical or financial system
 <a name="whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games" />
 
 ### &#8855; &#8710; &#8968;xiii&#8969; [Whether Cognizant, Nearly All Attach Their Behavior, Thoughts and Identity To Equilibria In Social Games. When Unattached To Sociophysical Equilibria, Our Energy Becomes Trackless, Formless and Incomprehensible To The Unconscionable.](#whether-cognizant-nearly-all-attach-their-behavior-thoughts-and-identity-to-equilibria-in-social-games)
+
+- Cite Simon DeDeo's paper(s) on Wikipedia edits in reference to the
+  power law describing norms (Broken Windows in Reverse)
+
+- i'm generally referring to Energetic Equilibrium, not Nash
+  Equilibrium. but what i'm trying to describe lies somewhere in
+  between
+  - most games IRL do not exhibit perfect energetic equilibrium
+
+- How does Nash Equilibrium apply to sociophysical games which are
+  less clear/formal
+  - e.g. many games concurrently,
+  - async games,
+  - players with various values systems,
+  - players engaged in many games,
+  - players engaged in extremely few games
+    - near-total resource constraints imply lack of investment for
+      games with a concrete payoff (games where payoffs are purely
+      social or informational be easily manipulated by information,
+      but payoffs are social/informational as well and can be
+      redefined)
 
 - content from "facets: systems-theory"
   - this content is poorly outlined. where else do i have this?
@@ -2164,6 +2203,9 @@ information.
 
 ### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
 
+- non-local behavior demonstrated when the state for a wikipedia page
+  edit graphs undergoes a mode-switch (DeDeo Wikipedia: see end of
+  video on "information processing & political order")
 
 - the focus here is on the idea of spatially-distributed agency, as it
   relates to the social/physical distribution of information,
