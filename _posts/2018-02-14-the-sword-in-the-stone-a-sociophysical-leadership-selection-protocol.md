@@ -512,7 +512,7 @@ know with certainty that the Singularity is predetermined? Perhaps not
 hit the Singularity, it's certain to occur ... right?
 
 There are information systems beyond the physical and beyond the
-planes of the metaphysical that originate from the material. These are
+planes of the metaphysical that originate from the immaterial. These are
 information systems that are timeless and spaceless. Our world
 congeals to those information forms that echo outward from that
 plane.
