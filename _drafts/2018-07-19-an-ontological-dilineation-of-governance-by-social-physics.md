@@ -10,9 +10,8 @@ excerpt: ""
 
 ![Mr. Glass and Bruce Willis from Unbreakable]
 
-- consensus on policy, operations and interface (w/ public, governed,
+- consensus on policy, operations & interface (w public, governed,
   etc)
-q
 - summarizing many of my philosophical ideas in one word that
   addresses and balances metamodernism: finalism
 
@@ -26,6 +25,8 @@ misc
     well-defined rules (for....)
   - clearly distinguish resource from resource type from an
     instantiation of a resource type
+  - information economics terminology
+  - common knowledge
 
 - fluid dynamics
   - viscocity
@@ -36,6 +37,116 @@ misc
   Models: From BDFL to Consensus Seeking](http://www.nodesummit.com/prior-video/node-summit-2017-open-source-governance-models-from-bdfl-to-consensus-seeking-myles-borins/)
   - Governance in business: management, internally/externally facing
     policy, board of directors.
+
+
+- financial/social/informational resource types =>
+  financial/social/informational economics
+  - this may simplify some discussion
+
+### Ebb & Flow between Order/Chaos, Stability/Change in Geopolitics/Geoeconomics
+
+- those who benefit from some geopolitical or geoeconomic order are
+  compelled to maintain that order; those who don't benefit or suffer
+  as a consquence will try to disrupt it
+- Those who establish orders of global significance learn to
+  anticipate such disruption generations into the future by learning
+  from history. Rome and other empires are good examples, but each
+  built an understanding of stabalizing mechanisms from how their
+  nascent, preimperial leaders understood each civilization's
+  mistakes.
+  - For Rome, innovations like aquaducts/etc allowed the empire to
+    flexibly position cities/towns so they were decoupled from
+    geographic features, which may not be economically or militarily
+    optimal. road systems optimized key logistical processes for trade
+    & military purposes. this afforded Rome many stabalizing
+    advantages.
+  - the ideas behind anti-fragility describe the architecture of any
+    system which gains stability by transforming turbulence into
+    system structures. every difficult event causes the system to
+    adapt mechanisms for handling that type of recognized/experienced
+    problem. This is possible since s/phys systems are not bound by
+    equilibrium dynamics of purely physical systems.
+  - the more stabalizing mechanisms, the better. generally, the
+    development of options for handling growth, reinvestment and
+    stabalization increased the lifetime of the empire. empires have
+    always been born, fated and doomed by:
+    - commincation (esp. speed)
+    - economics & potential for growth
+      - factors of resource constraints (like those in conflict
+        theory)
+      - particularly, managing inflation and fiat currency
+        - its basis, perpetuation and protection
+    - qualities of transportation
+    - the perpetuated strength of the culture
+    - the rate of realized geopolitical growth and long-term
+      management of geoeconomic growth
+    - the rate of population expansion, of various classes of citizens
+      "inside" the empire and those on the "outside", combined with
+      the motivations/expectations of each
+    - the control over belief/confidence, but also the utility of
+      belief systems in serving the people
+  - ultimately, empires rise and fall based on how they retain/project
+    strength by redistributing gains to the people. empires are like
+    (slow-growing) pyramid schemes: they take from they outside and
+    distribute to the inside. if their don't serve the interests of
+    their subjects -- or some external influence causes people within
+    the empire to become disillusioned, it spreads like a slow poison
+    from generation to generation. the people lose the power they
+    gained by focusing their energy. this usually happens as a
+    paradoxical consequence of prosperity and relief from
+    constraint. the people whose empire gradually crumbles no longer
+    remember what made them great.
+    - of course, the world order of today's empires are distinguished
+      from that of previous centuries in that a chaotic change in
+      world order may lead to apocalyptic scenarios. there is no
+      progression of rise and fall which is acceptable. some systems
+      are perpetuate by shielding themselves from adverse
+      events/dynamics yielding unacceptable risks or losses. however,
+      when perpetuate themselves by (placing themselves or the
+      connected sub/systems) dangerously out of balance, than when a
+      correction occurs, (the consequences may be magnified.) this is
+      potential (existential paradox) of outlawing minor conflict
+      (aggression) and instituting progressive norms/institutions in
+      international relations.
+      - (link to argument in caelis ruissent)
+
+### What distinguishes today's power centers from ancient civilizations?
+
+- why did civilization collapse repeatedly in the ancient world?
+  - the biggest example seems to be 11th century BC, before the notion
+    of systemic collapse could have been known?
+
+- it seems to be caused by a dynamic between ruling class and the
+  people, both within and outside of their civilization. when a empire
+  rises without a plurality of surrounding competing interest, perhaps
+  potential empires in their own right, that would unquestionably rush
+  in should this empire's levee break -- then the ruling class in such
+  a society feels no need to take on such risks as the people's
+  development of technology. instead, the ruling class understands how
+  to operate within the status quo and sees no immediate external
+  threats justifying development of technology and distribution of
+  power.
+  - until global population would expand to reach such a point, then
+    each isolated civilization to emerge atop the intersection of
+    geoeconomic leylines would rise and rise, until like the Tower of
+    Babel, it's growth would outpace its stability. growth problems
+    are usually good to have, but can be lethal to your corporation or
+    nation if not accounted for beforehand. running an empire or
+    interoperating with one requires geographic distribution of power,
+    especially before telecommunication.
+    - each significant delegation of power is a potential threat
+      tomorrow -- such delegation is a two way street and both parties
+      are aware of the benefits and risks, today and tomorrow.
+  - so until humanity had experienced the rise and fall of
+    civilization after civilization, then none would emerge to be
+    geoeconomically stable enough for the pursuit of rationalism,
+    modernism and globalism.
+    - another mechanism: history's lack of experience to provide a
+      social memory that gives civilization a resilience to systemic
+      faults.
+    - another mechanism: the development of rationalism as a stable
+      basis for pursuit of objective progress, to which confidence in
+      objectivity and progress can be universally demonstrated.
 
 ### Permeability of Individuals to Information
 
@@ -316,14 +427,29 @@ main outline
       - with accelerating/decelerating obsolescence, the state of
         [common knowledge]() (esp. that which is still valid) will
         usually tend to decohere (according to mechanics of economics
-        of information which determine rates of replication... TODO:
-        more precise terms for info economics here).
-        -
+        of information which determine rates of replication and
+        thereby supply...
+        - TODO: more precise terms for info economics here; much of
+          this discussion depends on details of how specifics are
+          stated. (e.g. how to define an "obselete" piece of
+          information? or, better, how to define information widely
+          distributed enough to be considered common knowledge, but
+          which is not "erased from common knowledge" per se, but is
+          no longer relevant? ... perhaps rates of
+          reference/replication of information in common knowledge,
+          but those have their problems)
         - epistemological dynamics impacting the most widely
           distributed information/norms (esp. those which confer
           advantage) .... how can these result to changes in the
           distribution/utility of useful knowledge?
-
+        - how people view value/utility of pieces of information
+          determines whether they choose to replicate it. but when
+          anticipation/expectation surrounding knowledge becomes
+          unclear (as the section on expansion/contraction of kantian
+          category of anticipated epistomological dynamics discusses)
+          then the valuation of information (it's "pricing") may
+          become incredibly distorted, as would other aspects of
+          information economics
 
 - the *state* of [common knowledge](), as it applies to the content
   below (i.e. neo-kantian perspective on epistemology)

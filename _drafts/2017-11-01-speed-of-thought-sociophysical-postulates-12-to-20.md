@@ -126,8 +126,6 @@ this person for being "try hard" and "not adulting good"
 
 ======
 
--
-
 - philosophical problem of provability of hypotheses when methods are
   far, far beyond computable. application of the scientific method to
   data science may have limited viable methods to prove or reasonably

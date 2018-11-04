@@ -8,6 +8,27 @@ author:
 excerpt: ""
 ---
 
+### Normal Is No Longer What Normal Was
+
+- normal is post-humous.
+- it doesn't make sense to refer to "normal" in the 21st
+  century. (doing so disregards what defines our generation's outlook
+  on life). the only normal is the increasing pace of disrupted norms
+  and (the vanishing semblance of any norm)
+  - (... reword/etc
+
+
+### Gossip Protocols
+
+- stratification of nodes ranked by trust
+  - propagation of argot/crytolect/slang info. metaprotocols for
+    establishment and upkeep of cryptolects
+  - gauging subnetworks where adversaries "climb up" to sources faster
+    by laterally tweaking content of message distribution
+  - throttling rhythm/speed of message propagation
+    - how do nodes closer to sources exert influence on
+      rhythm/speed/sparsity of distribution without direct contact?
+
 ### Was Steve Jobs a Shill?
 
 - so, assume for a second that shadowy groups of people coordinate

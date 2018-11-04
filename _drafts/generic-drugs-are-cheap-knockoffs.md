@@ -50,7 +50,7 @@ allowing [CYP]() enzyme distribution in the liver to become known --
 preferably with the details corresponding to their spatial
 distribution. In cirrosis, even cases of alcoholism which don't
 qualify as presenting with cirrosis, the spatial distribution of CYP
-enzymes causes the patient to present with specific (symptomological)
+enzymes causes the pati()ent to present with specific (symptomological)
 patterns. Wherever there is liver scarring, there is disruption in the
 production and distribution in CYP enzymes.
 
@@ -474,7 +474,6 @@ KINEMATIC INFERENCES AND DATA SCIENCE.
 
 https://www.sparknotes.com/chemistry/organic3/stereoisomers/section2=
 }Why? Because influences "stack" from E/M fields of crystals (or even
-{+P0Ö/;.l`}
 fluids!) on polarization/refractions. Since the solution is extremely
 confined, surfaces effects along its boundary also cause
 stereo-specific polarization effects. Further, using #Kinematic
@@ -489,7 +488,7 @@ whereas the "entropy" of racemic configuration of other volume
 elements is such that **the minor polarimetric effects remain
 distinguishable.**
 
-So you CAN use polarimetry, but the mechanisms are highly dependent on
+So you can use polarimetry, but the mechanisms are highly dependent on
 the solutes/reaction/container in the reaction pipeline.
 
 What is unclear to me? How I could intuitively know this -- without

@@ -1,6 +1,81 @@
 How to be Toxic
 
 
+In Freudian terms, my super-ego seems to have developed a ton of
+structure as a result of my environment & psychological programming
+through my mid-twenties. it was already full of overly-judgemental
+baggage from my sheltered childhood. To make it worse, it seems that
+the constant provocation of triggers by people who psychologically
+tormented me in my late twenties, occured to such an extent as to
+create artificial, self-reinforcing anxieties. instead of my super-ego
+being a source of self-reproachment for hedonistic tendencies of the
+id, it similarly forms the basis of subconscious undertones from the
+perspective of society, who -- wherefore the severity of anxieties
+seemed most aligned, in an isolation devoid of authentic social
+signals -- must be composed of individuals who judged me: for
+presenting with social signals provoked by engrained triggers, which
+must indicate my own judgement of them.
+
+So, this is the underlying pattern of subconscious tendencies forming
+my super-ego, which tends to present an obstacle course of bullshit
+for the ego to dance around. This obstacle course, which tends to
+manifest to others as neuroses and anxieties, if not carefully managed
+and realistically trimmed to pertinent signals of temperance, tends to
+spiral out of control, self-precipitating stronger neuroses, anxieties
+and the thereby destablized cognitive patterns that become serious
+mental illness. All as a result of things which are unseen, the inner
+workings of someone's mind that form the confines and lens from which
+they come to understand all phenomena. If, from the inside, they
+themselves don't understand the motivations and language of their
+thought patterns, anxieties and impacted emotions, then how can they
+expect anyone else to ever know or heal them? That, in itself,
+demonstrates why most of those anxieties and neuroses are fallacious
+and purely self-imposed: if you don't understand your mind from the
+interior, but this results in signals to the exterior, then how can
+you expect anyone to make sense of the noise from the outside? It is
+simply that: noise.
+
+If someone feeds off of signals of anxiety to make you less
+comfortable, this is not someone who ever sought to understand you in
+the first place. Occasionally, there are people who generally feed off
+anxiety in situations. They recognize it, intuit the cause and may
+attempt to trigger it in the future as a tool. Abusive people do this,
+though some exert more control over how and when, allowing you to
+judge their cognizance of abuse. These people are weak, if they have
+conditioned themselves to consider *using* other people's off-balance
+cognitive state as a tool. The person who gravitates towards the
+source of contention, misunderstanding or anxiety and -- our of
+curiosity but without attachment or preconception -- tries to
+understand it, to quell it or simply make the person feel warm is far
+stronger, especially if they become cognizant of doing such as the
+strength that it is. They do not need to create such trite advantages
+for themselves; further, they draw their minds towards the minds of
+others to seek understanding.
+
+If you are actually successful in placating such sources of tension,
+then around cognizantly abusive people, then they may recognize you as
+threatening their collection of toys and tools. You're no different
+than a bull in their china shop by liberating people from
+misapprehension and manipulation. If you manage to provoke such
+territorial behavior, you're probably pretty good at this -- or at
+least in recognizing *sources* of tension. The best thing to do is not
+interfere, but to draw the attention of the person to such sources in
+a way that isn't overt, but that they can't forget. If done tactfully,
+then every subsequent time this person is triggered or put off-balance
+in this way will trigger thought-processes that bring them closer to
+the last time it is used. But, it's incredibly complicated to do so
+without being overt -- and without leaving an imprint of your identity
+into the subtle changes of their cognitive responses to provoked
+anxiety/neuroses.  It's almost impossible if you don't have enough
+time with the person to read them, their relationships and their
+interpersonal dynamics. You don't want to insert yourself into the
+situation because the machiavellian abuser whose toys are broken will
+turn their attention back towards you.
+
+
+
+==========
+
 - consider random walks through conversation-topics... you're just
   talking about random things. the other person and/or people are
   interacting with normal conversation dynamics, changing direction to
@@ -436,16 +511,26 @@ GUARANTEE.
 
 
 
-Socioinformational conflict, Aspergers and social miscalculation: basically, as someone with high-functioning autism, when i would stand up for myself against with others over some narrative/controversy, i lacked the tools to read the situation, to infer what i was up against, to understand whatsoever social/financial resources, to understand how things would play out.
+Socioinformational conflict, Aspergers and social miscalculation:
+basically, as someone with high-functioning autism, when i would stand
+up for myself against with others over some narrative/controversy, i
+lacked the tools to read the situation, to infer what i was up
+against, to understand whatsoever social/financial resources, to
+understand how things would play out.
 
 So people would assume:
 
-- that they could leapfrog me and use me as a benchmark by constructing some situation where they could demostrate the pecking order and come out on top
+- that they could leapfrog me and use me as a benchmark by
+  constructing some situation where they could demostrate the pecking
+  order and come out on top
 - that i was weak and thus wouldn’t fight back
 
 But what would happen:
 
-- they would miscalculate my vulnerability and i would fight back, with no regard for whether it would be worth it to stand up for myself and with zero concern to the collateral damage i would cause for myself and others.
+- they would miscalculate my vulnerability and i would fight back,
+  with no regard for whether it would be worth it to stand up for
+  myself and with zero concern to the collateral damage i would cause
+  for myself and others.
 
 ==========
 

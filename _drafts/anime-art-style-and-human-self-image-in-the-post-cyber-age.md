@@ -119,6 +119,8 @@ excerpt: ""
     framework for reality. this forms the confines of what we believe
     to be possible, but also the notions of what specifically deviates
     from valid conceptions of reality.
+    - regardless of the era, the mind of a child is least-constrained
+      by hyperrealistic influences
 
 ### The Mind of the Child at the Intersection of Jung and Freud
 
@@ -133,7 +135,7 @@ excerpt: ""
 - Much of Freud's work sought construct an *ontological* understanding
   of how the earliest "motion" in the evolution of an individuals mind
   would impact that individual for the rest of their
-  life. Ontologically, Freud sought to draw parallels on early
+  life. (Ontologically), Freud sought to draw parallels on early
   childhood mental fixations, which consists of limited cognition
   where thoughts are emulated within a limited set of concepts, upon
   which everything else is gradually deposited. So, since those early
@@ -153,7 +155,7 @@ excerpt: ""
     effectively, observe how they reflect on art and the possibilities
     of expression and interaction thereof. they don't yet have rigidly
     defined constructions telling them what is or is not possible, but
-    critically, everyone of us beings life in tabula rasa and are
+    critically, every one of us beings life in tabula rasa and are
     inlaid with our own combination of experiences which defines which
     phenomena become conscious first and which remain unconscious the
     longest.
@@ -184,7 +186,7 @@ excerpt: ""
 ###
 
 - Each of us has this "profile of conscious phenomena" that changes as
-  time.
+  time (...)
   - Every adult has their own set of imperceptible phenomena, which
     will or may remain unconscious to them, but adults in a society
     generally converge towards more singular "perceptibility

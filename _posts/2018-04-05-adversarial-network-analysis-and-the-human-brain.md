@@ -423,6 +423,40 @@ Misc
   - the usage of the word "disentangled" in Marcel Proust's "Swann's
     Way"
 
+### "Breaking" the Brain's conceptions of reality through Hyperbolic Geometry in VR
+
+- this is a nice setup for the discussion on psychedelics (since it's
+  similar in nature, but doesn't require/involve chemically triggered
+  altered states of consciousness.
+
+- [Call of Cthulu E3 2017 Trailer]()
+- reality is not direct, but mediated through your brain. however,
+  your brain can only conceive of what it has experienced
+- so, if there's some constraints of its experience which are
+  universal, then by introducing experiences, which in manner that
+  feels like reality, then violates those constraints, it forces your
+  brain to undergo an "analytic pullback" and reassess how it
+  interprets reality
+  - [pullback](https://wikipedia.com/pullback)
+  - although, it's likely that such changes wouldn't really feel like
+    such profound transformations, experiencing it has got to afffect
+    your brain somehow
+
+- it's also very similar to how psychedelics might introduce similar
+  changes by violating the schematic qualities of reality that the
+  brain has otherwise deemed universal and eternal
+
+##### Psychedelics violate similar assumptions held as axiomatic by the mind
+
+- reality-violating effect that psychedelics can have. the experience
+  of something that violates what you know in a logical sense.
+  - causes you to question what you know about reality in a vividly "a
+    postieri" kind of way
+- that's one of the "double-edged sword" qualities of psychedelics.
+  using them allows you to experience things like that, but then if
+  those delusions persist or if you provoke too much neurological
+  disorder with regular consumption of psychedelics, it's damaging.
+
 ### Cause of Persistent Hallucinations After Psychedelic Trips
 
 - the same thing can be caused by using mid-quality VR Content where
@@ -481,6 +515,7 @@ Misc
     of the neural networks must forevermore account for those fleeting
     observations which shattered any preconceived axiomatic notions of
     reality's possibility space.
+
 
 #### Missing No., the Pokemon That Breaks Your Game
 
