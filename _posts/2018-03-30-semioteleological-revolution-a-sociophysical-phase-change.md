@@ -28,6 +28,48 @@ excerpt: ""
     - how do nodes closer to sources exert influence on
       rhythm/speed/sparsity of distribution without direct contact?
 
+#### Screwing with gossip protocols
+
+- if you understand that particular connections are being used as part
+  of some network's gossip protocol or happen to essentially be a
+  group's unintentional gossip protocol, then they are fairly simple
+  to influence: either to spread information or to tap into the
+  information being disseminated.
+
+#### Dual Argot Space of a Language
+
+Dual argot space of a language: the space of potential argots, and
+methods of argotization, which is not equivalent for languages.
+- expanding this space — particularly the grammatical/syntactical
+  methods that cryptolects use, their ability to disperse their
+  preservation through linguistic evolution — is a critical
+  evolutionary advantage of langauges
+- argots tend to arise around semoteleological pattern languages,
+  where a key set of semiotic images & the relationships between them
+  are preserved, while the argots surrounding them morph
+- gossip protocols determine the dispersion characteristics for
+  knowledge about an argot
+
+#### The (Converse) of a Gossip Protocol: An Epistemic Game To Erase Information
+
+- Agents in a game who act to remove/cleanse knowledge from
+  common/mutual knowledge sets.
+  - The Agents who are aware of the game interact with agents who
+    aren't aware of it; they gravitate towards the epistemic "scent"
+    of information they seek to control.
+  - Maintaining objectives of distribution freq. for specific pieces
+    of info. There are some epistemic structures for which these
+    agents intend to control the distribution: i.e. there should be
+    some way to curtail the instances of these epistemic structures
+    throughout the network.
+    - IRL this game is even more complex because those structures
+      indicate knowledge of the games of power or evidence of games of
+      power. so, in the former case, this means agents who possess the
+      knowledge represented by these structures are capable of
+      behaviors/intentions that are difficult to define for agents who
+      have never encountered them (esp. the agents who are not aware
+      of the game)
+
 ### Was Steve Jobs a Shill?
 
 - so, assume for a second that shadowy groups of people coordinate
