@@ -313,6 +313,7 @@ gradually becomes aware of themselves.
 >
 > While naming is the origin of the myriad things.
 
+
 ### (Adam was to name the animals, Noah was the last of men who saved the animals)
 
 The task laid out for Adam by God to name the animals is connected to
@@ -326,6 +327,51 @@ metaphysical forms as animals. Regardless, a purely literary
 interpretation of religious text dissecates the fluid of truth from
 religious tradition and, along with that fluid, constricts most of the
 value.
+
+### The Theme of Waking Up To Unconsciousness In The Garden of Eden
+
+- this story is about the phenomenon of waking up from unconsciousness
+  to phenomena previously unacknowledged
+- In this context, it can be seen as a story about mankind's
+  psychosocial infancy or the psychosocial infancy of each man
+  - towards the latter undertones of an individual's (nascent)
+    development, the narrative highlights dynamics to play out
+    repeatedly with respect to various phenomena, particularly those
+    with moral implications.
+  - towards the more collective social application of the same
+    phenomena, the narrative highlights the evolving nature of
+    pre-Hammurabi and preliterary moral systems. expanding in
+    generality, the focus is not merely on the unspoken or formal
+    norms in early societies, but also on those on the moral
+    implications of interactions between collective groups
+    themselves. actions have consequences, for groups as well as
+    individuals. in nascent civilization, especially when literacy was
+    spotty if extant whatsoever, such intertribal or interregional
+    interactions were poorly understood. Social persistence of memory
+    has always correlated to age -- particularly the number of
+    simultanously living generations, which has until modern times has
+    sparsely ever been more than 2.5. With more grandparents spending
+    more time with younger parents, this dramatically increases an
+    individual's average cumulative flux of information exchange
+    between their lifelong connections in their social
+    network. Therefore, that societies exoliterary persistence of
+    social memory increases exponentially -- similar to an inverse of
+    the [Broken Window]().
+    - Therefore, early on, social memory was rebooted quite often,
+      which was a mythological design imperative for our distant
+      ancestors: myth demanded teleological information be compacted
+      with semiotic simplicity; else, if the symbolism was too
+      complicated for a pre-literary world to be expected to carry on.
+      - this compaction of mythos to favor the propagation of
+        evolutionarily-advantageous teleological relationships between
+        cultural universals
+        - relied on semiotic signifiers mostly pointing
+
+
+        - frequently experienced meta-narrativestowards
+        symbols representing
+        - local flora & fauna
+
 
 ### Extrapolating Logical Consequences of Epistemic Structures With Epistemological Virtual Machines
 

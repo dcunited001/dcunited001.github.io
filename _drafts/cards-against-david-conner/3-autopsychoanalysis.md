@@ -73,6 +73,116 @@ situation because the machiavellian abuser whose toys are broken will
 turn their attention back towards you.
 
 
+==========
+
+### Chronic Near-Total Deprivation of Authentic Emotional Interaction
+
+#### Induces Abnormal Psychological Development
+
+- how does someoone respond to total deprivation of authenticity in
+  social acknowledgement of that person's emotions? they don't ever
+  experience authentic acknoledgement of their social circumstances as
+  it relates to their emotional state. when dynamics like these become
+  *so overwhelmingly prevalent* as to be **near-total** to defining
+  the person's sum of recent experiences regarding the dynamic, then a
+  unconscious effect may be introduced where the person's behavior
+  begins to defy apprehension by the measure of the person's
+  deattachment from universal norms.
+  - so, in extreme isolation, then adherence to any social norms is
+    disrupted in magnitude .
+  - when a fairly disconnected person is in a state of total
+    cold-storage, totally detached from authentic acknowledgement of
+    truth as it relates to their emotional state, then the person
+    themselves becomes disconnected in **near-total** deprivation of
+    interactions that reinforce normative emotional engagment: **they
+    become unable to reason with the emotional state of others**
+    because others never display authentic acknowledgement of causes
+    of their emotional state.
+
+### Why Is Isolation from Normative Behaviors Required For Psychological Torture?
+
+  - for psychological torture, isolation in particular is **REQUIRED**
+    for protracted lengths of time to invoke the adaptation of
+    **abnormal psychology** from an extreme, **near-total** disruption
+    in the spectral range of psychosocial experience distribution.
+    - it is necessary to strongly control all circumstances
+      surrounding the person's life to invoke the adaptive responses
+      that induce abnormal developmental routes in psychology.
+
+#### You Just Got a Puppy, But Your Roommate Feeds Him Treats When Your Not Looking.
+
+##### Fast Forward One Year, Is that Puppy Trained To Act Like You Thought It Should?
+
+- just like when you are training a puppy, a single person can disrupt
+  that dog's development -- by feeding them treats at the wrong time
+  or giving them food from the table -- when engineering psychological
+  torture for permenant disruption of the target's developmental path,
+  you *must* control all variables in the environment *by isolating
+  the environment itself.*
+  - to disrupt the "spectral range of psychosocial experience
+    distribution" means to filter the "vibrations" of event-types so
+    completely that the probability of event-types *with normalizing
+    impact* on the victim is **infinitesimal**.
+  - otherwise, normative people with their "normalizing" behaviors and
+    tendency to provoke people with "well-intending and
+    well-adjusting" social feedback can unintentionally screw the
+    whole thing up just by being normal people interacting with an
+    abnormally developed target who is *starving* for the experience
+    of authenticity.
+    - that means, if the person being tormented comes into contact
+      with enough regular joes, the disregulation required for most
+      types of abnormal development paths cannot be **sustained** for
+      the excruciating length of time required to induce the intended
+      changes.
+    - but ... guess what? that also means that if you are actually
+      being psychologically tortured: YOUR ENTIRE LIFE IS A LIE. There
+      can be no other explanation. Everything is fake.
+
+#### Remember The Rack? From the Spanish Inquisition? WHO DOESN'T?!
+
+- after spending five years in such a *basement dungeon* a nearly
+  exact psychological metaphor is being hooked up on *[THE RACK*](),
+  the medieval torture device from the Spanish Inquisition that left
+  its victims to resemble Quasimoto in their everlasting physical
+  distortion thereafter.
+
+  - this bullshit *permanently disfigures your psychology* at the same
+    time as labelling you insane, as it appears to society, that it
+    renders you hounded by harassment for life, the true causes of
+    which neither you nor your tormenters can ever understand.
+
+    - IT'S NOT A JOKE, PSYCHOLOGICAL TORTURE LEAVES NO VISIBLE SCARS,
+      BUT WILL DESTROY A MIND FOR LIFE WHEN CARRIED OUT WITH
+      COMPLETENESS.
+      - The more effective methods of distorting someone's psychology
+        DO NOT work in a prison environment because the person puts a
+        wall up around their mind.
+      - An Abu Ghraib level of and intentional cruelty to use these
+        techniques on physical prisoners -- and how did that look to
+        the world?
+      - So why would anyone use psychological torture in prison, if
+        it's neither efficient, nor effective, nor manageable by any
+        public relations approach? For people with the authority to
+        make such decisions, it's obvious: don't do it, the ends don't
+        come close to justifying the means.
+      - However, when psychological torture is more effective, more
+        efficient and **just plain laughable** when used on people who
+        are tuned to be compliant victims -- blinded, confused and
+        mislabeled by society -- it opens up orders of magnitude more
+        approaches for tormenting dissidents who are ridiculed if they
+        ever accuse anyone of abusing them.
+      - Better yet, there's no formal court process to get them into a
+        formal environment where the average person can understand
+        what types of influences people experienced.  How do you
+        compel people to act so cruelly to a mistrusting, chronically
+        "hypnotized" yet compliant quasi-prisoner while maintaining a
+        psychosocial microenvironment that is hermetically sealed from
+        all non-controllable variables?
+      - This all requires extensive racketeering networks resembling
+        organized crime -- but you already have that logistic growth
+        problem: you need to grow networks of people who are trained
+        to harass political dissidents and well-incentivized to do so.
+
 
 ==========
 

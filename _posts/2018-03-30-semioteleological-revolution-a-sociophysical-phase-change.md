@@ -17,7 +17,6 @@ excerpt: ""
   and (the vanishing semblance of any norm)
   - (... reword/etc
 
-
 ### Gossip Protocols
 
 - stratification of nodes ranked by trust

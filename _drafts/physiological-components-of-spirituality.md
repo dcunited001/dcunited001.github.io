@@ -336,6 +336,18 @@ fluid dynamics.
     first felt it, it died away quickly after the session.
   - now i feel this bioelectrical force all the time.
 
+- an almost prohibitive level of effort seems to be required for the
+  mind still unaware of Chi to distiguish the impact its energy field
+  has from extraneous sensory stimuli and kinetic contributions to the
+  body's motion. it seems almost impossible for the common uninitiated
+  person
+
+  has on your motions from other seems to prohibit the
+.
+  becoming acquainted with the sensation of this higher-order energy
+  field seems to be rare because of the level of effort required to
+  isolate it.
+
 ### Accupuncture's Effects on Neuroelectrical Flow
 
 - what effect(s) do they have on neuroelectrical flow?

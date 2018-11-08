@@ -2215,7 +2215,7 @@ information.
       expectations of deviation from that consensus require
       justification/explanation)
 
-#### Socioepistemic Structures: Distribution, Consensus, Amplication Causal Minutia and Impact on Social Circuits
+#### Socioepistemic Structures: Distribution, Consensus, Amplication (of?,) Causal Minutia and Impact on Social Circuits
 
 - the projection of epistemic structures into society (esp logistic)
   - distributed programs and social physics
@@ -2225,6 +2225,204 @@ information.
       our actions
     - if information hasn't been distributed yet, but it likely will
       be, it will affect our current actions
+
+#### Justifying "Disnormalization"
+
+- in the context of denormalization, in a philosophical, legal or
+  ethical sense, should be understood to regard a single norm, where
+  as disnormalization should refer to system dynamics extending to
+  groups of norms or norms generally without any well-defined set. in
+  the informational context, denormalization usually refers to
+  compacting data, but after normalization, the entire system has
+  changed both the schema and the instances of data.
+  - Of the normative dynamics arising in statistical systems,
+    including those that employ logic predicated upon norms and their
+    resulting aggregate beliefs, while they do also result in altering
+    informational schemata, these changes are ultimately arbitrary in
+    comparison to the more macroscopic effects on the system's
+    behavior. The observer chooses how to model the system as well as
+    the agents if the system allows it; ultimately, even numeric
+    systems have myriad potential representations for information
+    within them.
+    - Instead, normative dynamics in statistical systems can result in
+      phase changes and other large-scale effects across various
+      topological structures in the system. We all see that people
+      inform their actions with their beliefs about facts, not the
+      singular facts themselves. In economic games with social agents,
+      incentivization structures can be compelled to change by
+      externalities with finite quantities -- e.g. maximum debt
+      ceiling, limited commidities, non-renewable resources. as
+      external factors reach their limits, the beliefs of agents
+      change: suddenly the realities of economic circumstances impose
+      themselves on the economy, resulting in the failure of existing
+      incentivization structures, like wages and dividends from mines
+      of exhausted ore. Approaching this and certainly afterwards, the
+      beliefs of agents change as do beliefs about statistical
+      expectations and the resulting beliefs about normal response to
+      a lack of opportunity. Thus, the system as a whole undergoes a
+      phase change: the agents must assess their models of the system
+      while seeking consensus of information related to new
+      opportunities and anticipated aggregate social dynamics. This
+      causes major shifts in valuation of distributions, resulting in
+      some event types with infinitesimal value becoming new norms and
+      formerly common norms are rapidly dampened. Combined with the
+      sometimes paradoxical behavior of statistical systems with
+      varying levels of interdependence, where probabilities of
+      sequences of events are products and sums of products, this
+      implies that rapid amplication and deamplification of
+      distributions
+
+
+
+  whereas thesdynamics cause macroscopic changes that are that are
+  ultimately ar these dynamics result in macroscopic changes to the
+  system where specific schema of information are fairly arbitrary
+
+> But linguists operate with a non- normalized view. Mappings between
+> semantic actants and grammatical relations do not fit actant fields
+> uniquely. Lexical correlates and examples are poly- valent, hence
+> denormalized. [paper](http://www.aclweb.org/anthology/P84-1010)
+
+- where denormalization is to disnormalization as deregulation is to
+  disregulation, (via greek-derived dys- ?)
+  - see dysphoric, dysregulated
+  - see dyslogistic/eulogistic
+  - dys is primarily associated with medical/neurological terminology,
+    but i see no reason as to why that should not apply to
+    disregulation of norms in society if the left wants to make
+    arguments in favor of social engineering to treat "social illness"
+
+- abnormal, unnormalize, renormalize, hypernormalisation
+
+
+
+#### What Fragile is to Anti-Fragile, the Concept of Disnormatizability is to Normitization
+
+
+- Disnormatization, the dissociation and disregulation of norms as it
+  relates to a spectrally derived total measure of normatization, and
+  the vectors with potential to denormalize contribute greatly to the
+  (determinizability) of statistical systems....
+  - Here, in the context of socioepistemic systems where agents inform
+    their actions with incomputably large sets of available, this
+    concept is convoluted by norms of mutual knowledge and beliefs
+    about knowledge of .
+
+in what
+are discussed here as socioepistemic systems,
+
+Disnormative: Oxford doesn't include it in their dictionary, but it is
+still a valid word in the english Language. not enough fancy
+post-graduate researchers have thought to use it. too many NPC's and
+not enough people who think for themselves to understand that word
+yet.
+
+In addition to philosophy surrounding norms, there are branches of
+logic -- #FuzzyLogic, #DeonticLogic, [Subjective
+Logic](https://en.wikipedia.org/wiki/Subjective_logic) and others --
+which allow you to validate the reasonableness of statements about
+systems where the agents have mutual belief and inform their actions
+with belief about norms.
+
+An example, what is implied the "normative" reference in the
+following? "[Deontological
+Ethics](https://en.wikipedia.org/wiki/Subjective_logic) is the
+normative ethical theory that the morality of an action should be
+based on whether that action itself is right or wrong under a series
+of rules, rather than based on the consequences of the action."
+
+It means a rules-based ethical framework has the capacity to exert
+normative influence on the agents in its system.
+
+So what is a #Disnormative component of a system? It's a component
+that destabilizes norms or beliefs about norms. Like the word
+#Perfracted -- referring a phenomenon in similar to refraction, but
+occurs system-wide and, in #ChaosTheory, is independent of time and
+space -- Disnormative is an example of a #Protologism. For now, it's a
+#HapaxLegomenon -- a word only used once in an author's writings or,
+less precisely, a rarely used neologism. That's how words are born. An
+author who introduces protologisms that map to ideas which need
+discussion that don't yet have a morpheme pointing to them is perhaps
+an author with fresh ideas.
+
+Disnormative is a concept which captures the impact technology has on
+culture, but does so with clarity when considering individual norms
+distributed throughout society. We are rapidly destabilizing almost
+all cultural and interpersonal norms.
+
+#### Dis/normative Influences alter the Degree of Entanglement in Sociophysical Systems
+
+- There are measures of entangledness of analytical representations in
+  representational-learning systems that correspond to measures of
+  consensus of both mutual knowledge and aggregate beliefs about
+  mutual knowledge which correspond to the relative normitization of
+  the information systems of agents and groups. How sparse and diverse
+  are the structures of mutual knowledge and aggregate beliefs about
+  it? There are normative and disnormative behaviors which affect the
+  harmonics of interagent interactions and socioepistemic beliefs in
+  social systems. Are there strongly pronounced norms and beliefs
+  about them? Then, for agents within the system, models are generally
+  more effective and the epistemic representations for those models
+  are more tightly structured, requiring less information to represent
+  and are more efficiently harmonized.
+  - Well-understood mechanisms for incentivization and well-structured
+    policies projected by social institutions with the resources to
+    enforce them are effective types of normative phenomena.
+  - These pull the system into harmony, whereas social system whose
+    harmonics are ablated towards socioepistemic noise are more less
+    entangled.
+  - These disnormatized systems more difficult to predict where the
+    actions of agents depend on resolution of information about
+    actions by elsewhere in the system, which cannot predicate
+    reactions until such information has propagated to an agent, if
+    that may occur at all.
+
+  - Here, the notion of a norm is one constructed by typological
+    comparison of epistemic structures, thus there may be infinitely
+    many arbitrary configurations of socioepistemic normatization that
+    exhibit extreme harmonization of belief. There is only one
+    effectively identical extreme of disnormatization: uniform
+    socioepistemic white noise. This may seem counterintuitive: how
+    can disnormative influences pull in many directions and lead
+    singularly to *the* nadir of harmonization of norms? This is a
+    phenomona exhibited by any system with spectral dynamics: the
+    state of maximally diffused harmonics is white noise, whereas
+    there is typically no spectral configuration resulting in any
+    singular maximal harmonization.
+
+#### Quantum Mechanics, Generalized. It Is Purely Informational.
+
+- Just like physical systems above minimal temperatures cease to
+  permit detection of the strange probalistic distortion of quantum
+  mechanics, so do the sociophysically disentangled behaviors of
+  agents in increasingly disnormative systems.
+  - This begs the question: is there an appropriate metaphor of
+    temperature, energy and degree of entanglement that pares to their
+    complementary phenomena in social systems?
+  - Distinguishing this challenge from the more general physical
+    analogies already introduced in earlier postulates, how does a
+    notion of temperature and energy to model the emergence of
+    disnormatization apply to distribution of socioepistemic
+    structures and the mechanics thereof?
+  - Conversely, if one reverses the flow of inference, do the quantum
+    mechanics of physical systems emerge from purely
+    quantum-informational dynamics that conceptually resemble
+    normatization?
+    - It's intriguing to follow, but would imply that the individual
+      components of systems with quantum mechanics are parameterized
+      by an awareness of the total system where the information is not
+      transmitted via known mechanisms in spacetime.
+    - That is, the individual components determine the collective
+      behavior, but the collective also informs the mechanics between
+      individual components, specifically to induce norms that are
+      perhaps related to particle configuration and conformation
+      entropy.
+    - Every physical system is fundamentally mathematic. The concept
+      of Boltzmann's constant applies not simply to physical
+      thermodynamic systems, but the very same constant is used for
+      any Boltzmann Machine in a computer simulation. The constant
+      arises from purely statistical notions of energy distributed
+      across space with defined mechanics.
 
 
 #### Beliefs About Information Consensus Leads to Amplification of Beliefs
