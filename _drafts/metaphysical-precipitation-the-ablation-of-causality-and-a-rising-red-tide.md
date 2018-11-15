@@ -14,7 +14,6 @@ excerpt: ""
 - TODO: cite the 2014 curcumin nanotechnology paper
 - bruce lee one inch punch
 
-
 - revelations: in an interpretation centered around sociophysical
   extrapolation (i.e. theological futurism) what, then, do the verses
   about the obliviation of family relationships mean?
@@ -143,6 +142,19 @@ the derivation of happiness & meaning in life.
 
 ==============
 
+- understanding how to act according to any values system to exemplify
+  virtues requires an understanding of the causal implications of your
+  actions.
+  - the ablation of causality tends to obfuscate causal chains of
+    action rendering them completely intractible to any person
+  - therefore, what point is there in even attempting to act according
+    to any values system?
+- there are many other dynamics tending to precipitate nihilism of
+  their own accord. when nihilism prevails, this itself disrupts
+  notions of good and evil and disincentivizes the pursuit of values.
+
+==============
+
 - japanese punns (boudou and boudou)
 
 
@@ -179,8 +191,6 @@ dynamics) until it approaches aphysical ...
   location(s), etc begins to melt away.
 - (each instantiation of a specific piece of information (connections)
   to physical instantiations gradually lose relevance.)
-
-
 
 
 - How do hierarchy/stratification and spectral decoherence affect the
@@ -322,7 +332,7 @@ entities.
 - (remove focus on privacy from the following)
 - (none of this means technology or social media or IoT is inherently
   bad by the way, just that our world is evolving towards a
-  fundamentally different one and this evolution is inevitable)
+  fundamentally different nature and this evolution is inevitable)
   - so we have to understand it because the following philosophical,
     psychological, and sociocultural changes are fundamentally
     different in a way that is very difficult to understand
@@ -330,16 +340,21 @@ entities.
 
 - again mention Kantian [conditions of possibilities]()
   - for sentient entities operating in this new epoch of shared
-    reality, this dramatically expands the [Kantian categories]()
+    reality, (this) dramatically expands the [Kantian categories]()
     representing the potential short-term subjective expectations of
     difficult-to-understand phenomena.
+    - google's search algorithm: what is the kantian category of top
+      page hits a search term. this algorithm is a black box, but some
+      SEO consultants have an excellent understanding of how input
+      corresponds to output. for other more complex algorithms or
+      networks, this is impossible to conceive.
   - this happens at the same time as the other factors driving the
     ablation of causality and both factors drive each other.
     - disinformation, superconnectedness and information
-      overstimulation implies that it becomes prohibitively difficult
-      to reason about what happened in the past AND to reason about
-      the phenomenological range of possibilities in the near future,
-      as well as dynamical inferences related to them.
+      overstimulation imply that it becomes prohibitively difficult to
+      reason about what happened in the past AND to reason about the
+      phenomenological range of possibilities in the near future, as
+      well as (dynamical) inferences related to those possibilities
 
 - especially as it relates to [Kantian categories]() of entities'
   awarenesses of reality
@@ -404,6 +419,12 @@ entities.
 
 ### Why Privacy Is Necessary For The Tractibility Of Causal Inferences
 
+- lack of privacy, on a sociological scale, could significantly
+  increase rates of mental illness. this is because of the increased
+  computational complexity of reasoning about causality and
+  information provenance when you're denied access to how information
+  is obtained by surveillance.
+
 - the concept of privacy is one of the most important ways this shift
   in causality will affect human interactions and their understanding
   of the world from what they infer to be cause & effect in events
@@ -434,6 +455,20 @@ entities.
           networks where causality (becomes unknowable and
           unpredictable)
 
+- [abductive logic](https://en.wikipedia.org/wiki/Abductive_reasoning)
+  - reduced privacy and difficulties reasoning about data provenance
+    render cognitive processes involving abductive reasoning overly
+    complex, ineffective and time-wasting at best
+  - abductive reasoning is critical for understanding what knowledge
+    someone uses to inform their actions, but won't tell you. so, you
+    have to use abductive reasoning to infer what they know, without
+    necessarily understanding how they could know it
+  - people leverage misdirection adversarially do so to confound
+    abductive reasoning
+    - gaslighting requires another order of abductive reasoning, where
+      the person uses misdirection adversarially and also must
+      abductively reason about what you are likely to be induced to
+      believe when presented with misinformation
 
 
 

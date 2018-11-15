@@ -11,9 +11,9 @@ iPhone Notes
 FB Posts
 --------------
 
-#### A response to the assertion that people cannot/shouldn't be commoditized
+### A response to the assertion that people cannot/shouldn't be commoditized
 
-##### (segued to) On The Ontological Delineation of Governance Type
+#### (segued to) On The Ontological Delineation of Governance Type
 
 unfortunately, that is not true: we are commodities, though one should
 hope we are never financial commodities and only social
@@ -42,7 +42,7 @@ leverages and how the channels for resource-exchange are structured
 
 
 
-#### On the Analysis of Shamanism in comparison to Divination
+### On the Analysis of Shamanism in comparison to Divination
 
 - (Response to this article on
   [Shamanism](https://aeon.co/essays/why-did-shamanism-evolve-in-societies-all-around-the-globe))
@@ -95,7 +95,7 @@ leverages and how the channels for resource-exchange are structured
 
 
 
-#### On the Disillusionment of the Rising in the Academic World
+### On the Disillusionment of the Rising in the Academic World
 
 - i get the impression that the academic world, at a relatively early
   stage of its young students’ development, unintentionally dissuades
@@ -120,7 +120,7 @@ leverages and how the channels for resource-exchange are structured
   workforce whose servile nature is self-reinforcing and grateful.
 
 
-#### On Facebook Enforcing a Randomization of Top/Chronological Newsfeed
+### On Facebook Enforcing a Randomization of Top/Chronological Newsfeed
 
 - {I now feel that the best way to do this would be to force
   randomization of chronological segments into the newsfeed -- or at
@@ -129,7 +129,8 @@ leverages and how the channels for resource-exchange are structured
     newsfeed segments that were Chronological. experiment with the
     ratio of top/chronological
 
-- creative UI / UX ideas to achieve the equivalent of what’s below (like combined feed for chronological & “top stories”)
+- creative UI / UX ideas to achieve the equivalent of what’s below
+  (like combined feed for chronological & “top stories”)
 
 - It might result in slightly less revenue for FB, but it might hit
   some of their platform partners a bit hard -- SEO & Social Media
@@ -159,7 +160,7 @@ leverages and how the channels for resource-exchange are structured
   amplification effects)
 
 
-#### A response to an Anti-Trump person who believes Trump is Racist
+### A response to an Anti-Trump person who believes Trump is Racist
 
 - {in the context of a post about the Squirrel-Hill shooting}
 
@@ -188,7 +189,7 @@ leverages and how the channels for resource-exchange are structured
   people are terrified that these actions are representative of racism
   lurking beneath the surface.
 
-##### “Trump is accused of being racist against muslims”:
+#### “Trump is accused of being racist against muslims”:
 
 - This is #Conflation: islamic extremists are a threat, but
   acknowledging the threat of islamic extremists and implementing more
@@ -205,7 +206,7 @@ leverages and how the channels for resource-exchange are structured
   allows the radical left to destabalize America by provoking
   artificial racial tensions)
 
-##### “Trump is accused of being racist against Mexicans”
+#### “Trump is accused of being racist against Mexicans”
 
 - (particularly quoting him on “rapists, criminals, drug delaers,
   etc”: AGAIN, it is faulty logic using #Conflation that induces a
@@ -228,7 +229,7 @@ leverages and how the channels for resource-exchange are structured
   reality, so it doesn't matter what they say as long as it sounds
   good enough to get the votes.
 
-##### who is building the tunnels on the southern border?
+#### who is building the tunnels on the southern border?
 
 - You cannot answer that question without contradicting yourself: who
   has the financial and labor resources to finance building tunnels on
@@ -244,3 +245,62 @@ leverages and how the channels for resource-exchange are structured
   have to talk and make it sound good. Their producer and network will
   mostly provide them with their content anyways: they're skilled
   #Mouthpiece's and not much more than that.
+
+
+## 11/15/2018
+
+### On Why Nassim Taleb's Writing Resonates with Me
+
+- [After recently watching this
+  video](https://www.youtube.com/watch?v=uv6KLbkvua8)
+
+I love hearing how #NassimTaleb thinks about writing and
+authenticity. His writing resonates with me because of how
+authenticity resonates with him; despite the intellectual challenges
+imposed on his readers, he is not willing to dilute his content and
+even manages to deliver in a relatable manner such content that is
+intrinsically dependent on challenging statistics.
+
+#### On What It Takes To Be A Philosophy Great In The 21st Century
+
+I hope my writing develops to such a point that I also must struggle
+with challenges of the same nature; to overcome with the same
+finesse. Making progress in philosophy at this point in the human
+condition is difficult; it has always required broadly encompassing
+all directions in human development. As those directions expand and
+diversify, the challenges are multiplicatively expanded in
+demonstrating one’s ideas as having the substantial differentiation as
+to be considered novel. From here on out, if one hopes to push the
+philosophy envelope, there is no simplifying substance.
+
+#### On [Peter Sloterdijk](https://en.wikipedia.org/wiki/Peter_Sloterdijk)
+
+the only other author i can think of who's work sounds as promising is
+Peter Sloterdijk. His work -- the trilogy Spheres -- having only
+recently been translated into English is not so well digested ... so,
+honestly, I can't really speak on the impact it might have. However,
+this quote from wikipedia peaks my attention: "The trilogy is
+notoriously erudite in its scope, but Sloterdijk is aware his books
+are not for everyone."
+
+##### (and the only reason for including here that last snippet)
+
+- The key takeaway here: if you're looking for a philosopher who
+  marries [21st century] advances in current technology with their
+  corresponding cultural impacts -- and does so with the monumental
+  impact of a Kant, a Neitzsche, a Plato, a Marx or a Hegel -- then
+  their work is going to be very difficult to consume,
+  *necessarily*. Sorry, it's not for you, pleebs...
+  - So, to balance said necessity with the effort required to make the
+    work conducive to consumption by the average person is a feat i
+    consider not even worth the required time (in terms of lost
+    progress)
+  - (and if Nietzsche was posthumously credited for Twilight of the
+    Idols, than not all is lost for attempting to keep notes of
+    this. i just need to make sure these notes are not creating more
+    work for me to organize than the value they offer in retaining my
+    thoughts as organized in responses to people on social media. the
+    structure of those responses is often more succinct & well-rounded
+    & short-focused than my other writing)
+
+####

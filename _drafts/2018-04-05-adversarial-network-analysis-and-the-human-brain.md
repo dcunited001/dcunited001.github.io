@@ -605,10 +605,12 @@ Misc
     observations which shattered any preconceived axiomatic notions of
     reality's possibility space.
 
-
+`
 #### Missing No., the Pokemon That Breaks Your Game
 
 ![Missing No., the Pokemon that breaks your game]()
+
+![Also, Twice Pieceman]()
 
 - [the reasoning is...] From an analytic philosophy standpoint, if the
   epistemic structure of all pokemen can be represented by discretized
