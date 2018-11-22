@@ -19,8 +19,6 @@ excerpt: ""
 Intro
 ==========
 
-
-
 - the main point: although pharmaceutical companies could have been
   ignorant of (this) in the 1980's, the time is coming when it will be
   clear they are cognizant of problems related to generic formulations

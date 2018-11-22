@@ -122,7 +122,7 @@ modes of transportation were limited throughout history.
 There are countless aspects of life that ancient people understood
 more clearly than we do today. In many, standing on the shoulders of
 giants has yielded crippled versions of ourselves because we were
-always molded and die-cast by a typology of life experience now
+always molded and die-cast by typologies of life experience now
 *decimated* by technology.
 
 <a name="into-the-tragic-comedy-of-fate-i-cast-myself" />
@@ -133,7 +133,7 @@ always molded and die-cast by a typology of life experience now
 
 For the powerful, this is desirable. They can sell us technology to
 solve our problems, while our growing dependencies on it
-short-circuits the types of life experience that imbue our worldview.
+short-circuit the types of life experience that imbue our worldview.
 In some ways, this makes us easier to control. We simply do not have
 the same sheer drive that powers those of us who have learned through
 pain and all the simple joys we'll never know. For all its benefit,
@@ -153,7 +153,7 @@ millenia-old celebration of being the first to deliver a message.
 What's the value of a message? How does cheap and free transmission
 affect us? How does it lead to progress? The power of a simple message
 unimpeded can change the course of civilizations. At Thermopylae, the
-brave acts of hundreds of Spartans struck fear into the heart of
+brave acts of hundreds of Spartans struck fear into the hearts of
 Persians and funneled vigor into the hearts of Greeks to rise up and
 resist the oncoming hordes. Would this envigorating effect have been
 possible if not for the story? *What if it couldn't be told?*
@@ -225,7 +225,7 @@ social interactions. Pushing through the noise are faint, low
 frequency waves of cultural information rippling over and reflecting
 between geographic features. Vacuums of low population density taper
 this resonance. Between the centers of civilization, the dispersion of
-information is strained through translingual membrane, limiting the
+information is strained through translingual membranes, limiting the
 number of social connections over which information can cross. These
 metaphors are not perfect, as behavior was not coordinated and our
 modes of transportation were limited throughout history.
@@ -244,7 +244,7 @@ Black Sea to India, Europe, China, Indonesia and the Americas. At that
 time, was there a region more connected than others? The most
 connected region was the Middle East. And people in regions less
 connected?  Those in island nations or beyond the tropics of Cancer
-and Capricorn, both of which would incidentally be more likely to
+and Capricorn, both of these would incidentally be more likely to
 understand the spherical shape of the earth.
 
 <a name="mesopotamia-and-mesoamerica-the-old-world-connectivity-maximums" />
@@ -257,16 +257,24 @@ surface area gave it an almost unparalleled economic advantage, which
 only grew as time marched on. This region had the shortest actual
 distance to the most number of people, and access to the largest
 social graph neighborhoods, depending on how you measured it. When
-people are more widely spread out, it is more rare to have large
-2&deg; and 3&deg; networks, which conferred major advantages. Those
-with wealth could finance transport and delegate action, which further
-helped expand those networks.
+people are more widely distributed, their social networks are more
+sparsely interconnected; larger 2&deg; and 3&deg; networks are less
+common, unconsciously shaping the dynamics of information diffusion,
+thereby diversifying the resulting information economics by
+contributing to asymmetric factors of supply and demand. Those with
+wealth could finance transport and delegate action, which further
+helped expand those networks, but this rendered the sparsely
+interconnected exterior regions dependent. To compensate for their
+paucity of informational and financial flux, the latter exterior
+regions were compelled to socially gravitate towards channels of
+commerce.
 
 The shifting power centers of Olmec, Maya, Inca and Aztec repositioned
 the Mesoamerican nexus of connectivity. Why? Strategic control over
 the Panamanian isthmus conferred the same economic and sociophysical
 benefits as control over the Mesopotamian region. The power centers
-shifted in America, just as they did for the center of the Old World.
+shifted in America, just as they did in center of the Old World for
+the Sumerians, Akkadians, Assyrians, Babylonians and Hittites.
 
 <a name="north-korea-as-a-global-minimum-of-connectivity" />
 
@@ -278,8 +286,10 @@ almost total disconnection of the populace from the outside. Both of
 those lead to poor decisions by the North Korean leadership. They are
 so disconnected from the rest of the world, coupled with internal
 policy to ruthlessly quash all information contradicting state policy,
-that their upper leadership isn't allowed to question the highest
-leadership.
+that their upper echelons of leaders couldn't know to question the
+promulgated by their highest echelon, especially when apropos to North
+Korean dogmatic maxims. It's a classic power trap: insulation from
+threats leads to disconnection and bad decisions.
 
 If the range of 2&deg; neighborhoods of North Korean citizens is
 compared against other nations, you'll find that it is incredibly

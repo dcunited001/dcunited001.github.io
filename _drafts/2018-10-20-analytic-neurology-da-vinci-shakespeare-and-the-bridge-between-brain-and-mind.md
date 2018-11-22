@@ -522,34 +522,7 @@ etworks
 
   - if doodling to explore possibilities, but without color, then
     the double image possibilities you identify won't necessarily
-    translate to color easily. so the artist needs to have
-    extremely developed ideation with intricate visualization to
-    imagine the possibilities before they waste the time.
-
-- why double images with black and white are easier to identify.
-  - how color evokes an aspect of the "curse of dimensionality" which
-    gives classes of visual patterns more distinct "fingerprints".
-  - black and white images are simple. with some drawing techniques or
-    abstract art visual styles/content, then it can be difficult to
-    avoid provoking difficult to resolve classification without the
-    use of color
-  - it may be possible to verify this in art by running image
-    classification algorithms over smaller regions of art pieces. the
-    probabilities reported for top class matches in greyscale should
-    result in more spread over more image classes.
-    - to control, you can easily remove color channel content from
-      the color test cases, giving you three categories:
-      greyscale, rgb, rgb => greyscale.
-    - there are other interesting things you can do with hue/etc
-      to tune recognition.
-  - the more abstract the style, techniques or subject of the piece,
-    the more likely there will be poor activation of final image
-    classes, spreading the probability over several classes.
-
-# How to Search for Double Images, Algorithmically
-
-  - how to search for double images, and why it's a hard problem,
-    unless you have some miraculous instantiation of neural circuits
+    translate to color easily. ess you have some miraculous instantiation of neural circuits
     the enable you to "mix" image classifications, almost like Google
     Deep Dream running content through the intersection of image
     classification weights.

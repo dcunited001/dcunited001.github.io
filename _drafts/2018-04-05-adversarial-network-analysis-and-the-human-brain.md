@@ -834,7 +834,8 @@ Experience](https://www.youtube.com/watch?v=_nwvCGLmFEA&fbclid=IwAR1N22G9iCVmrID
     implications are for individuals who share moments.
 
 - bridging analytical psychology to neurology
-  - covering ideas form analytical psychology at the level of neurology
+  - covering ideas form analytical psychology at the level of
+    neurology
 
 - in order for anyone to understand this i need pictures...
   - draw.io?

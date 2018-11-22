@@ -8,7 +8,8 @@ author:
 excerpt: ""
 ---
 
-- Curve-shifting levels of intelligence
+#### Curve-shifting levels of intelligence
+
   - intelligence (IQ) with the capacity to make large-scale changes in
     a society/population's IQ curve
   - Leonardo da Vinci is an example of curve-shifting intelligence
@@ -18,12 +19,11 @@ excerpt: ""
     an intimiate awareness of God (emanations from the metaphysical
     and collective unconscious)
 
-- harmonizing state of common knowledge about the collective
+- harmonizing state of mutual knowledge about the collective
   unconscious (esp. the most strongly emanated aspects) describes what
   happens in the early states of the development of a religion (or
   belief system with a similarly profound capacity to frame/underpin
   worldview for an large groups of people)
-
 
 - belief systems whose distribution in local population leads to phase
   changes of s/phys networks, particularly in terms of how people
@@ -34,7 +34,7 @@ excerpt: ""
     new dynamics emerge (as a result of: computability of social
     phenomena expanding, harmonization)
 
-### To Be Unconscious to Unconsciousness is the Definition of Insanity.
+### To Be Unconscious to Unconsciousness is the Definition of Insanity
 
 It is to be incapable of knowing yourself or knowing your self in
 relation to your world. It is to render yourself helpless to the
