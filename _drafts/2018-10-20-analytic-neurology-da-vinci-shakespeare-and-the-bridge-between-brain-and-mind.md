@@ -597,8 +597,8 @@ etworks
   definitions as well), then the resulting network/data could be used
   with a deep dream process to produce double images with
   deconstructed lighting effects.
-
-
+!!!!
+!@!@!
 
 #### expanding more logical patterns of visual focus projection and
 

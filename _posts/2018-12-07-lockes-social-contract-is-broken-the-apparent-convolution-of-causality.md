@@ -186,6 +186,11 @@ complexity of causality in the digital age, we still fall short of
 understanding the structure of interactions between such entities,
 which is far more complex.
 
+#### **Nihilism** (ni·​hil·​ism | \ˈnī-(h)ə-ˌli-zəm,) Nothing is Sacred
+
+![Nihilism: Nothing is
+Sacred](/img/posts/2018-12-07-the-convolution-of-causality/eye-of-the-beholder-1.jpg)
+
 <a name="how-bout-a-tall-warm-glass-of-nihilism" />
 
 ### [How 'Bout a Tall, Warm Glass Of Nihilism?](#how-bout-a-tall-warm-glass-of-nihilism)
@@ -271,6 +276,9 @@ next, will it be possible to make them care?
 
 #### Hegel Wins
 
-> Preparing to download forms from the plane of the ineffable mysteries...
+> Preparing to download noumenological forms from the aethereal plane
+> of the ineffable mysteries... . . . .
 
 ![Hegel Wins](/img/posts/2018-12-07-the-convolution-of-causality/your-morning-on-hegel.jpg)
+
+> . . . ... <!@#$ !$#@!NG> ERROR: SPATIAL COMPLEXITY CONTRAINTS
