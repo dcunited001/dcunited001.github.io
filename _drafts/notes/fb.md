@@ -303,4 +303,68 @@ are not for everyone."
     structure of those responses is often more succinct & well-rounded
     & short-focused than my other writing)
 
-####
+## On a heated FB post about obama/democrats
+
+> Just curious, since you're talking about the problems
+> democrats/liberals have, what would you say is the biggest problem
+> that republicans/conservatives have?
+
+
+- Good question..... the biggest problem conservatives have is in
+  structuring the political response such that it is proportionate the
+  threat posed by the far-left and pragmatically protects American
+  economic interests. investment of political capital should be
+  directed towards a strategy that protects the long-term interests of
+  America and facilitates the leveraging of power to fix conservative
+  principles in government -- without succumbing to radical tendencies
+  itself.
+
+
+#### ultimately power is power and operates similarly regardless of who is in control
+
+- to recognize that is to distance oneself from a
+  specific political platform or ideology and to recognize the tactics
+  and applications of power for what they are: utilitarian attempts to
+  leverage the mechanics of social influence to attain some
+  end-goals. it's easy to get lost in the politics or the
+  belief-systems and ideological objectives that motivate political
+  action. that's the trap that is setting America up for a generation
+  of artificial social/political tension.
+
+#### Staving off Leninism without losing republican identity or conservative values
+
+- so, basically the biggest problem conservatives have is in
+  structuring the political strategy/tactics to attain the Republican
+  agenda, without getting lost in the politics. the moderate left
+  lends itself to radicalization too easily and the pragma of the far
+  left (i.e. leninist pragma) *is* effective. this means republicans
+  must "lean in" to cheap political tactics to prevent subversion of
+  moderate left by far-leftists.
+
+#### Explaining the 2016 Election as a response to a far left administration
+
+- the danger is the same as when the left (from 2006-2018) has
+  invested in utilitarian political tactics for pragmatic expedience:
+  Obama went overboard against conservatives and misused the Executive
+  branch's power to attain/preserve change while preventing attempting
+  to prevent the American democratic response (voting against
+  Democrats) that Obama knew was coming.
+- So, Obama doubled-down on cheap tactics to secure political goals,
+  while intending to subvert the democratic process in in the
+  (2014/2016/2018) elections, so that radical political change in
+  America could be transitioned from Obama to Hilary without loss of
+  control. the problem? Obama got caught playing easily-recognized,
+  cheap political tactics; once the Democrats political tactics were
+  identified, inferring the ideological outlines of the political
+  strategy for domestic policy was easy. So, all republicans needed to
+  do was (despite the disnformation/misinformation that would be
+  predictably delivered from the executive branch), assume the
+  conclusions and then solidify around a solid candidate without
+  wavering. This candidate was Donald Trump. He was the REJECTION of
+  Obama's attempt at radical change in America, despite whatever MSNBC
+  tells you about "racist this or greedy captialist that" ...
+- the magnitude of changes that Obama enacted were politically
+  unstable --and his administration grapknew that, so -- to enact such
+  change regardless of the long-term stability of such changes -- they
+  intended to subvert democracy to avoid having the Democratic party
+  lose power in a political lashback.

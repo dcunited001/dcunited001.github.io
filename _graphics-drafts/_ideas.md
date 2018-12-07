@@ -11,11 +11,117 @@ title: "Graphics Ideas"
 -
 
 
+# Misc
+
+### Visualized Deconstruction of Probabilistic Values in Catan
+
+- the probabilities of benefitting from the arrangement of values in
+  Catan (when the values assigned to each hex is known from the
+  beginning of the game) demonstrates some complicated ideas from
+  statistics
+  - these interdependent nature of the variables leads to some very
+    interesting insights into the *interdependent* nature of dice
+    rolls, especially the specific impact on probabilistic systems
+    that weighted dies can have
+    - do the weighted dice produce a greater effect on some games than
+      others? of course, but understanding *how* requires knowledge of
+      [[priors]] from statistics ...
+    - particularly: how distortion in the prior distributions
+      correspond to influences on the distributions related to each
+      game's mechanics? do some priors extend an undue, cascading
+      influence into the mechanics of some games? do the first-order
+      and second-order paths (extending from the prior distributions)
+      through the bayesian network (or paths through markov networks)
+      imply an interdependent interconnectedness of the games
+      mechanimcs
+    - this has important correspondence with the concavity/convexity
+      of some models for various game's objects/mechanics. the
+      convexity/concavity of the system's mechanical components
+      determines how spatial & temporal complexity for game mechanics
+      contribute nuanced tractibility.
+      - e.g. in some games, the mechanical components "behave nicely"
+        as components of a strategic system to completely solve the
+        game: here the game doesn't explode combinatorially. if
+        instead, some mechanics combined in ways to provoke
+        complexity, it instead leads to intractibility when
+        calculating maneuvers based on those mechanics. players don't
+        reason about those mechanics, the combinatorial complexity of
+        the spatial elements of those mechanics makes them difficult
+        to reason about without diminishing returns.
+
+
+
 # Computational Geometry
+
+### Efficiently map polygon surface to texture
+
+- calculate the distortion D(p) of individual pixels (distortion
+  measured in terms of norm of the affine transformation in the Dual
+  Space A* that ()contains all possible affine transformations for
+  Linear systems)...
+  - i.e. calculate a metric of distorion for a pixel
+    - with || norm(a* in A*) || ... adjusted for the pixel's position
+      on the triangle/fragment
+- implement this algorithm with various goals to act as direction for
+  an optimization/minimization process
+  - (1) one goal would be the minimization of texture space required to
+    contain the mapping.
+  - (2) another direction for optimization: would be the general
+    reduction of the spread of D(p) for all pixels rendered to
+    fragments
+    - so, it would require iterating on texture map selection
+      progressively towards the optimization goal -- the distribution of
+    the magnitude of metric D(p) over the space
+    - from here, typical methods can move the texture mapping towards
+      a more efficient solution gradient descent (& etc) would be used
+      to alter the variables of the texture
+  - (3) another metric of optimization would be to produce a measure
+    of curved distortion Dk(p), which is based a similar metric of
+    norms/dual vector space.  D(p) which measures the norm of d* in D*
+    (distance of the parameters of affine transformation from the
+    origin in that linear-vector-space's Dual D*). Dk(p) would instead
+    identify points on the shape's surfaces and points on the shape's
+    texture, trying to minimize the accumulation of distortion when
+    summing the Gaussian curvature in a neighborhood of points on the
+    shape's surface.
+    - Curvature has to be balanced: this is the Theorema Egregia,
+      which extends to representational theory by implying the
+      existence of structures with symmetries in the curvature of
+      surfaces. basically, there should be very interesting
+      relationships between Kg(F,x) and dKg(F,x)/dx.
+      - for the surface to be defined by a polyinomial, the curvature
+        (Kg) and d-curvature (dKg) relate to each other by a need to
+        "bounding divergences" (that would otherwise result in
+        exclusion in Sobolev spaces or in discontinuities) by
+        mediating "such potentially extreme deviation from equilibrium
+        as to threaten discontinuoity" via *correlated* changes in
+        measure of curvature, where the impact of various "summed"
+        trends in F(x) produce "correspondant" impacts on the measures
+        of Kg(x) and dKg(x)
+    - the ways in which this presents is very much determined by
+      constraints on the set of functions considered (linear only,
+      linear and/or polynomial, numeric with unknown structure,
+      numeric with a known family of relationships governing
+      continuity)
+    - so, (as a consequence of the Theorema Egregia's application to
+      various families of equations/systems), there must also be
+      interesting value/equilibrium-preserving relationships that can
+      be found in the surfaces of discrete/continuous shapes. the
+      structure is more useful when studying continuous surface, but
+      once discrete differential geometry is augmented by discrete
+      exterior calculus, then many possibiliities initially curtailed
+      by the "discreteness" sublimate away (albeit replaced by
+      whatever difficulties emerge from the imposition of Discrete
+      Exterior Calculus, the nuance for which I am at a loss)
+
 
 ### Calcuation and display of Curvature for Meshes
 
-- calculate/display curvature and d-curvature on surfaces
+- calculate curvature and d-curvature on surfaces, update texture
+
+### Calculation of a discrete version of Gauss-Bonnet for Polygons
+
+
 
 # Social Physics
 

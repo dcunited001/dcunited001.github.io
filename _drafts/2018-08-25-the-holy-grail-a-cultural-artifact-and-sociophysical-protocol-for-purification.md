@@ -8,6 +8,32 @@ author:
 excerpt: ""
 ---
 
+
+[System of a Down - Tentative]()
+
+> "No One... No one's going to save us now...
+>
+> Not Even God...
+>
+> No one saves us...
+>
+> No one save us...
+>
+> No one saved us...
+
+- What does it mean for God to exist, beyond this world, beyond the
+  veil?
+  - What does it mean *to know* that God can never be totally made
+    manifest in the physical realm, except by the indirect mediation
+    of forms from the noumenological realm?
+  - "a priori, synthetic" from the metaphysical
+- Does this place responsibility on man in manifesting harmony with
+  God's true forms as best it possibly can?
+
+... also: [SOAD - Solder Side]() from the same album
+
+======
+
 #### Curve-shifting levels of intelligence
 
   - intelligence (IQ) with the capacity to make large-scale changes in

@@ -50,7 +50,7 @@ Dual argot space of a language: the space of potential argots, and
 - gossip protocols determine the dispersion characteristics for
   knowledge about an argot
 
-#### The (Converse) of a Gossip Protocol: An Epistemic Game To Erase Information
+#### The (Converse) of a Gossip Protocol: Epistemic/Doxastic Games To Erase Information
 
 - Agents in a game who act to remove/cleanse knowledge from
   common/mutual knowledge sets.
