@@ -10,7 +10,7 @@ while chemistry and genetics are certainly involved to some degree, I
 believe this merely sets up circuitry that will evolve to reflect
 metaphysics -- *heady crystals!!* -- In other words, given the proper
 initial circuitry and given a variety of similar input experiences,
-the remarkably small spider\'s brain will inevitably evolve certain key
+the remarkably small spider's brain will inevitably evolve certain key
 functionalities -- or it will not survive."
 ---
 
