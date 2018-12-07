@@ -117,12 +117,10 @@
                     
                     <li class="navbar-social">
                       <a href="https://github.com/dcunited001"><i class="fa fa-lg fa-github"></i></a>
-                      <a href="https://twitch.tv/dcunit3d"><i class="fa fa-lg fa-twitch"></i></a>
                       <a href="https://youtube.com/dcunited001"><i class="fa fa-lg fa-youtube"></i></a>
                       <a href="https://twitter.com/dcunit3d"><i class="fa fa-lg fa-twitter"></i></a>
                       <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-lg fa-linkedin"></i></a>
                       <a href="https://angel.co/dcunit3d"><i class="fa fa-lg fa-angellist"></i></a>
-                      <a href="https://livecoding.tv/dcunit3d"><i class="fa fa-lg fa-code"></i></a>
                     </li>
                 </ul>
             </div>
@@ -290,7 +288,7 @@ will be much better and much simpler in the end.  With a <code>ballSize</code> o
 forcing rasterization of only one pixel in vsParticleId &amp; fsParticleId
 shaders. This the motivation behind the following lines:</p>
 
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="nx">particle</span><span class="p">.</span><span class="nx">x</span> <span class="o">=</span> <span class="p">(</span><span class="nx">trunc</span><span class="p">(</span><span class="nx">particle</span><span class="p">.</span><span class="nx">x</span> <span class="o">*</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">x</span><span class="p">)</span> <span class="o">+</span> <span class="mf">0.5</span><span class="p">)</span> <span class="o">/</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">x</span><span class="p">;</span>
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span></span><span class="nx">particle</span><span class="p">.</span><span class="nx">x</span> <span class="o">=</span> <span class="p">(</span><span class="nx">trunc</span><span class="p">(</span><span class="nx">particle</span><span class="p">.</span><span class="nx">x</span> <span class="o">*</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">x</span><span class="p">)</span> <span class="o">+</span> <span class="mf">0.5</span><span class="p">)</span> <span class="o">/</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">x</span><span class="p">;</span>
 <span class="nx">particle</span><span class="p">.</span><span class="nx">y</span> <span class="o">=</span> <span class="p">(</span><span class="nx">trunc</span><span class="p">(</span><span class="nx">particle</span><span class="p">.</span><span class="nx">y</span> <span class="o">*</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">y</span><span class="p">)</span> <span class="o">+</span> <span class="mf">0.5</span><span class="p">)</span> <span class="o">/</span> <span class="nx">u_resolution</span><span class="p">.</span><span class="nx">y</span><span class="p">;</span></code></pre></figure>
 
 <p>Ensuring that each particle only resulting in one pixel draw is
@@ -299,10 +297,10 @@ minimize debugging math errors in runtime, so to check the output of
 the <code>fsParticleId</code> shaders, I debugged it with the following lines of
 code:</p>
 
-<figure class="highlight"><pre><code class="language-js" data-lang="js"><span class="c1">// after using readPixels() to copy pixels from the particleId framebuffer</span>
+<figure class="highlight"><pre><code class="language-js" data-lang="js"><span></span><span class="c1">// after using readPixels() to copy pixels from the particleId framebuffer</span>
 <span class="kd">var</span> <span class="nx">maxIntFloat</span> <span class="o">=</span> <span class="mi">2147483647</span><span class="p">;</span>
-<span class="kd">var</span> <span class="nx">renderedPixels</span> <span class="o">=</span> <span class="nx">texContainer</span><span class="p">.</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">a</span><span class="p">,</span><span class="nx">v</span><span class="p">,</span><span class="nx">i</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="k">if</span> <span class="p">(</span><span class="nx">v</span> <span class="o">!=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">v</span> <span class="o">!=</span> <span class="mi">2147483647</span><span class="p">)</span> <span class="p">{</span> <span class="nx">a</span><span class="p">.</span><span class="nx">push</span><span class="p">([</span><span class="nx">i</span><span class="p">,</span><span class="nx">v</span><span class="p">]);</span> <span class="p">}</span> <span class="k">return</span> <span class="nx">a</span><span class="p">},</span> <span class="p">[]);</span>
-<span class="kd">var</span> <span class="nx">particleIdCounts</span> <span class="o">=</span> <span class="nx">renderedPixels</span><span class="p">.</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">a</span><span class="p">,</span><span class="nx">v</span><span class="p">)</span> <span class="o">=&gt;</span> <span class="p">{</span> <span class="nx">a</span><span class="p">[</span><span class="nx">v</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="p">(</span><span class="nx">a</span><span class="p">[</span><span class="nx">v</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">||</span> <span class="mi">0</span><span class="p">)</span> <span class="o">+</span> <span class="mi">1</span> <span class="p">;</span> <span class="k">return</span> <span class="nx">a</span> <span class="p">},</span> <span class="p">{});</span></code></pre></figure>
+<span class="kd">var</span> <span class="nx">renderedPixels</span> <span class="o">=</span> <span class="nx">texContainer</span><span class="p">.</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">a</span><span class="p">,</span><span class="nx">v</span><span class="p">,</span><span class="nx">i</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span> <span class="k">if</span> <span class="p">(</span><span class="nx">v</span> <span class="o">!=</span> <span class="mi">0</span> <span class="o">&amp;&amp;</span> <span class="nx">v</span> <span class="o">!=</span> <span class="mi">2147483647</span><span class="p">)</span> <span class="p">{</span> <span class="nx">a</span><span class="p">.</span><span class="nx">push</span><span class="p">([</span><span class="nx">i</span><span class="p">,</span><span class="nx">v</span><span class="p">]);</span> <span class="p">}</span> <span class="k">return</span> <span class="nx">a</span><span class="p">},</span> <span class="p">[]);</span>
+<span class="kd">var</span> <span class="nx">particleIdCounts</span> <span class="o">=</span> <span class="nx">renderedPixels</span><span class="p">.</span><span class="nx">reduce</span><span class="p">((</span><span class="nx">a</span><span class="p">,</span><span class="nx">v</span><span class="p">)</span> <span class="p">=&gt;</span> <span class="p">{</span> <span class="nx">a</span><span class="p">[</span><span class="nx">v</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="p">(</span><span class="nx">a</span><span class="p">[</span><span class="nx">v</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">||</span> <span class="mi">0</span><span class="p">)</span> <span class="o">+</span> <span class="mi">1</span> <span class="p">;</span> <span class="k">return</span> <span class="nx">a</span> <span class="p">},</span> <span class="p">{});</span></code></pre></figure>
 
 <p>With this code, I was able to check that there were slightly less than
 1024 counts, where the sum in the hash <code>particleIdCounts</code> was exactly
@@ -575,7 +573,7 @@ void main() {
             <div class="row">
                 <div class="col-md-12">
                   <p class="text-muted">
-                    dconner.pro@gmail.com&nbsp; &copy; 2017
+                    dconner.pro@gmail.com&nbsp; &copy; 2019
                     &nbsp;<a href="/feed.xml"><i class="fa fa-rss-square"></i></a>
                     &nbsp;<a href="/atom.xml"><i class="fa fa-rss"></i></a>
                   </p>

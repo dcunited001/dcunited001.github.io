@@ -117,12 +117,10 @@
                     
                     <li class="navbar-social">
                       <a href="https://github.com/dcunited001"><i class="fa fa-lg fa-github"></i></a>
-                      <a href="https://twitch.tv/dcunit3d"><i class="fa fa-lg fa-twitch"></i></a>
                       <a href="https://youtube.com/dcunited001"><i class="fa fa-lg fa-youtube"></i></a>
                       <a href="https://twitter.com/dcunit3d"><i class="fa fa-lg fa-twitter"></i></a>
                       <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-lg fa-linkedin"></i></a>
                       <a href="https://angel.co/dcunit3d"><i class="fa fa-lg fa-angellist"></i></a>
-                      <a href="https://livecoding.tv/dcunit3d"><i class="fa fa-lg fa-code"></i></a>
                     </li>
                 </ul>
             </div>
@@ -403,7 +401,7 @@ can easily be encoded into binary and stored in 64-bit integers.
 Example Integers are below, encoded in base-2 and base-4, starting on
 the left-hand side.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">acgtacgt</span><span class="o">.</span><span class="n">as_string</span> <span class="o">=</span> <span class="s2">&quot;ACGTACGT&quot;</span>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span></span><span class="n">acgtacgt</span><span class="o">.</span><span class="n">as_string</span> <span class="o">=</span> <span class="s2">&quot;ACGTACGT&quot;</span>
 <span class="n">aaaacccc</span><span class="o">.</span><span class="n">as_string</span> <span class="o">=</span> <span class="s2">&quot;AAAACCCC&quot;</span>
 
 <span class="c1"># A = 00, C = 01, G = 10, T = 11</span>
@@ -421,7 +419,7 @@ base-4 numbers, things are a bit more complicated.  But Hamming
 Distance can still be reduced to a single operation – and a single
 FPGA instruction.</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="n">binary1</span> <span class="o">=</span> <span class="s2">&quot;00110011&quot;</span>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span></span><span class="n">binary1</span> <span class="o">=</span> <span class="s2">&quot;00110011&quot;</span>
 <span class="n">binary2</span> <span class="o">=</span> <span class="s2">&quot;01100011&quot;</span>
 <span class="n">difbits</span> <span class="o">=</span> <span class="s2">&quot;01010000&quot;</span>
 
@@ -454,7 +452,7 @@ nucleotides A &amp; B of less than 32, encoded as 64-bit integers:</p>
 
 <h4 id="x2605-nbsp-hammingdistab--countbitsh">★   HammingDist(A,B) = countBits(H)</h4>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">+------------------+----------+----------+</span>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span></span><span class="o">+------------------+----------+----------+</span>
 <span class="o">|</span> <span class="n">A</span> <span class="o">=</span> <span class="no">ACGTACGT</span>     <span class="o">|</span> <span class="mo">00011011</span> <span class="o">|</span> <span class="mo">00011011</span> <span class="o">|</span>
 <span class="o">|</span> <span class="n">B</span> <span class="o">=</span> <span class="no">AAAACCCC</span>     <span class="o">|</span> <span class="mo">00000000</span> <span class="o">|</span> <span class="mo">01010101</span> <span class="o">|</span>
 <span class="o">|</span> <span class="o">----------------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span> <span class="o">--------</span> <span class="o">|</span>
@@ -528,7 +526,7 @@ each member of the set.  Therefore, it’s GPU accelerable, assuming you
 have the original Base Neighborhood calculated.  This is a major
 advantage!</p>
 
-<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span class="o">+---------------------+------+-------------+</span>
+<figure class="highlight"><pre><code class="language-ruby" data-lang="ruby"><span></span><span class="o">+---------------------+------+-------------+</span>
 <span class="o">|</span> <span class="no">Base</span> <span class="no">Nucleotide</span>     <span class="o">|</span> <span class="no">AAAA</span> <span class="o">|</span> <span class="mo">00</span> <span class="mo">00</span> <span class="mo">00</span> <span class="mo">00</span> <span class="o">|</span>
 <span class="o">|</span> <span class="no">Target</span> <span class="no">Neighborhood</span> <span class="o">|</span> <span class="no">ACGT</span> <span class="o">|</span> <span class="mo">00</span> <span class="mo">01</span> <span class="mi">10</span> <span class="mi">11</span> <span class="o">|</span>
 <span class="o">|</span> <span class="no">Nucleotide</span>          <span class="o">|</span> <span class="no">AAGA</span> <span class="o">|</span> <span class="mo">00</span> <span class="mo">00</span> <span class="mi">10</span> <span class="mo">00</span> <span class="o">|</span>
@@ -650,7 +648,7 @@ can also be can be found in the readme for my
             <div class="row">
                 <div class="col-md-12">
                   <p class="text-muted">
-                    dconner.pro@gmail.com&nbsp; &copy; 2018
+                    dconner.pro@gmail.com&nbsp; &copy; 2019
                     &nbsp;<a href="/feed.xml"><i class="fa fa-rss-square"></i></a>
                     &nbsp;<a href="/atom.xml"><i class="fa fa-rss"></i></a>
                   </p>

@@ -16,13 +16,14 @@ var windowHalfX = window.innerWidth / 2;
 var windowHalfY = window.innerHeight / 2;
 
 // TODO: uniforms for rules
+// TODO: colors for "age"
 // TODO: rules for age?
 
 // For a space that is 'populated':
 // - Each cell with one or no neighbors dies, as if by solitude.
 // - Each cell with four or more neighbors dies, as if by overpopulation.
 // - Each cell with two or three neighbors survives.
-
+//
 // For a space that is 'empty' or 'unpopulated':
 // - Each cell with three neighbors becomes populated.
 
@@ -123,8 +124,6 @@ function createRenderer() {
   renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setClearColor(0xFFFFFF);
   renderer.setPixelRatio(window.devicePixelRatio);
-
-  //TODO: change to canvas size?
   renderer.setSize(window.innerWidth, (window.innerHeight/2));
 }
 
@@ -192,9 +191,8 @@ function render() {
   if (!paused || stepThrough) {
     gameColorUniforms = transformColorUniforms(uiColorUniforms);
     gameColorVariable.material.uniforms.colorMap.value = gameColorUniforms;
-    gpuCompute.compute();
-
     cubeMaterial.map = gpuCompute.getCurrentRenderTarget(gameColorVariable).texture;
+    gpuCompute.compute();
     cubeMaterial.needsUpdate = true;
 
     if (stepThrough) { stepThrough = false; }
@@ -209,7 +207,6 @@ createGPUCompute();
 createCube();
 configureCanvas();
 animate();
-// initializeStartingSetTextures();
 
 function onClickColorProfile(profileName) {
   applyColorProfile(profileName);

@@ -3,7 +3,18 @@
 > `texel` - A texel, texture element, or texture pixel is the fundamental
 > unit of texture space.
 
-drafts are on my bitbucket.
+All drafts are on my bitbucket. This repository is my nachlass and
+every update can be analyzed. Feel free to clone it, fork it,
+distribute it or simply try to burn it. Neitzsche's best works were
+posthumous, after all. If the government tries to kill me or frame me
+(and they've tried both), anticipating more of the same is why my
+content is always pre-published on Github. All of these are attempts
+to unveil the truth and distribute it as widely as possible. This all
+resonates with my own philosophy, which reinforces my works'
+aesthetic. There is an MIT license for these reasons. Obviously, I'm
+not permitted to accomplish anything in America, so I've just made
+everything free as in beer. All information will become omnipresent
+anyways; I'm simply living and working as though it already is.
 
 # Bootstrap 3 Starter Theme for Jekyll
 
@@ -21,7 +32,6 @@ drafts are on my bitbucket.
 Jekyll is a simple and blog-aware static site generator built in Ruby. In laymen terms, it's just a tool to let you have **all the cool features of a full-blown CMS without having to worry about managing a database**. This means hosting is *extremely easy* and *scalable* since all you're doing is managing a bunch of files.
 
 This is just a starter theme!
-
 
 ## Getting Started
 
@@ -63,9 +73,3 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-
-
-
-
-

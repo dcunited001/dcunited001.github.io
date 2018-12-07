@@ -117,12 +117,10 @@
                     
                     <li class="navbar-social">
                       <a href="https://github.com/dcunited001"><i class="fa fa-lg fa-github"></i></a>
-                      <a href="https://twitch.tv/dcunit3d"><i class="fa fa-lg fa-twitch"></i></a>
                       <a href="https://youtube.com/dcunited001"><i class="fa fa-lg fa-youtube"></i></a>
                       <a href="https://twitter.com/dcunit3d"><i class="fa fa-lg fa-twitter"></i></a>
                       <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-lg fa-linkedin"></i></a>
                       <a href="https://angel.co/dcunit3d"><i class="fa fa-lg fa-angellist"></i></a>
-                      <a href="https://livecoding.tv/dcunit3d"><i class="fa fa-lg fa-code"></i></a>
                     </li>
                 </ul>
             </div>
@@ -173,7 +171,207 @@
     <section class="article-content">
       <div class="row">
         <div class="col-md-10 col-md-offset-1">
-          <p>Ars Technica recently posted an article on
+          <h1 id="updates-from-2018---spectral-relativity">Updates from 2018 - “Spectral Relativity”</h1>
+
+<h1 id="polymathicperfraction-spectral-relativity-and-the-manybodyproblem">PolymathicPerfraction: Spectral Relativity and the #ManyBodyProblem</h1>
+
+<h2 id="simulated-particles-systems-have-three-challenges">Simulated particles systems have three challenges:</h2>
+
+<h3 id="continuity-problems-requires-the-hamiltonian--conservation-of-energy">1) Continuity problems: requires the Hamiltonian &amp; Conservation of Energy</h3>
+
+<ul>
+  <li>high magnitude force calculations (force splatting)
+    <ul>
+      <li>infinitessimal-to-zero values resulting in discontinuities in the gradient calculation
+        <ul>
+          <li>non-smooth values used for force calculation</li>
+          <li>performance trade-offs</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="boundary-problems">2) Boundary Problems:</h3>
+
+<ul>
+  <li>the specific solution you choose impacts the conservation of energy for hamiltonian
+    <ul>
+      <li>“fixing” this violation of the hamiltonian is the primary challenge with boundary problems</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="distribution-of-masscharge">3) Distribution of mass/charge</h3>
+
+<ul>
+  <li>particle systems aren’t point-like
+    <ul>
+      <li>addressing electrical configurations of ionic/covalent bonding is difficult</li>
+      <li>this results in local relativistic effects for some elements (mercury)</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="special-relativity">4) Special Relativity</h3>
+
+<ul>
+  <li>Brute force approaches to relativity
+    <ul>
+      <li>challenges with discrete computations of a continuous system,
+        <ul>
+          <li>where relativistic effects occur over a large scale of distance</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>Interesting to explore: do the relativistic effects found in mercury
+electrons impact interactions b/w some electrons in large, highly
+regular crystals?</li>
+</ul>
+
+<h2 id="general-means-of-disaggregatingdeconstructing-behavior-of-physical-systems">general means of disaggregating/deconstructing behavior of physical systems:</h2>
+
+<h3 id="hamiltonian">1) Hamiltonian:</h3>
+
+<ul>
+  <li>particle position/momentum</li>
+  <li>energy equilibrium</li>
+</ul>
+
+<h3 id="subgroupings-of-components-of-the-hamiltonian">2) Subgroupings of components (of the hamiltonian)</h3>
+
+<h3 id="application-of-spectral-analysis-to-hamiltonian-components">3) Application of Spectral analysis to hamiltonian components</h3>
+
+<ul>
+  <li>FFT(dp/dt)</li>
+  <li>FFT(dq/dt)</li>
+  <li>FFT(d(.)) == d(FFT(.))</li>
+</ul>
+
+<h3 id="inference-of-the-structure-of-interdepenency-of-variance-from-expected-outcome">4) inference of the structure of interdepenency of variance from expected outcome</h3>
+
+<ul>
+  <li>hamiltonian components as distributions (with max/min, moments, variance)
+    <ul>
+      <li>more useful with momentum</li>
+      <li>spatial distribution of entropy and kinematics of entropy changes over time</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="stochastic-calculus">5) Stochastic Calculus</h3>
+
+<ul>
+  <li>analyzing possible short-term trajectories of particles (and phase space
+    <ul>
+      <li>short-term trajectories a la “instantaneous impact” from Lie Algebra</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="kinematics">6) Kinematics</h3>
+
+<h3 id="special-relativistic-inferences">7) Special-relativistic inferences</h3>
+
+<ul>
+  <li>examine impact of relativistic parameters on deformation of phase space
+    <ul>
+      <li>again, “instantaneous impact” from Lie Algebra</li>
+      <li>when crossing relativistic inferences with the spectral decomposition of hamiltonian,
+more information should be produced</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="mechanics-of-continuity">8) mechanics of continuity</h3>
+
+<ul>
+  <li>all of the above must be connected, yet all preserve energy equilibrium
+  then the system must have ideal paths in phase space (at least in classical mechanics)
+    <ul>
+      <li>measures of phase space path deviation (in aggregate) must be connected
+        <ul>
+          <li>for analyzed observations or simulated systems</li>
+          <li>this has to be reconciled with the classical Hamiltonian…</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="concept-of-linear-hull--hamel-basis">9) Concept of Linear Hull (&amp; Hamel Basis?)</h3>
+
+<ul>
+  <li>(this is incorrect, i’m talking about something else)</li>
+  <li>as applied to the Solution Space of Phase Space
+    <ul>
+      <li>examine the phase space curves and connections between curves
+ for all configurations of the system
+        <ul>
+          <li>how and why do these phase space curves follow along common paths,
+while being “chaotic”?
+            <ul>
+              <li>i.e. any point along a curve represents a potential starting configuration of the system
+for which the phase space curve will be a subset</li>
+            </ul>
+          </li>
+          <li>then, for all points in phase space, which points are connected as curves?
+            <ul>
+              <li>are all these phase space curves disjoint?</li>
+              <li>if they are disjoint, how do rational &amp; algebraic numbers transform into values along the curves?</li>
+              <li>the systems are differential &amp; thus the rationality/algebraicity of values along paths in phase space
+ feed in and out of each other (this definitely connects to Lie Algebra and E8)</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>and other number theory concepts as applied</li>
+      <li>differential operator and linear hull…</li>
+      <li>quotient spaces &amp; number theory (does this lead to E8)</li>
+    </ul>
+  </li>
+</ul>
+
+<p>In which, I convolute ideas with those I’ve recently acquired from #ExteriorAlgebra with:</p>
+
+<ul>
+  <li>
+    <h1 id="hamiltonian-conservation-of-energy-and-phase-space">Hamiltonian, conservation of energy and phase space</h1>
+  </li>
+  <li>
+    <p>spectral components of position/momentum in #DoublePendulums</p>
+  </li>
+  <li>conserve/reconstruct continuity
+    <ul>
+      <li>gradient descent applied towards observed #Divergence from
+ expected paths through phase space</li>
+    </ul>
+  </li>
+  <li>
+    <p>Why spatial invariance of physical laws and composition of aggregate quantities
+like #Entropy necessitates interesting extrapolations</p>
+  </li>
+  <li>
+    <p>Detection of local/global #Convexity &amp; #Concavity on combinatorial multivariate
+surfaces in high-dimensional cost functions and how this applies to efficient feature
+prioritization in #MachineLearning algorithms</p>
+  </li>
+  <li>
+    <h1 id="differentialforms-as-applied-to-the-anticipation--detection-of-expectedactual-dissonance">DifferentialForms, as applied to the anticipation &amp; detection of expected/actual dissonance</h1>
+    <p>from true conservation of energy.</p>
+  </li>
+  <li>The #FreeAlgebra, as applied to the differential operator, to create a direct summation
+of tensor products, where #Algebraicity, connected quotient spaces, and #Continuity
+are preserved. This constructs something <em>similar</em> to a #Manifold, mapping low dimensional
+spaces to higher dimensional surfaces of the differential operator or 1-forms, 2-forms, etc.</li>
+</ul>
+
+<h2 id="other-new-ideas">Other new ideas.</h2>
+
+<h2 id="content-from-2016">Content from 2016</h2>
+
+<p>Ars Technica recently posted an article on
 <a href="http://arstechnica.com/science/2016/02/spotting-dark-matter-by-the-way-it-moves/">an exciting new development in dark matter</a>
 and this piqued my interest on the subject. Another article I just saw
 on
@@ -644,7 +842,7 @@ the structure of space.</p>
             <div class="row">
                 <div class="col-md-12">
                   <p class="text-muted">
-                    dconner.pro@gmail.com&nbsp; &copy; 2018
+                    dconner.pro@gmail.com&nbsp; &copy; 2019
                     &nbsp;<a href="/feed.xml"><i class="fa fa-rss-square"></i></a>
                     &nbsp;<a href="/atom.xml"><i class="fa fa-rss"></i></a>
                   </p>

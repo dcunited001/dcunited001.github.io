@@ -11,6 +11,15 @@
 // - i don't quite understand it in detail, but it seems like there would be several components
 //   useful to carry over to Subglyph
 
+
+// TODO: add options to interspace/decorate ascii chars with IPA unicode for:
+// - diacritics
+// - suprasegmentals
+// - tones & word accents
+// TODO: add option to compose ascii chars entirely from the above
+// - (pretty sure this is some dotcom boom script kiddie ish from the
+//   OG browser implementation days)
+
 Subglyph = function(options) {
   this.dictionary = options && options['dictionary'] || {};
 

@@ -117,12 +117,10 @@
                     
                     <li class="navbar-social">
                       <a href="https://github.com/dcunited001"><i class="fa fa-lg fa-github"></i></a>
-                      <a href="https://twitch.tv/dcunit3d"><i class="fa fa-lg fa-twitch"></i></a>
                       <a href="https://youtube.com/dcunited001"><i class="fa fa-lg fa-youtube"></i></a>
                       <a href="https://twitter.com/dcunit3d"><i class="fa fa-lg fa-twitter"></i></a>
                       <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-lg fa-linkedin"></i></a>
                       <a href="https://angel.co/dcunit3d"><i class="fa fa-lg fa-angellist"></i></a>
-                      <a href="https://livecoding.tv/dcunit3d"><i class="fa fa-lg fa-code"></i></a>
                     </li>
                 </ul>
             </div>
@@ -555,36 +553,36 @@ functional answer to this problem.</p>
 
 <h4 id="the-spectrainjected-tuple">The SpectraInjected Tuple</h4>
 
-<figure class="highlight"><pre><code class="language-swift" data-lang="swift"><span class="c1">// pass in a map of containers,</span>
+<figure class="highlight"><pre><code class="language-swift" data-lang="swift"><span></span><span class="c1">// pass in a map of containers,</span>
 <span class="c1">// - along with metadata to retrieve objects from them when necessary</span>
-<span class="n">public</span> <span class="k">typealias</span> <span class="n">SpectraInjected</span> <span class="o">=</span> <span class="p">(</span><span class="nl">inj</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span> <span class="nl">options</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Any</span><span class="p">])</span></code></pre></figure>
+<span class="kd">public</span> <span class="kd">typealias</span> <span class="n">SpectraInjected</span> <span class="p">=</span> <span class="p">(</span><span class="n">inj</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span> <span class="n">options</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="nb">Any</span><span class="p">])</span></code></pre></figure>
 
 <h4 id="the-metalnodeinjector-closure">The MetalNodeInjector Closure</h4>
 
-<figure class="highlight"><pre><code class="language-swift" data-lang="swift"><span class="c1">// A Closure to optionally inject</span>
+<figure class="highlight"><pre><code class="language-swift" data-lang="swift"><span></span><span class="c1">// A Closure to optionally inject</span>
 <span class="c1">// - to enable some flexibility when generating a tree of nodes</span>
-<span class="n">public</span> <span class="k">typealias</span> <span class="n">MetalNodeInjector</span> <span class="o">=</span> <span class="p">(</span><span class="nl">inj</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span> <span class="nl">options</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Any</span><span class="p">])</span> <span class="o">-</span>
-<span class="p">(</span><span class="nl">inj</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span> <span class="nl">options</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Any</span><span class="p">])</span></code></pre></figure>
+<span class="kd">public</span> <span class="kd">typealias</span> <span class="n">MetalNodeInjector</span> <span class="p">=</span> <span class="p">(</span><span class="n">inj</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span> <span class="n">options</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="nb">Any</span><span class="p">])</span> <span class="o">-</span>
+<span class="p">(</span><span class="n">inj</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span> <span class="n">options</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="nb">Any</span><span class="p">])</span></code></pre></figure>
 
 <h4 id="the-metalnode-protocol">The MetalNode Protocol</h4>
 
-<figure class="highlight"><pre><code class="language-swift" data-lang="swift"><span class="c1">// Note: the typical java method of parsing XML nodes</span>
+<figure class="highlight"><pre><code class="language-swift" data-lang="swift"><span></span><span class="c1">// Note: the typical java method of parsing XML nodes</span>
 <span class="c1">// - with simple generics may have been superior</span>
 
-<span class="n">public</span> <span class="k">protocol</span> <span class="n">MetalNode</span> <span class="p">{</span>
+<span class="kd">public</span> <span class="kd">protocol</span> <span class="nc">MetalNode</span> <span class="p">{</span>
 <span class="n">associatedtype</span> <span class="n">NodeType</span>
 <span class="n">associatedtype</span> <span class="n">MTLType</span>
 
-<span class="k">var</span> <span class="kt">id</span><span class="o">:</span> <span class="n">String</span><span class="o">?</span> <span class="p">{</span> <span class="kr">get</span> <span class="kr">set</span> <span class="p">}</span>
-<span class="k">init</span><span class="p">()</span> <span class="c1">// adding this blank initializer allows me to work with Self() in RenderPassAttachmentDescriptorNode extension</span>
-<span class="k">init</span><span class="p">(</span><span class="nl">nodes</span><span class="p">:</span> <span class="n">Container</span><span class="p">,</span> <span class="nl">elem</span><span class="p">:</span> <span class="n">XMLElement</span><span class="p">)</span>
-<span class="k">func</span> <span class="n">parseXML</span><span class="p">(</span><span class="nl">nodes</span><span class="p">:</span> <span class="n">Container</span><span class="p">,</span> <span class="nl">elem</span><span class="p">:</span> <span class="n">XMLElement</span><span class="p">)</span>
-<span class="k">func</span> <span class="n">generate</span><span class="p">(</span><span class="nl">inj</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span>
-                   <span class="nl">options</span><span class="p">:</span> <span class="p">[</span><span class="nl">String</span><span class="p">:</span> <span class="n">Any</span><span class="p">],</span>
-                   <span class="nl">injector</span><span class="p">:</span> <span class="n">MetalNodeInjector</span><span class="o">?</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">MTLType</span>
-<span class="k">func</span> <span class="k">register</span><span class="p">(</span><span class="nl">nodes</span><span class="p">:</span> <span class="n">Container</span><span class="p">,</span> <span class="nl">objectScope</span><span class="p">:</span> <span class="n">ObjectScope</span><span class="p">)</span>
+<span class="kd">var</span> <span class="nv">id</span><span class="p">:</span> <span class="nb">String</span><span class="p">?</span> <span class="p">{</span> <span class="kr">get</span> <span class="kr">set</span> <span class="p">}</span>
+<span class="kd">init</span><span class="p">()</span> <span class="c1">// adding this blank initializer allows me to work with Self() in RenderPassAttachmentDescriptorNode extension</span>
+<span class="kd">init</span><span class="p">(</span><span class="n">nodes</span><span class="p">:</span> <span class="n">Container</span><span class="p">,</span> <span class="n">elem</span><span class="p">:</span> <span class="n">XMLElement</span><span class="p">)</span>
+<span class="kd">func</span> <span class="nf">parseXML</span><span class="p">(</span><span class="n">nodes</span><span class="p">:</span> <span class="n">Container</span><span class="p">,</span> <span class="n">elem</span><span class="p">:</span> <span class="n">XMLElement</span><span class="p">)</span>
+<span class="kd">func</span> <span class="nf">generate</span><span class="p">(</span><span class="n">inj</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="n">Container</span><span class="p">],</span>
+                   <span class="n">options</span><span class="p">:</span> <span class="p">[</span><span class="nb">String</span><span class="p">:</span> <span class="nb">Any</span><span class="p">],</span>
+                   <span class="n">injector</span><span class="p">:</span> <span class="n">MetalNodeInjector</span><span class="p">?)</span> <span class="p">-&gt;</span> <span class="n">MTLType</span>
+<span class="kd">func</span> <span class="nf">register</span><span class="p">(</span><span class="n">nodes</span><span class="p">:</span> <span class="n">Container</span><span class="p">,</span> <span class="n">objectScope</span><span class="p">:</span> <span class="n">ObjectScope</span><span class="p">)</span>
 <span class="c1">// copy is required for ensuring immutability when retrieving nodes from D/I containers</span>
-<span class="k">func</span> <span class="k">copy</span><span class="p">()</span> <span class="o">-&gt;</span> <span class="n">NodeType</span>
+<span class="kd">func</span> <span class="nf">copy</span><span class="p">()</span> <span class="p">-&gt;</span> <span class="n">NodeType</span>
 <span class="p">}</span></code></pre></figure>
 
 <p>So, basically what I was trying to provide with this interface was a
@@ -751,7 +749,7 @@ available in the Elm Programming Language.</p>
             <div class="row">
                 <div class="col-md-12">
                   <p class="text-muted">
-                    dconner.pro@gmail.com&nbsp; &copy; 2018
+                    dconner.pro@gmail.com&nbsp; &copy; 2019
                     &nbsp;<a href="/feed.xml"><i class="fa fa-rss-square"></i></a>
                     &nbsp;<a href="/atom.xml"><i class="fa fa-rss"></i></a>
                   </p>

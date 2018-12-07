@@ -117,12 +117,10 @@
                     
                     <li class="navbar-social">
                       <a href="https://github.com/dcunited001"><i class="fa fa-lg fa-github"></i></a>
-                      <a href="https://twitch.tv/dcunit3d"><i class="fa fa-lg fa-twitch"></i></a>
                       <a href="https://youtube.com/dcunited001"><i class="fa fa-lg fa-youtube"></i></a>
                       <a href="https://twitter.com/dcunit3d"><i class="fa fa-lg fa-twitter"></i></a>
                       <a href="https://linkedin.com/in/dcunit3d"><i class="fa fa-lg fa-linkedin"></i></a>
                       <a href="https://angel.co/dcunit3d"><i class="fa fa-lg fa-angellist"></i></a>
-                      <a href="https://livecoding.tv/dcunit3d"><i class="fa fa-lg fa-code"></i></a>
                     </li>
                 </ul>
             </div>
@@ -185,35 +183,35 @@ as they weren’t documented on the wiki page.  So, I reinstalled without them.<
 but it may be a bit out of date.  I’m not very familiar with the Python ecosystem, but <code>brew install python</code> 
 seems to install <code>pip</code> and <code>easy_install</code> as well now.  All I needed to do was run the following commands:</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash">brew install readline sqlite gdbm
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>brew install readline sqlite gdbm
 brew install python --universal --framework</code></pre></figure>
 
 <p>And I verified with this:</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash">python --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which python<span class="sb">`</span>
-<span class="c"># Python 2.7.6 </span>
-<span class="c"># /usr/local/bin/python -&gt; ../Cellar/python/2.7.6_1/bin/python</span>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>python --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which python<span class="sb">`</span>
+<span class="c1"># Python 2.7.6 </span>
+<span class="c1"># /usr/local/bin/python -&gt; ../Cellar/python/2.7.6_1/bin/python</span>
 
 pip --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which pip<span class="sb">`</span> 
-<span class="c"># pip 1.5.5 </span>
-<span class="c"># /usr/local/bin/pip -&gt; ../Cellar/python/2.7.6_1/bin/pip</span>
+<span class="c1"># pip 1.5.5 </span>
+<span class="c1"># /usr/local/bin/pip -&gt; ../Cellar/python/2.7.6_1/bin/pip</span>
 
 easy_install --version <span class="o">&amp;&amp;</span> la <span class="sb">`</span>which easy_install<span class="sb">`</span> 
-<span class="c"># setuptools 3.6 </span>
-<span class="c"># /usr/local/bin/easy_install -&gt; ../Cellar/python/2.7.6_1/bin/easy_install </span></code></pre></figure>
+<span class="c1"># setuptools 3.6 </span>
+<span class="c1"># /usr/local/bin/easy_install -&gt; ../Cellar/python/2.7.6_1/bin/easy_install </span></code></pre></figure>
 
 <p>Then, I configured my environment for <code>virtualenv</code>, by adding the following to my <code>.bashrc</code>.  Some of these
 values will differ for you.</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span class="nv">PATH</span><span class="o">=</span><span class="k">${</span><span class="nv">PATH</span><span class="k">}</span>:/usr/local/share/python
-<span class="nb">export </span><span class="nv">SITE_PACKAGES</span><span class="o">=</span>/usr/local/lib/python2.7/site-packages
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span><span class="nv">PATH</span><span class="o">=</span><span class="si">${</span><span class="nv">PATH</span><span class="si">}</span>:/usr/local/share/python
+<span class="nb">export</span> <span class="nv">SITE_PACKAGES</span><span class="o">=</span>/usr/local/lib/python2.7/site-packages
 
-<span class="c"># setup virtualenv</span>
-<span class="nb">export </span><span class="nv">WORKON_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/.virtualenvs
-<span class="nb">export </span><span class="nv">VIRTUALENVWRAPPER_PYTHON</span><span class="o">=</span>/usr/local/bin/python2.7
-<span class="nb">export </span><span class="nv">VIRTUALENVWRAPPER_VIRTUALENV_ARGS</span><span class="o">=</span><span class="s1">&#39;--no-site-packages&#39;</span>
-<span class="nb">export </span><span class="nv">PIP_VIRTUALENV_BASE</span><span class="o">=</span><span class="nv">$WORKON_HOME</span>
-<span class="nb">export </span><span class="nv">PIP_RESPECT_VIRTUALENV</span><span class="o">=</span><span class="nb">true</span>
+<span class="c1"># setup virtualenv</span>
+<span class="nb">export</span> <span class="nv">WORKON_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/.virtualenvs
+<span class="nb">export</span> <span class="nv">VIRTUALENVWRAPPER_PYTHON</span><span class="o">=</span>/usr/local/bin/python2.7
+<span class="nb">export</span> <span class="nv">VIRTUALENVWRAPPER_VIRTUALENV_ARGS</span><span class="o">=</span><span class="s1">&#39;--no-site-packages&#39;</span>
+<span class="nb">export</span> <span class="nv">PIP_VIRTUALENV_BASE</span><span class="o">=</span><span class="nv">$WORKON_HOME</span>
+<span class="nb">export</span> <span class="nv">PIP_RESPECT_VIRTUALENV</span><span class="o">=</span><span class="nb">true</span>
 <span class="k">if</span> <span class="o">[[</span> -r /usr/local/bin/virtualenvwrapper.sh <span class="o">]]</span><span class="p">;</span> <span class="k">then</span>
     <span class="nb">source</span> /usr/local/bin/virtualenvwrapper.sh
 <span class="k">else</span>
@@ -222,12 +220,12 @@ values will differ for you.</p>
 
 <p>Then, I installed <code>virtualenv</code> and <code>virtualenvwrapper</code> and tested:</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash">pip install virtualenv
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>pip install virtualenv
 pip install virtualenvwrapper</code></pre></figure>
 
 <p>And I verified with this:</p>
 
-<figure class="highlight"><pre><code class="language-bash" data-lang="bash">mkvirtualenv <span class="nb">test</span>
+<figure class="highlight"><pre><code class="language-bash" data-lang="bash"><span></span>mkvirtualenv <span class="nb">test</span>
 rmvirtualenv <span class="nb">test</span></code></pre></figure>
 
 <p><code>virtualenv</code> hit a few snags when running its callback scripts, but my zsh setup shows the name
@@ -308,7 +306,7 @@ for vim/macvim, fish, and zsh.  His blog includes tons of screenshots.  Great re
             <div class="row">
                 <div class="col-md-12">
                   <p class="text-muted">
-                    dconner.pro@gmail.com&nbsp; &copy; 2018
+                    dconner.pro@gmail.com&nbsp; &copy; 2019
                     &nbsp;<a href="/feed.xml"><i class="fa fa-rss-square"></i></a>
                     &nbsp;<a href="/atom.xml"><i class="fa fa-rss"></i></a>
                   </p>
