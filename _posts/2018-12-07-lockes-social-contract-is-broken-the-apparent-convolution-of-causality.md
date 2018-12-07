@@ -1,18 +1,21 @@
 ---
-title: ": The Social Contract, Revisited"
+title: "Locke's Social Contract Is Broken: The Apparent Convolution of Causality"
+headline: "A Raincheck On My Social Contract?"
+tags: "philosophy"
+author:
+  name: "David Conner"
+excerpt: "
+We're a democracy, so the people can vote for whatever leaders they
+want, who will give them whatever government-funded programs they
+want. It's America, so the people decide what they want the government
+to do, but that doesn't mean the people will be spared the economic
+consequences of their votes. In a republic, the people’s leaders
+decide the course of policy, though according to public opinion, the
+US Government seems to dissatisfy the people in most measures …
+perhaps its a tough crowd. What would change people’s minds, with
+regard to Congress, the Executive Branch, and the institutions enacted
+under the authority of both?"
 ---
-
-
-
-
-![](/img/posts/2018-12-07-/)
-
-
-![](/img/posts/2018-12-07-/)
-
-
-![](/img/posts/2018-12-07-/)
-
 
 ## [Why Is America's Republic Faltering?](#why-is-americas-republic-faltering)
 
@@ -24,12 +27,19 @@ title: ": The Social Contract, Revisited"
 
 #### [And Whose Leviathan Do I See In The Window?](#and-whose-leviathan-do-i-see-in-the-window)
 
-#### [These Tyrants Are Closer Than You Think....]()
+#### [These Tyrants Are Closer Than You Think....](#those-tyrants-are-closer-than-you-think)
 
+#### [Socioinformational Whipsaws](#socioinformational-whipsaws)
 
+#### [How 'Bout That AI?](#how-bout-that-ai)
 
+#### [How 'Bout a Tall, Warm Glass Of Nihilism?](#how-bout-a-tall-warm-glass-of-nihilism)
 
+#### [Locke On Causality](#locke-on-causality)
 
+#### [Causality is a Diffusion Process](#causality-is-a-diffusion-process)
+
+#### [Stop Nursing That Glass of Nihilism And Do Something](#stop-nursing-that-glass-of-nihilism)
 
 
 <a name="why-is-americas-republic-faltering" />
@@ -38,7 +48,7 @@ title: ": The Social Contract, Revisited"
 
 #### The Continental Philosopher's Perspective on Hegel
 
-![Philosophers On Hegel](/img/posts/2018-12-07-/philosophers-on-hegel.jpg)
+![Philosophers On Hegel](/img/posts/2018-12-07-the-convolution-of-causality/philosophers-on-hegel.jpg)
 
 <a name="is-it-constitutional-institutional-or-just-the-russians" />
 
@@ -46,7 +56,7 @@ title: ": The Social Contract, Revisited"
 
 Often when considering liberty and independence, the notion arises
 that, along with the freedom to choose comes ownership over
-consequences of your financial or social actions. herein, if
+consequences of your financial or social actions. Herein, if
 consequences of individual action are the microcosm, then consider the
 macrocosm as a parallel notion, where it is America’s collective
 responsibility to be informed citizens, who though acting freely, must
@@ -54,7 +64,7 @@ endure the consequences of their actions.
 
 #### What seems to be the problem, doc?
 
-![Twilight Zone: Eye of the Beholder](/img/posts/2018-12-07-/eye-of-the-beholder-1.jpg)
+![Twilight Zone: Eye of the Beholder](/img/posts/2018-12-07-the-convolution-of-causality/eye-of-the-beholder-1.jpg)
 
 <a name="what-else-hasnt-been-said-about-locke" />
 
@@ -62,12 +72,12 @@ endure the consequences of their actions.
 
 We're a democracy, so the people can vote for whatever leaders they
 want, who will give them whatever government-funded programs they
-want. it's America, so the people decide what they want the government
+want. It's America, so the people decide what they want the government
 to do, but that doesn't mean the people will be spared the economic
-consequences of their votes. in a republic, the people’s leaders
+consequences of their votes. In a republic, the people’s leaders
 decide the course of policy, though according to public opinion, the
 US Government seems to dissatisfy the people in most measures …
-perhaps its a tough crowd. what would change people’s minds, with
+perhaps its a tough crowd. What would change people’s minds, with
 regard to Congress, the Executive Branch, and the institutions enacted
 under the authority of both?
 
@@ -111,11 +121,11 @@ Kings, Roman demagogues or thirty conquering Spartans ...
 
 #### Leviathan ... HUNGRY!
 
-![Leviathan Hungry](/img/posts/2018-12-07-/leviathan.jpg)
+![Leviathan Hungry](/img/posts/2018-12-07-the-convolution-of-causality/leviathan.jpg)
 
 <a name="these-tyrants-are-closer-than-you-think" />
 
-### [These Tyrants Are Closer Than You Think....]()
+### [These Tyrants Are Closer Than You Think....](#these-tyrants-are-closer-than-you-think)
 
 While most politically engaged people would be quick to name their
 imagined usurpers, most of us have idea who these “tyrants” are, but
@@ -134,11 +144,14 @@ engagement to build support, to identify issues whose winds are
 changing. corporations have similar interests and similar signals to
 act on.
 
+![Twilight Zone: Eye of the Beholder](/img/posts/2018-12-07-the-convolution-of-causality/eye-of-the-beholder-2.jpg)
+
+
 <a name="socioinformational-whipsaws" />
 
 ### [Socioinformational Whipsaws](#socioinformational-whipsaws)
 
-when these signals arrive almost as quickly as their portended trends
+When these signals arrive almost as quickly as their portended trends
 change, circumstances emerge which are similar to the a financial
 “whipsaw” named because of unprecedented reversals in dynamics of
 price/etc. When this happens in sociophysical systems, especially
@@ -147,12 +160,12 @@ they’re even more perplexing than their financial counterpart. even if
 we have the data and tools to analyze such "whipsaw" events in social
 systems, then we can only attempt to do so in retrospect.
 
+For more information on "Whipsaw" events in finance, see this article
+on [Investopedia](https://www.investopedia.com/terms/w/whipsaw.asp)
 
-![Picture to Explain Whipsaws]()
+<a name="how-bout-that-ai" />
 
-whipsaw events in finance: https://www.investopedia.com/terms/w/whipsaw.asp
-
-### How 'Bout That AI?
+### [How 'Bout That AI?](#how-bout-that-ai)
 
 in our newly hyperconnected society, if a republic can't function in
 the midst of crescendoing dysregulation of societies normative
@@ -173,7 +186,9 @@ complexity of causality in the digital age, we still fall short of
 understanding the structure of interactions between such entities,
 which is far more complex.
 
-### How 'Bout a Tall, Warm Glass Of Nihilism?
+<a name="how-bout-a-tall-warm-glass-of-nihilism" />
+
+### [How 'Bout a Tall, Warm Glass Of Nihilism?](#how-bout-a-tall-warm-glass-of-nihilism)
 
 This all adds further layers of complexity: if humanity is encumbered
 by accelerating ablation of our perception of causality, then how are
@@ -197,7 +212,9 @@ as they relate to perceived social consequence, so any positive or
 negative reinforcement of values are baseless and disproportionate at
 best.
 
-### Locke On Causality
+<a name="locke-on-causality" />
+
+### [Locke On Causality](#locke-on-causality)
 
 Circling back to the notions of liberty and independence, as they
 relate to the individual and to society collectively: if an individual
@@ -218,18 +235,42 @@ social groups becomes increasingly detached from one another and from
 the whole, as without virtues there's no shared sense of values or
 commonly valued behavior-types.
 
-### Stop Nursing That Tall Glass of Nihilism And Do Something
+<a name="causality-is-a-diffusion-process" />
+
+### [Causality is a Diffusion Process](#causality-is-a-diffusion-process)
+
+In the analytic language of social physics, causality is a [diffusion
+process](https://en.wikipedia.org/wiki/Diffusion_process). The problem
+is that humanity's practical apprehension of causality is
+... untenable, at best. More is to come of this, as I Ching breaks and
+reshapes my mind.
+
+#### From the mind of a child to himself:
+
+> "Ideally, what am I supposed to be?
+
+![Ohhhhhhh](/img/posts/2018-12-07-the-convolution-of-causality/ohh.jpg)
+
+... now that convolution of causality has thus rendered intractible
+the evaluation and acquisition of values. Who can pose such questions
+to himself? A five-year-old? What is this sociophysical diffusion
+process?
+
+<a name="stop-nursing-that-glass-of-nihilism" />
+
+### [Stop Nursing That Glass of Nihilism And Do Something](#stop-nursing-that-glass-of-nihilism)
+
+#### Nihilism isn't exactly warm cocoa...
 
 When it's already impossible to cooperatively communicate about
 politics, how can we address the problem's that social hyperconnection
 causes for a Republic? Further, when the next generation may not be
 assumed to have an implicit, albeit perhaps subconscious, appreciation
-for congruence of the human condition. Will it be possible to make
-them care?
-
+for congruence of the human condition. As for this generation or the
+next, will it be possible to make them care?
 
 #### Hegel Wins
 
 > Preparing to download forms from the plane of the ineffable mysteries...
 
-![Hegel Wins]()
+![Hegel Wins](/img/posts/2018-12-07-the-convolution-of-causality/your-morning-on-hegel.jpg)
