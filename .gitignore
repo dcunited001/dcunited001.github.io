@@ -3,6 +3,8 @@ _site
 .jekyll-metadata
 _drafts/_new-ideas.md
 _apps/node_modules
-_apps/test/test-results.html
+_apps/spec/test-results.html
 _apps/vendor/bower
 
+_apps_ng/node_modules
+#_apps_ng/spec/test-results.html
