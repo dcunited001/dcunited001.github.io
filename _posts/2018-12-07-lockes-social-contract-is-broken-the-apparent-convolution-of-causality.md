@@ -86,19 +86,19 @@ under the authority of both?
 ### [Does Our Republic Work Today?](#does-our-republic-work-today)
 
 No. If the federal government can’t follow its own laws, procedures
-and constitutional obligations, how can we expect it to work? our
+and constitutional obligations, how can we expect it to work? Our
 government was designed to be resilient to subversion and
-corrosion. the founders were well aware of Greek and Roman success and
+corrosion. The founders were well aware of Greek and Roman success and
 failures with democracy and all to familiar with the failure of a
 government thousands of miles away who couldn’t be bothered to listen
-to the people. it used the people and the 18th century English
+to the people. It used the people and the 18th century English
 government, fallible like every other manmade institution, was
-subverted & debased to be used itself. falling into the traps of every
+subverted & debased to be used itself. Falling into the traps of every
 empire, the British Government furthered the ends of few and took from
 many.
 
-Why is our republic failing today? why isn’t the constitution as
-resilient against tyranny and our government unchanged by finance? it
+Why is our republic failing today? Why isn’t the constitution as
+resilient against tyranny and our government unchanged by finance? It
 is for the same reason that the tactics of Ghandi and Martin Luther
 King Jr would fail in the 21st century: as the tactics of Civil
 Disobedience *do not function* if your sacrifices are muted before
@@ -113,10 +113,10 @@ today.
 ### [And Whose Leviathan Do I See In The Window?](#and-whose-leviathan-do-i-see-in-the-window)
 
 What do the people want? they want what they hear from mass
-communication, more or less, directly or one step removed. it is too
+communication, more or less, directly or one step removed. It is too
 easy for those with social/financial influence to control mass media
 and distort social media to engineer discourse and subvert even the
-most well-intentioned politicians. these would-be tyrants aren’t
+most well-intentioned politicians. These would-be tyrants aren’t
 Kings, Roman demagogues or thirty conquering Spartans ...
 
 #### Leviathan ... HUNGRY!
@@ -138,10 +138,10 @@ purely anthropogenic, feeding off ourselves; others are driven by
 artificial intelligence and social media’s vulnerabilities to feedback
 loops. Other aspects that unconsciously compel group behaviors, then
 act on smaller, more powerful groups to exacerbate the effects of
-“lower-level” feedback loops. politician’s have incentives to
+“lower-level” feedback loops. Politician’s have incentives to
 capitalize on the momentum of novel issues, to facilitate digital
 engagement to build support, to identify issues whose winds are
-changing. corporations have similar interests and similar signals to
+changing. Corporations have similar interests and similar signals to
 act on.
 
 ![Twilight Zone: Eye of the Beholder](/img/posts/2018-12-07-the-convolution-of-causality/eye-of-the-beholder-2.jpg)
@@ -156,7 +156,7 @@ change, circumstances emerge which are similar to the a financial
 “whipsaw” named because of unprecedented reversals in dynamics of
 price/etc. When this happens in sociophysical systems, especially
 those which are strongly determined by socioinformational dynamics,
-they’re even more perplexing than their financial counterpart. even if
+they’re even more perplexing than their financial counterpart. Even if
 we have the data and tools to analyze such "whipsaw" events in social
 systems, then we can only attempt to do so in retrospect.
 
@@ -173,7 +173,7 @@ mechanics -- the mechanics of social interactions (IRL/digital/etc)
 that compel norms to be questioned, to strengthen, to congeal, to be
 acknowledged, or to emerge as conceptualized social magnets of
 normifying behavior -- then how does society even discuss these
-problems with our government? we can't conduct discourse from within
+problems with our government? We can't conduct discourse from within
 convoluted filter-bubbles driven by AI operating enigmatically as
 black box to determine who sees who, who saw what, and how trends to
 proactively drive each of the former will play out: these AI's directs
@@ -199,12 +199,12 @@ This all adds further layers of complexity: if humanity is encumbered
 by accelerating ablation of our perception of causality, then how are
 we supposed to address how existing forms of governance fail to serve
 society when the human process of reasoning about causality itself has
-expanded intractibly. whether the means of action are digital or
+expanded intractibly. Whether the means of action are digital or
 anthropogenic, our ability to leverage abductive or inductive
 reasoning to probe social circumstances or socially distributed
-beliefs because similarly confounded. unless people adopt or
+beliefs because similarly confounded. Unless people adopt or
 rediscover normative mechanics, then people become unable to reason
-about life, society and interactions. if causality can't be reasoned
+about life, society and interactions. If causality can't be reasoned
 with, the benefits of virtues and of the social institutions which
 encourage virtuous behavior to be normative, in several senses, are
 moot because people can't connect the dots between their actions their
@@ -235,7 +235,7 @@ negative. Yet, perception of the causal course of events is necessary
 for this process. If the notions of virtues and virtuous behavior
 gradually break down, then society systemically develops social ills
 stemming from gradual dissimilation of individual's incentivization
-models -- viz. the factors that motivate action of individuals and
+models -- viz. The factors that motivate action of individuals and
 social groups becomes increasingly detached from one another and from
 the whole, as without virtues there's no shared sense of values or
 commonly valued behavior-types.
@@ -256,7 +256,7 @@ reshapes my mind.
 
 ![Ohhhhhhh](/img/posts/2018-12-07-the-convolution-of-causality/ohh.jpg)
 
-... now that convolution of causality has thus rendered intractible
+... Now that convolution of causality has thus rendered intractible
 the evaluation and acquisition of values. Who can pose such questions
 to himself? A five-year-old? What is this sociophysical diffusion
 process?
