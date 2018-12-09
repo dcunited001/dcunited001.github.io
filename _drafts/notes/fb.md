@@ -42,59 +42,6 @@ leverages and how the channels for resource-exchange are structured
 
 
 
-### On the Analysis of Shamanism in comparison to Divination
-
-- (Response to this article on
-  [Shamanism](https://aeon.co/essays/why-did-shamanism-evolve-in-societies-all-around-the-globe))
-
-- (more content)
-
-- it's like shamans stumbled into using the mind's learning alg's and
-  computational abilities purely by accident, but manage to extract an
-  immense amount of utility by leveraging this skill/intuition of the
-  mind in tandem with exploratory divination.
-
-- how can you use a reductionistic approach to seek something which
-  isn't yet there and is unknown while you search for it? but more
-  importantly, why should shamanism and, more generally, the
-  spiritual, sacrifice their sacred nature if they are to be composed
-  of experiences fully within the mind?
-  - i see the experience of the spiritual as the apprehension of the
-    eternal, unchanging metaphysical forms as they manifest themselves
-    in the material plane. to me, these are like Kant's noumena that
-    can't be known to exist nor to not exist. they emanate into the
-    material world and are the underlying monadic patterns which frame
-    dynamics of informational phenomena. to apprehend the true nature
-    of these metaphysical forms as they appear to influence causal
-    flow of events is to be in tune with the spiritual.
-  - so, if various methods of shamanism can repeatedly evoke visceral
-    experiences to bring you closer to understanding of these forms as
-    they influence the the world around you, then there is no need for
-    a supernatural connection. instead, the spiritual experience can
-    be explained as purely the mind's experience of purely
-    informational mechanics within itself -- which can include the
-    experience of information that, while the mind's analytic systems
-    are never capable of fully ingesting, still result in
-    transformative structural changes to the psyche. these purely
-    informational mechanics are mapped to the aforementioned
-    noumena-like forms, which are not only eternally unchanging, but
-    universal throughout space and time. while they are composed of
-    ineffable "monadic substances", the same eternal forms can be
-    tapped into by *any consciousness* and *any information-processing
-    entity*, without any need for supernatural mechanics (whether or
-    not those exist is perhaps another question)
-  - this is essentially no different than the the Tao or Leibniz's
-    Monad. to me, the shaman's trance and spiritual experiences are
-    visceral experiences in the minds of those who are intimately in
-    tune with the nature of the eternal. it is projected to the mind
-    as a visceral experience where archetypes of the eternal are
-    witnessed by the shaman, who must then make sense of what was
-    seen.
-
-
-
-
-
 ### On the Disillusionment of the Rising in the Academic World
 
 - i get the impression that the academic world, at a relatively early

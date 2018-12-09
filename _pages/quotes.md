@@ -45,10 +45,10 @@ permalink: /quotes/
 > is the cataclysm that results from our greatest fall since time
 > immemorial.
 
-> Those who expect the unexpected stands to profit from the
-> unexpected. The ignorant then become like leaves in a wind they
-> cannot begin to see. Knowledge is power; truth is formless and
-> all-emcompassing; ideology is for fools.
+> Those who expect the unexpected stand to profit from the unexpected.
+> The ignorant then become like leaves in a wind they cannot begin to
+> see. Knowledge is power; truth is formless and all-emcompassing;
+> ideology is for fools.
 
 > Every system seemingly modern exists merely as facade, masking
 > countless strata of ancient facade.

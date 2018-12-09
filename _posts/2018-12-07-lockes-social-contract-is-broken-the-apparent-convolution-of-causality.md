@@ -41,26 +41,25 @@ under the authority of both?"
 
 #### [Stop Nursing That Glass of Nihilism And Do Something](#stop-nursing-that-glass-of-nihilism)
 
+#### The Continental Philosopher's Perspective on Hegel
+
+![Philosophers On Hegel](/img/posts/2018-12-07-the-convolution-of-causality/philosophers-on-hegel.jpg)
 
 <a name="why-is-americas-republic-faltering" />
 
 # [Why Is America's Republic Faltering?](#why-is-americas-republic-faltering)
 
-#### The Continental Philosopher's Perspective on Hegel
-
-![Philosophers On Hegel](/img/posts/2018-12-07-the-convolution-of-causality/philosophers-on-hegel.jpg)
-
 <a name="is-it-constitutional-institutional-or-just-the-russians" />
 
 ### [Is it Constitutional, Institutional, or Just The Russians?](#is-it-constitutional-institutional-or-just-the-russians)
 
-Often when considering liberty and independence, the notion arises
-that, along with the freedom to choose comes ownership over
-consequences of your financial or social actions. Herein, if
-consequences of individual action are the microcosm, then consider the
-macrocosm as a parallel notion, where it is America’s collective
-responsibility to be informed citizens, who though acting freely, must
-endure the consequences of their actions.
+Often when considering liberty and independence, the notion arises:
+along with the freedom to choose comes ownership over consequences of
+your financial or social actions. Herein, if consequences of
+individual action are the microcosm, then consider the macrocosm as a
+parallel notion, where it is America’s collective responsibility to be
+informed citizens, who though acting freely, must endure the
+consequences of their actions.
 
 #### What seems to be the problem, doc?
 
@@ -89,13 +88,16 @@ No. If the federal government can’t follow its own laws, procedures
 and constitutional obligations, how can we expect it to work? Our
 government was designed to be resilient to subversion and
 corrosion. The founders were well aware of Greek and Roman success and
-failures with democracy and all to familiar with the failure of a
-government thousands of miles away who couldn’t be bothered to listen
-to the people. It used the people and the 18th century English
-government, fallible like every other manmade institution, was
-subverted & debased to be used itself. Falling into the traps of every
-empire, the British Government furthered the ends of few and took from
-many.
+failures with democracy. Further, they were all too familiar with the
+failure of a government thousands of miles away who couldn’t be
+bothered to listen to the people. It used the people and the 18th
+century English government, fallible like every other man-made
+institution, was subverted & debased to be used itself. Falling into
+the traps of every empire, the British Government furthered the ends
+of few and took from many. Regardless of our founder's background or
+wisdom in framing the Constitution, a set of rules for government
+resilient against tyrrany provides nothing if the programme is not
+followed with due cause.
 
 Why is our republic failing today? Why isn’t the constitution as
 resilient against tyranny and our government unchanged by finance? It
@@ -128,9 +130,9 @@ Kings, Roman demagogues or thirty conquering Spartans ...
 ### [These Tyrants Are Closer Than You Think....](#these-tyrants-are-closer-than-you-think)
 
 While most politically engaged people would be quick to name their
-imagined usurpers, most of us have idea who these “tyrants” are, but
-the answer is closer than you think. Whether external or domestic, the
-forces subverting our system may only be lucky to do so
+imagined usurpers, most of us have no idea who these “tyrants” are,
+but the answer is closer than you think. Whether external or domestic,
+the forces subverting our system may only be lucky to do so
 intentionally. Instead these are shadows of ourselves, aspects of the
 collective unconsciousnesses of groups, whose communication once
 voiced, feeds back into itself, driving feedback loops: some are
@@ -186,10 +188,10 @@ complexity of causality in the digital age, we still fall short of
 understanding the structure of interactions between such entities,
 which is far more complex.
 
-#### **Nihilism** (ni·​hil·​ism | \ˈnī-(h)ə-ˌli-zəm,) Nothing is Sacred
+#### **Nihilism** (ni·​hil·​ism | \ˈnī-(h)ə-ˌli-zəm,) nothing is Sacred
 
 ![Nihilism: Nothing is
-Sacred](/img/posts/2018-12-07-the-convolution-of-causality/eye-of-the-beholder-1.jpg)
+Sacred](/img/posts/2018-12-07-the-convolution-of-causality/glass-of-nihilism.jpg)
 
 <a name="how-bout-a-tall-warm-glass-of-nihilism" />
 
@@ -252,14 +254,15 @@ reshapes my mind.
 
 #### From the mind of a child to himself:
 
-> "Ideally, what am I supposed to be?
+> "Ideally, what am I supposed to be? ....
+>
+> ... Now that convolution of causality has thus rendered intractible
+> the evaluation and acquisition of values."
 
 ![Ohhhhhhh](/img/posts/2018-12-07-the-convolution-of-causality/ohh.jpg)
 
-... Now that convolution of causality has thus rendered intractible
-the evaluation and acquisition of values. Who can pose such questions
-to himself? A five-year-old? What is this sociophysical diffusion
-process?
+Who can pose such questions to himself? A five-year-old? What is this
+sociophysical diffusion process?
 
 <a name="stop-nursing-that-glass-of-nihilism" />
 
