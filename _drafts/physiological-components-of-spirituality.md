@@ -5,6 +5,19 @@ title: "Physiological Components of Spirituality"
 
 - mention glitch mob video as an example of imagery of meditation
 
+####
+
+- [Mantak Chia on the connection between the second brain and
+  Chi/Prana](https://www.youtube.com/watch?v=kaefdiE4ovk)
+
+#### ^^^^ Love IS stored in the heart
+
+
+
+
+
+
+
 ### Where Pop locking Intersects with Ancient Kalisthenic Methods for Developing Energy Chi
 
 

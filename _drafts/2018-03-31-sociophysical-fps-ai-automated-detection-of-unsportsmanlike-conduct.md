@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+- overwatch "ults" are like the FPS equivalent of Chrono Trigger
+  double/triple techs
+
 - bots to balance gameplay, to provide standard candles for matching
   algorithms... (probably a bad idea)
 
