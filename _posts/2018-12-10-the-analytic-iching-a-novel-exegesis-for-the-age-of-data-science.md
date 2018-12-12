@@ -8,7 +8,7 @@ author:
 excerpt: ""
 ---
 
-# #[The Essence of Things](#the-essence-of-things)
+# [The Essence of Things](#the-essence-of-things)
 
 #### [The Three Yi](#the-three-yi)
 
@@ -42,10 +42,6 @@ excerpt: ""
 
 #### [Of Hyperplanes and The Ontological Dilineation of Sociophysical Ensembles](#of-hyperplanes-and-the-ontological-dilineation-of-sociophysical-ensembles)
 
-
-
-
-
 <a name="the-essence-of-things" />
 
 # [The Essence of Things](#the-essence-of-things)
@@ -66,16 +62,71 @@ perspective.
 
 #### TODO: Essence (yijing)
 
+Within the three yi lays the definition of the differential operator;
+in simpler terms: the derivative. This much is made plain, yet
+furthermore, given some familiarity with linear operators, you may
+find that between the preservation of state and change, the
+differential operator hides the essence of linear systems: the fourier
+operator is also linear.
+
+`d(F(x)) = F(d(x))` -- this equality *must* hold for linear equations;
+this is essentially the definition of the differential operator, a
+linear operator.
+
+But *also* `d(FFT(F(x))) = FFT(d(F(x)))`!!!
+
+Even if you don't immediately comprehend this, it is well worth the
+thought to consider how magical these simple statements are! They
+describe *profound* preservation of equilibrium, where the *essence*
+is found in all the relationships between `d(.)`, `F(x)`, `FFT(.)` and
+most critically `=`.
+
+Thence, I posit that the Three Yi's philosophies of state, change and
+essence encode not simply the differential operator, but also it's
+linear interchange with that of the fourier operator. All linear
+systems must also be considered spectrally, but in doing so, one finds
+that any spectral valuation of linear equations must also preserve
+connections to the differential spectral valuations. Mathematically,
+this is a symbolically derived definition of essence.
+
+#### The [Spectral] Convolution Theorum:
+
+![The Spectral Convolution
+Theorum](/img/posts/2018-12-10-the-analytic-i-ching/spectral-convolution-theorum.jpg)
+
+If state, change and [spectral] essence are three classes of analysis
+methods for studying a system's mechanics and dynamics, then a
+suitable next step is the [convolution
+theorum](https://en.wikipedia.org/wiki/Convolution_theorem), which
+extracts resolution from systems by recursively evaluating their
+discrete spectralization. The process of convolution, applied to
+spectral data of increasing resolution, does not stand alone as its
+own class, but should be considered a tool within the Yi realm of
+essence.
+
+### [What Is Knowledge of Dependent Origination Without Applied Awareness of Phenomena?](#what-is-knowledge-of-dependent-origination-without-applied-awareness-of-phenomena)
+
+By stuyding the I Ching, one arrives at tools and methods to
+analytically assess phenomena. Because such methods are fundamentally
+analytically, the insights and extrapolations derived thereof do not
+necessarily depend on the inner workings of the phenomena, their
+mechanics and interacting dynamics. Instead these analytic tools allow
+for introspection of phenomena in a manner completely disconnected
+from their mechanics. Understanding this is equivalent to
+understanding *why* simple machine learning algorithms work in the way
+they do, usually without requiring any knowledge of the systems they
+analyze and predict. An algorithm to classify handwritten digits does
+not necessarily require any knowledge of handwritten digits.
+
 Phenomenologically, to what does [dependent
 origination](https://en.wikipedia.org/wiki/Pratītyasamutpāda) depend
 upon? As a chemical oracle once *experienced* unto me at the climax of
 a Lotus show, dependent origination is dependent upon itself; all
-other phenomena can trace their origination to dependent
-origination.
+other phenomena can trace their origination to dependent origination.
 
 #### The Twelve Nidanas of Pratītyasamutpāda, Dependent Origination
 
-![The Twelve Nidanas of Pratītyasamutpāda](/img/posts/2018-12-10-the-analytic-iching/twelve-nidanas.jpg)
+![The Twelve Nidanas of Pratītyasamutpāda](/img/posts/2018-12-10-the-analytic-i-ching/twelve-nidanas.jpg)
 
 To what do we owe comprehension of the true essence of things? To
 state and to change, which both together reveal the true essence of
@@ -156,7 +207,7 @@ this photo is fake.
 
 #### Helmholtz's Three Laws Are Demonstrated By Every Vape Video On Youtube
 
-![Smoke Rings](/img/posts/2018-12-10-the-analytic-iching/smoke-rings.jpg)
+![Smoke Rings](/img/posts/2018-12-10-the-analytic-i-ching/smoke-rings.jpg)
 
 Again ... Why? Because a visual representation of phenomena, whether
 artistic or photographic, in its depiction of natural phenomena, must
@@ -165,16 +216,56 @@ fake. This is the difference between bad lighting and good lighting in
 paintings. This is the difference between bad waves and good waves in
 Japanese woodblock prints.
 
-![The Great Wave, a Japanese Woodblock Print](/img/posts/2018-12-10-the-analytic-iching/the-great-wave.jpg)
+![The Great Wave, a Japanese Woodblock Print](/img/posts/2018-12-10-the-analytic-i-ching/the-great-wave.jpg)
 
 The progenitors and authors of I Ching *assumed* that sociophysical
 mechanics and dynamics mimicked those found in the natural world. This
-is how the child, whose mind has been attuned to the accurate
-perception of natural and social phenomena, can see that the emporer
-of Hans Christian Andersen's wears no clothes: the near-equilibrium of
-social physics is starkly violated. As a work of natural philosophy,
-the I Ching informed ancient China of social physics by generating
-random images of metaphor to natural phenomena.
+coupling that bounds social phenomena to reflect physical phenomena is
+how the child, whose mind has been attuned to the accurate perception
+of natural and social phenomena, can see that the emporer of Hans
+Christian Andersen's wears no clothes: the near-equilibrium of social
+physics is starkly violated. As a work of natural philosophy, the I
+Ching informed ancient China of social physics by generating random
+images of metaphor to natural phenomena.
+
+# [The Yin-Yang Microcosm Pervading I Ching](#the-yin-yan-microcosm-pervading-i-ching)
+
+#### Hexagram 1: [The Creative]()
+
+#### Hexagram 2: [The Receptive]()
+
+#### Hexagram 11: [Peace]()
+
+#### Hexagram 12: [Stagnation]()
+
+![](leibniz-iching.jpg)
+
+Pictured above are the famous notes on I Ching gifted to Gottfried
+Leibniz. Hexagrams 1, 2, 11, and 12 are located in the four corners of
+the grid. Within the I Ching, these four hexagrams form a microcosm
+that parallels the four.
+
+####
+
+
+
+- A less terse article on the Creative and the Receptive
+
+- [briefly!] explain 1,2,11,12 in terms of the mechanics of seaside
+  waves in four periods (crashing in, reaching their full extent,
+  pulling out and Riptide/undertow)
+  - the creative: the force forming waves and them inwards towards the
+    shore
+  - the receptive: for the waves rolling in, the receptive are the
+    forces acting on each to deconstruct their form and to eventually
+    pull them back out to sea.
+  - peace: is like the intersection between the shore and the waves
+    noisily frothing to their maximal extent.
+  - stagnation:
+
+
+
+
 
 <a name="rationalize-your-exegesis" />
 
@@ -189,7 +280,7 @@ in most areas. There are some lines where I feel that Wilhelm skipped
 over the proper interpretation, but as of yet, I am not operating with
 his same level of comprehension of Chinese culture.
 
-<a name="timeless-writing-assumes-all-possible-interpretations" />
+<a name="timeless-writing-assumes-all-possible-integrpretations" />
 
 ### [Timeless Writing Assumes All Possible Interpretations](#timeless-writing-assumes-all-possible-interpretations)
 
@@ -436,7 +527,8 @@ information about how to escape your local minima.
 > truth about high-dimensional spaces is that they're not so different
 > than three dimensional spaces ... for the most part.
 
-![Analytic Hyperplane](/img/posts/iching/)
+![Analytic
+Hyperplane](/img/posts/2018-12-10-the-analytic-i-ching/analytic-hyperplane.jpg)
 
 ### [Of Hyperplanes and The Ontological Dilineation of Sociophysical Ensembles](#of-hyperplanes-and-the-ontological-dilineation-of-sociophysical-ensembles)
 
@@ -460,8 +552,8 @@ guests' journey when you do meet them.
 ![Dynamic Boltzmann Machines](/img/posts/2018-12-10/the-analytic-i-ching/boltzmann-evolution.jpg)
 
 [I've written
-before](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html#boltzmanns-distribution-a-generalized-heat-equation)
-about the Boltzmann Machine's profoundly generalized conception of
+before](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html#boltzmanns-distribution-a-generalized-heat-equation),
+the Boltzmann Machine's profoundly generalized conception of
 energy. Understanding the concept of Physical Energy, generalized to
 abstract scenarios, is something that would benefit every Western
 Rationalist to understand. In machine learning, there are
@@ -529,6 +621,14 @@ surface curvature to the need to average the values of Euler
 Characteristic when considering the surfaces of manifolds,
 differentially.
 
+- maxima/minima along the hyperplane (which is like a higher-order
+  cost function of theta-weight configurations of the cost function)
+  in high-dimensional spaces yield regions that are inaccessible to
+  any configuration of theta-weights.  these regions are, to the
+  hyperplane, what white-holes are to black holes. this is why there
+  are major topological connections to be found in optimizing the
+  hyperparameters for machine learning.
+
 Even the volume of spacetime *is* a surface: a 3D surface in a 4D
 volume. This is perhaps more correctly considered as [2,1]-D surfaces
 in a [3,1]-D volume, three dimensions of space and one of time. This
@@ -554,7 +654,8 @@ gravity, and even in energetic measures of [Simplicial
 Complices](https://arxiv.org/abs/1703.06549) in the work of [Oliver
 Knill](https://arxiv.org/search/?searchtype=author&query=Knill%2C+O),
 it has applications in considering analytic hyperplanes
-topologically. If it hasn't already, Algebraic Topology can
+topologically. If it hasn't already, [Algebraic
+Topology](https://en.wikipedia.org/wiki/Algebraic_topology) can
 revolutionize how an analytic hyperplane is considered for clustering
 algorithms. If it's computationally feasible, topologically analyzing
 the hyperplane for cluster classification. Identifying a cluster's
@@ -655,8 +756,14 @@ great water ....
 
 # The Statistical Mechanics of I Ching
 
-- how does this method of sampling critically differ from a Tarot
-  deck?
+- How does the Yarrow Sticks method of sampling critically differ from
+  a Tarot deck? partly because the sampling process is not a
+  differential: i.e. the probabilities of the next sampled reading do
+  not depend on the state of the deck of cards. Why do Vegas dealers
+  *only* draw from fresh decks of cards? For similar reasons: to
+  eliminate any potential differential interdependency in the values
+  sampled. So, the yarrow sticks method is like sampling from a fresh
+  deck of cards every time.
 
 ### On Conceptualizing State and Change (and the statistical mechanics of I Ching)
 
