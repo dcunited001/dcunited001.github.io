@@ -3,6 +3,255 @@ title: "What is the Soul? A Baseline for the Materialist Conception"
 headline: "Hey Rationalist, Want to Arm-Wrestle?"
 ---
 
+![I will not hesitate to beat your ass with your own shoe](/img/posts/2018-12-13-material-conception-of-soul/reno-911.jpg)
+
+# [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
+
+### [The Soul Is Not Contained Entirely Within Your Body](#the-soul-is-not-contained-entirely-within-your-body)
+
+### [Then How Does One Know Their Own Soul?](#then-how-does-one-know-their-own-soul)
+
+### [One Does Not Simply Accept Their Identity](#one-does-not-simply-accept-their-identity)
+
+### [Didn't I Say That Her Statement Had A Powerful Effect?](#didnt-i-say-that-her-statement-had-a-powerful-effect)
+
+### [Are The Myriad Fragments of Your Soul Searching For Knowledge of Self?](#are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self)
+
+
+
+
+<a name="from-the-soul-defined-to-jungs-individuation" />
+
+# [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
+
+At the end of her [third
+video](https://www.youtube.com/watch?v=TTrc7zmBh1M&t=0s&index=5&list=PLC4D19CAA84861524)
+on I Ching, [Nana Akosua Baakan
+Agyeiwaah](https://www.youtube.com/playlist?list=PLC4D19CAA84861524),
+makes a very simple statement that resonates powerfully, *if you
+understand what the soul is*. It doesn't necessarily require the
+definition of the soul outlined below, but if you understand what the
+soul is, this statement is very powerful:
+
+> The oracle is a vehicle to help us listen to our soul speak, but we
+> must be *quiet* if we are to hear what our soul is trying to speak
+> to us.
+
+<a name="the-soul-is-not-contained-entirely-within-your-body" />
+
+### [The Soul Is Not Contained Entirely Within Your Body](#the-soul-is-not-contained-entirely-within-your-body)
+
+The first statement: if the soul exists purely within us, why would we
+need to listen to it speak? We should already know what the soul is.
+There are aspects of our soul which exist outside of us, whether this
+is information that exists substantiated in material form or
+connections to elements within the *astral plane* or shards of our
+soul that exist in some purely incorporeal plane.
+
+From my own shortcomings in communication, what I've learned is to
+listen to others. By listening to Nana Akosua, I've learned a lot and
+I can tell that she has the same *a postieri* familiarity with
+philosophical and spiritual concepts that I do; it is simply developed
+with more wisdom, practice and contact with people. I apologize if
+saying this implies that she has shortcomings in communication: she
+doesn't. I've learned a lot from watching her videos. However, my own
+weaknesses there have taught me to examine the experience and word of
+others for substance, *not appearance of substance*. True substance
+lies within. Extrapolations
+
+<a name="if-the-soul-is-not-purely-internal-then-how-does-one-know-their-own-soul" />
+
+### [Then How Does One Know Their Own Soul?](#then-how-does-one-know-their-own-soul)
+
+The second statement: we must be still to separate ourselves from the
+noise of life that interferes with the vibrations from our soul. We
+need to develop that sense of a soul connection, so that our actions
+*resonate* with our deeper, more authentic self -- it is found
+*somewhere* in our soul, but that might not exist within us already.
+
+<a name="one-does-not-simply-accept-their-identity" />
+
+### [One Does Not Simply Accept Their Identity](#one-does-not-simply-accept-their-identity)
+
+So many people accept at face value either some identity given to them
+by others or perhaps the assumed identity developed by a younger
+self. They stop looking or maybe they've never looked much at
+all. This is what's so dangerous about the materialist misconception
+that *there is no soul!* What do you mean by that? Do you even know?
+To the person who needs soul-searching, if they believe the soul
+resides entirely within some interalized encoding of matter interally,
+then they allow the noise of life to define all they see and all they
+think. They believe the extent of their soul to exist entirely
+separately of society and this is a dangerous assumption because it
+deprives the person of power over their mind, over their life and over
+the composition of their soul.
+
+<a name="didnt-i-say-that-her-statement-had-a-powerful-effect-on-me" />
+
+### [Didn't I Say That Her Statement Had A Powerful Effect?](#didnt-i-say-that-her-statement-had-a-powerful-effect)
+
+If you can manage to separate yourself from the mental mazes that
+life's trappings has you running in your mind, then you can start to
+zero out life's noise to calibrate a clearer picture of your true self
+-- who is not *one*, but *many*. Your soul contains within it all your
+potential selves: some unrealized; others that have remained out of
+focus; more still are as yet unknown to you, without further knowledge
+of self! This knowledge of self provides a collection of lenses and
+perspectives that form a kind of a microscope for your mind, your soul
+and your self. What seems blurry today should seem more clear
+tomorrow. And iff you tune this scope of self knowledge, then you'll
+see your composite actualized selves coalescing from your self
+awareness breaking through threshold shadows of unconscious.
+
+<a name="are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self" />
+
+### [Are The Myriad Fragments of Your Soul Searching For Knowledge of Self?](#are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self)
+
+The true key is to listen to people: they contain within them
+fragments of your soul that you must collect. If you do not listen,
+you cannot see clearly. If someone has made it so that you cannot hear
+them at all, then you may be lost for some time.  If you're lucky, you
+find that most of your newfound selves are also searching for their
+knowledge of self: the fragments of your soul or socially distributed
+self are themselves searching for self. When you develop a clearer
+resolution of self, you begin collecting information from these
+socially distributed fragments that key you in to your whole soul,
+entirely. This is your true self, but if you are not *still*, you
+cannot *listen*. Once you learn to listen, you can begin to learn to
+perturb the local social configuration to then filter and percolate
+inferences about those scattered fragments of soul.
+
+<a name="the-formation-of-the-interface-between-psychee-and-unconscious" />
+
+### (1) [The Formation of the Interface Between Psyche and Unconscious](#the-formation-of-the-interface-between-psychee-and-unconscious)
+
+Perhaps driven by some miraculous accident in youth, when your psyche
+still nascent forming shone a light unto the right unconscious corners
+, then perhaps this configured the interface between one's psyche and
+the unconscious in some miraculous way. To what end? To Seek
+continuous self improvement without the defect of a false sense of
+completion after one learns so much of the world. How does one stay on
+the path?  How does one stay course on the Hero's journey? Does the
+hero with the longest journey result with unsurpassed heroic
+development?
+
+### (2) [An Unconscious Metatype In The Reward System's Framework]()
+
+Some miracle compels the early and prevalent formation of a metatype
+in your psyche's reward systems that pushes you towards self-awareness
+and self-improvement for some higher goal, wherefore the true extent
+of which you must remain somewhat unconscious. If you can define the
+extent your goals in totality, then they are not great enough to
+compel you onwards along the Hero's journey. It must be something
+seemingly insurmountable that you will master because you must
+overcome it, not because you understand it or are capable of
+deconstructing it. This is the true path to awakening and
+self-actualization: it is indeed *not* medication, IMO, though that
+may help some to numb their pain. Yet, isn't there a purpose to pain?
+It's a signal like no other, and it's there for a reason.
+
+### (3) []()
+
+If you were unconscious to what drove you to seek self-improvement by
+expanding knowledge of self, then it might more strongly express
+itself almost as if by instinct. One does not simply "turn off" that
+of which one is unaware. Therefore, mid-development, as you begin to
+awaken to the sophisticated metacognition and the self-reflection
+required for self-actualization, then that instinctual compulsion has
+perhaps given you quite a head start.
+
+### (4)
+
+To catalyze self-actualization requires disaggregating the influences
+on your mind that spawned so many selves that were  so the most significant
+versions of them can be known and reverse-engineered.
+
+### (5)
+
+
+### (6)
+
+<a name="doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment" />
+
+# [Doxastic Games: Telephone, The Rumor Mill, and Your Eternal Torment](#doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment)
+
+Understanding how people understand your identity is critical. We all
+operate, given some notion of self, by comparing our sense of self
+with that of the identity of others. People play [epistemic
+games](https://plato.stanford.edu/entries/epistemic-game/) and
+doxastic games[^doxastic-games]: games centered around projection and
+propagation of belief. Understanding the idea of doxastic games
+requires incredibly deep knowledge of game theory, but these are games
+where beliefs are projected through society. The "rumor mill" and
+"telephone" are doxastic games. Understanding how your conceived image
+of self has...
+
+<a name="eternal-torment-of-the-soul-is-a-doxastic-game" />
+
+### [Eternal Torment of the Soul is A Doxastic Game](#eternal-torment-of-the-soul-is-a-doxastic-game)
+
+People can torment you, perhaps eternally, by targeting those
+fragments of your soul scattered through society. If they are better
+at playing doxastic games, they can strongly influence the social
+residue of your soul to distort the collective social memories that
+relate to your identity. In extreme cases, they can torment your
+aeternal soul perhaps for all time. It requires power. Power over such
+horrible, *paltry* people requires power itself. When you find you
+have none, power is best obtained through knowledge. Knowledge is
+power.
+
+#### And the Devil Always Has Something to Say
+
+> From the movie legend, where the climax involves many a clever
+> homophone. "What have we ... here" ... as in ... "What have we
+> hear?" ... as in: I'm an abuser and I'm going to torment you by
+> playing doxastic games and controlling what people see and hear. By
+> the way, fuck you Craig Eversole and fuck the Pentacostal Church
+> too. I don't need to hide in darkness. I don't need to fear light. I
+> never have. I never will. Fabricator. Liar. "Snake" handler.
+
+![And the Devil always has something to say,
+huh?](/img/posts/2018-12-13-material-conception-of-soul/the-devil.jpg)
+
+<a name="the-truth-is-always-convergent" />
+
+### [The Truth Is *Always* Convergent](#the-truth-is-always-convergent)
+
+The truth about belief in doxastic games? It does not hold a candle to
+truth. Light *is* truth and *light reveals all*. Light does not need
+strategy or tactics. Light walks in the truth, the truth walks in the
+light. Whether the truth walks in the shadow of the valley of death,
+it does not matter: *TRUTH* is its eternal guardian. Its actions are
+motivated by truth. If you cannot connect the dots between Psalm 23
+and the power of truth as a guardian, then you need to go to
+school.
+
+<a name="fabrication-is-the-cias-specialty" />
+
+### [Fabrication is the CIA's Specialty](#fabrication-is-the-cias-specialty)
+
+This is why, for any fabrication operation, pulling the wool over
+someone's eyes is necessary: they must be constantly lied to, deprived
+of information necessary to their job, etc. So that when the
+pre-ordained endgame occurs, the disinformation and misinformation
+enshrouds the apprehension that the righteous has of the truth. They
+reach for the truth as their weapon, but they do not have it. It was
+pre-meditated fabrication. The thing about fabrication? There's no
+handbook for fabrication. Where there was one fabrication operation,
+there are many. The thing about sin is that you must hide it or hide
+from it the rest of your life. That's what the story of Jesus was
+about, in case you missed it -- freeing man from sin. And if you don't
+believe in sinful nature or profiting from the sinful nature of
+others, then you don't propagate the methods of doing so to your
+children. Society has robbed me of the ability to have children in any
+safe environment, where they won't simply be used as someone else's
+pawns, just like it has robbed me of everything else I might have. So
+how the fuck could I know what that feels like?
+
+<a name="reincarnation-defined-in-materialistic-terms" />
+
+# [Reincarnation, Defined In Materialistic Terms](#reincarnation-defined-in-materialistic-terms)
+
 Extrapolating from the baseline for what I'm about to describe, then
 one may conceive of reincarnation via metaphor. If one’s psyche is a
 compositite of metatypes and archetypes, some more aeternal than
@@ -14,7 +263,12 @@ that really so hard? Again, this extrapolates from the "baseline"
 which this article will establish. I am going to compel materialists
 to accept at least this much.
 
-Basicaly, in the typological terms of [Type Theory](), then if our
+<a name="reincarnation-is-psychosocial-type-theory" />
+
+### [Reincarnation is Psychosocial Type Theory](#reincarnation-is-psychosocial-type-theory)
+
+Basicaly, in the typological terms of [Type
+Theory](https://en.wikipedia.org/wiki/Type_theory), then if our
 singleton-type representing our individual psyche (as in the mind
 within the constraints of our body) is composed of metatypes and
 archetypes, then it's straightforward to compare each
@@ -25,6 +279,22 @@ physical and metaphysical -- then this only strengthens the
 application of my basline. Given this conception, if we are all so
 similar to people who’ve existed before, we might as well say we are
 “the reincarnation of X, Y or Z” ...
+
+#### What is Type Theory? How Does It Connect Math and Philosophy?
+
+> Michael Bernstein explains... But perhaps a better explanation of
+> type theory is in the application of types and their composites in
+> the Haskell Programming language. Here's a lecture on [the concept
+> of lenses in haskell
+> programming](https://www.youtube.com/watch?v=cefnmjtAolY), which
+> provides a better idea of the *look and feel* of types and
+> typologies. I wrote on lenses in an [article on the application of
+> "optic operrators" to dynamic graphics pipelines in
+> Swift](/posts/2016-04-30-lambda-fu-powerup-lenses-prisms-and-optics-with-swift.html).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K-YYoigWN24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<a name="an-atheist-i-feel-sorry-for-you-son" />
 
 # [An Athiest, I Feel Sorry For You, Son](#an-athiest-i-feel-sorry-for-you-son)
 
@@ -64,12 +334,18 @@ There is *no smatter* contained in the above definition of the
 soul. The language is intentional. The explanation is clear and if it
 isn’t, then you do not undestand the ideas contained therein. The soul
 exists, *definitively*. Whether it arises materially or
-supernaturally? That is another question entirely. If you do not
+supernaturally? That is another question entirely. This definition is
+a baseline, above which materialists are confined to operate. They
+must admit at least this and if they don't it means they are a
+materialist not well-educated enough on dynamics of inforamtion from
+within a purely material conception of our world. If you do not
 understand my definition, then it means you lack either imagination or
 intellect. There is no room for subjectivity in this context. The soul
 exists. End of story.
 
-### IMO, Western Rationalism Is A Cruel Joke
+<a name="imo-western-rationalism-is-a-cruel-joke" />
+
+### [IMO, Western Rationalism Is A Cruel Joke](#imo-western-rationalism-is-a-cruel-joke)
 
 It's a great idea and has certainly benefitted the world, but humanity
 could really do without all the arrogant euro-centracism. It's a
@@ -91,6 +367,8 @@ Why do extreme atheists spit on the memory of Christianity? The most
 educated atheists -- i.e. Richard Dawkins -- system of memetics and
 holonic information theory implies that spectrally harmonized belief
 systems are critical, sociologically.
+
+<a name="atheists-are-a-delicacy-to-me" />
 
 ### [Atheists Are A Delicacy to Me](#atheists-are-a-delicacy-to-me)
 
@@ -186,6 +464,8 @@ what I bring them out of pain is beautiful, they fail to acknowledge
 anything related to my identity because the pain I've endured is
 unconfortable to them.
 
+<a name="what-are-perturbations-in-adversarial-network-analysis" />
+
 ### [What are Perturbations in Adversarial Network Analysis?](#what-are-perturbations-in-adversarial-network-analysis)
 
 What is a perturbation? Well, whether you can explain the answer to
@@ -211,6 +491,7 @@ some known ideal system to compare it to. This simplified kind of
 perturbation has noise whose magnitude is controlled via the
 algorithms hyperparameters, which control the learning rate.
 
+###
 
 Let's say Alice and Bob are both working on a college project to
 produce the best image-classification network -- for a exam credit in
@@ -375,4 +656,4 @@ exertion of power by corrupt officials.
 COMMUNISM IS A LIE. EAT A DICK, LENINISTS.
 
 
-[]
+[^doxastic-games]: Eger, M., 2018. Intentional Agents for [Doxastic Games.](https://repository.lib.ncsu.edu/handle/1840.20/35747)
