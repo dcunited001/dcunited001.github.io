@@ -32,7 +32,7 @@ title: "I Ching and Chrono Cross"
 
 - The likelihood of drawing the second iching reading above (The
   Receptive changing into the Creative) is *exceedingly* rare. A real
-  challenge: `1 in 16,777,216` yarrow stick readings should ever give
+  challenge: `1 in 16,777,216`  readings should ever give
   this reading. You're more likely to bridge into an parallel
   universe, defeat six dragon gods, inverting the Stagnation of Fate
   and bringing Peace to Earth thenceforth.

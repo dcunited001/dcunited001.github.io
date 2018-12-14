@@ -247,8 +247,6 @@ that parallels the four.
 
 ####
 
-
-
 - A less terse article on the Creative and the Receptive
 
 - [briefly!] explain 1,2,11,12 in terms of the mechanics of seaside
@@ -441,20 +439,20 @@ divinatory vehicle that I believe the I Ching was intended to be.
 
 If one's perception of a situation is imagined as a point in an
 analytic hyperplane, and the I Ching's explanation of a query is
-imagined as another point in that analytic hyperplane, then the true
+imagined as another point in along that hyperplane, then the true
 value of divination is found by evaluating all the possible paths that
-connect those two points. In my opinion, there is little value in
-accepting the random point the I Ching yields to the querent as a
-definitively true message. It is instead the dissonance between the
-querent's perception of their situation and the I Ching's projection
-perception of the same situtation: these are the two points and their
-dissonance is evaluated by constructing paths to explain the
-difference between them. Since the points returned by the I Ching or
-some other divinatory system are effectively random, then they are
-completely disconnected from all the inherent biases that humans
-have. This deshrouds a person from their biases and thereby divination
-may disrupt the hold that the unconscious or illusion have over a
-person.
+connect those two points. TODO: See [below](#below) for a better
+explanation of In my opinion, there is little value in accepting the
+random point the I Ching yields to the querent as a definitively true
+message. It is instead the dissonance between the querent's perception
+of their situation and the I Ching's projection perception of the same
+situtation: these are the two points and their dissonance is evaluated
+by constructing paths to explain the difference between them. Since
+the points returned by the I Ching or some other divinatory system are
+effectively random, then they are completely disconnected from all the
+inherent biases that humans have. This deshrouds a person from their
+biases and thereby divination may disrupt the hold that the
+unconscious or illusion have over a person.
 
 <a name="your-task-complete-the-circumstantial-circuits-of-explanation" />
 
@@ -504,11 +502,11 @@ in this analytic hyperplane.
 
 There is a taxonomy of local minima that describes ALL of the species
 of minima that can be encountered: the first five lines of Hexagram 5
-enumerates ALL of these minima types. There is the meadow, a flat
-space, which is a symbol that recurs again and again in the I
-Ching. This is a space of comfort; nothing is to be challenged, but
-"crossing the great water" requires moving oneself out of a comfort
-zone, where perhaps one encounters more disadvantaged
+enumerates ALL of these minima types. The Theorema EgregumThere is
+the meadow, a flat space, which is a symbol that recurs again and
+again in the I Ching. This is a space of comfort; nothing is to be
+challenged, but "crossing the great water" requires moving oneself out
+of a comfort zone, where perhaps one encounters more disadvantaged
 situations. There is the pit in the fourth line, a relatively global
 minima. There is the place of "meat and drink" in the fifth line,
 which describes a higher local minima encountered after climbing out
@@ -671,7 +669,7 @@ clustering algorithm.
 Ultimately, pure math remains mental masturbation until an application
 becomes relevant. Fortunately, an analytic interpretation of the I
 Ching is implicitly dependent on natural philosophy and on metaphors
-to natural phenomena. there is no purely abstract math.
+to natural phenomena. There is no purely abstract math.
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
@@ -770,3 +768,13 @@ great water ....
 ![Social Physics from XIII anime #1](/img/posts/iching/b-xiii-social-physics-1.jpg)
 
 ![Social Physics from XIII anime #2](/img/posts/iching/b-xiii-social-physics-2.jpg)
+
+
+
+
+
+
+[^mapper-algorithm]: Singh, G., Mémoli, F. and Carlsson, G.,
+    [Topological Methods for the Analysis of High Dimensional Data
+    Sets and 3D Object
+    Recognition](https://scholar.google.com/citations?user=_RClkA4AAAAJ&hl=en&fbclid=IwAR36IXnrqjtHUepJkSZGDt8mzTDkVqoBWmJRYDRrVQiG3_RsXlwaOuRu188#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3D_RClkA4AAAAJ%26citation_for_view%3D_RClkA4AAAAJ%3Au5HHmVD_uO8C%26tzom%3D300)
