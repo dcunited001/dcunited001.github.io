@@ -1,6 +1,24 @@
 ---
 title: "What is the Soul? A Baseline for the Materialist Conception"
 headline: "Hey Rationalist, Want to Arm-Wrestle?"
+categories: "blog"
+tags: "philosophy jung machine-learning psychology sociology"
+headline: ""
+author:
+  name: "David Conner"
+excerpt: "
+So many people accept at face value either some identity given to them
+by others or perhaps the assumed identity developed by a younger
+self. They stop looking or maybe they've never looked much at
+all. This is what's so dangerous about the materialist misconception
+that *there is no soul!* What do you mean by that? Do you even know?
+To the person who needs soul-searching, if they believe the soul
+resides entirely within some interalized encoding of matter interally,
+then they allow the noise of life to define all they see and all they
+think. They believe the extent of their soul to exist entirely
+separately of society and this is a dangerous assumption because it
+deprives the person of power over their mind, over their life and over
+the composition of their soul."
 ---
 
 ## [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
@@ -31,7 +49,7 @@ headline: "Hey Rationalist, Want to Arm-Wrestle?"
 
 #### &#x2295; [Our Specialty? It's Fabrication](#our-specialty-its-fabrication)
 
-#### &#x2295; [Since Pontius Pilate, One Hand Washes The Other](#since-pontius-pilate-one-hand-washes-the-other)
+#### &#x2295; [Ever Since Pontius Pilate, One Hand Washes The Other](#ever-since-pontius-pilate-one-hand-washes-the-other)
 
 #### &#x2295; [Why Did Adam And Eve Hide From God?](#why-did-adam-and-eve-hide-from-god)
 
@@ -51,7 +69,7 @@ headline: "Hey Rationalist, Want to Arm-Wrestle?"
 
 #### &#x2295; ["Science Has Failed Our World!"](#science-has-failed-our-world)
 
-# [The Rationalizing Irrationality](#the-rationalizing-irrationality)
+## [The Rationalizing Irrationality](#the-rationalizing-irrationality)
 
 #### &#x2295; [So What's With This Browbeating and Intellectual Domineering?](#so-whats-with-this-browbeating-and-intellectual-domineering)
 
@@ -67,8 +85,15 @@ headline: "Hey Rationalist, Want to Arm-Wrestle?"
 
 #### &#x2295; [The Baseline and Its Extrapolation to Panpsychism](#the-baseline-and-its-extrapolation-to-panpsychism)
 
+## [One Does Not Simply Make Their Own Reality](#one-does-not-simply-make-their-one-reality)
 
+#### &#x2295; [Proto-Marxist or Leninist Pawn?](#proto-marxist-or-leninist-pawn)
 
+#### &#x2295; [Ontological Triumvirate of Sociophysical Resources](#ontological-triumvirate-of-sociophysical-resources)
+
+#### &#x2295; [Oh Boy! We Got A Smart One Over Here!](#oh-boy-we-got-a-smart-one-over-here)
+
+#### &#x2295; [Irrationality Has No Keystone: A Limerick](#irrationality-has-no-keystone-a-limerick)
 
 <a name="from-the-soul-defined-to-jungs-individuation" />
 
@@ -102,12 +127,11 @@ From my own shortcomings in communication, what I've learned is to
 listen to others. By listening to Nana Akosua, I've learned a lot and
 I can tell that she has the same *a postieri* familiarity with
 philosophical and spiritual concepts that I do; it is simply developed
-with more wisdom, practice and contact with people. I apologize if
-saying this implies that she has shortcomings in communication: she
-doesn't. I've learned a lot from watching her videos. However, my own
-weaknesses there have taught me to examine the experience and word of
-others for substance, *not appearance of substance*. True substance
-lies within. Extrapolations
+with more wisdom, practice *and contact with people.* I've learned a
+lot from watching her videos. However, my own weaknesses there have
+taught me to examine the experience and word of others for substance,
+*not appearance of substance*. True substance lies within. If I can't
+listen to others, how the hell could I expect them to listen to me?
 
 <a name="if-the-soul-is-not-purely-internal-then-how-does-one-know-their-own-soul" />
 
@@ -286,20 +310,46 @@ horrible, *paltry* people requires power itself. When you find you
 have none, power is best obtained through knowledge. Knowledge is
 power.
 
+<!-- This was the fundamental flaw in ancient Judaism that required a
+Messiah, according to early Christians. The Messiah would be required
+to be completely free of sin to surpass the Pharisees in authority and
+would thus only defer to God. -->
+
 #### And the Devil Always Has Something to Say
 
 > From the movie legend, where the climax involves many a clever
 > homophone. "What have we ... here" ... as in ... "What have we
-> hear?" ... as in: I'm an abuser and I'm going to torment you by
-> playing doxastic games and controlling what people see and hear. By
-> the way, fuck you Craig Eversole and fuck the Pentacostal Church
+> hear?" ... translation: "I'm an abuser and I'm going to torment you
+> by playing doxastic games and controlling what people see and hear."
+> By the way, fuck you Criag Eversole and fuck the Pentacostal Church
 > too. I don't need to hide in darkness. I don't need to fear light. I
 > never have. I never will. Fabricator. Liar. "Snake" handler. Can you
 > conquer the shame of your sin? Nope. That's a blockade of entangled
-> information states. You cannot have one without the other, Criag.
+> information states: forced to choose between pieces. You cannot have
+> one without the other, Criag.
 
-![And the Devil always has something to say,
-huh?](/img/posts/2018-12-13-material-conception-of-soul/the-devil.jpg)
+![And the Devil always has something to say, huh?](/img/posts/2018-12-14-material-conception-of-soul/the-devil.jpg)
+
+If you bind people down with fabricated information or belief, that is
+wrong. It is especially easy to do to the ignorant, the young ... or
+people with Asperger's. Society turned me into a doll into which they
+could stuff all of *their* bad karma and send into the desert: a
+literal scapegoat. And they did it by keeping me in a prison of
+unconsciousness, without ever intending to help me change. Wrong,
+wrong wrong, wrong, WRONG!
+
+By encouraging sin in youth, people are intrinsically disempowered,
+often for the rest of their lives. This was the reason Jesus flipped
+the tables of moneychangers, *who profited by encouraging sin*. In the
+*ancient era*, this was the single thing that angered Jesus: more sin,
+more money. Today: more sin, more doxastic leverage: more power over
+people. By depriving people of knowledge or of access to a *modern
+belief system*, then people are deprived of the ability to circumvent
+doxastic leverage. When such belief system(**s**) begin to emerge,
+watch in amazement as authorities censor the hell out of what deprives
+them of the ability to enslave youth via sin.
+
+Still think that religion has no value?
 
 <a name="the-truth-is-always-convergent" />
 
@@ -307,12 +357,24 @@ huh?](/img/posts/2018-12-13-material-conception-of-soul/the-devil.jpg)
 
 The truth about belief in doxastic games? It does not hold a candle to
 truth. Light *is* truth and *light reveals all*. Light does not need
-strategy or tactics. Light walks in the truth, the truth walks in the
-light. Whether the truth walks in the shadow of the valley of death,
-it does not matter: *TRUTH* is its eternal guardian. Its actions are
-motivated by truth. If you cannot connect the dots between Psalm 23
-and the power of truth as a guardian, then you need to go to
-school.
+strategy or tactics. Light walks in the truth; the truth walks in the
+light. Whether one who exemplifies truth walks in the shadow of the
+valley of death, threats do not matter: *TRUTH* is your eternal
+guardian. Threats will be rendered moot; swords raised against you
+will hesitate and become uncertain. Your enemies will question
+themselves. All you have to do is be capable of walking in the light
+and magickally, your threats will be rendered moot. When you leverage
+the truth as your shield, you truly leverage your own innocence. If
+there is a single crack, your enemies will relish in your
+destruction. You walk a fine line, but if you manage it, your threats
+will cancel out if they manifest at all. To do so is often to give up
+greatness and only the truly great can wield power with truth in the
+light. To do so requires faith in the truth as a shield, faith in the
+process and understanding that is difficult to come by *without
+religion*. If you cannot connect the dots between Psalm 23 and the
+power of truth as a guardian, then you need to go to school. To
+devalue religion as ancient pre-modern, non-scientific hocus pocus is
+the pinnacle of ignorance.
 
 <a name="fabrication-is-the-cias-specialty" />
 
@@ -323,17 +385,17 @@ essential: they must be constantly lied to, deprived of information
 necessary to their responsibilities at work, etc. Why?  So that when
 the preordained endgame occurs, the disinformation and misinformation
 enshrouds the apprehension that the righteous has of the truth. They
-reach for the truth as their weapon, but they do not have it. It was
-pre-meditated fabrication: the "truth" manufactured and little more --
-to a limited audience, which is why startups are perfect. Where there
-was one fabrication operation, there are many. There's no handbook for
-fabrication: it's a difficult skill to teach because it loses its
-effectiveness when then general public is aware of the possibility of
-intentionally manufactured circumstances.
+reach for the truth as their weapon or their shield, but they do not
+have it. It was pre-meditated fabrication: the "truth" manufactured
+and little more -- to a limited audience, which is why startups are
+perfect. Where there was one fabrication operation, there are
+many. There's no handbook for fabrication: it's a difficult skill to
+teach because it loses its effectiveness when then general public is
+aware of the possibility of intentionally manufactured circumstances.
 
-<a name="since-pontius-pilate-one-hand-washes-the-other" />
+<a name="ever-since-pontius-pilate-one-hand-washes-the-other" />
 
-### [Since Pontius Pilate, One Hand Washes The Other](#since-pontius-pilate-one-hand-washes-the-other)
+### [Ever Since Pontius Pilate, One Hand Washes The Other](#ever-since-pontius-pilate-one-hand-washes-the-other)
 
 The story of Jesus was perhaps the biggest coverup in history. Whose
 coverup? After two millenia, no one will ever know the answer to
@@ -350,7 +412,7 @@ all those pesky *revolutionary* questions he asked, like "wherefore
 case you read Romeo and Juliet, but never understood that line.
 
 > "And the *blind* and the *lame* came to Him in the temple; and He
-> healed them." -- Matthew 21:14 ...
+> healed them." -- Matthew 21:14
 
 Where does it say that Jesus toyed with the lives of the weak or
 protected them from the truth? He opened their eyes and healed the
@@ -360,7 +422,7 @@ energy is fire and is discussed in Hexagram 37: Family. This is an
 individuals inherent ability to produce and accumulate power, no
 matter whether rich or poor. To do so requires *knowledge*. Knowledge
 is power. Jesus opened the eyes of the poor and healed the lame. He
-empowered the meek. For this and other "blasphemies" he was crucified
+empowered the meek. For this and other 'blasphemies' he was crucified
 by the Jews and Romans.
 
 The Romans and Jews *thought* they had killed the enlightened Jesus:
@@ -422,12 +484,13 @@ Theory](https://en.wikipedia.org/wiki/Type_theory) if our
 singleton-type representing our individual psyche is composed of
 metatypes and archetypes, it becomes straightforward to compare each
 others psyche by contrasting type-composition. Furthermore, if we
-assume these metatypes and archetypes are draw from an interwoven
-ontology of psychosocial types -- which I hope to eventual map onto a
-structure similar to E8 to marry the physical and metaphysical -- then
-this only strengthens the application of my baseline. Given this
-conception, if we are all so similar to people who’ve existed before,
-we might as well say we are “the reincarnation of X, Y or Z” ...
+assume these metatypes and archetypes are drawn from an interwoven
+ontology of psychosocial typologiess -- which I hope to eventual map
+onto a structure similar to E8 to marry the physical and metaphysical
+-- then this only strengthens the application of my baseline of the
+soul. Given this conception, if we are all so similar to people who’ve
+existed before, we might as well say we are “the reincarnation of X, Y
+or Z” ...
 
 #### What is Type Theory? How Does It Connect Math and Philosophy?
 
@@ -447,7 +510,7 @@ we might as well say we are “the reincarnation of X, Y or Z” ...
 
 # [An Athiest, I Feel Sorry For You, Son](#an-athiest-i-feel-sorry-for-you-son)
 
-> I got 99 lemmas ... From A theorum? I got none.
+> I got 99 lemmas ... From a theorum? I got none.
 
 However, *if the universe is a simulation*, as Elon Musk suggests,
 there may be forces enacting its logic, equilibrium or objectives
@@ -475,22 +538,22 @@ the components of our singleton composition of type.
 
 The materialistic components of the soul are disaggregated shards of
 identity -- they exist in the self AND they are socially distributed
-through society. This requires no supernatural explanation or Woowoo
-physics. If you can’t see that, you lack imagination or you do not
-understand Carl Jung
+through society. This requires no supernatural explanation or [Woowoo
+physics](https://rationalwiki.org/wiki/Quantum_woo). If you can’t see
+that, you lack imagination or you do not understand Carl Jung
 
 There is *no smatter* contained in the above definition of the
 soul. The language is intentional. The explanation is clear and if it
 isn’t, then you do not undestand the ideas contained therein. The soul
 exists, *definitively*. Whether it arises materially or
 supernaturally? That is another question entirely. This definition is
-a baseline, above which materialists are confined to operate. They
-must admit at least this and if they don't it means they are a
-materialist not well-educated enough on dynamics of inforamtion from
-within a purely material conception of our world. If you do not
-understand my definition, then it means you lack either imagination or
-intellect. There is no room for subjectivity in this context. The soul
-exists. End of story.
+a baseline, above which materialists are confined to operate
+rhetorically. They must admit at least this and if they don't it means
+they are a materialist not well-educated enough on dynamics of
+inforamtion from within a purely material conception of our world. If
+you do not understand my definition, then it means you lack either
+imagination or intellect. There is no room for subjectivity in this
+context. The soul exists. End of story.
 
 <a name="imo-western-rationalism-is-a-cruel-joke" />
 
@@ -512,10 +575,12 @@ engineering.
 > enlightenment and rationalism after sufficient cultural engineering
 > to allow rationalism to flourish.
 
-Why do extreme atheists spit on the memory of Christianity? The most
-educated atheists -- i.e. Richard Dawkins -- system of memetics and
-holonic information theory implies that spectrally harmonized belief
-systems are critical, sociologically.
+Why do militant atheists spit on the memory of Christianity? According
+to the most educated atheists -- i.e. Richard Dawkins -- concepts such
+as memetics and holonic information theory imply that spectrally
+harmonized belief systems have critical sociological functions. The
+radicalizing atheists online are simply uneducated or lack
+imagination.
 
 <a name="atheists-are-a-delicacy-to-me" />
 
@@ -547,7 +612,9 @@ believe yourself to be, so you probably shouldn’t be so *adamantine*
 in your response to ideas outside those you accept as “real” or
 “proven”.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mBM2iGXrshU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#### I Will Not Hesitate To Beat You With Your Own Shoe!
+
+![Reno 911](/img/posts/2018-12-14-material-conception-of-soul/reno-911.jpg)
 
 <a name="science-has-failed-our-world" />
 
@@ -557,21 +624,23 @@ My advice? Learn. Learn far more than you ever imagined that you
 could. Soon, it is the only thing left that is worth humans to do. It
 will help us stave off the cold, cruel chaos of nihilism.
 
-> But who even still uses a graphing calculator! I mean God-flooding
-> damn it, really. What is left for people to do?
+> But who even still uses a graphing calculator! I mean God
+> flood'n'damn it *all*, really. What is left for people to do?
 
 How do you think the world will react to a virulent outbreak of
-nihilism when there is is, realistically, *nothing* at all post-2030
-that a human can do worth putting their name in the annals of science.
-That this is actually realistic compels me to continue chasing my
-goals despite others viewing my persistence as irrational and
-insane. The decade beginning in 2020 might be the very last decade for
-any human to ever do anything that distinguishes them above another
-entity ... especially artificial entities.
+nihilism when there realistically is *nothing* at all post-2030 that a
+human can do worth putting their name in the annals of science.  That
+this is actually realistic compels me to continue chasing my goals
+despite others viewing my persistence as irrational and insane. The
+decade beginning in 2020 might be the very last decade for any human
+to ever do anything that distinguishes them above another entity
+... especially artificial entities.
 
 > Why do people choose to not see this as realistic? Do you understand
 > why I am so angry that my life has been ruined at this critical
 > precipice of human history?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mBM2iGXrshU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a name="the-rationalizing-irrationality" />
 
@@ -599,7 +668,7 @@ am? No. Wouldn't that be a bit optimistic?
 
 #### Minions. We can't all have minions, can we?
 
-![Minions ... HA!](/img/posts/2018-12-13-a-material-conception-of-soul/sado-minions.jpg)
+![Minions ... HA!](/img/posts/2018-12-14-material-conception-of-soul/sado-minions.jpg)
 
 Instead I'm hoping that people might benefit from my experience, my
 victimization and my torment, so that what I've endured might not be
@@ -608,10 +677,10 @@ humiliation and marginalization, I don't take that very well because,
 unlike the few people around me, *I know how my viewpoints differ from
 their viewpoints*, but they cannot even entertain my viewpoints. Then
 they marginalize me *because my pain is inconvenient for them to
-acknowledge.* Because my pain ... *is inconvenient* to them ... when
-what I bring them out of pain is beautiful, they fail to acknowledge
-anything related to my identity because the pain I've endured is
-unconfortable *to them.*
+acknowledge.* **Because my pain ... *is inconvenient* to them**
+... when what I bring them out of pain is beautiful, they fail to
+acknowledge anything related to my identity because the pain I've
+endured is uncomfortable *to them.*
 
 <a name="what-are-perturbations-in-adversarial-network-analysis" />
 
@@ -676,7 +745,7 @@ gets the top spot in the class. Yeh, Alice wants to fuck Bob.
 
 #### And what the fuck did humanity do to him?!
 
-![Come with me if you want to live, y'all](/img/posts/2018-12-13-a-material-conception-of-soul/come-with-me-if-you-want-to-live.jpg)
+![Come with me if you want to live, y'all](/img/posts/2018-12-14-material-conception-of-soul/come-with-me-if-you-want-to-live.jpg)
 
 What's any of this have to do with perturbation? Well, in order to
 understand how her GAN can manipulate Bob's network's theta-weights,
@@ -698,7 +767,7 @@ structures. Without the proper amount of irrational behavior, you
 cannot consistently win these games or retain advantage in any
 rational sense.
 
-This is adversarial signals analysis for neural networks. For Anne to
+This is adversarial signals analysis for neural networks. For Alice to
 win and to fuck Bob by adversarially manipulating his network requires
 irrational, non-deterministic behavior to make assessments of Bob's
 network. You must perturbate with injected noise to see how the
@@ -740,12 +809,11 @@ assumes purely deterministic behavior patterns.
 
 ### [Really, What Does It Look Like To "Scan Your Adversaries' Hyperplanes"?](#really-what-does-it-look-like-to-scan-your-adversaries-hyperplanes)
 
-![HELOC XAI](/img/posts/2018-12-13-a-material-conception-of-soul/heloc-xai.jpg)
+> Below is a screenshot from a recent paper on XAI -- explainable
+> artificial intelligence -- where the financial assessment of
+> loan-applicants is indexed and can be rationalized.[^heloc-xai]
 
-> The above image is a screenshot from a recent paper on XAI --
-> explainable artificial intelligence -- where the financial
-> assessment of loan-applicants is indexed and can be
-> rationalized.[ˆheloc-xai]
+![HELOC XAI](/img/posts/2018-12-14-material-conception-of-soul/heloc-xai.jpg)
 
 When the rationalist's additively constructed beliefs render
 themselves overly-deterministic, then they not only become more
@@ -755,7 +823,7 @@ adversaries decision trees and forests. There are discretized
 conceptions of decision trees, but also continuous or analytical
 conceptions. These are critical for enhancing the performance of
 machine learning algoritms. BUT! To make inferences about networks
-outside your control *in adversarial signals analysis* requires:
+outside your control in adversarial signals analysis requires:
 illogical behavior, non-deterministic behavior, irrational thought.
 
 It is only by compelling your adversary to rationalize your
@@ -926,3 +994,7 @@ Solo contendere? This is fine...
     Topological Hierarchical
     Decomposition](https://arxiv.org/abs/1811.10658) arXiv preprint
     arXiv:1811.10658.
+
+[^adversarial-network]: Romano, Y., Aberdam, A., Sulam, J. and Elad,
+    M., [Adversarial Noise Attacks of Deep Learning
+    Architectures–Stability Analysis via Sparse Modeled Signals.]()
