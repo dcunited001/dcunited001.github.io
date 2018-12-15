@@ -3,8 +3,6 @@ title: "What is the Soul? A Baseline for the Materialist Conception"
 headline: "Hey Rationalist, Want to Arm-Wrestle?"
 ---
 
-![I will not hesitate to beat your ass with your own shoe](/img/posts/2018-12-13-material-conception-of-soul/reno-911.jpg)
-
 # [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
 
 ### [The Soul Is Not Contained Entirely Within Your Body](#the-soul-is-not-contained-entirely-within-your-body)
@@ -135,7 +133,9 @@ the path?  How does one stay course on the Hero's journey? Does the
 hero with the longest journey result with unsurpassed heroic
 development?
 
-### (2) [An Unconscious Metatype In The Reward System's Framework]()
+<a name="an-unconscious-metatype-in-the-reward-systems-framework" />
+
+### (2) [An Unconscious Metatype In The Reward System's Framework](#an-unconscious-metatype-in-the-reward-systems-framework)
 
 Some miracle compels the early and prevalent formation of a metatype
 in your psyche's reward systems that pushes you towards self-awareness
@@ -150,7 +150,7 @@ self-actualization: it is indeed *not* medication, IMO, though that
 may help some to numb their pain. Yet, isn't there a purpose to pain?
 It's a signal like no other, and it's there for a reason.
 
-### (3) []()
+### (3)
 
 If you were unconscious to what drove you to seek self-improvement by
 expanding knowledge of self, then it might more strongly express
@@ -160,16 +160,16 @@ awaken to the sophisticated metacognition and the self-reflection
 required for self-actualization, then that instinctual compulsion has
 perhaps given you quite a head start.
 
-### (4)
+### (4) Catalysis of Self-Aggregation
 
 To catalyze self-actualization requires disaggregating the influences
-on your mind that spawned so many selves that were  so the most significant
-versions of them can be known and reverse-engineered.
-
-### (5)
-
-
-### (6)
+on your mind that spawned so many selves that were...  so the most
+significant versions of them can be known and reverse-engineered.
+After the disagregation of socially distributed self is
+reverse-engineered, then those modified selves must be reoriented
+towards an end-goal and wherefore reaggregated. In necessarily terse
+terms, this sums of the process of individuation from society -- by
+deconstructing and reconstructing the socially distributed self.
 
 <a name="doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment" />
 
@@ -179,12 +179,24 @@ Understanding how people understand your identity is critical. We all
 operate, given some notion of self, by comparing our sense of self
 with that of the identity of others. People play [epistemic
 games](https://plato.stanford.edu/entries/epistemic-game/) and
-doxastic games[^doxastic-games]: games centered around projection and
-propagation of belief. Understanding the idea of doxastic games
-requires incredibly deep knowledge of game theory, but these are games
-where beliefs are projected through society. The "rumor mill" and
-"telephone" are doxastic games. Understanding how your conceived image
-of self has...
+doxastic games[^doxastic-games]. These are games centered around
+projection and propagation of knowledge or belief. There are many
+board games which are formalized conceptions of these and the
+magnificent thesis in the footnote discusses doxastic games in terms
+of . Understanding the idea of doxastic games requires incredibly deep
+knowledge of game theory, but these are games where beliefs are
+projected through society. **Telephone** and **The Rumor Mill**, those
+are doxastic games.
+
+> "Explain it to them like they're five" they said...
+
+Your conceived image of self has refracted into myriad images in
+society. The collective set of memories that members of society have
+formed about you compose your social memory. The individual
+recollections of experience can be activated almost like files are
+opened on a computer. Individuals in society collectively guide their
+attention towards memories that are each associated with collections
+of identities.
 
 <a name="eternal-torment-of-the-soul-is-a-doxastic-game" />
 
@@ -228,25 +240,49 @@ school.
 
 <a name="fabrication-is-the-cias-specialty" />
 
-### [Fabrication is the CIA's Specialty](#fabrication-is-the-cias-specialty)
+### [Our Specialty? It's Fabrication](#our-specialty-its-fabrication)
 
-This is why, for any fabrication operation, pulling the wool over
-someone's eyes is necessary: they must be constantly lied to, deprived
-of information necessary to their job, etc. So that when the
-pre-ordained endgame occurs, the disinformation and misinformation
+For any fabrication operation, pulling the wool over someone's eyes is
+essential: they must be constantly lied to, deprived of information
+necessary to their responsibilities at work, etc. Why?  So that when
+the preordained endgame occurs, the disinformation and misinformation
 enshrouds the apprehension that the righteous has of the truth. They
 reach for the truth as their weapon, but they do not have it. It was
-pre-meditated fabrication. The thing about fabrication? There's no
-handbook for fabrication. Where there was one fabrication operation,
-there are many. The thing about sin is that you must hide it or hide
-from it the rest of your life. That's what the story of Jesus was
-about, in case you missed it -- freeing man from sin. And if you don't
-believe in sinful nature or profiting from the sinful nature of
-others, then you don't propagate the methods of doing so to your
-children. Society has robbed me of the ability to have children in any
-safe environment, where they won't simply be used as someone else's
-pawns, just like it has robbed me of everything else I might have. So
-how the fuck could I know what that feels like?
+pre-meditated fabrication: the "truth" manufactured and little more --
+to a limited audience, which is why startups are perfect. Where there
+was one fabrication operation, there are many. There's no handbook for
+fabrication: it's a difficult skill to teach because it loses its
+effectiveness when then general public is aware of the possibility of
+intentionally manufactured circumstances.
+
+<a name="since-pontius-pilate-one-hand-washes-the-other" />
+
+### [Since Pontius Pilate, One Hand Washes The Other](#since-pontius-pilate-one-hand-washes-the-other)
+
+The story of Jesus was perhaps the biggest coverup in history. Whose
+coverup? After two millenia, no one will ever know the answer to
+that. The Romans and Jews *thought* they had killed the enlightened
+Jesus: the Jesus whose soul lived on in others. These are doxastic
+games: to purge an enlightened individual's image from society, you
+must hunt down all images in the collective social memory that
+reference their identity and reshape them. You can brainwash people or
+use other tricks to distract their minds from the truth. If there are
+documents, you must destroy them. This is why the Dead Sea Scrolls
+were such a magnificent cache: they escaped *all* of the pre-Dark Age
+document purges. The burning of the Library of Alexandria and
+murdering of scholars in pre-Han China? They were engineered tragedies
+of doxastic games for power by controlling the seeds of all later
+scholastic thought.
+
+The thing about sin is that you must hide it or hide from it the rest
+of your life. That's what the story of Jesus was about, in case you
+missed it -- freeing man from sin. And if you don't believe in sinful
+nature or profiting from the sinful nature of others, then you don't
+propagate the methods of doing so to your children. Society has robbed
+me of the ability to have children in any safe environment, where they
+won't simply be used as someone else's pawns, just like it has robbed
+me of everything else I might have. So how the fuck could I know what
+that feels like?
 
 <a name="reincarnation-defined-in-materialistic-terms" />
 
@@ -267,24 +303,24 @@ to accept at least this much.
 
 ### [Reincarnation is Psychosocial Type Theory](#reincarnation-is-psychosocial-type-theory)
 
-Basicaly, in the typological terms of [Type
-Theory](https://en.wikipedia.org/wiki/Type_theory), then if our
-singleton-type representing our individual psyche (as in the mind
-within the constraints of our body) is composed of metatypes and
-archetypes, then it's straightforward to compare each
-other. Furthermore, if we assume these metatypes and archetypes are
-draw from an interwoven ontology of psychosocial *-types -- which I
-hope to eventual map onto a structure similar to E8 to marry the
-physical and metaphysical -- then this only strengthens the
-application of my basline. Given this conception, if we are all so
-similar to people who’ve existed before, we might as well say we are
-“the reincarnation of X, Y or Z” ...
+If one defines the psyche has the mind within the constraints of our
+body, then in the typological terms of [Type
+Theory](https://en.wikipedia.org/wiki/Type_theory) if our
+singleton-type representing our individual psyche is composed of
+metatypes and archetypes, it becomes straightforward to compare each
+others psyche by contrasting type-composition. Furthermore, if we
+assume these metatypes and archetypes are draw from an interwoven
+ontology of psychosocial types -- which I hope to eventual map onto a
+structure similar to E8 to marry the physical and metaphysical -- then
+this only strengthens the application of my baseline. Given this
+conception, if we are all so similar to people who’ve existed before,
+we might as well say we are “the reincarnation of X, Y or Z” ...
 
 #### What is Type Theory? How Does It Connect Math and Philosophy?
 
 > Michael Bernstein explains... But perhaps a better explanation of
 > type theory is in the application of types and their composites in
-> the Haskell Programming language. Here's a lecture on [the concept
+> the Haskell programming language. Here's a lecture on [the concept
 > of lenses in haskell
 > programming](https://www.youtube.com/watch?v=cefnmjtAolY), which
 > provides a better idea of the *look and feel* of types and
