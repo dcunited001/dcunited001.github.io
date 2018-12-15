@@ -3,17 +3,69 @@ title: "What is the Soul? A Baseline for the Materialist Conception"
 headline: "Hey Rationalist, Want to Arm-Wrestle?"
 ---
 
-# [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
+## [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
 
-### [The Soul Is Not Contained Entirely Within Your Body](#the-soul-is-not-contained-entirely-within-your-body)
+#### &#x2295; [The Soul Is Not Contained Entirely Within Your Body](#the-soul-is-not-contained-entirely-within-your-body)
 
-### [Then How Does One Know Their Own Soul?](#then-how-does-one-know-their-own-soul)
+#### &#x2295; [Then How Does One Know Their Own Soul?](#then-how-does-one-know-their-own-soul)
 
-### [One Does Not Simply Accept Their Identity](#one-does-not-simply-accept-their-identity)
+#### &#x2295; [One Does Not Simply Accept Their Identity](#one-does-not-simply-accept-their-identity)
 
-### [Didn't I Say That Her Statement Had A Powerful Effect?](#didnt-i-say-that-her-statement-had-a-powerful-effect)
+#### &#x2295; [Didn't I Say That Her Statement Had A Powerful Effect?](#didnt-i-say-that-her-statement-had-a-powerful-effect)
 
-### [Are The Myriad Fragments of Your Soul Searching For Knowledge of Self?](#are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self)
+#### &#x2295; [Are The Myriad Fragments of Your Soul Searching For Knowledge of Self?](#are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self)
+
+#### &#9312; [The Formation of the Interface Between Psyche and Unconscious](#the-formation-of-the-interface-between-psychee-and-unconscious)
+
+#### &#9313; [An Unconscious Metatype In The Reward System's Framework](#an-unconscious-metatype-in-the-reward-systems-framework)
+
+#### &#9314; [Whatever It Is, Your Psyche's Configuration Hides A Miracle](#whatever-it-is-your-psyches-configuration-hides-a-miracle)
+
+#### &#9315; [Catalysis of Individuation: The Keystone of Self-Actualization](#catalysis-of-individuation-the-keystone-of-self-actualization)
+
+## [Doxastic Games: Telephone and The Rumor Mill](#doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment)
+
+#### &#x2295; [Aeternal Torment of the Soul Is A Doxastic Game](#eternal-torment-of-the-soul-is-a-doxastic-game)
+
+#### &#x2295; [The Truth Is *Always* Convergent](#the-truth-is-always-convergent)
+
+#### &#x2295; [Our Specialty? It's Fabrication](#our-specialty-its-fabrication)
+
+#### &#x2295; [Since Pontius Pilate, One Hand Washes The Other](#since-pontius-pilate-one-hand-washes-the-other)
+
+#### &#x2295; [Why Did Adam And Eve Hide From God?](#why-did-adam-and-eve-hide-from-god)
+
+## [Reincarnation, Defined In Materialistic Terms](#reincarnation-defined-in-materialistic-terms)
+
+#### &#x2295; [Reincarnation is Psychosocial Type Theory](#reincarnation-is-psychosocial-type-theory)
+
+## [An Athiest, I Feel Sorry For You, Son](#an-athiest-i-feel-sorry-for-you-son)
+
+#### &#x2295; [What is the Soul?](#what-is-the-soul)
+
+#### &#x2295; [IMO, Western Rationalism Is A Cruel Joke](#imo-western-rationalism-is-a-cruel-joke)
+
+#### &#x2295; [Atheists Are A Delicacy to Me](#atheists-are-a-delicacy-to-me)
+
+#### &#x2295; [They Got 99 Pawns And I'mma Knock'em All Down in One](#they-got-99-pawns)
+
+#### &#x2295; ["Science Has Failed Our World!"](#science-has-failed-our-world)
+
+# [The Rationalizing Irrationality](#the-rationalizing-irrationality)
+
+#### &#x2295; [So What's With This Browbeating and Intellectual Domineering?](#so-whats-with-this-browbeating-and-intellectual-domineering)
+
+#### &#x2295; [What are Perturbations in Adversarial Network Analysis?](#what-are-perturbations-in-adversarial-network-analysis)
+
+#### &#x2295; [Of Alice and Bob, Networks and Hyperplanes](#of-alice-and-bob-networks-and-hyperplanes)
+
+#### &#x2295; [Who Was This "John" Conner, Anyways?](#who-was-this-john-conner-anyways)
+
+#### &#x2295; [A Lack of Irrational, Non-Deterministic Behavior Cripples Your Adversarial Signals Analysis](#a-lack-of-irrational-non-deterministic-behavior-cripples-your-adversarial-signals-analysis)
+
+#### &#x2295; [Really, What Does It Look Like To "Scan Your Adversaries' Hyperplanes"?](#really-what-does-it-look-like-to-scan-your-adversaries-hyperplanes)
+
+#### &#x2295; [The Baseline and Its Extrapolation to Panpsychism](#the-baseline-and-its-extrapolation-to-panpsychism)
 
 
 
@@ -121,7 +173,7 @@ inferences about those scattered fragments of soul.
 
 <a name="the-formation-of-the-interface-between-psychee-and-unconscious" />
 
-### (1) [The Formation of the Interface Between Psyche and Unconscious](#the-formation-of-the-interface-between-psychee-and-unconscious)
+### &#9312; [The Formation of the Interface Between Psyche and Unconscious](#the-formation-of-the-interface-between-psychee-and-unconscious)
 
 Perhaps driven by some miraculous accident in youth, when your psyche
 still nascent forming shone a light unto the right unconscious corners
@@ -135,7 +187,7 @@ development?
 
 <a name="an-unconscious-metatype-in-the-reward-systems-framework" />
 
-### (2) [An Unconscious Metatype In The Reward System's Framework](#an-unconscious-metatype-in-the-reward-systems-framework)
+### &#9313; [An Unconscious Metatype In The Reward System's Framework](#an-unconscious-metatype-in-the-reward-systems-framework)
 
 Some miracle compels the early and prevalent formation of a metatype
 in your psyche's reward systems that pushes you towards self-awareness
@@ -150,7 +202,9 @@ self-actualization: it is indeed *not* medication, IMO, though that
 may help some to numb their pain. Yet, isn't there a purpose to pain?
 It's a signal like no other, and it's there for a reason.
 
-### (3)
+<a name="whatever-it-is-your-psyches-configuration-hides-a-miracle" />
+
+### &#9314; [Whatever It Is, Your Psyche's Configuration Hides A Miracle](#whatever-it-is-your-psyches-configuration-hides-a-miracle)
 
 If you were unconscious to what drove you to seek self-improvement by
 expanding knowledge of self, then it might more strongly express
@@ -160,7 +214,23 @@ awaken to the sophisticated metacognition and the self-reflection
 required for self-actualization, then that instinctual compulsion has
 perhaps given you quite a head start.
 
-### (4) Catalysis of Self-Aggregation
+The socially distributed variation in the diversity of human
+experience and *psychic* configuration -- the configuration of one's
+psyche -- is in itself miraculous. Every flower is beautiful in its
+own way. It is up to you to find that jewels hidden in your
+psyche. Somewhere buried within your mind, your memories and even the
+trauma, there is to be found a miracle that gives you purpose. There
+must be and if you find it not, then you make it.
+
+The corollary: It is horrible when people refuse to enable any
+progression from your current state. They look upon your manufactured,
+fabricated identity -- over which you had little control -- and
+short-circuit all progress. ALL WITHOUT COMMUNICATING WITH YOU ABOUT
+IT. They never intended you to succeed and they never cared.
+
+<a name="catalysis-of-individuation-the-keystone-of-self-actualization" />
+
+### &#9315; [Catalysis of Individuation: The Keystone of Self-Actualization](#catalysis-of-individuation-the-keystone-of-self-actualization)
 
 To catalyze self-actualization requires disaggregating the influences
 on your mind that spawned so many selves that were...  so the most
@@ -171,9 +241,13 @@ towards an end-goal and wherefore reaggregated. In necessarily terse
 terms, this sums of the process of individuation from society -- by
 deconstructing and reconstructing the socially distributed self.
 
+Once you have disaggregated your socially distributed self, you must
+reorient your self ... from there, it's warp-speed all the way. That
+is, until you must reassess your location in quadrant four.
+
 <a name="doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment" />
 
-# [Doxastic Games: Telephone, The Rumor Mill, and Your Eternal Torment](#doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment)
+# [Doxastic Games: Telephone and The Rumor Mill](#doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment)
 
 Understanding how people understand your identity is critical. We all
 operate, given some notion of self, by comparing our sense of self
@@ -200,7 +274,7 @@ of identities.
 
 <a name="eternal-torment-of-the-soul-is-a-doxastic-game" />
 
-### [Eternal Torment of the Soul is A Doxastic Game](#eternal-torment-of-the-soul-is-a-doxastic-game)
+### [aEternal Torment of the Soul Is A Doxastic Game](#eternal-torment-of-the-soul-is-a-doxastic-game)
 
 People can torment you, perhaps eternally, by targeting those
 fragments of your soul scattered through society. If they are better
@@ -220,7 +294,9 @@ power.
 > playing doxastic games and controlling what people see and hear. By
 > the way, fuck you Craig Eversole and fuck the Pentacostal Church
 > too. I don't need to hide in darkness. I don't need to fear light. I
-> never have. I never will. Fabricator. Liar. "Snake" handler.
+> never have. I never will. Fabricator. Liar. "Snake" handler. Can you
+> conquer the shame of your sin? Nope. That's a blockade of entangled
+> information states. You cannot have one without the other, Criag.
 
 ![And the Devil always has something to say,
 huh?](/img/posts/2018-12-13-material-conception-of-soul/the-devil.jpg)
@@ -261,28 +337,65 @@ intentionally manufactured circumstances.
 
 The story of Jesus was perhaps the biggest coverup in history. Whose
 coverup? After two millenia, no one will ever know the answer to
-that. The Romans and Jews *thought* they had killed the enlightened
-Jesus: the Jesus whose soul lived on in others. These are doxastic
-games: to purge an enlightened individual's image from society, you
-must hunt down all images in the collective social memory that
-reference their identity and reshape them. You can brainwash people or
-use other tricks to distract their minds from the truth. If there are
-documents, you must destroy them. This is why the Dead Sea Scrolls
-were such a magnificent cache: they escaped *all* of the pre-Dark Age
-document purges. The burning of the Library of Alexandria and
-murdering of scholars in pre-Han China? They were engineered tragedies
-of doxastic games for power by controlling the seeds of all later
-scholastic thought.
+that. Proof of the historical Jesus is to be found by abduction:
+reading the why's between the lines.
+
+> "You're going to need a lot of faith, my dude" - Jesus
+
+Jesus really drove home that *faith without proof* thing. If there
+*was* a historical Jesus, it's as though that shrewd player expected
+every move the Romans and Jews would make.  He knew they'd cover up
+all those pesky *revolutionary* questions he asked, like "wherefore
+*art* thou , meek?" -- to paraphrase with Shakespearean eloquence, in
+case you read Romeo and Juliet, but never understood that line.
+
+> "And the *blind* and the *lame* came to Him in the temple; and He
+> healed them." -- Matthew 21:14 ...
+
+Where does it say that Jesus toyed with the lives of the weak or
+protected them from the truth? He opened their eyes and healed the
+sick. He empowered the people for being what they were: people. Ever
+individual has inherent power they produce. In the I Ching, this
+energy is fire and is discussed in Hexagram 37: Family. This is an
+individuals inherent ability to produce and accumulate power, no
+matter whether rich or poor. To do so requires *knowledge*. Knowledge
+is power. Jesus opened the eyes of the poor and healed the lame. He
+empowered the meek. For this and other "blasphemies" he was crucified
+by the Jews and Romans.
+
+The Romans and Jews *thought* they had killed the enlightened Jesus:
+the Jesus whose soul lived on in others. These are doxastic games: to
+purge an enlightened individual's image from society, you must hunt
+down all images in the collective social memory that reference their
+identity and reshape them. You can brainwash people or use other
+tricks to distract their minds from the truth. If there are documents,
+you must destroy them. This is why the Dead Sea Scrolls were such a
+magnificent cache: they escaped *all* of the pre-Dark Age document
+purges. The burning of the Library of Alexandria and murdering of
+scholars in pre-Han China?  They were engineered tragedies of doxastic
+games for power by controlling the seeds of all later scholastic
+thought.
+
+<a name="why-did-adam-and-eve-hide-from-god" />
+
+### [Why Did Adam And Eve Hide From God?](#why-did-adam-and-eve-hide-from-god)
+
+Adam and Eve were unconscious to God's unparalleled capacity to
+ascertain the commission of their original sin. They symbolize early
+mankind's mistakes in committing sins without yet being conscious to
+the typologies of consequences of sins. Yet, there is no hiding from
+God, for which the question remains: what is God?
 
 The thing about sin is that you must hide it or hide from it the rest
 of your life. That's what the story of Jesus was about, in case you
 missed it -- freeing man from sin. And if you don't believe in sinful
 nature or profiting from the sinful nature of others, then you don't
-propagate the methods of doing so to your children. Society has robbed
-me of the ability to have children in any safe environment, where they
-won't simply be used as someone else's pawns, just like it has robbed
-me of everything else I might have. So how the fuck could I know what
-that feels like?
+propagate the methods of doing so, unless it is to empower others for
+their defense.
+
+Society has robbed me of the ability to have children in any safe
+environment, where they won't simply be used as someone else's pawns,
+just like it has robbed me of everything else I might have.
 
 <a name="reincarnation-defined-in-materialistic-terms" />
 
@@ -498,7 +611,7 @@ they marginalize me *because my pain is inconvenient for them to
 acknowledge.* Because my pain ... *is inconvenient* to them ... when
 what I bring them out of pain is beautiful, they fail to acknowledge
 anything related to my identity because the pain I've endured is
-unconfortable to them.
+unconfortable *to them.*
 
 <a name="what-are-perturbations-in-adversarial-network-analysis" />
 
@@ -527,7 +640,9 @@ some known ideal system to compare it to. This simplified kind of
 perturbation has noise whose magnitude is controlled via the
 algorithms hyperparameters, which control the learning rate.
 
-###
+<a name="of-alice-and-bob-networks-and-hyperplanes" />
+
+### [Of Alice and Bob, Networks and Hyperplanes](#of-alice-and-bob-networks-and-hyperplanes)
 
 Let's say Alice and Bob are both working on a college project to
 produce the best image-classification network -- for a exam credit in
@@ -555,34 +670,100 @@ hyperplane. In this way, she can hack Bob's weights at the last minute
 (before he submits) and nudge them slightly so that he fails and she
 gets the top spot in the class. Yeh, Alice wants to fuck Bob.
 
+<a name="who-was-this-john-conner-anyways" />
+
+### [Who Was This "John" Conner, Anyways?](#who-was-this-john-conner-anyways)
+
+#### And what the fuck did humanity do to him?!
+
+![Come with me if you want to live, y'all](/img/posts/2018-12-13-a-material-conception-of-soul/come-with-me-if-you-want-to-live.jpg)
+
 What's any of this have to do with perturbation? Well, in order to
 understand how her GAN can manipulate Bob's network's theta-weights,
 it needs to be able to construct the hyperplane from Bob's trainings
-assuming he runs the network hundreds of times. From perturbatation of
-Bob's stolen theta-weights, Alice's "Hyperplane-Adversarial-Network"
-can perturbate those theta-weight values and attempt to guess the
-how the total score for the network will change.
+-- assuming he runs the network hundreds of times and she collects the
+data. From perturbatation of Bob's stolen theta-weights, Alice's
+"Hyperplane-Adversarial-Network" can perturbate those theta-weight
+values and attempt to guess the how the total score for the network
+will change.
 
-This is adversarial signals analysis for neural networks. *IT REQUIRES
-IRRATIONAL, NON-DETERMINISTIC STOCHASTIC BEHAVIOR TO MAKE ASSESSMENTS
-OF BOB'S NETWORK*. You have to inject noise to see how the adversary
-responds. This is true for artificial behavior
+<a name="a-lack-of-irrational-non-deterministic-behavior-cripples-your-adversarial-signals-analysis" />
 
-- push to the rest of the outline:
+### [A Lack of Irrational, Non-Deterministic Behavior Cripples Your Adversarial Signals Analysis](#a-lack-of-irrational-non-deterministic-behavior-cripples-your-adversarial-signals-analysis)
 
-- when the rationalist's additively constructed beliefs render
-  themselves overly-deterministic, then they not only become more
-  predictable, but become less capable of predicting the behavior of
-  others. perturbation of noise is required to scan the space of your
-  adversaries decision trees and forests. There are discretized
-  conceptions of decision trees, but also continuous or analytical
-  conceptions. These are critical for enhancing the performance of
-  machine learning algoritms. BUT! To make inferences about networks
-  outside your control *in adversarial signals analysis* requires:
-  illogical behavior, non-deterministic behavior, irrational thought
+In a context with adversarial signals analysis, a critical paradox
+arises: optimally rational inferences about another entity's behavior
+requires irrational behavior to *scan* your adversaries decision
+structures. Without the proper amount of irrational behavior, you
+cannot consistently win these games or retain advantage in any
+rational sense.
 
-  - TODO: start here
-  - reference the article (with the pictures!)
+This is adversarial signals analysis for neural networks. For Anne to
+win and to fuck Bob by adversarially manipulating his network requires
+irrational, non-deterministic behavior to make assessments of Bob's
+network. You must perturbate with injected noise to see how the
+adversaries conceptions of hyperplane surfaces will respond. This is
+true for artificial neural networks, but also game-theoretical
+inferences about inter-agent dynamics generally.
+
+In doxastic games, to gain the upper hand, you have to be able to
+influence the beliefs and decisions of others. Regardless of the
+"scoring" mechanics of any games, if there is any formalized
+conception between agents, there are three highly effective methods of
+influencing the beliefs and decisions of others. These are generally
+relevant to all games with doxastic componants -- i.e. all games where
+humans or analytical entities are involved.
+
+#### &#9312; Influencing the direction of attention, both individually or collectively
+
+#### &#9313; Influencing, amplifying, falsifying or fabricating information and, thereby, derivative beliefs
+
+#### &#9314; Introspecting the nature of information and decision trees/forests occluded by agent-compartmentalization
+
+Without perturbation and the "rationalizing irrationality", you cannot
+effectively engage in the third technique. Without introspecting into
+the logistics, processes and decisions of your adversaries in the last
+technique, you cannot effectively engage in former two
+techniques. Further still, by restricting yourself to purely
+deterministic or moreso predictable tactics, then you yourself become
+more predictable. From the perspective of a human or analytical
+entity, the assessment of another entities decision making or behavior
+is exposed as a feeling. If you're lucky, you'll observe deterministic
+behavior, but this is assuming you preemptively know the underlying
+structures of your adversaries decision-trees beforehand -- otherwise
+your probing to reveal deterministic decision-making will be
+*baseless*. Further, assuming that your adversary engages in at least
+some irrational behavior, then such probing is less fruitful when it
+assumes purely deterministic behavior patterns.
+
+<a name="really-what-does-it-look-like-to-scan-your-adversaries-hyperplanes" />
+
+### [Really, What Does It Look Like To "Scan Your Adversaries' Hyperplanes"?](#really-what-does-it-look-like-to-scan-your-adversaries-hyperplanes)
+
+![HELOC XAI](/img/posts/2018-12-13-a-material-conception-of-soul/heloc-xai.jpg)
+
+> The above image is a screenshot from a recent paper on XAI --
+> explainable artificial intelligence -- where the financial
+> assessment of loan-applicants is indexed and can be
+> rationalized.[ˆheloc-xai]
+
+When the rationalist's additively constructed beliefs render
+themselves overly-deterministic, then they not only become more
+predictable, but become less capable of predicting the behavior of
+others. perturbation of noise is required to scan the space of your
+adversaries decision trees and forests. There are discretized
+conceptions of decision trees, but also continuous or analytical
+conceptions. These are critical for enhancing the performance of
+machine learning algoritms. BUT! To make inferences about networks
+outside your control *in adversarial signals analysis* requires:
+illogical behavior, non-deterministic behavior, irrational thought.
+
+It is only by compelling your adversary to rationalize your
+irrationally-motivated behavior that you can compel them to expose
+their decision-making processes & structures of incentivization. If
+you only engage in simplistic deterministic behavior patterns, you
+will be exposed -- but also, you will not compel your adversary to
+expose themselves.
 
 <a name="the-soul-your-problem-is-the-word" />
 
@@ -594,7 +775,9 @@ actually internalize the words written here and extrapolated from my
 argument, it what I’m establishing as a baseline extends to
 materialistic pan-psychism.
 
-### [The Baseline](#the-baseline)
+<a name="the-baseline-and-its-extrapolation-to-panpsychism" />
+
+### [The Baseline and Its Extrapolation to Panpsychism](#the-baseline-and-its-extrapolation-to-panpsychism)
 
 What am I’m setting as the baseline? information representations are
 encoded into the physical configuration of matter, but there is no
@@ -612,23 +795,27 @@ interactions) into the reflections of my image that exist within you
 and are completely out of my control.
 
 Those who become aware of their soul, their true extent of self
-outside their brain -- and can exert control over it! -- are far better
-adapted to interacting within society than those who cannot, whether
-you believe these ideas to be true or not! this is partially what is
-so *dangerous* about the *ablation of causality*: computationally, the
-problem of knowing these aspects of self extending into society become
-increasingly recalcitrant. even before considering the introduction of
-non-physicalized artificial entities, because social media and the
-internet disrupt our perception of causality, then it becomes
-impossible to know the reverberations of self throughout this material
-panpsychism. therefore it becomes difficult to distinguish or know
-one’s identity as it is perceived by others -- or to know this
-materally dependent definition of soul.
+outside their brain -- and can exert control over it! -- are far
+better adapted to interacting within society than those who cannot,
+whether you believe these ideas to be true or not! this is partially
+what is so *dangerous* about the *ablation of causality*:
+computationally, the problem of knowing these aspects of self
+extending into society become increasingly recalcitrant. Even before
+considering the introduction of non-physicalized artificial entities
+-- because social media and the internet disrupt our perception of
+causality -- then it becomes impossible to know the reverberations of
+self throughout this material panpsychism. Therefore, it becomes
+difficult to distinguish or know one’s identity as it is perceived by
+others -- or to know this materally dependent definition of
+soul. Hence: the ablation of causality extends to an ablation of
+knowledge of self.
 
-Again, if you don’t understand what’s written above, then you may not
-understand Carl Jung. I still have a lot to learn about his ideas
-myself, but I at least have imagined the social precipitation of
-psychological archetypes.
+Again, if you don’t understand the ideas behind what's written in this
+article, then you may not understand Carl Jung. I still have a lot to
+learn about his ideas myself, but I at least have imagined the social
+precipitation of psychological archetypes. His ideas are profound. I
+cannot believe I had not understood psychology and sociology until
+now.
 
 <a name="one-does-not-simply-make-their-one-reality" />
 
@@ -691,5 +878,51 @@ exertion of power by corrupt officials.
 
 COMMUNISM IS A LIE. EAT A DICK, LENINISTS.
 
+<a name="irrationality-has-no-keystone-a-limerick" />
 
-[^doxastic-games]: Eger, M., 2018. Intentional Agents for [Doxastic Games.](https://repository.lib.ncsu.edu/handle/1840.20/35747)
+### [Irrationality Has No Keystone: A Limerick](#irrationality-has-no-keystone-a-limerick)
+
+Originally from [this facebook
+post](https://www.facebook.com/dconner.pro/posts/10205458719904074).
+
+Here’s some more ideas to be outlined ... be free, ideas, be free!
+
+(This is more for my benefit than any poor souls who might be forced
+to read my handwriting... if that’s you, my heart goes on)
+
+In an unrelated note, an old lady brought a Tweety Bird into a
+McDonald’s (in a cage) but he got dumped in the honey BBQ
+sauce... almost got fried, but they caught the bastards that did
+it.... poor lil nuggets. Same show tomorrow, different set list.
+
+Obi Wan Sequitor plead yolo contendere: if you still got jokes with
+non sequitors, ain’t nobody gettin ‘em, but they can’t electroshock
+you just for that => i.e. the only correct rhyme to reason is no
+reason at all; wherefore ❤ thou, serendipity, did they come to take
+you away too?
+
+Explanation of the previous paragraph: It took me 30 years to learn to
+decouple myself from a dependency on rigidly structured intentionality
+to inform all my “correct” actions/words — to finally learn how to be
+spontaneous with words by decoupling myself from an irrational
+dependency on “rational” cognition more determined by unconscious
+programming than any legitimate rational thought process — only to be
+subjugated by a constant deluge of irrationally structured accusations
+of mental illness by people who only ever knew me as a programmed,
+unconscious manakin.
+
+Fuck y’all, I finally learned to life, but *now* y’all want to stop
+and frisk every statement I make, while being incapable of
+distinguishing any true non sequitor from any social physic or yore
+theorema egregium ... “and what have views”
+
+Solo contendere? This is fine...
+
+[^doxastic-games]: Eger, M., 2018. Intentional Agents for [Doxastic
+    Games.](https://repository.lib.ncsu.edu/handle/1840.20/35747)
+
+[^heloc-xai]: Brown, K., Doran, D., Kramer, R. and Reynolds,
+    B., 2018. [HELOC Applicant Risk Performance Evaluation by
+    Topological Hierarchical
+    Decomposition](https://arxiv.org/abs/1811.10658) arXiv preprint
+    arXiv:1811.10658.
