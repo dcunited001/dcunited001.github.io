@@ -478,7 +478,8 @@ aesthetic qualities?
       being rejected for it's injuries.
     - i started crying in the dream and immediately woke up
 
-dream where this dog (a great dane) kept licking my face
+### dream where this dog (a great dane) kept licking my face
+
 - kind of a silvery coated great dane
 - i'm not sure how i met the dog. i was in some building with open
   space and open floors, like a dance studio, but in the back area
@@ -501,6 +502,134 @@ dream where this dog (a great dane) kept licking my face
   - no matter what we did or how we tried to egg her on, she wouldn't
     do it anymore after that.
 - kind of a wierd dream, but there was a point to it, i promise
+
+### dream where someone tried to set me up to drown in a flood
+
+- (when writing this, separate the dream's & my injection of
+  interpretations)
+
+Basically, someone from my childhood tried to set me up in a situation
+where I would die and should could claim it was an accident. IRL, she
+is a friendly older woman figure that I trust, so let's call her
+Alice.
+
+> This is during a flood (a general weather event where emergent
+> situtions become capable of anticipation, but are those which most
+> younger, less experienced people would feel were an accident
+
+
+
+#### Starting with Porn
+
+- I don't even fucking know. It was something like VR porn. I was in
+  it, but there was also a tape involved. The time and events here
+  were fairly unclear. This is wierd, but it's strong imagery that
+  must be correlated to the rest of the dream.
+
+#### Posting on Facebook
+
+- the next thing I remember is writing a post on facebook. this is
+  wierd because I don't usually dream about digitized means of
+  interaction.
+
+#### Finding myself in her car
+
+
+
+#### Getting Close the the River
+
+As she started to act, I remember that the post was an anticipation of
+a similar course of events: I felt that the flood brought with it some
+kind of danger; that some set of events would unfold, where the
+environment would create the opportunity for someone to act.
+
+#### Being Trapped in Beside a Small Ridge, where the door couldn't open
+
+
+
+#### Having the Waters of the Flooding River Whip the Car around.
+
+This saved my life. Since I had my murder on my mind and my mind on my
+own impending murder, I was like "Oh shit! This is happening now. Get
+that fucking door open. Bye!"
+
+#### Seeing my friend peering back up from the waters
+
+She had made it out and was safe. Here, I looked into the river (as if
+standing above it) and saw a friend from childhood looking back up
+from it. Visually, it was presented to me as though the muddy waters
+of the river were simply faded away (like i was peering through the
+waters) and he looked up at me. I got a feeling that he was involved
+somehow. This was nearby the bridge, so the imagery of the bridge was
+"above" me when i was peering into the waters.
+
+#### Starting to talk to the First Responders
+
+Here there was a lot of waiting. Details were being collected for
+insurance purposes, since her car had been swept away.
+
+- instead of focusing on the *murky* truth that she had just tried to
+  kill me, which would be difficult to prove, i instead began focusing
+  on how to help her account for the situation she *tried to create*
+  where her car (a Red SUV) was swept away by the flood, so that she
+  would be alright, for insurance purposes.
+
+- there was an eerie pause in developments here. *in the dream*, i
+  became aware that these people were waiting to hear my response
+  because they all needed to react to it.
+  - it was here that i noticed details were being collected "for
+    ensurance purposes". I assumed that people's eerie anticipation to
+    see how i reacted indicated their cognizance of an operation.
+
+#### [She] was taken somewhere else
+
+gradually, the
+
+#### Being Forced to Walk Home
+
+- i was basically forced to walk home
+
+#### Meeting Friends Nearby (they were walking towards the river & scene of accident)
+
+
+
+#### Walking With Friends Across the Bridge (Near the Railroad Tracks & River)
+
+- all the friends were from high school (KM, BC, ... those are the
+  only faces I remember)
+  - they were walking towards the river.
+- when they met me, the didn't want to stay. i started trying to
+  question why they were physically moving away from me, which quickly
+  became accusatory "oh, so you can't be associated with me, huh?"
+  basically...
+  - at this point, they slowly turned around and were "with" me as i
+    trekked up the hill, but they were intentionally moving
+    faster. they perhaps just wanted it to look like they cared enough
+    to turn around. they started to walk faster and eventually ditched
+    me, making accusatory statements about "nazi this, donald trump
+    that"
+
+#### Warping To A Skating Rink in South Caroline
+
+- where my mom wanted to get some pictures taken. I don't think she
+  yet knew what had happened. when I got there, DJ equipment started
+  falling to the floor. yet, i don't think the focus on the DJ
+  equipment was strong. The lighting was blue, the floor glowed and
+  there was more emphasis on lighting and music.
+
+#### Why did this dream seem different?
+
+
+- IM cerebrolysin, before i went to sleep, perhaps made the dream's
+  imagery stronger, with a longer and more continuous narrative
+
+- many details were coherent with someone's intent to murder and make
+  it look like an accident
+
+- some of these, really, wouldn't likely come from my subconscious
+  mind, but perhaps. It is possible.
+
+- the friends who were walking
 
 ===============
 
