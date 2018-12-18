@@ -53,6 +53,9 @@ permalink: /quotes/
 > Every system seemingly modern exists merely as facade, masking
 > countless strata of ancient facade.
 
+> The subjective is not inherently worthless ... unless it's coming
+> from someone else.
+
 > Simple wants what simple gets.
 
 > The definition of insanity is to remain unconscious to one's
