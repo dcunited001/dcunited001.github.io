@@ -478,6 +478,13 @@ aesthetic qualities?
       being rejected for it's injuries.
     - i started crying in the dream and immediately woke up
 
+(2018/12/18) My reaction today? Fuck that cat! now... hear me out. I
+would never be that cat: I will always wear my scars proudly. I also,
+would never ever push that cat away. In fact, someone traumatized by
+forces beyond their control (or within their control) should never be
+pushed away. That's wrong. I gravitate towards these people or
+animals, even though they may have
+
 ### dream where this dog (a great dane) kept licking my face
 
 - kind of a silvery coated great dane
@@ -486,7 +493,8 @@ aesthetic qualities?
 - when i met the dog, she was with her owner, who was also a
   photographer (very famous locally or something)
   - the dog seemed to be one who had been raised somewhere like floyd
-    and wasn't accustomed to meeting people very often.
+    and wasn't accustomed to meeting people very often. This i
+    reflected upon in the dream.
   - it's personality seemed to indicate that she wasn't guarded and
     never needed to be reprimanded for being a dog.
     - the dog didn't seem to know what it meant to be a dog.
@@ -505,7 +513,7 @@ aesthetic qualities?
 
 ### dream where someone tried to set me up to drown in a flood
 
-- (when writing this, separate the dream's & my injection of
+- (when writing this, separate the dreams & my injection of
   interpretations)
 
 Basically, someone from my childhood tried to set me up in a situation
@@ -534,14 +542,76 @@ Alice.
 
 #### Finding myself in her car
 
-
+- I next found myself in her car, a Red SUV. It was raining hard and
+  flooding. As I looked over to the river, the waters were still
+  mostly contained before they breached over the road, but as time
+  progressed the strangely murky brown waters, quickly began to
+  chaotically eat the road. In the dream this transition occured on a
+  timescale that seemed to happen in seconds.
+  - As it did, my attention was on the murkiness of flooding rivers
+    that toss sediment about: this appearance is an phenomenon of
+    optical occlusion in water with suspended solutes of many
+    different sizes. The light doesn't reflect/refract evenly
+    throughout the liquid. I noticed this effect in the way the waters
+    unevenly began washing over the road. To me, it appeared that the
+    water wasn't were it seemed to be, but it was tossing about
+    fast. This made it difficult to see where the road was and where
+    it wasn't. This is where I started to feel impending danger, but
+    not distrust.
 
 #### Getting Close the the River
+
+Alice started driving the car towards a road near the river. It was
+one of those moments of danger where you either ask questions about
+"hey, where are we going" or you don't or you just figure it out. Oh
+joy! We're going towards danger! How you react in those moments and
+how you let someone control your descent is critical to your survival,
+should you ever be targeted.
+
+As she approached that road, instead of she began to cross grass down
+a very mild slope. To me, in signaling how I should respond, was
+perhaps the most critical dream. She was calm and presenting me a
+neutral reaction, looking right at me, while her steering wheel was
+bouncing around in response to the mild, but someone turbulent motion
+of the change in terrain. However, she wasn't simply letting the
+steering wheel bounce around, she was anticipating the correlation of
+its motion and moving it to exacerbate its motion. These are like many
+other moments in life, where I began to recognize incredibly malicious
+cognizance. She read and *felt* the correlation of the steering wheels
+motion and exacerbated it, but was also simultaneously not trying to
+lose control of the car. WHY?! Because she was considering the tire
+tracks in her mind. If the motion of the car were exaggerated
+*slightly*, then it would add to a narrative useful *after the course
+of events*, which were supposedly an accident.
+
+> This is how I react in such a situation. I've been here before. I
+> reflect calm to match or surpass the normalcy of calmness by which
+> my adversary displays. They are calm? They project control. I
+> reflect calm. A stronger, more normal calm? It's a battle of wits,
+> which provokes cognition (a dispersion of mental energy) in those
+> who are attacking me. It is in the height of their uncertainty that
+> I act. Why? Because I am certain that they are threatening me. I
+> must be calm & collected and they must become uncertain of the
+> course of events. This is apparently deeply engrained in my
+> subconsciousness. And you're damn right it is. In 2010, I've had to
+> consider throwing a car into a telephone pole, when I got in a
+> stranger's car who I later realized was perhaps driving me to my
+> doom -- when I realized the door-handle was dangling and I couldn't
+> escape if I couldn't overcome fear. Then I realized that he had
+> intentively commanded my attention the entire time and was aware
+> that I wasn't aware that I couldn't escape. Did I let terror control
+> me. HELL NO! *And I was on acid.* What happened? That nice, cunning
+> asshole drove me home.
 
 As she started to act, I remember that the post was an anticipation of
 a similar course of events: I felt that the flood brought with it some
 kind of danger; that some set of events would unfold, where the
-environment would create the opportunity for someone to act.
+environment would create the opportunity for someone to act against
+me.
+
+> From outside of the dream, I cannot recollect whether she was aware
+> of the post, but I remember the awareness that also caused me to
+> write it is what saved me.
 
 #### Being Trapped in Beside a Small Ridge, where the door couldn't open
 
@@ -571,8 +641,8 @@ insurance purposes, since her car had been swept away.
 - instead of focusing on the *murky* truth that she had just tried to
   kill me, which would be difficult to prove, i instead began focusing
   on how to help her account for the situation she *tried to create*
-  where her car (a Red SUV) was swept away by the flood, so that she
-  would be alright, for insurance purposes.
+  where her car was swept away by the flood, so that she would be
+  alright, for insurance purposes.
 
 - there was an eerie pause in developments here. *in the dream*, i
   became aware that these people were waiting to hear my response

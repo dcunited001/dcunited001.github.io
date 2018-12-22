@@ -56,11 +56,6 @@ perspective.
 
 ### [三易: The Three Yi](#the-three-yi)
 
-The I Ching went through three major period of reinterpretation,
-according to the following lecture. Each period corresponds to a
-different means of interpreting the I Ching: in terms of state, change
-and essence.
-
 TODO: link lecture that this was obtained from. note that I can't find
 much info on this (even in chinese searches)
 
@@ -68,10 +63,7 @@ much info on this (even in chinese searches)
 
 #### Change: 變易 biànyì へんい 변이
 
-#### Essence: 不易 bùyì ふい 부이
-
-> The above phonetic translations into Korean and Japanese may need
-> correction comes from
+#### TODO: Essence (yijing)
 
 Within the three yi lays the definition of the differential operator;
 in simpler terms: the derivative. This much is made plain, yet

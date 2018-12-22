@@ -30,7 +30,7 @@ excerpt: ""
 - Does this place responsibility on man in manifesting harmony with
   God's true forms as best it possibly can?
 
-... also: [SOAD - Solder Side]() from the same album
+... also: [SOAD - Soldier Side]() from the same album
 
 ======
 

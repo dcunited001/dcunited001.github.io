@@ -105,8 +105,8 @@ on I Ching, [Nana Akosua Baakan
 Agyeiwaah](https://www.youtube.com/playlist?list=PLC4D19CAA84861524),
 makes a very simple statement that resonates powerfully, *if you
 understand what the soul is*. It doesn't necessarily require the
-definition of the soul outlined below, but if you understand what the
-soul is, this statement is very powerful:
+definition of the soul outlined in this article. Still, whatever your
+definition of the soul, this statement is very powerful:
 
 > The oracle is a vehicle to help us listen to our soul speak, but we
 > must be *quiet* if we are to hear what our soul is trying to speak
@@ -205,7 +205,7 @@ still nascent forming shone a light unto the right unconscious corners
 the unconscious in some miraculous way. To what end? To Seek
 continuous self improvement without the defect of a false sense of
 completion after one learns so much of the world. How does one stay on
-the path?  How does one stay course on the Hero's journey? Does the
+the path?  How does one stay course on the Hero's Journey? Does the
 hero with the longest journey result with unsurpassed heroic
 development?
 
@@ -281,10 +281,17 @@ doxastic games[^doxastic-games]. These are games centered around
 projection and propagation of knowledge or belief. There are many
 board games which are formalized conceptions of these and the
 magnificent thesis in the footnote discusses doxastic games in terms
-of . Understanding the idea of doxastic games requires incredibly deep
-knowledge of game theory, but these are games where beliefs are
-projected through society. **Telephone** and **The Rumor Mill**, those
-are doxastic games.
+of some well-known boardgames, like [One Night Ultimate
+Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7GG5G)
+and
+[Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi). Understanding
+the ideas of epistemic, doxastic and deontic games *with depth*
+requires [incredibly deep
+knowledge](https://www.youtube.com/watch?v=4LqtZrzI_ko) of logic with
+applied game theory[^mat-science-playlist]. Try to watch those videos:
+I dare you LMAO. Essentially, these are games where beliefs are
+projected among players or through society. **Telephone** and **The
+Rumor Mill**, those are doxastic games.
 
 > "Explain it to them like they're five" they said...
 
@@ -295,6 +302,35 @@ recollections of experience can be activated almost like files are
 opened on a computer. Individuals in society collectively guide their
 attention towards memories that are each associated with collections
 of identities.
+
+The strategy and tactics of **meme magic** and **viral marketing** are
+deontic games because it relates to dispersion of memes into social
+media, understanding how norms will form *before normification
+occurs*, and how people will orient themselves to norms *as
+normification occurs*. Don't simply believe it because I told you so
+-- "You have to actually know what you're talking about", *they* said
+-- so here's crazyman, he'll explain and he's probably got one of
+those college degree things.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dTJD2p4ahiM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+... Or check the footnotes for a link to a paper by *men of lettres*
+-- with squiggles, dots and other symbols you can't
+read.[^deontic-games] Words! "Use your words", they said. Personally,
+I recommend crazyman. It's really *not* that hard.
+
+> Those same people who wrote things you can't read? They'll tell you
+> "DC doesn't know what he's talking about" without saying it in a way
+> where I can respond to it. Maybe they're mad that they're still
+> paying off $80,000 student loans for degrees whose value apparently
+> doesn't age well. Don't get me wrong. I'd love to go back to
+> school. Being around people who can understand me would be
+> therapeutic beyond anything else I can imagine. Is that going to
+> happen? No. Does anyone indicate to me that they intend to help me
+> make that happen? *NOOOO!* What if it happens? I'll be artificially
+> failed out, all so people with bigger and badder lettres (and
+> student loans!) can say *I never knew what I was talking about*.
+> Sound fun? Fuck that fake noise!
 
 <a name="eternal-torment-of-the-soul-is-a-doxastic-game" />
 
@@ -328,7 +364,17 @@ would thus only defer to God. -->
 > information states: forced to choose between pieces. You cannot have
 > one without the other, Criag.
 
+
 ![And the Devil always has something to say, huh?](/img/posts/2018-12-14-material-conception-of-soul/the-devil.jpg)
+
+One thing about Fabrication: the perpetrators do not want to leave a
+paper trail, especially when they cannot anticipate what the
+steganographer is going to type. They have to cover their tracks. Did
+[Bobby Blankenship](https://github.com/dcunited001/bb8) want court
+records. Hell motherfucking no! They will bluff it, but if you size it
+up *and truly recognize fabrication for what it is*, then you can call
+their call their bluff. You don't need to look at their cards. It
+doesn't matter anyways, *THEY'RE CHEATERS!*. #Surveillance #BB8.
 
 If you bind people down with fabricated information or belief, that is
 wrong. It is especially easy to do to the ignorant, the young ... or
@@ -373,10 +419,10 @@ light. To do so requires faith in the truth as a shield, faith in the
 process and understanding that is difficult to come by *without
 religion*. If you cannot connect the dots between Psalm 23 and the
 power of truth as a guardian, then you need to go to school. To
-devalue religion as ancient pre-modern, non-scientific hocus pocus is
+devalue religion as ancient, pre-modern, non-scientific hocus pocus is
 the pinnacle of ignorance.
 
-<a name="fabrication-is-the-cias-specialty" />
+<a name="our-specialty-its-fabrication" />
 
 ### [Our Specialty? It's Fabrication](#our-specialty-its-fabrication)
 
@@ -390,8 +436,13 @@ have it. It was pre-meditated fabrication: the "truth" manufactured
 and little more -- to a limited audience, which is why startups are
 perfect. Where there was one fabrication operation, there are
 many. There's no handbook for fabrication: it's a difficult skill to
-teach because it loses its effectiveness when then general public is
-aware of the possibility of intentionally manufactured circumstances.
+teach because its edge is dulled when then general public is aware of
+the possibility of intentionally manufactured circumstances. It's just
+not effective when people expect it: they become cynical and
+skeptical. They ask questions. They gain insight: therefore the
+public's powers of deduction, abduction and induction are magnified
+when the spatial complexity of logic is reduced by gradual coalescence
+of the truth.
 
 <a name="ever-since-pontius-pilate-one-hand-washes-the-other" />
 
@@ -407,8 +458,8 @@ reading the why's between the lines.
 Jesus really drove home that *faith without proof* thing. If there
 *was* a historical Jesus, it's as though that shrewd player expected
 every move the Romans and Jews would make.  He knew they'd cover up
-all those pesky *revolutionary* questions he asked, like "wherefore
-*art* thou , meek?" -- to paraphrase with Shakespearean eloquence, in
+all those pesky *revolutionary* questions he asked, like *"wherefore
+*art* thou , meek?"* -- to paraphrase with Shakespearean eloquence, in
 case you read Romeo and Juliet, but never understood that line.
 
 > "And the *blind* and the *lame* came to Him in the temple; and He
@@ -418,12 +469,12 @@ Where does it say that Jesus toyed with the lives of the weak or
 protected them from the truth? He opened their eyes and healed the
 sick. He empowered the people for being what they were: people. Ever
 individual has inherent power they produce. In the I Ching, this
-energy is fire and is discussed in Hexagram 37: Family. This is an
+energy is fire as discussed in Hexagram 37: Family. This is an
 individuals inherent ability to produce and accumulate power, no
 matter whether rich or poor. To do so requires *knowledge*. Knowledge
 is power. Jesus opened the eyes of the poor and healed the lame. He
 empowered the meek. For this and other 'blasphemies' he was crucified
-by the Jews and Romans.
+by the Jews *and Romans.*
 
 The Romans and Jews *thought* they had killed the enlightened Jesus:
 the Jesus whose soul lived on in others. These are doxastic games: to
@@ -433,10 +484,10 @@ identity and reshape them. You can brainwash people or use other
 tricks to distract their minds from the truth. If there are documents,
 you must destroy them. This is why the Dead Sea Scrolls were such a
 magnificent cache: they escaped *all* of the pre-Dark Age document
-purges. The burning of the Library of Alexandria and murdering of
-scholars in pre-Han China?  They were engineered tragedies of doxastic
-games for power by controlling the seeds of all later scholastic
-thought.
+purges: pre-Nicene and post-Nicene. The burning of the Library of
+Alexandria and murdering of scholars in pre-Han China? These were
+engineered tragedies of doxastic games for power by controlling the
+seeds of all later scholastic thought.
 
 <a name="why-did-adam-and-eve-hide-from-god" />
 
@@ -445,8 +496,9 @@ thought.
 Adam and Eve were unconscious to God's unparalleled capacity to
 ascertain the commission of their original sin. They symbolize early
 mankind's mistakes in committing sins without yet being conscious to
-the typologies of consequences of sins. Yet, there is no hiding from
-God, for which the question remains: what is God?
+the typologies of consequences of sins:
+[hamartology](https://en.wikipedia.org/wiki/Hamartiology). Yet, there
+is no hiding from God, for which the question remains: what is God?
 
 The thing about sin is that you must hide it or hide from it the rest
 of your life. That's what the story of Jesus was about, in case you
@@ -457,7 +509,10 @@ their defense.
 
 Society has robbed me of the ability to have children in any safe
 environment, where they won't simply be used as someone else's pawns,
-just like it has robbed me of everything else I might have.
+just like it has robbed me of everything else I might have. The man
+who has nothing has nothing to fear. Why do you think Jesus did not
+have children? What would Jesus do? Apparently, *he would not have
+children.*
 
 <a name="reincarnation-defined-in-materialistic-terms" />
 
@@ -480,7 +535,7 @@ to accept at least this much.
 
 If one defines the psyche has the mind within the constraints of our
 body, then in the typological terms of [Type
-Theory](https://en.wikipedia.org/wiki/Type_theory) if our
+Theory](https://en.wikipedia.org/wiki/Type_theory), if our
 singleton-type representing our individual psyche is composed of
 metatypes and archetypes, it becomes straightforward to compare each
 others psyche by contrasting type-composition. Furthermore, if we
@@ -519,7 +574,7 @@ which could perhaps *never* be proven, *requiring the [Devil's
 Proof](https://en.wikipedia.org/wiki/Probatio_diabolica)*. If there is
 no are no rational methods to prove something, but it is still true,
 then acting in accordance with reality may seem to be incompatible
-with logic.
+with logic. What is absolute truth then?
 
 <a name="the-soul-is-not-what-you-think-it-is" />
 
@@ -537,7 +592,7 @@ the components of our singleton composition of type.
 ### [What is the Soul?](#what-is-the-soul)
 
 The materialistic components of the soul are disaggregated shards of
-identity -- they exist in the self AND they are socially distributed
+identity -- they exist in the self *and* they are socially distributed
 through society. This requires no supernatural explanation or [Woowoo
 physics](https://rationalwiki.org/wiki/Quantum_woo). If you can’t see
 that, you lack imagination or you do not understand Carl Jung
@@ -550,10 +605,10 @@ supernaturally? That is another question entirely. This definition is
 a baseline, above which materialists are confined to operate
 rhetorically. They must admit at least this and if they don't it means
 they are a materialist not well-educated enough on dynamics of
-inforamtion from within a purely material conception of our world. If
-you do not understand my definition, then it means you lack either
-imagination or intellect. There is no room for subjectivity in this
-context. The soul exists. End of story.
+information representations from within a purely material conception
+of our world. If you do not understand my definition, then it means
+you lack either imagination or intellect. There is no room for
+subjectivity in this context. The soul exists. End of story.
 
 <a name="imo-western-rationalism-is-a-cruel-joke" />
 
@@ -575,12 +630,12 @@ engineering.
 > enlightenment and rationalism after sufficient cultural engineering
 > to allow rationalism to flourish.
 
-Why do militant atheists spit on the memory of Christianity? According
-to the most educated atheists -- i.e. Richard Dawkins -- concepts such
-as memetics and holonic information theory imply that spectrally
-harmonized belief systems have critical sociological functions. The
-radicalizing atheists online are simply uneducated or lack
-imagination.
+Why do militant atheists spit on the memory of Christianity? Even
+according to the most educated atheists -- i.e. Richard Dawkins --
+concepts such as memetics and holonic information theory imply that
+spectrally harmonized belief systems have critical sociological
+functions. The radicalizing atheists online are simply uneducated or
+lack imagination.
 
 <a name="atheists-are-a-delicacy-to-me" />
 
@@ -590,8 +645,8 @@ You lack imagination. Predominantly, that is my greatest critique of
 less-educated atheists: they short-circuit their power of imagination
 without developing the intellect to critique their own ideas. The more
 educated that materialists or atheists are, the more they tend to
-rigorously examine their own ideas. Many of them? They are purely
-political pawns and I feel sorry for them, son.
+rigorously examine their own ideas. Many of those who do not? They are
+purely political pawns and I feel sorry for them, son.
 
 <a name="they-got-99-pawns" />
 
@@ -611,6 +666,22 @@ really appreciate it. In other words, you aren’t as rational as you
 believe yourself to be, so you probably shouldn’t be so *adamantine*
 in your response to ideas outside those you accept as “real” or
 “proven”.
+
+... After all, all the boundaries of the common era's accepted
+knowledge are *unproven*: this transends to **diffeomorphic
+epistemology** -- i.e. what is the shape of the body of knowledge, as
+the common person perceived rational, impending contributions to the
+body of knowledge. Diffeomorphic epistemology is what you get when you
+combine the idea of a Kantian Category with Kant's work on
+epistemology.
+
+Kant was far, far ahead of his time, perhaps from a galaxy far, far
+away -- yet *emblematic* of the soon-to-unfold Enlightenment. Upon
+extrapolation, the intersection of diffeomorphic epistemology and
+spectral informational theory must converge to produce of a
+coalescence of [synthetic a
+priori](https://en.wikipedia.org/wiki/Analytic–synthetic_distinction#The_possibility_of_metaphysics):
+truly universal knowledge.
 
 #### I Will Not Hesitate To Beat You With Your Own Shoe!
 
@@ -649,7 +720,7 @@ to ever do anything that distinguishes them above another entity
 Rationalists -- in their ineffectual pursuit of purely additive
 construction of their individual *beliefs* -- are always chasing what
 is effectively a set of rules that enables deterministic
-behavior. Some of them do so without even understand adversarial
+behavior. Some of them do so without even understanding adversarial
 signals analysis! Can you believe it? I can. I see and hear it all the
 time on Facebook.
 
@@ -677,8 +748,8 @@ humiliation and marginalization, I don't take that very well because,
 unlike the few people around me, *I know how my viewpoints differ from
 their viewpoints*, but they cannot even entertain my viewpoints. Then
 they marginalize me *because my pain is inconvenient for them to
-acknowledge.* **Because my pain ... *is inconvenient* to them**
-... when what I bring them out of pain is beautiful, they fail to
+acknowledge.* **Because my pain ... is inconvenient** *to them!*
+... When what I bring them out of pain is beautiful, they fail to
 acknowledge anything related to my identity because the pain I've
 endured is uncomfortable *to them.*
 
@@ -720,10 +791,12 @@ know. Anyways, they are both fairly rational and that's also entirely
 beside the point. Perhaps the previous three sentences were
 irrational. Do I care? Fuck no. Anyways, Alice get's real smart and
 hacks Bob's computer. Bob is smart and reads Kaggle posts. He finds a
-typical Deep neural net strategy. Every time he trains the network,
+typical Deep neural net strategy. Every time Bob trains the network,
 Alice has embedded malware that sends his training weights to her
-computer. She's running the same network: that's what almost everyone
-on Kaggle does; they run the best network.
+computer. She's running the same network. That's what almost everyone
+on Kaggle does: they run the best network. The major differences are
+found in whether a model incorporates domain knowledge and how it does
+so, particularly with regard to hyperparameters and backpropagation.
 
 Alice is real smart though, so she decides to construct a General
 Adversarial Network on top of the training weights that Bob's network
@@ -745,7 +818,7 @@ gets the top spot in the class. Yeh, Alice wants to fuck Bob.
 
 #### And what the fuck did humanity do to him?!
 
-![Come with me if you want to live, y'all](/img/posts/2018-12-14-material-conception-of-soul/come-with-me-if-you-want-to-live.jpg)
+![Come with me if you want to live, y'all](/img/posts/2018-12-14-material-conception-of-soul/come-with-me-if-you-want-to-live.jpg)"
 
 What's any of this have to do with perturbation? Well, in order to
 understand how her GAN can manipulate Bob's network's theta-weights,
@@ -755,6 +828,8 @@ data. From perturbatation of Bob's stolen theta-weights, Alice's
 "Hyperplane-Adversarial-Network" can perturbate those theta-weight
 values and attempt to guess the how the total score for the network
 will change.
+
+> "Welcome to Cracker Barrel! Come with me if you want to live, y'all!
 
 <a name="a-lack-of-irrational-non-deterministic-behavior-cripples-your-adversarial-signals-analysis" />
 
@@ -772,7 +847,7 @@ win and to fuck Bob by adversarially manipulating his network requires
 irrational, non-deterministic behavior to make assessments of Bob's
 network. You must perturbate with injected noise to see how the
 adversaries conceptions of hyperplane surfaces will respond. This is
-true for artificial neural networks, but also game-theoretical
+true for artificial neural networks, but also for game-theoretical
 inferences about inter-agent dynamics generally.
 
 In doxastic games, to gain the upper hand, you have to be able to
@@ -796,7 +871,7 @@ technique, you cannot effectively engage in former two
 techniques. Further still, by restricting yourself to purely
 deterministic or moreso predictable tactics, then you yourself become
 more predictable. From the perspective of a human or analytical
-entity, the assessment of another entities decision making or behavior
+entity, the assessment of another entity's decision making or behavior
 is exposed as a feeling. If you're lucky, you'll observe deterministic
 behavior, but this is assuming you preemptively know the underlying
 structures of your adversaries decision-trees beforehand -- otherwise
@@ -811,14 +886,19 @@ assumes purely deterministic behavior patterns.
 
 > Below is a screenshot from a recent paper on XAI -- explainable
 > artificial intelligence -- where the financial assessment of
-> loan-applicants is indexed and can be rationalized.[^heloc-xai]
+> loan-applicants is indexed and can be rationalized.[^heloc-xai] This
+> is a simplicial complex, a special kind of graph, which approximates
+> the topological nooks and crannies of the hyperplane. See those
+> little strings on the outside of the graph? Those are extreme
+> topological features -- or *extremely normal* topological features
+> in rare cases, perhaps...
 
 ![HELOC XAI](/img/posts/2018-12-14-material-conception-of-soul/heloc-xai.jpg)
 
 When the rationalist's additively constructed beliefs render
 themselves overly-deterministic, then they not only become more
 predictable, but become less capable of predicting the behavior of
-others. perturbation of noise is required to scan the space of your
+others. Perturbation of noise is required to scan the space of your
 adversaries decision trees and forests. There are discretized
 conceptions of decision trees, but also continuous or analytical
 conceptions. These are critical for enhancing the performance of
@@ -826,12 +906,13 @@ machine learning algoritms. BUT! To make inferences about networks
 outside your control in adversarial signals analysis requires:
 illogical behavior, non-deterministic behavior, irrational thought.
 
-It is only by compelling your adversary to rationalize your
+It is by compelling your adversary to rationalize your
 irrationally-motivated behavior that you can compel them to expose
-their decision-making processes & structures of incentivization. If
-you only engage in simplistic deterministic behavior patterns, you
-will be exposed -- but also, you will not compel your adversary to
-expose themselves.
+their decision-making processes & structures of incentivization. To
+this end, engaging in somewhat irrational behavior beats purely
+rational processes. If you only engage in simplistic deterministic
+behavior patterns, you will be exposed -- but also, you will not
+compel your adversary to expose themselves.
 
 <a name="the-soul-your-problem-is-the-word" />
 
@@ -839,7 +920,7 @@ expose themselves.
 
 If you don’t define the soul, you can’t say that what I define as the
 soul doesn’t exist. You basically don’t like the word. And yes, if you
-actually internalize the words written here and extrapolated from my
+actually internalize the terms written here and extrapolated from my
 argument, it what I’m establishing as a baseline extends to
 materialistic pan-psychism.
 
@@ -955,8 +1036,9 @@ post](https://www.facebook.com/dconner.pro/posts/10205458719904074).
 
 Here’s some more ideas to be outlined ... be free, ideas, be free!
 
-(This is more for my benefit than any poor souls who might be forced
-to read my handwriting... if that’s you, my heart goes on)
+[These handwritten post-it notes are] more for my benefit than any
+poor souls who might be forced to read my handwriting... if that’s
+you, my heart goes on.
 
 In an unrelated note, an old lady brought a Tweety Bird into a
 McDonald’s (in a cage) but he got dumped in the honey BBQ
@@ -969,15 +1051,15 @@ you just for that => i.e. the only correct rhyme to reason is no
 reason at all; wherefore ❤ thou, serendipity, did they come to take
 you away too?
 
-Explanation of the previous paragraph: It took me 30 years to learn to
-decouple myself from a dependency on rigidly structured intentionality
-to inform all my “correct” actions/words — to finally learn how to be
-spontaneous with words by decoupling myself from an irrational
-dependency on “rational” cognition more determined by unconscious
-programming than any legitimate rational thought process — only to be
-subjugated by a constant deluge of irrationally structured accusations
-of mental illness by people who only ever knew me as a programmed,
-unconscious manakin.
+It took me 30 years to learn to decouple myself from a dependency on
+rigidly structured intentionality to inform all my “correct”
+actions/words — to finally learn how to be spontaneous with words by
+decoupling myself from an irrational dependency on “rational”
+cognition more determined by unconscious programming than any
+legitimate rational thought process — only to be subjugated by a
+constant deluge of irrationally structured accusations of mental
+illness by people who only ever knew me as a programmed, unconscious
+manakin.
 
 Fuck y’all, I finally learned to life, but *now* y’all want to stop
 and frisk every statement I make, while being incapable of
@@ -997,4 +1079,19 @@ Solo contendere? This is fine...
 
 [^adversarial-network]: Romano, Y., Aberdam, A., Sulam, J. and Elad,
     M., [Adversarial Noise Attacks of Deep Learning
-    Architectures–Stability Analysis via Sparse Modeled Signals.]()
+    Architectures–Stability Analysis via Sparse Modeled Signals]()
+
+[^mat-science-playlist]: This playlist on Youtube's
+    [matsciencechannel](https://www.youtube.com/user/matsciencechannel)
+    is [a fantastic collection of 12
+    lectures](https://www.youtube.com/watch?v=KVOpXJZWLC4&list=PLhkiT_RYTEU0jce7u5fJz_S6nOad-58Uk)
+    which would probably require me a month to watch, were I to
+    extract 12-15% of the content with an understanding of the
+    symbolic manipulation of epistemic, doxastic and deontic logic
+    with applied game theory. It is unbelievably fascinating and a
+    major upgrade to your brain.
+
+[^deontic-games]: Dong, H. and Roy, O., 2015. [Three deontic logics
+    for rational agency in
+    games](https://scholar.google.com/scholar?cluster=3823339452627271399&hl=en&as_sdt=0,47)
+    Studies in Logic, 8(4), pp.7-31.
