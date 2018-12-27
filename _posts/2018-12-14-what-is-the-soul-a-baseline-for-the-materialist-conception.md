@@ -1132,4 +1132,17 @@ Solo contendere? This is fine...
     them of any discussion to defend themselves, should they choose to
     do so, seems to have created the perfect storm of shit in my
     life. This is a tactic people seem to have chosen simply because
-    it effectively pushes other people away.
+    it effectively pushes other people away. In our current decade,
+    waging social war against
+    entire classes of people, especially if it is to be primarily
+    accomplished through the rumor mill, has demonstrated itself as
+    not simply dangerous, but childish. Perhaps not the most turbulent
+    consequence of such recent attempts at social engineering --
+    which have been myopic at best if not clouded by disinformation --
+    is that we have mistakenly prioritized creating division at home
+    instead of attending to problems of real strategic significance,
+    both abroad and at home. Does it *feel* good? Does it *feel* like
+    you're accomplishing something? That's the socially engineered,
+    disfunctional incentivization at work, which is unintentionally
+    creating the domestic stagnation needed for other great powers to
+    deconstruct American hegemony.
