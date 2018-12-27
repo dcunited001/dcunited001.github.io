@@ -8,6 +8,68 @@ author:
 excerpt: ""
 ---
 
+#### The Seventh Sense: Emulated Intuition
+
+- the idea of an ensemble from thermodynamics helps describe how the
+  mind provides a "sense" of intuition to the conscious from the
+  lower-levels of the subconscious. the mind is trying to piece apart
+  its analysis of experience in typological terms: i.e. it is
+  analytically delineating its experience to try to describe how
+  frequently variables/features of its experience occur; both when
+  those variables/features occur in isolation or in combination. this
+  is an analytical definition of intuition that the mind develops in
+  the lower levels of the subconscious. it then exposes this to the
+  conscious mind as a "feeling". if you can consciously understand how
+  this process is driven by a typological dilineation of a
+  sociophysical ensemble, then you can use this higher-level
+  constuction of intuition, which only an emulation of the lower-level
+  subconscious intuition and is separate from it. your cognition is
+  sharpend by the total intuition it has to gravitate towards
+  uncertainty and away from the "shadows" of unknown unknowns that it
+  senses.
+  - the idea of an ensemble intersects with #Jung's #Synchronicity in
+    fascinating ways! if you can connect synchronicity with the idea
+    of an ensemble, it will augment your understanding and application
+    of Jung's ideas
+  - it's a difficult concept to explain because it requires
+    understanding #StatisticalMechanics. basically, for any particle
+    system (like a mixture of gasses in an internal combustion engine)
+    there are "natural" samplings that determine valid distributions
+    of particle positions/momentums to sample from.
+  - so, if you can then describe how the statistical mechanical
+    aspects of those particle systems are aligned along various
+    variables (width of chamber in an internal combustion engine or
+    how the composition of oxygen, gasoline and nitrogen impact the
+    dynamics of the gases) then this is an ensemble. it allows you to
+    parameterize the statistical mechanical distributions used in
+    thermodynamics along some variables and sample from distributions
+    whose variables you can change.
+  - why is this relevant for psychology and sociology? your brain is
+    constantly tallying experience types & metatypes that inform it of
+    life's valid distributions -- for which it is trying to
+    typologically correlate to variables. the brain/mind do this to
+    understand how one's actions correspond to cause/effect, but in
+    doing so, it's generating the #Ensemble for intuition, so that it
+    can understand when either variables or features of sampled
+    distributions of experience (either real or simulated) are
+    strongly biased in an unnatural way, which implies the need to
+    seek more information. this is the part of your intuition that
+    operates at a low-level of the subconscious. it is exposed to the
+    conscious mind as a sense, but each individual's clarity and
+    accuracy depend strongly on that person's life experience.
+  - the realization i had was that it is possible for your conscious
+    mind to understand how this works and "emulate" it so that the
+    sense or functionality of #Intuition is itself moreso under a
+    person's control. it basically makes you a #QuasiPsychic, but
+    requires proactive & reactive engagement, otherwise, you can be
+    duped by this "emulated" intuition, just as you can be duped by
+    your subconscious intuition.
+  - essentially, there are many ideas of Jüng that were unprovable by
+    existing experimental methodologies for which #DataScience and
+    #Neurology will close in on and prove unquestionably. this should
+    happen within the next 10 years.
+
+
 # [The Essence of Things](#the-essence-of-things)
 
 #### [The Three Yi](#the-three-yi)

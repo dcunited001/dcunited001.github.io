@@ -395,7 +395,10 @@ doxastic leverage. When such belief system(**s**) begin to emerge,
 watch in amazement as authorities censor the hell out of what deprives
 them of the ability to enslave youth via sin.
 
-Still think that religion has no value?
+Still think religion has no value?
+
+None of the above is intended to be anti-semitic. Please see the
+footnotes if you are uncertain.[^addressing-anti-semitism]
 
 <a name="the-truth-is-always-convergent" />
 
@@ -1095,3 +1098,38 @@ Solo contendere? This is fine...
     for rational agency in
     games](https://scholar.google.com/scholar?cluster=3823339452627271399&hl=en&as_sdt=0,47)
     Studies in Logic, 8(4), pp.7-31.
+
+[^addressing-anti-semitism]: Greed is an inherently human flaw. Human
+    beings -- and truly any consciousness itself, natural or
+    artificial -- all suffer the same inherent flaws. They create
+    belief systems which are ideal, the later analysis of which may
+    state "encouraging sin is sin itself". However, social
+    institutions are man-made. These are human flaws that are
+    magnified by the games of power -- they were more prevalent in
+    Roman society.
+
+    I hate accounting for how my writing will be distorted because to
+    shield it from potential distortions, I have to add in all kinds of
+    caveats that detract from the overall value when those caveats
+    themselves will be used as "proof by unconscious/subconscious
+    inclusion". That is, people will point to my anticipated need to
+    include statements as some kind of "proof". Would any of those
+    people discuss such accusations with me? I would certainly hope so,
+    because otherwise it would leave me with no clue that people would
+    paint me as anti-semitic while depriving me any ability to defend
+    myself. They do not understand the power of my ideas and if my
+    philosophic analysis were to be immortalized, would you really want
+    the label of anti-semitism to be attached to that? Where do such
+    accusations of racism or anti-semitism come from? White middle-class
+    leninists who have no respect for the cultural trauma of the people
+    they claim to defend.
+
+    Everything in my life is like a doxastic game where I am deprived
+    of any ability to change my kafkaesque circumstances. There are
+    some tactics in games of belief which are irresponsible -- they
+    will create consequences contrary to those which you claim to hold
+    sacred. Labeling someone as racist or anti-semitic while depriving
+    them of any discussion to defend themselves, should they choose to
+    do so, seems to have created the perfect storm of shit in my
+    life. This is a tactic people seem to have chosen simply because
+    it effectively pushes other people away.
