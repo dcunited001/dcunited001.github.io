@@ -112,6 +112,22 @@ definition of the soul, this statement is very powerful:
 > must be *quiet* if we are to hear what our soul is trying to speak
 > to us.
 
+I have come to realize recently that I don't know what the soul is,
+but listening to her videos accelerated my exploration of the soul as
+a concept. Isn't it strange that so many of us believe so strongly for
+or against the soul, yet I could make it more than thirty years
+without being able to clarify some self-understanding of the soul? How
+is it possible that I wouldn't know what the soul is, when it is so
+universal and so necessary to belief systems? When considering the
+soul from a materialist's perspective -- given only the tools that the
+materialist operates within, which can be shown to extend to
+pan-psychism *without any reliance on Woo Woo Physics* -- I have come to
+understand it as a cross between the psyche of Carl Jung and the
+socially distributed belief or memory relating to someone's
+identity. There may be more to the soul, but for now, such knowledge
+would require accepting more premises than the materialist is willing
+to accept.
+
 <a name="the-soul-is-not-contained-entirely-within-your-body" />
 
 ### [The Soul Is Not Contained Entirely Within Your Body](#the-soul-is-not-contained-entirely-within-your-body)
