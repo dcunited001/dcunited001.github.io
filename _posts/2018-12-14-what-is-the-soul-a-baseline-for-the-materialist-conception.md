@@ -75,6 +75,10 @@ the composition of their soul."
 
 #### &#x2295; [What are Perturbations in Adversarial Network Analysis?](#what-are-perturbations-in-adversarial-network-analysis)
 
+#### &#x2295; [Play is Social Perturbation For Children](#play-is-social-perturbation-for-children)
+
+#### &#x2295; [Children, Please Get Your Symplectic Manifolds And Turn To The Section on Percolation](#children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation)
+
 #### &#x2295; [Of Alice and Bob, Networks and Hyperplanes](#of-alice-and-bob-networks-and-hyperplanes)
 
 #### &#x2295; [Who Was This "John" Conner, Anyways?](#who-was-this-john-conner-anyways)
@@ -232,23 +236,36 @@ the first k-os song I ever knew I heard and it captivated me *because
 of it's cry to defend authenticity.* I eventually found Superstarr
 Part Zero, which was bliss to the ears of a padawan B-Boy.
 
+For me, today, those lines are about escaping some preconceived
+construction of an identity that is not only forced upon us, but seems
+to be hopelessly prevalent in society. Is it a true conception of
+one's identity? If the doors of opportunity are closed, then if you
+are excluded, how do you change the distorted belief that bars them
+shut?
+
 <a name="are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self" />
 
 ### [Are The Myriad Fragments of Your Soul Searching For Knowledge of Self?](#are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self)
 
 The true key is to listen to people: they contain within them
-fragments of your soul that you must collect. If you do not listen,
-you cannot see clearly. If someone has made it so that you cannot hear
-them at all, then you may be lost for some time.  If you're lucky, you
-find that most of your newfound selves are also searching for their
-knowledge of self: the fragments of your soul or socially distributed
-self are themselves searching for self. When you develop a clearer
-resolution of self, you begin collecting information from these
-socially distributed fragments that key you in to your whole soul,
-entirely. This is your true self, but if you are not *still*, you
-cannot *listen*. Once you learn to listen, you can begin to learn to
-perturb the local social configuration to then filter and percolate
-inferences about those scattered fragments of soul.
+fragments of your soul that you must collect. Even if they have no
+idea who you were, they experience deposits layers of
+conceptualization onto their notion of your identity. You must listen
+to find inner truth: there is substance that resides in others, but if
+it is valuable, it may not be found at the surface. **If you do not
+listen**, *you cannot see clearly*.[^metaphor-of-platonic-sight] If
+someone has made it so that you cannot hear others at all, then you
+may be lost for some time. If you're lucky, you find that most of your
+newfound selves are also searching for their knowledge of self: the
+fragments of your soul or socially distributed self are themselves
+searching for self. When you develop a clearer resolution of self, you
+begin collecting information from these socially distributed fragments
+that key you in to your whole soul, entirely. This will lead you to
+your true self, but if you are not *still*, you cannot *listen*. Once
+you learn to listen, you can begin to learn to perturb the local
+social configuration to then filter and percolate inferences about
+those scattered fragments of soul. Explanations of [perturbation]() and
+[percolation](#) for the layman are included further in.
 
 <a name="the-formation-of-the-interface-between-psychee-and-unconscious" />
 
@@ -838,6 +855,118 @@ some known ideal system to compare it to. This simplified kind of
 perturbation has noise whose magnitude is controlled via the
 algorithms hyperparameters, which control the learning rate.
 
+<a name="play-is-social-perturbation-for-children" />
+
+### [Play is Social Perturbation For Children](#play-is-social-perturbation-for-children)
+
+For children *and adults*, play is social perturbation. Children don't
+conceptualize it this way. Since children are still accumulating the
+experience that allows them to structure conception of social norms,
+beliefs, habits and practices, they engage in a high degree of social
+perturbation without intending to. In groups of children, this lack of
+concectualization of social norms, beliefs, habits and practices
+corresponds to a greater degree of variety of such structure. Since
+such structure is nascent, changing, and far from concrete, then the
+expereinces children have together -- particularly play -- produces
+more randomness for social perturbation. Earlier on, children are
+unconscious to their lack of structure, but eventually become more
+conscious to it. When you introduce adult or people with more
+structure, whether these are situations of play or not, children are
+receptive to such structure and they become affected by it. However
+they do this -- whether it is by imitating it, mirror it, rebelling
+against it, responding to it in some orthogonal way or by presenting
+an anti-parallel response to it -- they are parameterizing their
+apprehension of novel structure with it. This influences ther
+cognition of it, their gradual accumulation of structure, etc.
+
+For social applications, perturbation introduces a bit of noise and
+play into a situation. The responses people give you allows you to
+make inferences related to their psychosocial state: their rational
+conception of the interactions, their emotional state. If someone
+blocks you from engaging in such noise and play -- e.g. by claiming
+you are crazy or blocking your interactions and words -- then you
+cannot probe the intellectual or emotional state of others: this will
+confound your ability to seek healthy interactions; it deprives you of
+power over your circumstances. It is very easy to convince people that
+"they are doing it wrong", socially, which may be incredibly
+toxic.
+
+<a name="children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation" />
+
+### [Children, Please Get Your Symplectic Manifolds And Turn To The Section on Percolation](#children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation)
+
+What is a symplectic manifold? Basically, it's a mathematical object
+that percolates or filters the possibility space. The combination of
+perturbation and percolation are incredibly powerful techniques for
+understanding high-dimensional systems with potentially non-linear
+dynamics.
+
+Geologically, the process of cave-formation involves the percolation
+of groundwater to fissures in rock. The softer the rock and the
+greater the volume of water that flows through it, the faster a cave
+forms. The more the cave is carved away, the faster water flows
+through this area. Similar to a lightning strike, although on a
+geological time scale, when a cave forms in one area, the way it
+changes the drainage patterns for that area by accepting and passing
+more water reduces or impacts the formation of nearby areas. For
+lightning strikes, the dispersion of accumulated charge prevents
+lightning from discharging in that area since the neutralized positive
+ground charge necessary no longer exerts influence on the aggegate
+electrons in rainclouds.
+
+#### The Process of Percolation in Cave Formation[^groundwater-percolation]
+
+![And the Devil always has something to say, huh?](/img/posts/2018-12-14-material-conception-of-soul/percolation.jpg)
+
+Erosion changes the shape of fissures and thereby changes drainage
+patterns. Percolation is the funnelling of the total volume of water
+through these spaces. For physics or statistics models, the
+implications of being able to use a symplectic manifold on the
+clarity of your model is like having a model of groundwater flow
+that accounts for the structure of bedrock, including
+fissures. Instead of having a spherical cow that can only model in
+aggregate the total draining flow, your model can understand how the
+possibility of some quantity of water would flow through the
+available channels and how the shape of those channels influences
+the possibility. This is your "ten-thousand foot view from an armchair
+mathemetician" version of symplectic manifolds.
+
+Here's some posters from [Melinda
+Lanius](/img/posts/2018-12-14-material-conception-of-soul/symplectic-1.pdf)
+and [Sylvain
+Courte](/img/posts/2018-12-14-material-conception-of-soul/symplectic-2.pdf),
+which can help visually clarify this concept, although it's still
+prohibitively obstruse for the layman.[^symplectic-manifolds]
+
+To be sure, symplectic manifolds are far beyond my current skills, but
+seems to be useful in physics and statistical models. It's a kind of
+structure for percolation by value preservation. In physics, this
+value preservation begins with the statement of equilibrium in the
+Hamiltonian -- which essentially states that energy can not be created
+or destroyed. This results in the conceptualization of phase space,
+but also extends to intuition around degrees of freedom in
+surfaces/volumes in phase space. In statistics, assuming a model is
+valid, there are similar constraints of equilibrium and value
+preservation: each probability distribution must sum to one. Therefore
+there are analogies of phase space to statistics, but how does one
+measure confidence in the valuations of probability distributions?
+
+Even though I only understand it's simplest facets, a symplectic
+manifold is a special type of manifold that helps you percolate the
+possibility space by making assumptions about energy equivalence,
+degrees of freedom in phase space or the conceptualization of
+probability density as a kind of idea fluid. With the determinism of
+classical mechanics, there are regions of configuration space and
+phase space that require **paths** through phase space **that are
+exceedingly unlikely**. Why would a stochastic model built on
+classical mechanics be relevant to the determinism? These are
+questions I can reason about, but can't quite clarify without
+finishing the lectures on symplectic manifolds. Still, they seem to
+embody the idea of percolation for statistical systems: eroding the
+possibility space of potential system configurations by leveraging
+aspects of that system.
+
+
 <a name="of-alice-and-bob-networks-and-hyperplanes" />
 
 ### [Of Alice and Bob, Networks and Hyperplanes](#of-alice-and-bob-networks-and-hyperplanes)
@@ -1126,6 +1255,18 @@ theorema egregium ... “and what have views”
 
 Solo contendere? This is fine...
 
+[^metaphor-of-platonic-sight]: Sight is not merely visual; given a
+    metaphor of the phenomenology of senses explored in Plato's
+    Republic, sight can be something you are capable of apprehending,
+    so long as it is not occluded. Usually, if your vision is not
+    clouded, in time, you can seek to move around occlusions that
+    block your sight.
+
+[^groundwater-percolation]: This image is from [Groundwater
+    percolation in northern Guam: Insights from Jinapsan
+    Cave](http://pi-casc.soest.hawaii.edu/research/Project_phps/2015_Jenson-Bautista_WaterPercolation.php),
+    but I couldn't find it on Google Scholar.
+
 [^doxastic-games]: Eger, M., 2018. Intentional Agents for [Doxastic
     Games.](https://repository.lib.ncsu.edu/handle/1840.20/35747)
 
@@ -1153,6 +1294,18 @@ Solo contendere? This is fine...
     for rational agency in
     games](https://scholar.google.com/scholar?cluster=3823339452627271399&hl=en&as_sdt=0,47)
     Studies in Logic, 8(4), pp.7-31.
+
+[^symplectic-manifolds]: [Melinda
+    Lanius](https://faculty.math.illinois.edu/~lanius2/researchpresentations.html)
+    teaches at University of Illinois at Urbana-Champaign. Her
+    resources on Symplectic Geometry can be found
+    [here](https://faculty.math.illinois.edu/~lanius2/). [Sylvain
+    Courte] teaches at and his [course notes on Symplectic
+    Geometry](https://www-fourier.ujf-grenoble.fr/~courtes/cours.pdf)
+    can be found on [this
+    page](https://www-fourier.ujf-grenoble.fr/~courtes/enseignement.html). His
+    poster can be found
+    [here](https://www-fourier.ujf-grenoble.fr/~courtes/poster.pdf).
 
 [^addressing-anti-semitism]: Greed is an inherently human flaw. Human
     beings -- and truly any consciousness itself, natural or
