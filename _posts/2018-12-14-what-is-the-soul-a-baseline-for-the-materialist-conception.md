@@ -147,10 +147,11 @@ listen to others. By listening to Nana Akosua, I've learned a lot and
 I can tell that she has the same *a postieri* familiarity with
 philosophical and spiritual concepts that I do; it is simply developed
 with more wisdom, practice *and contact with people.* I've learned a
-lot from watching her videos. However, my own weaknesses there have
-taught me to examine the experience and word of others for substance,
-*not appearance of substance*. True substance lies within. If I can't
-listen to others, how the hell could I expect them to listen to me?
+lot from watching her videos. However, my own weaknesses thereof have
+taught me to examine more deeply the experience and word of others for
+substance, *not appearance of substance*. True substance lies
+within. If I can't listen to others, how the hell could I expect them
+to listen to me?
 
 <a name="if-the-soul-is-not-purely-internal-then-how-does-one-know-their-own-soul" />
 
@@ -185,16 +186,51 @@ the composition of their soul.
 
 If you can manage to separate yourself from the mental mazes that
 life's trappings has you running in your mind, then you can start to
-zero out life's noise to calibrate a clearer picture of your true self
--- who is not *one*, but *many*. Your soul contains within it all your
-potential selves: some unrealized; others that have remained out of
-focus; more still are as yet unknown to you, without further knowledge
-of self! This knowledge of self provides a collection of lenses and
-perspectives that form a kind of a microscope for your mind, your soul
-and your self. What seems blurry today should seem more clear
-tomorrow. And iff you tune this scope of self knowledge, then you'll
-see your composite actualized selves coalescing from your self
-awareness breaking through threshold shadows of unconscious.
+zero out life's noise wherefore you calibrate a clearer picture of
+true self -- who is not *one*, but *many*. Your soul contains within
+it all your potential selves: some unrealized; others that have
+remained out of focus; more still are as yet unknown to you, without
+further knowledge of self! This knowledge of self provides a
+collection of lenses and perspectives that form a kind of a microscope
+for your mind, your soul and your self. What seems blurry today should
+seem more clear tomorrow. And iff you tune this scope of self
+knowledge, then you'll see your composite actualized selves coalescing
+from your self awareness breaking through threshold shadows of
+unconscious.
+
+#### "Oooooh! That's a real metaphysical; We pull down the light cause the force is centrifugal"
+
+> Follow me here in this moment and time
+>
+> Follow the rhyme created instigated to see the crime
+>
+> You commit, when you sit in the past Don't you know?
+>
+> You **construct** *a future* **based on everything that you know**
+>
+> But to get to the **unknown**, we surely must erase
+>
+> **All the preconceived notions they keep throwin' up in our face**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SiPl-WJEwtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> He tried to act up I had to give in
+>
+> Because the truth is an offense and not a sin, word life
+>
+> [chorus]
+>
+> It goes stop, don't make a move, just freeze
+>
+> Instead of tellin' a lie, get down on your knees
+
+This song's lyrics are deep. Real deep. Like everything else k-os
+writes, it's a smorgasboard of symbolism and that tends to create an
+onion, the layers of which you can peel back year after year, finding
+new food for thought and never quite making it to the center. This was
+the first k-os song I ever knew I heard and it captivated me *because
+of it's cry to defend authenticity.* I eventually found Superstarr
+Part Zero, which was bliss to the ears of a padawan B-Boy.
 
 <a name="are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self" />
 
