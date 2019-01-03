@@ -38,7 +38,8 @@ excerpt: ""
 
 #### Dual Argot Space of a Language
 
-Dual argot space of a language: the space of potential argots, and
+Dual argot space of a language (a kind of linguistic multilinear dual)
+- the space of potential argots, and
 - methods of "argotization" are not equivalent for languages
 - expanding this space — particularly the grammatical/syntactical
   methods that cryptolects use, their ability to disperse their

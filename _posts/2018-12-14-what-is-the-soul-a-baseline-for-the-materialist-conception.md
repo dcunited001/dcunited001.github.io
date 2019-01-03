@@ -126,14 +126,23 @@ lack thereof) is so universal and so necessary to belief systems? This
 universality contributes greatly to confusion over its existence: your
 concept of soul is not my concept of soul.
 
-When considering the soul from a materialist's perspective -- given
-only the tools that the materialist operates within, which can be
-shown to extend to pan-psychism *without any reliance on Woo Woo
-Physics* -- I have come to understand it as a cross between the psyche
-of Carl Jung and the socially distributed belief or memory relating to
-someone's identity. There may be more to the soul, but for now, such
-knowledge would require accepting more premises than the materialist
-is willing to accept.
+When considering the soul from a materialist's perspective --
+i.e. operating with a limited set of typical materialist tools -- then
+one can extrapolate from some basis of axioms, which extend to
+pan-psychism. To be clear, these conclusions do not rely whatsoever on
+Quantum Woo: they are a consequence of reflections of internalized
+information representations in matter and life. There is no dependency
+on quantum mechanical effects, which are rendered all but moot by the
+chaos of thermodynamics at reasonable temperatures. See the footnote
+for an explanation that connects the dots between evolution,
+biophysics, information representation, and delineation between self
+and other.[^biophysics-and-information-representation]
+
+I have come to understand the soul as a cross between the psyche of
+Carl Jung and the socially distributed belief or memory relating to
+someone's identity. There may be more to the soul, but until such is
+proven, it requires accepting more premises than the materialist is
+willing to accept.
 
 <a name="the-soul-is-not-contained-entirely-within-your-body" />
 
@@ -955,17 +964,19 @@ Even though I only understand it's simplest facets, a symplectic
 manifold is a special type of manifold that helps you percolate the
 possibility space by making assumptions about energy equivalence,
 degrees of freedom in phase space or the conceptualization of
-probability density as a kind of idea fluid. With the determinism of
-classical mechanics, there are regions of configuration space and
-phase space that require **paths** through phase space **that are
-exceedingly unlikely**. Why would a stochastic model built on
-classical mechanics be relevant to the determinism? These are
-questions I can reason about, but can't quite clarify without
-finishing the lectures on symplectic manifolds. Still, they seem to
-embody the idea of percolation for statistical systems: eroding the
-possibility space of potential system configurations by leveraging
-aspects of that system.
-
+probability density as a kind of idea fluid. To the third, ideas from
+information geometry encompass such a conception of dynamics in
+statiscal models as an ideal fluid, towards which the ideas of
+[balancing a tensor network](https://arxiv.org/abs/1702.08142v3) are
+essential[^balanced-tensors]. With the determinism of classical
+mechanics, there are regions of configuration space and phase space
+that require **paths** through phase space **that are exceedingly
+unlikely**. Why would a stochastic model built on classical mechanics
+be relevant to the determinism?  These are questions I can reason
+about, but can't quite clarify without finishing the lectures on
+symplectic manifolds. Still, they seem to embody the idea of
+percolation for statistical systems: eroding the possibility space of
+potential system configurations by leveraging aspects of that system.
 
 <a name="of-alice-and-bob-networks-and-hyperplanes" />
 
@@ -1262,6 +1273,45 @@ Solo contendere? This is fine...
     clouded, in time, you can seek to move around occlusions that
     block your sight.
 
+[^biophysics-and-information-representation]: These materially
+    dependent forms must reflect, refract, internalize and respond to
+    each other, but are compartmentalized into entities or units that
+    lack any clear boundary. One such axiom: information about the
+    past is never destroyed in physics. Lifeforms and even viruses or
+    RNA interact with other biophysical information
+    representations. Life evolved increasingly complex methods of
+    processing cause and effect -- e.g. mechanisms to detect and
+    process optical signals to see. These stimuli gave life the
+    ability to internalize and analyze information local to an
+    organism's environment, yet there is no clear distinction between
+    the signals received as stimulus and the biophysical chain
+    reaction leading to the organism's response. Lifeforms began to
+    process stimuli to internalize images representing some altered
+    images of them, which gives rise to memory, the spatiotemporal
+    processing of stimuli and increasingly sophisticated abstractions
+    of these images. This extrapolates to pan-psychism.
+
+    After animals had developed social behavior, the appearance of
+    information exchange changed, but its underlying biophysical
+    mechanics remained the same. Despite the level of a lifeform's
+    sophistication there is a critical need to distinguish between
+    self and other. Even though plankton, fish, octopi, lizards,
+    meerkats and chimps seem to have varying levels of awareness of
+    identity, they all share the biophysical mechanics that
+    compartmentalize it and react to other entities with
+    identities. More ancient forms of life react to the notion of the
+    other in purely mechanical means. As life progressed, these images
+    of stimuli accumulated references to notions of self and other. If
+    it were not so, then a predator could not identify prey or
+    recognize cues necessary for reproduction. Even if such cues from
+    sensory input are mechanical signals not traditionally understood
+    as thought, per se, they are all merely images of information
+    transferred in biophysical means. The primary factors
+    distinguishing social animals are the modes and bandwidth for
+    information processing, regardless of the circumstances,
+    dependencies and stability necessary for evolution to produce such
+    functionality out of chaos.
+
 [^groundwater-percolation]: This image is from [Groundwater
     percolation in northern Guam: Insights from Jinapsan
     Cave](http://pi-casc.soest.hawaii.edu/research/Project_phps/2015_Jenson-Bautista_WaterPercolation.php),
@@ -1306,6 +1356,10 @@ Solo contendere? This is fine...
     page](https://www-fourier.ujf-grenoble.fr/~courtes/enseignement.html). His
     poster can be found
     [here](https://www-fourier.ujf-grenoble.fr/~courtes/poster.pdf).
+
+[^balanced-tensors]: Sugiyama, M., Nakahara, H. and Tsuda,
+    K., 2017. Tensor balancing on statistical manifold. arXiv preprint
+    [arXiv:1702.08142](https://arxiv.org/abs/1702.08142v3).
 
 [^addressing-anti-semitism]: Greed is an inherently human flaw. Human
     beings -- and truly any consciousness itself, natural or
