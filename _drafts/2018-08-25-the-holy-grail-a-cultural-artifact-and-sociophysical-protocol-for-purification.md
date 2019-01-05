@@ -8,6 +8,15 @@ author:
 excerpt: ""
 ---
 
+the true 21st century meaning of #Nietzsche's "God is Dead" is that
+Jüng's idea of the "Old, Dead God" becomes evoked universally in
+mankind's imminent return to the spiritual to transcend soulless
+nihilism with a sudden revival of religion. instead, it's everyman's
+idea of God that returns from the brink of death. whereby Jüng's
+concept of the #OldGod becomes magnified in proportion to the
+magnitude by which the archetype of God congeals from unconscious
+shadow to prevalent, unifying force of unconscious made dominant in
+the collective consciousness...
 
 [System of a Down - Tentative]()
 

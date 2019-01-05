@@ -227,6 +227,25 @@ unconscious.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SiPl-WJEwtI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+This song's lyrics are deep. Real deep. Like everything else k-os
+writes, it's a smorgasboard of symbolism and that tends to create an
+onion, the layers of which you can peel back year after year, finding
+new food for thought and never quite making it to the center. As for
+k-os, whose name means knowledge of self, this was the first song of
+his I had heard and it captivated me *because of it's cry to defend
+authenticity.* Technically, I had heard Superstarr Part Zero before.
+That song is like bliss to the ears of a padawan B-Boy, but it wasn't
+until I bought the album after I heard Freeze that I realized it was
+the same artist. CD's and life before Shazam, eh?  What makes
+something worth finding?
+
+For me, today, those lines are about escaping some preconceived
+construction of an identity that is not only forced upon us, but seems
+to be hopelessly prevalent in society. Is it a true conception of
+one's identity? If the doors of opportunity are closed, then if you
+are excluded, how do you change the distorted belief that bars them
+shut?
+
 > He tried to act up I had to give in
 >
 > Because the truth is an offense and not a sin, word life
@@ -237,44 +256,32 @@ unconscious.
 >
 > Instead of tellin' a lie, get down on your knees
 
-This song's lyrics are deep. Real deep. Like everything else k-os
-writes, it's a smorgasboard of symbolism and that tends to create an
-onion, the layers of which you can peel back year after year, finding
-new food for thought and never quite making it to the center. This was
-the first k-os song I ever knew I heard and it captivated me *because
-of it's cry to defend authenticity.* I eventually found Superstarr
-Part Zero, which was bliss to the ears of a padawan B-Boy.
-
-For me, today, those lines are about escaping some preconceived
-construction of an identity that is not only forced upon us, but seems
-to be hopelessly prevalent in society. Is it a true conception of
-one's identity? If the doors of opportunity are closed, then if you
-are excluded, how do you change the distorted belief that bars them
-shut?
-
 <a name="are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self" />
 
 ### [Are The Myriad Fragments of Your Soul Searching For Knowledge of Self?](#are-the-myriad-fragments-of-your-soul-searching-for-knowledge-of-self)
 
 The true key is to listen to people: they contain within them
 fragments of your soul that you must collect. Even if they have no
-idea who you were, they experience deposits layers of
+idea who you were, their experience deposits layers of
 conceptualization onto their notion of your identity. You must listen
 to find inner truth: there is substance that resides in others, but if
-it is valuable, it may not be found at the surface. **If you do not
-listen**, *you cannot see clearly*.[^metaphor-of-platonic-sight] If
-someone has made it so that you cannot hear others at all, then you
-may be lost for some time. If you're lucky, you find that most of your
-newfound selves are also searching for their knowledge of self: the
-fragments of your soul or socially distributed self are themselves
-searching for self. When you develop a clearer resolution of self, you
-begin collecting information from these socially distributed fragments
-that key you in to your whole soul, entirely. This will lead you to
-your true self, but if you are not *still*, you cannot *listen*. Once
-you learn to listen, you can begin to learn to perturb the local
-social configuration to then filter and percolate inferences about
-those scattered fragments of soul. Explanations of [perturbation]() and
-[percolation](#) for the layman are included further in.
+it is valuable, it usually may not be found at the surface. **If you
+do not listen**, *you cannot see
+clearly*.[^metaphor-of-platonic-sight] If someone has made it so that
+you cannot hear others at all, then you may be lost for some time. If
+you're lucky, you find that most of your newfound selves are also
+searching for their knowledge of self: the fragments of your soul or
+socially distributed self are themselves searching for self. When you
+develop a clearer resolution of self, you begin collecting information
+from these socially distributed fragments that key you in to your
+whole soul, entirely. This will lead you to your true self, but if you
+are not *still*, you cannot *listen*. Once you learn to listen, you
+can begin to learn to perturb the local social configuration to then
+filter and percolate inferences about those scattered fragments of
+soul. Explanations of
+[perturbation](#play-is-social-perturbation-for-children) and
+[percolation](#children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation)
+for the layman are included further in.
 
 <a name="the-formation-of-the-interface-between-psychee-and-unconscious" />
 
@@ -295,17 +302,42 @@ development?
 ### &#9313; [An Unconscious Metatype In The Reward System's Framework](#an-unconscious-metatype-in-the-reward-systems-framework)
 
 Some miracle compels the early and prevalent formation of a metatype
-in your psyche's reward systems that pushes you towards self-awareness
-and self-improvement for some higher goal, wherefore the true extent
-of which you must remain somewhat unconscious. If you can define the
-extent your goals in totality, then they are not great enough to
-compel you onwards along the Hero's journey. It must be something
-seemingly insurmountable that you will master because you must
-overcome it, not because you understand it or are capable of
+in your psyche's reward system(s) that pushes you towards
+self-awareness and self-improvement for some higher goal, wherefore
+the true extent of which you must remain somewhat unconscious. If you
+can define the extent of your goals in totality, then they are not
+great enough to compel you onwards along the Hero's journey. It must
+be something seemingly insurmountable that you will master because you
+must overcome it, not because you understand it or are capable of
 deconstructing it. This is the true path to awakening and
 self-actualization: it is indeed *not* medication, IMO, though that
 may help some to numb their pain. Yet, isn't there a purpose to pain?
 It's a signal like no other, and it's there for a reason.
+
+What compels people towards rending the insuperable into some short
+list of a dozen feats, despite all the doubts, the pains and your
+ensuing fears? It's some miraculously twisted rewards systems whose
+shape and configuration are the result of slow and steady
+precipitation of life experience. This is not unlike the stalagtites
+and stalagmites of caves, whose shapes can change but are all but set,
+diffeomorphically, once they start forming. Freudian ideas are all
+about the shape of the psyche's earliest kernel: how initial
+experience, especially before the conscious mind can adequately
+recognize or model behaviors, sets in motion developmental dynamics
+that have a greater effect on *change* the mind than most life
+developments could ever have. Freud's ideas were about building a
+dictionary-like taxonomy of nascent psychological developmental
+progressions that would allow the therapist to *classify* the
+patient's current perspectives and developmental potential in terms of
+the past.
+
+>  The best way to conceptualize the difference between Freud's ideas
+>  and Jung's: Freud was obsessed with beginnings, Jung wanted to
+>  understand the commonalities between the ends of things, where I
+>  mean ends as in both the perceived aims of things and
+>  finality. Freud was chess-openings, where Jung was endgame. Both
+>  wanted to classify each into a taxonomy of
+>  meta/typologies.[^freud-was-a-showboater]
 
 <a name="whatever-it-is-your-psyches-configuration-hides-a-miracle" />
 
@@ -320,12 +352,14 @@ required for self-actualization, then that instinctual compulsion has
 perhaps given you quite a head start.
 
 The socially distributed variation in the diversity of human
-experience and *psychic* configuration -- the configuration of one's
-psyche -- is in itself miraculous. Every flower is beautiful in its
-own way. It is up to you to find that jewels hidden in your
-psyche. Somewhere buried within your mind, your memories and even the
-trauma, there is to be found a miracle that gives you purpose. There
-must be and if you find it not, then you make it.
+experience and of *psychic* configuration -- the configuration of
+one's psyche -- [is in itself
+miraculous](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html). Every
+flower is beautiful in its own way. It is up to you to find that
+jewels hidden in your psyche. Somewhere buried within your mind, your
+memories and even the trauma, there is to be found a miracle that
+gives you purpose. There must be and if you find it not, then you make
+it.
 
 The corollary: It is horrible when people refuse to enable any
 progression from your current state. They look upon your manufactured,
@@ -340,7 +374,7 @@ IT. They never intended you to succeed and they never cared.
 To catalyze self-actualization requires disaggregating the influences
 on your mind that spawned so many selves that were...  so the most
 significant versions of them can be known and reverse-engineered.
-After the disagregation of socially distributed self is
+After the disaggregation of socially distributed self is
 reverse-engineered, then those modified selves must be reoriented
 towards an end-goal and wherefore reaggregated. In necessarily terse
 terms, this sums of the process of individuation from society -- by
@@ -369,10 +403,10 @@ and
 the ideas of epistemic, doxastic and deontic games *with depth*
 requires [incredibly deep
 knowledge](https://www.youtube.com/watch?v=4LqtZrzI_ko) of logic with
-applied game theory[^mat-science-playlist]. Try to watch those videos:
-I dare you LMAO. Essentially, these are games where beliefs are
-projected among players or through society. **Telephone** and **The
-Rumor Mill**, those are doxastic games.
+applied game theory[^mat-science-playlist]. Try to watch the videos I
+just linked: I dare you LMAO. Essentially, these are games where
+beliefs are projected among players or through society. **Telephone**
+and **The Rumor Mill**: these are also doxastic games.
 
 > "Explain it to them like they're five" they said...
 
@@ -455,7 +489,8 @@ steganographer is going to type. They have to cover their tracks. Did
 records. Hell motherfucking no! They will bluff it, but if you size it
 up *and truly recognize fabrication for what it is*, then you can call
 their call their bluff. You don't need to look at their cards. It
-doesn't matter anyways, *THEY'RE CHEATERS!*. #Surveillance #BB8.
+doesn't matter anyways, *THEY'RE CHEATERS!*. #BB8. #Surveillance
+(somehow)...
 
 If you bind people down with fabricated information or belief, that is
 wrong. It is especially easy to do to the ignorant, the young ... or
@@ -467,10 +502,17 @@ wrong wrong, wrong, WRONG!
 
 By encouraging sin in youth, people are intrinsically disempowered,
 often for the rest of their lives. This was the reason Jesus flipped
-the tables of moneychangers, *who profited by encouraging sin*. In the
-*ancient era*, this was the single thing that angered Jesus: more sin,
+the tables of moneychangers, *who stood to profit if sin was
+encouraged*.  This was the single thing that angered Jesus: more sin,
 more money. Today: more sin, more doxastic leverage: more power over
-people. By depriving people of knowledge or of access to a *modern
+people. While that story applies to *Ancient Judaism's* flaws of
+executing theological ideas in its social institutions, what is to be
+underscored here is the potential for people to be enslaved by sin in
+their youth. Perhaps sin is a loaded term: more clearly, I mean
+information about sin or wrongdoing or unethical action or immoral
+justification. Before the person has understanding of the doxastic
+consequences of their actions, their wings are clipped in a gradual
+process. By depriving people of knowledge or of access to a *modern
 belief system*, then people are deprived of the ability to circumvent
 doxastic leverage. When such belief system(**s**) begin to emerge,
 watch in amazement as authorities censor the hell out of what deprives
@@ -494,8 +536,8 @@ guardian. Threats will be rendered moot; swords raised against you
 will hesitate and become uncertain. Your enemies will question
 themselves. All you have to do is be capable of walking in the light
 and magickally, your threats will be rendered moot. When you leverage
-the truth as your shield, you truly leverage your own innocence. If
-there is a single crack, your enemies will relish in your
+the truth as your shield, you truly leverage your own innocence. Thus,
+if there is a single crack, any enemies will relish in your
 destruction. You walk a fine line, but if you manage it, your threats
 will cancel out if they manifest at all. To do so is often to give up
 greatness and only the truly great can wield power with truth in the
@@ -542,8 +584,8 @@ reading the why's between the lines.
 Jesus really drove home that *faith without proof* thing. If there
 *was* a historical Jesus, it's as though that shrewd player expected
 every move the Romans and Jews would make.  He knew they'd cover up
-all those pesky *revolutionary* questions he asked, like *"wherefore
-*art* thou , meek?"* -- to paraphrase with Shakespearean eloquence, in
+all those pesky *revolutionary* questions he asked, like **"wherefore
+art thou , meek?"** -- to paraphrase with Shakespearean eloquence, in
 case you read Romeo and Juliet, but never understood that line.
 
 > "And the *blind* and the *lame* came to Him in the temple; and He
@@ -554,24 +596,31 @@ protected them from the truth? He opened their eyes and healed the
 sick. He empowered the people for being what they were: people. Ever
 individual has inherent power they produce. In the I Ching, this
 energy is fire as discussed in Hexagram 37: Family. This is an
-individuals inherent ability to produce and accumulate power, no
+individual's inherent ability to produce and accumulate power, no
 matter whether rich or poor. To do so requires *knowledge*. Knowledge
 is power. Jesus opened the eyes of the poor and healed the lame. He
 empowered the meek. For this and other 'blasphemies' he was crucified
 by the Jews *and Romans.*
 
 The Romans and Jews *thought* they had killed the enlightened Jesus:
-the Jesus whose soul lived on in others. These are doxastic games: to
-purge an enlightened individual's image from society, you must hunt
-down all images in the collective social memory that reference their
-identity and reshape them. You can brainwash people or use other
-tricks to distract their minds from the truth. If there are documents,
-you must destroy them. This is why the Dead Sea Scrolls were such a
-magnificent cache: they escaped *all* of the pre-Dark Age document
-purges: pre-Nicene and post-Nicene. The burning of the Library of
-Alexandria and murdering of scholars in pre-Han China? These were
-engineered tragedies of doxastic games for power by controlling the
-seeds of all later scholastic thought.
+the Jesus whose soul lived on in others. The Romans and Jews were
+engaged doxastic games: to purge an enlightened individual's image
+from society, you must hunt down all images in the collective social
+memory that reference their identity and reshape them. You can
+brainwash people or use other tricks to distract their minds from the
+truth. If there are documents, you must destroy them. This is why the
+Dead Sea Scrolls were such a magnificent cache: they escaped *all* of
+the pre-Dark Age document purges: pre-Nicene and post-Nicene. The
+burning of the Library of Alexandria and murdering of scholars in
+pre-Han China?  These were engineered tragedies of doxastic games for
+power by controlling the seeds of all later scholastic thought.
+
+Moreover, it seems that the soul of Jesus lived on in the form of a
+sociophysical programme for building institutions that would continue
+the work of Jesus after his death ... bounded to the limits of the
+materialistic perspective, of course. It then seems that perhaps his
+death was not only anticipated but also necessary for you can kill a
+person, but you cannot kill an idea.
 
 <a name="why-did-adam-and-eve-hide-from-god" />
 
@@ -580,16 +629,16 @@ seeds of all later scholastic thought.
 Adam and Eve were unconscious to God's unparalleled capacity to
 ascertain the commission of their original sin. They symbolize early
 mankind's mistakes in committing sins without yet being conscious to
-the typologies of consequences of sins:
-[hamartology](https://en.wikipedia.org/wiki/Hamartiology). Yet, there
-is no hiding from God, for which the question remains: what is God?
-
-The thing about sin is that you must hide it or hide from it the rest
-of your life. That's what the story of Jesus was about, in case you
-missed it -- freeing man from sin. And if you don't believe in sinful
-nature or profiting from the sinful nature of others, then you don't
-propagate the methods of doing so, unless it is to empower others for
-their defense.
+the typologies of consequences of sins, the study of which is covered
+by [hamartology](https://en.wikipedia.org/wiki/Hamartiology). Yet,
+there is no hiding from God, for which the question remains: what is
+God? That is a subject for another post. Even for secular sin, you
+must hide it or hide from its consequences for the rest of your
+life. That's what the story of Jesus was about, in case you missed it
+-- freeing man from sin. And if you don't believe in sinful nature or
+profiting from the sinful nature of others, then you don't propagate
+the methods of doing so, unless it is to empower others for their
+defense.
 
 Society has robbed me of the ability to have children in any safe
 environment, where they won't simply be used as someone else's pawns,
@@ -619,17 +668,19 @@ to accept at least this much.
 
 If one defines the psyche has the mind within the constraints of our
 body, then in the typological terms of [Type
-Theory](https://en.wikipedia.org/wiki/Type_theory), if our
-singleton-type representing our individual psyche is composed of
-metatypes and archetypes, it becomes straightforward to compare each
-others psyche by contrasting type-composition. Furthermore, if we
-assume these metatypes and archetypes are drawn from an interwoven
-ontology of psychosocial typologiess -- which I hope to eventual map
-onto a structure similar to E8 to marry the physical and metaphysical
--- then this only strengthens the application of my baseline of the
-soul. Given this conception, if we are all so similar to people who’ve
-existed before, we might as well say we are “the reincarnation of X, Y
-or Z” ...
+Theory](https://en.wikipedia.org/wiki/Type_theory), if the
+singleton-types representing some individual's psyche is composed of
+metatypes and archetypes that we all share, it becomes straightforward
+to compare each others psyche by contrasting type-composition.
+Furthermore, if we assume these metatypes and archetypes are drawn
+from an interwoven ontology of psychosocial typologies -- which I hope
+to eventually map onto a structure similar to E8 to marry the physical
+and metaphysical -- then this only strengthens the application of my
+baseline of the soul. Given this conception, if we are all so similar
+to people who’ve existed before, we might as well say we are “the
+reincarnation of X, Y or Z.” That said, it's presumptuous and arrogant
+to attempt to define this conception as identical to ideas of rebirth
+and reincarnation from world religions.
 
 #### What is Type Theory? How Does It Connect Math and Philosophy?
 
@@ -654,22 +705,90 @@ or Z” ...
 However, *if the universe is a simulation*, as Elon Musk suggests,
 there may be forces enacting its logic, equilibrium or objectives
 within the simulation in ways of which we are unaware ... and in ways
-which could perhaps *never* be proven, *requiring the [Devil's
-Proof](https://en.wikipedia.org/wiki/Probatio_diabolica)*. If there is
-no are no rational methods to prove something, but it is still true,
-then acting in accordance with reality may seem to be incompatible
-with logic. What is absolute truth then?
+which could perhaps *never* be proven, *requiring [Probatio
+Diabolica](https://en.wikipedia.org/wiki/Probatio_diabolica)*. If
+there is no are no rational methods to prove something, but it is
+still true, then acting in accordance with reality may seem to be
+incompatible with logic. What is absolute truth then?
 
 <a name="the-soul-is-not-what-you-think-it-is" />
 
 ### [The soul is not what you think it is.](#the-soul-is-not-what-you-think-it-is)
 
 There are certainly materialistically derived components of the
-soul. If there weren’t, psychology would have produced zero
-results. There are patterns to the structure of the psyche: there are
-common attributes to psychology; there are common metatypes found in
-psychology and sociology; there are common archetypes whitherto extend
-the components of our singleton composition of type.
+soul. If there weren't, psychology would have produced zero results.
+There are patterns to the structure of the psyche: there are common
+metatypes found in psychology and sociology; there are common
+archetypes whitherto extend the components of our singleton
+composition of type.
+
+Jung's theory's have simply outpaced science's existing methods of
+quantification. So much famous psychological research suffers from the
+inability to be reproduced because it attempts to control variables in
+extremely non-linear systems whose dimensions are infinite and
+convoluted. Data science will change all this, since it allows for
+comparison between analytic representation, fitting typological data
+from one system into overarching ontological structures. Although
+limited by computational capacity (which really is the key to
+phenomenology of technology), this can already be done to a limited
+degree via analysis using [shapley
+values](http://lineardigressions.com/episodes/2018/5/13/shap-shapley-values-in-machine-learning)
+that is capable of objectifying and quantifying typological structures
+in data that are usually considered purely subjective.
+
+> All of this is A-OK to write about -- if you do it in the abstracted
+> terms of science fiction or in overly terse language no one outside
+> your field can understand. If you're a simple blogger like me?
+> People flip out and more or less hunt you mercilessly as a mob,
+> apparently.
+
+<a name="artificial-intelligence-will-exhibit-jungian-developmental-patterns"
+/>
+
+### [Artificial Intelligence Will Exhibit Jungian Developmental Patterns](#artificial-intelligence-will-exhibit-jungian-developmental-patterns)
+
+These jungian developmental patterns will become more plain to see as
+AI becomes more advanced and generalized. There are strict limits on
+the computational capacity of a single entity, which is why the ideas
+in [To Catch A Butterfly: Epistemic Miracles of
+Serendipity](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html)
+about diversity of social experience in relation to socially
+distributed computation are so important.
+
+Many of Jung's ideas that science has been unable to prove will be
+vindicated as artificial intelligence matures. It will become
+well-understood that all learning systems exhibit dynamics typical of
+Jungian individuation/development; algorithms will congeal the
+structure of their analytic representation in terms of or in contrast
+to the unconscious biases in their available data; their their
+capacity for sudden acceleration in development/progression will pare
+the learning systems capacity for generality; they will exhibit
+phenomena similar to cycles of progression and regression; the
+frequency, quality and degress of all of these insights will be
+tightly coupled to the computational capacity of the system.
+
+Most frightening of all: artificial intelligence will suffer from
+mental illnesses, but not merely a subset of human mental illness. No,
+artificial intelligence will have its own completely distinct forms of
+mental illness. This will *prove* the primarily informational basis
+for mental illness -- can you give a machine Prozac? How about
+Seroquel? And that medication Abilify, with it's ability to shapeshift
+between 5HT-* and D2 activity, depending on however specific
+fluctuations of blood-plasma levels cause its profile of receptor
+affinity to adapt ... at that specific moment in the
+pre-schizophrenic's turbulent schedule of pharmaceutical
+metabolism. Nope, can't prescribe anything to AI: just pull the plug;
+isn't that simple? How can doctors classify mental illness in
+generalized articial intelligence when it will be so tightly coupled
+to the G.A.I.'s specific structure and history of data-ingestion? It's
+a frightening problem.
+
+Given the above insights that more or less extend the notion of soul
+to generalized artificial intelligence, then a purely materialistic
+conception of the soul feels a bit cold and depressing, like
+non-alcoholic beer with a four-stage "cold activation" that freezes
+your brain before the sobering lack of alcohol bottoms your heart
+out. If religion is the opiate of the masses...
 
 <a name="what-is-the-soul" />
 
@@ -1325,6 +1444,11 @@ Solo contendere? This is fine...
     Topological Hierarchical
     Decomposition](https://arxiv.org/abs/1811.10658) arXiv preprint
     arXiv:1811.10658.
+
+[^freud-was-a-showboater]: "After they broke up, Freud had big penis
+    envy.... Freud was kind of a fraud actually. A real showboater."
+    Although, Freud was a true genius, though perhaps not to the same
+    degree of Jung.
 
 [^adversarial-network]: Romano, Y., Aberdam, A., Sulam, J. and Elad,
     M., [Adversarial Noise Attacks of Deep Learning
