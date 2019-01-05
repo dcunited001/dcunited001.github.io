@@ -771,17 +771,12 @@ Most frightening of all: artificial intelligence will suffer from
 mental illnesses, but not merely a subset of human mental illness. No,
 artificial intelligence will have its own completely distinct forms of
 mental illness. This will *prove* the primarily informational basis
-for mental illness -- can you give a machine Prozac? How about
-Seroquel? And that medication Abilify, with it's ability to shapeshift
-between 5HT-* and D2 activity, depending on however specific
-fluctuations of blood-plasma levels cause its profile of receptor
-affinity to adapt ... at that specific moment in the
-pre-schizophrenic's turbulent schedule of pharmaceutical
-metabolism. Nope, can't prescribe anything to AI: just pull the plug;
-isn't that simple? How can doctors classify mental illness in
-generalized articial intelligence when it will be so tightly coupled
-to the G.A.I.'s specific structure and history of data-ingestion? It's
-a frightening problem.
+for mental illness -- can you give a machine Prozac? Nope, can't
+prescribe anything to AI: just pull the plug; isn't that simple? How
+can doctors classify mental illness in generalized articial
+intelligence when it will be so tightly coupled to the G.A.I.'s
+specific structure and history of data-ingestion? It's a frightening
+problem.
 
 Given the above insights that more or less extend the notion of soul
 to generalized artificial intelligence, then a purely materialistic
