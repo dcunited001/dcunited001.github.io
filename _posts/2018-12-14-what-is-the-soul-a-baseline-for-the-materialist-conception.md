@@ -21,6 +21,21 @@ deprives the person of power over their mind, over their life and over
 the composition of their soul."
 ---
 
+> So, yes, quite a bit of this article is more complicated than it
+> needs to be. The point is to coerce materialists into admitting a
+> definition of the soul, so that they must also admit the
+> sociophysical consequences of its existence. Like everything else I
+> feel is important to write, it is not easy to understand. I'm not
+> writing for mass appeal. I'm also unfortunately not following the
+> *"Universal Styleguide for Writers Who Immortalize Themselves"* --
+> which is available wherever books are sold, I'm sure. If only I had
+> known! I've tried to organize most of it so that the earlier content
+> is less technical. I hope to begin illustrating because many of
+> these ideas are so much easier to convey in pictures. This topic is
+> important to me because most people deny that socioinformational
+> phenomena contribute whatsoever to the problems I grapple with in
+> life.
+
 ## [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
 
 #### &#x2295; [The Soul Is Not Contained Entirely Within Your Body](#the-soul-is-not-contained-entirely-within-your-body)
@@ -58,6 +73,8 @@ the composition of their soul."
 #### &#x2295; [Reincarnation is Psychosocial Type Theory](#reincarnation-is-psychosocial-type-theory)
 
 ## [An Athiest, I Feel Sorry For You, Son](#an-athiest-i-feel-sorry-for-you-son)
+
+#### &#x2295; [The Soul Is Not What You Think It Is.](#the-soul-is-not-what-you-think-it-is)
 
 #### &#x2295; [What is the Soul?](#what-is-the-soul)
 
@@ -713,7 +730,7 @@ incompatible with logic. What is absolute truth then?
 
 <a name="the-soul-is-not-what-you-think-it-is" />
 
-### [The soul is not what you think it is.](#the-soul-is-not-what-you-think-it-is)
+### [The Soul Is Not What You Think It Is.](#the-soul-is-not-what-you-think-it-is)
 
 There are certainly materialistically derived components of the
 soul. If there weren't, psychology would have produced zero results.
@@ -727,11 +744,11 @@ quantification. So much famous psychological research suffers from the
 inability to be reproduced because it attempts to control variables in
 extremely non-linear systems whose dimensions are infinite and
 convoluted. Data science will change all this, since it allows for
-comparison between analytic representation, fitting typological data
-from one system into overarching ontological structures. Although
-limited by computational capacity (which really is the key to
-phenomenology of technology), this can already be done to a limited
-degree via analysis using [shapley
+comparison between analytic representations, fitting typological data
+from systems (even those of disparate design) into overarching
+ontological structures. Although limited by computational capacity,
+the key to phenomenology of technology, this can already be done to a
+limited degree via analysis using [shapley
 values](http://lineardigressions.com/episodes/2018/5/13/shap-shapley-values-in-machine-learning)
 that is capable of objectifying and quantifying typological structures
 in data that are usually considered purely subjective.
@@ -764,19 +781,21 @@ to the unconscious biases in their available data; their their
 capacity for sudden acceleration in development/progression will pare
 the learning systems capacity for generality; they will exhibit
 phenomena similar to cycles of progression and regression; the
-frequency, quality and degress of all of these insights will be
-tightly coupled to the computational capacity of the system.
+frequency, quality and degress of each aforementioned phenomena will
+be tightly coupled to the computational capacity of the systems and
+variance in exposure to data.
 
 Most frightening of all: artificial intelligence will suffer from
 mental illnesses, but not merely a subset of human mental illness. No,
 artificial intelligence will have its own completely distinct forms of
 mental illness. This will *prove* the primarily informational basis
 for mental illness -- can you give a machine Prozac? Nope, can't
-prescribe anything to AI: just pull the plug; isn't that simple? How
-can doctors classify mental illness in generalized articial
-intelligence when it will be so tightly coupled to the G.A.I.'s
-specific structure and history of data-ingestion? It's a frightening
-problem.
+prescribe anything to AI: just pull the plug. Now, don't you wish it
+were that simple every time? The truth is, mental illness is not easy:
+the human mind does not have an undo button. How can doctors classify
+mental illness in generalized articial intelligence when it will be so
+tightly coupled to the G.A.I.'s specific structure and history of
+data-ingestion? It's a frightening problem.
 
 Given the above insights that more or less extend the notion of soul
 to generalized artificial intelligence, then a purely materialistic
@@ -795,9 +814,9 @@ through society. This requires no supernatural explanation or [Woowoo
 physics](https://rationalwiki.org/wiki/Quantum_woo). If you can’t see
 that, you lack imagination or you do not understand Carl Jung
 
-There is *no smatter* contained in the above definition of the
-soul. The language is intentional. The explanation is clear and if it
-isn’t, then you do not undestand the ideas contained therein. The soul
+There is *no smatter* contained in this definition of the soul. The
+language is intentional. The explanation is clear and if it isn’t,
+then you do not undestand the ideas contained therein. The soul
 exists, *definitively*. Whether it arises materially or
 supernaturally? That is another question entirely. This definition is
 a baseline, above which materialists are confined to operate
@@ -813,7 +832,7 @@ subjectivity in this context. The soul exists. End of story.
 ### [IMO, Western Rationalism Is A Cruel Joke](#imo-western-rationalism-is-a-cruel-joke)
 
 It's a great idea and has certainly benefitted the world, but humanity
-could really do without all the arrogant euro-centracism. It's a
+could really do without all the arrogant eurocentrism. It's a
 lie. It's a huge, terrible lie. The west is retarded: literally, we
 were *late* to the party. We happened to develop academic institutions
 that were protected by enlightenment values to enshrine knowledge
@@ -823,10 +842,10 @@ englightenment? It's a consequence of the harmonious social fabric
 established by Christianity's nearly two millenia of social
 engineering.
 
-> Furthermore, I believe Early Christianity may have extended moreso
-> from a late-Hellenistic plan, the end-goal of which was to produce
-> enlightenment and rationalism after sufficient cultural engineering
-> to allow rationalism to flourish.
+> Furthermore, I believe that *perhaps* Early Christianity may have
+> extended moreso from a late-Hellenistic plan, the end-goal of which
+> was to produce enlightenment and rationalism after sufficient
+> cultural engineering to allow rationalism to flourish.
 
 Why do militant atheists spit on the memory of Christianity? Even
 according to the most educated atheists -- i.e. Richard Dawkins --
@@ -865,13 +884,36 @@ believe yourself to be, so you probably shouldn’t be so *adamantine*
 in your response to ideas outside those you accept as “real” or
 “proven”.
 
-... After all, all the boundaries of the common era's accepted
-knowledge are *unproven*: this transends to **diffeomorphic
-epistemology** -- i.e. what is the shape of the body of knowledge, as
-the common person perceived rational, impending contributions to the
-body of knowledge. Diffeomorphic epistemology is what you get when you
-combine the idea of a Kantian Category with Kant's work on
-epistemology.
+If everything just beyond the boundaries of accepted knowledge is
+*unproven*, then how does one definitively rationalize about futures
+still disjointed from the present? Conceptualizing the barborous
+regions just beyond this boundary and strategizing about the potential
+futures that evaporate compared to those that crystalize -- that is
+**diffeomorphic epistemology** -- i.e. what is the shape of the body
+of knowledge, as either a common person or erudite would perceive to
+be rational, and how does that shape change upon revelation of
+impending contributions to the body of knowledge. Diffeomorphic
+epistemology is what you get when you combine the idea of a Kantian
+Category with Kant's work on epistemology. Could there have been any
+other era more critical for such an understanding of developmental
+dynamics of epistemology in the realm of science than in Kant's
+century?
+
+Which holds more possibility for change: the future, the present or
+the past? And which holds more human potential for imagination: an
+all-knowing future or mankind's once open road now traveled. Weren't
+fantasy and mystery more majestic when that road lay still unbounded
+by its certain lack of certainty? What is it like to be there? To
+actually be there -- do you know? Can you reason about lack of
+knowledge? **"Emulation of ancient thought is penultimate
+metacognition"** -- how can you know all the ways to know each thing?
+If you could restrict your mind's utilization of epistemic structures
+in argument, then if you ever found some alternate path leading to
+what was decidedly modern knowledge, what are the chances that we've
+all missed some paths less traveled? When restricted epistemic
+exploration is a skill you strengthen, whether intentionally or by
+necessity, myriad avenues begin to appear everywhere your mind takes
+you.
 
 Kant was far, far ahead of his time, perhaps from a galaxy far, far
 away -- yet *emblematic* of the soon-to-unfold Enlightenment. Upon
@@ -922,7 +964,7 @@ behavior. Some of them do so without even understanding adversarial
 signals analysis! Can you believe it? I can. I see and hear it all the
 time on Facebook.
 
-#### Literally the First Sentence in the "I'm Feeling Lucky" Result on Google, Dumbasses [^adversarial-network]
+#### It's literally the First Sentence in the "I'm Feeling Lucky" Result on Google [^adversarial-network]
 
 > "Despite their impressive performance, deep convolutional neural
 > networks (CNNs) have been shown to be sensitive to small adversarial
@@ -944,7 +986,10 @@ victimization and my torment, so that what I've endured might not be
 purposeless. And when what I have to say is met only by unyielding
 humiliation and marginalization, I don't take that very well because,
 unlike the few people around me, *I know how my viewpoints differ from
-their viewpoints*, but they cannot even entertain my viewpoints. Then
+their viewpoints*, but they cannot even entertain my viewpoints.
+Passive aggressive behavior short-circuits opportunities for an
+individual to discover just how wrong one might be. It often amounts
+to the social equivalent of throwing good money after bad. Further,
 they marginalize me *because my pain is inconvenient for them to
 acknowledge.* **Because my pain ... is inconvenient** *to them!*
 ... When what I bring them out of pain is beautiful, they fail to
@@ -962,8 +1007,8 @@ that depends on what kind of rationalist or atheist you are...
 > conflicted while you're reading my article? Then, you're the dumb
 > kind of atheist. Guess what, disrespectful humiliation of someone's
 > ideas is a two-way street! Want to humiliate and disrespect me? I
-> can smack-fu with you all over the this two-way street. *Give
-> respect where respect is due and this two-way street will start
+> can smack-fu with you all over using nothing but one of your own two
+> shoes. *Give respect where respect is due and vis-a-vis will start
 > paying dividends, dumbass.*
 
 Perturbations allow you to inject noise or random behavior into neural
@@ -978,6 +1023,8 @@ some known ideal system to compare it to. This simplified kind of
 perturbation has noise whose magnitude is controlled via the
 algorithms hyperparameters, which control the learning rate.
 
+> "Explain it to them like they're five", they said.
+
 <a name="play-is-social-perturbation-for-children" />
 
 ### [Play is Social Perturbation For Children](#play-is-social-perturbation-for-children)
@@ -988,41 +1035,179 @@ experience that allows them to structure conception of social norms,
 beliefs, habits and practices, they engage in a high degree of social
 perturbation without intending to. In groups of children, this lack of
 concectualization of social norms, beliefs, habits and practices
-corresponds to a greater degree of variety of such structure. Since
-such structure is nascent, changing, and far from concrete, then the
-expereinces children have together -- particularly play -- produces
-more randomness for social perturbation. Earlier on, children are
-unconscious to their lack of structure, but eventually become more
-conscious to it. When you introduce adult or people with more
-structure, whether these are situations of play or not, children are
+corresponds to greater degree of flexibility and variety in such
+structure. Since such structure is nascent, changing, and far from
+concrete, then the experiences children have together -- particularly
+play -- produces more randomness for social perturbation. Earlier on,
+children are unconscious to their lack of structure, but eventually
+become more conscious to it. When you introduce people with more
+structure, whether in situations of play or not, children are
 receptive to such structure and they become affected by it. However
-they do this -- whether it is by imitating it, mirror it, rebelling
+they do this -- whether it is by imitating it, mirroring it, rebelling
 against it, responding to it in some orthogonal way or by presenting
 an anti-parallel response to it -- they are parameterizing their
-apprehension of novel structure with it. This influences ther
+apprehension of novel phenomena with it. This influences ther
 cognition of it, their gradual accumulation of structure, etc.
 
-For social applications, perturbation introduces a bit of noise and
-play into a situation. The responses people give you allows you to
-make inferences related to their psychosocial state: their rational
-conception of the interactions, their emotional state. If someone
-blocks you from engaging in such noise and play -- e.g. by claiming
-you are crazy or blocking your interactions and words -- then you
-cannot probe the intellectual or emotional state of others: this will
-confound your ability to seek healthy interactions; it deprives you of
-power over your circumstances. It is very easy to convince people that
-"they are doing it wrong", socially, which may be incredibly
-toxic.
+For social applications, artificial perturbation introduces a bit of
+noise and play into a situation. The responses people give you allows
+you to make inferences related to their psychosocial state: their
+rational conception of the interactions, their emotional state. If
+someone blocks you from engaging in such noise and play -- e.g. by
+claiming you are crazy, blocking your interactions, policing your
+dialogue or overanalyzing your responses to "triggers" without
+assessing how one's own biases can never truly be muted when judging
+another's reactions -- then it becomes difficult to probe the
+intellectual or emotional state of others: this will confound your
+ability to seek healthy interactions; it deprives you of power over
+your circumstances. Such tactics may be well-intentioned, but in the
+extreme may suffocate the other person by depriving them of the
+ability to experiment, to read social reactions, to be themselves, to
+respond, to express themselves and to adapt.
+
+It is easy to convince people that "they are doing it wrong",
+socially. If not approached with sufficient communication to identify
+how that person changed in response, can you really say that you care
+enough to tell them about themselves? In my life, this has been so
+unbelievably toxic: my lack of awareness of social phenomena,
+mechanics and dynamics left me practically nothing but blank canvas
+for others to fill with whatever shit they wanted. Some had the best
+intentions, but those skilled in psychology who were malicious did an
+unbelievable amount of harm by exacerbating my neuroses and implanting
+anxieties. One of the 48 Laws of Power warns about trifling people who
+seed slow-growing problems and cultivate enmity in the lives of
+others. A neurosis implanted in someone's psyche may be provoked with
+varying frequency, but contributes to problems every time that
+behavior pattern is triggered and each time, it is almost certainly
+reinforced.[^so-yes-i-know]
+
+The idea of percolation simplifies the process of connecting the
+emergence of social dynamics to potential later developments. All
+types of causal progressions have their partial or total causes. If
+some kind of social dynamic is *always* linked to a specific cause,
+then by spotting the earlier signs, you can reason about the patterns
+that emerge later. There are signs that indicate correlated behavior
+patterns in social behaviors, but more critically, there are more
+general patterns that convey more information. You can more
+effectively reason about potential social cause-and-effect by attuning
+yourself to how information about actions and effects implies other
+reactions, patterns and effects.
+
+#### You can only get a DUI if you are willing to drink *and* drive, but if you are not a drinker, getting a DUI will never happen.
+
+#### For a small group of friends who barhops frequently, but doesn't have some habitual process for handling the drive home, one of them will eventually get a DUI, unless the system changes.
+
+#### If you never eat in your car, it will stay cleaner longer.
+
+#### If you are into extreme sports, you will almost certainly be injured eventually.
+
+#### If someone disrespects you by smoking in your car or if it even takes you more than one time to tell them not to, they are more likely to disrespect you again.
+
+Other examples of using percolation to connect the emergence of signs
+of causal progression are less clear, but it is necessary to first
+recognize the signs. Social perturbation causes people to react and
+present you with tells or it helps indicate propensity for specific
+behaviors. If you catch these signs, you can more easily anticipate
+later progressions. Thus, you can understand the range of
+possibilities much more clearly, but moreover, percolation allows you
+to filter out much of the possibility space.
+
+**Thus, you have a better idea of what to expect and *what not to
+expect* from people.**
+
+Your grandparents have had lifetimes of crash courses in statistics
+for the layman, whether they know it or whether you've figured it
+out. Why lifetimes, plural? They have, moreover, adjusted to the
+anecdotes shared amongst all their their friends: they begin to absorb
+developmental experience from stories about the next generation in
+addition to their own. Though this information is mostly anecdotal and
+often comes with emotional attachment to the outcomes, simply
+understanding that some infinitessimally probable event is possible
+changes the game insofar as whether and how events of related type can
+be anticipated.
+
+The "psychic" is especially attuned to typologies of events, their
+taxonomic speciation and the ontological structures into which they
+fit -- here, this dubious term is referred to in quotes to distinguish
+it from literal psychic, in which I cannot believe.
+
+<a name="infinitesimals-in-statistical-models-explained-for-the-five-year-old" />
+
+### [Infinitesimals In Statistical Models, Explained for the Five Year-Old](#infinitesimals-in-statistical-models-explained-for-the-five-year-old)
+
+How can a five year-old understand the idea of infinitessimal? Disney
+perfectly illustrates the significance of such events with the archery
+contest in Robin Hood.
+
+#### For A Statistical Model Not Accounting For Skill...
+
+> What are the odds that Robin Hood would strike his own arrow?
+> Considering the surface area of the target the archers are aiming
+> at, the probability is literally infinitessimal.
+
+![Robin Hood](/img/posts/2018-12-14-material-conception-of-soul/robin-hood.jpg)
+
+Now, what are the odds Robin Hood would strike the same target three
+times? Infinitessimal again, eh? It depends on your model'œs ability
+to conceptualize the skill of an archer, but most models can not
+predict such an event with low likelihood -- much less when it
+involves mulitple degrees of infinitessimal.
+
+Most infinitessimal events are not so simply stated as the above: they
+are the definition of ineffable -- what makes the event special is not
+capable of being put into words. So if a statistical model cannot
+define them or classify their interdependencies for the [variational
+inference](https://en.wikipedia.org/wiki/Variational_Bayesian_methods)
+which is the magick glue of deep learning, then how does one tally the
+number of times the event has occured? So that future infinitesimal
+events can be accurately anticipated in proportion to its near-zero
+rate of occurance? Thus is the crux of infinitesimals and its nature
+is related to the [Continuum
+Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) and
+[Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice).
+
+Infinitesimals are one of the biggest challenges for machine learning
+algorithms: adjusting to the experience of them, accurately valuating
+their probability so they don't skew your algorithm, developing any
+awareness for the variables which are true causal influences that
+variationally precipitate them... **Infinitesimals break artificial
+intelligence** and the numerical challenges they present are only the
+tip of the iceburg. Regardless of how advanced the computer that runs
+them -- statistical models are cursed to be bound to the same
+phenomenology of life as humans. Again, for emphasis: numerical
+complications are simply the beginnings of accounting for issues
+related to infinitesimals. You have to encounter an event to even hope
+to accurately define it's probability and the structure of its
+interdependent links to other variables in your model.
+
+The nature of trauma and the human psychological response -- **these
+are not phenomena unique to the human condition!** The psychological
+impact that trauma has on a mind -- it is a curse that descends from
+the nature of information itself! Trauma is a curse to haunt the minds
+of any sentient beings, artificial or those made by the hands of some
+"beneficent" God. We should be so lucky to be capable of believing in
+such a God. One should simply hope to live without one's trauma being
+methodically identified as an effective mechanism of control: a
+semiotic trigger to implant delusions useful for provoking predictably
+destabalizing psychological responses.
 
 <a name="children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation" />
 
 ### [Children, Please Get Your Symplectic Manifolds And Turn To The Section on Percolation](#children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation)
 
-What is a symplectic manifold? Basically, it's a mathematical object
-that percolates or filters the possibility space. The combination of
-perturbation and percolation are incredibly powerful techniques for
-understanding high-dimensional systems with potentially non-linear
-dynamics.
+#### Feel free to skip this paragraph...
+
+The combination of perturbation and percolation are incredibly
+powerful techniques for understanding high-dimensional systems with
+potentially non-linear dynamics. What is a symplectic manifold? From a
+pragmatic perspective on its utility, it's a mathematical object that
+allows for percolation or filtration of the possibility space. If the
+concept of the Hamiltonian is familiar, insights via symplectic
+manifolds enable you to reason about equivalent or similar
+configurations of particle systems. See the footnote for mind-blowing
+implications to metaphysics by understanding how Brouwer's Translation
+Theorum requires and necessitates pattern for area-preserving
+maps.[^brouwers]
 
 Geologically, the process of cave-formation involves the percolation
 of groundwater to fissures in rock. The softer the rock and the
@@ -1042,17 +1227,18 @@ electrons in rainclouds.
 ![And the Devil always has something to say, huh?](/img/posts/2018-12-14-material-conception-of-soul/percolation.jpg)
 
 Erosion changes the shape of fissures and thereby changes drainage
-patterns. Percolation is the funnelling of the total volume of water
+patterns. Percolation is the funneling of the total volume of water
 through these spaces. For physics or statistics models, the
-implications of being able to use a symplectic manifold on the
-clarity of your model is like having a model of groundwater flow
-that accounts for the structure of bedrock, including
-fissures. Instead of having a spherical cow that can only model in
-aggregate the total draining flow, your model can understand how the
-possibility of some quantity of water would flow through the
-available channels and how the shape of those channels influences
-the possibility. This is your "ten-thousand foot view from an armchair
-mathemetician" version of symplectic manifolds.
+implications of being able to use a symplectic manifold on the clarity
+of your model is like having a model of groundwater flow that accounts
+for the structure of bedrock, including fissures. Instead of having a
+spherical cow that can only model the space naively, your model can
+understand how the possibility of some quantity of water would flow
+through the available channels and how the shape of those channels
+influences the rest of the statistical system. This is your
+"ten-thousand foot view from an armchair mathemetician" version of
+percolation, a concept that doesn't necessarily rely on symplectic
+manifolds.
 
 Here's some posters from [Melinda
 Lanius](/img/posts/2018-12-14-material-conception-of-soul/symplectic-1.pdf)
@@ -1062,7 +1248,7 @@ which can help visually clarify this concept, although it's still
 prohibitively obstruse for the layman.[^symplectic-manifolds]
 
 To be sure, symplectic manifolds are far beyond my current skills, but
-seems to be useful in physics and statistical models. It's a kind of
+seem to be useful in physics and statistical models. It's a kind of
 structure for percolation by value preservation. In physics, this
 value preservation begins with the statement of equilibrium in the
 Hamiltonian -- which essentially states that energy can not be created
@@ -1079,18 +1265,18 @@ manifold is a special type of manifold that helps you percolate the
 possibility space by making assumptions about energy equivalence,
 degrees of freedom in phase space or the conceptualization of
 probability density as a kind of idea fluid. To the third, ideas from
-information geometry encompass such a conception of dynamics in
-statiscal models as an ideal fluid, towards which the ideas of
-[balancing a tensor network](https://arxiv.org/abs/1702.08142v3) are
-essential[^balanced-tensors]. With the determinism of classical
-mechanics, there are regions of configuration space and phase space
-that require **paths** through phase space **that are exceedingly
-unlikely**. Why would a stochastic model built on classical mechanics
-be relevant to the determinism?  These are questions I can reason
-about, but can't quite clarify without finishing the lectures on
-symplectic manifolds. Still, they seem to embody the idea of
-percolation for statistical systems: eroding the possibility space of
-potential system configurations by leveraging aspects of that system.
+information geometry constrain values and dynamics in statistical
+models as though they have attributes of ideal fluids. [Balancing a
+tensor network](https://arxiv.org/abs/1702.08142v3) illustrates this
+well.[^balanced-tensors] With the determinism of classical mechanics,
+there are regions of configuration space and phase space that require
+paths through phase space that are exceedingly unlikely. Why would a
+stochastic model built on classical mechanics be relevant to the
+determinism?  These are questions I can reason about, but can't quite
+clarify without finishing the lectures on symplectic manifolds. Still,
+they seem to embody the idea of percolation for statistical systems:
+eroding the possibility space of potential system configurations by
+leveraging inherent mechanical constraints and its degrees of freedom.
 
 <a name="of-alice-and-bob-networks-and-hyperplanes" />
 
@@ -1179,18 +1365,18 @@ humans or analytical entities are involved.
 Without perturbation and the "rationalizing irrationality", you cannot
 effectively engage in the third technique. Without introspecting into
 the logistics, processes and decisions of your adversaries in the last
-technique, you cannot effectively engage in former two
-techniques. Further still, by restricting yourself to purely
-deterministic or moreso predictable tactics, then you yourself become
-more predictable. From the perspective of a human or analytical
-entity, the assessment of another entity's decision making or behavior
-is exposed as a feeling. If you're lucky, you'll observe deterministic
-behavior, but this is assuming you preemptively know the underlying
-structures of your adversaries decision-trees beforehand -- otherwise
-your probing to reveal deterministic decision-making will be
-*baseless*. Further, assuming that your adversary engages in at least
-some irrational behavior, then such probing is less fruitful when it
-assumes purely deterministic behavior patterns.
+technique, you cannot effectively engage in former two techniques.
+Further still, by restricting yourself to purely deterministic or
+moreso predictable tactics, then you yourself become more predictable.
+From the perspective of a human or analytical entity, the assessment
+of another entity's decision making or behavior is exposed as a
+feeling. If you're lucky, you'll observe deterministic behavior, but
+this is assuming you preemptively know the underlying structures of
+your adversaries decision-trees beforehand -- otherwise your probing
+to reveal deterministic decision-making will be *baseless*. Further,
+assuming that your adversary engages in at least some irrational
+behavior, then such probing is less fruitful when it assumes purely
+deterministic behavior patterns.
 
 <a name="really-what-does-it-look-like-to-scan-your-adversaries-hyperplanes" />
 
@@ -1430,6 +1616,50 @@ Solo contendere? This is fine...
     percolation in northern Guam: Insights from Jinapsan
     Cave](http://pi-casc.soest.hawaii.edu/research/Project_phps/2015_Jenson-Bautista_WaterPercolation.php),
     but I couldn't find it on Google Scholar.
+
+[^so-yes-i-know]: So yes, I know exactly what some of you sick fucks
+    did to me. Now you want to say i'm dangerous for trying to warn
+    other people? Go to hell! Or fucking live in it! Either way,
+    humanity is going to fix these fundamental flaws in psychosocial
+    dynamics. And social institutions will cease shielding the
+    perpetrators.
+
+[^brouwers]: The implications of Brouwer's Translation Theorum for
+    mathematical physics are fascinating, although I'm basically
+    paraphrasing from a lecture. This theorum is required for most
+    work on symplectic manifolds, but it is only applicable in spaces
+    and systems with &#9312; A Hamiltonian and &#9313; A Measure of
+    Energy. This theorum requires a manifold with `2*n`
+    dimensions. When the theorum and its proof are augmented with
+    differential forms, it becomes apparent that, in order for all
+    looped paths in `R(2*n)` to preserve area, it is necessary for
+    relationships that are essentially position and momentum to exist
+    between **each** of the `n` planes *and* for those relationships
+    to be coherent between **all** of the `n` planes. And this either
+    implies or is developed from a definition of conserved energy,
+    which is essentially specified by the Hamiltonian.
+
+    As for the the
+    metaphysical implications, where are they? Brouwer's Translation
+    is required for all symplectic manifolds, but also appears in many
+    other areas: both are needed in some applications of Information
+    Geometry, though I had far exceeded my level of knowledge once I
+    had mentioned symplectic manifolds. The main takeaway is that not
+    only do energy, Hamiltonians and these manifolds appear in various
+    areas of mathematics, but these concepts are concomitant and
+    concurrent to the differential connections between and within
+    pairs of planes. The concept of the Hamiltonian is, then,
+    primarily one of mathematical physics, as are so many other
+    objects developed out of necessity to model physical
+    systems. Therefore, physics is firstmost a system of math and math
+    is not simply knowledge developed by sentient organisms capable of
+    abstract reasoning, as is frequently reaffirmed. Further, this
+    translation theorum doesn't work for volumes, only areas. Unless
+    there is some equivalent for `R(3*n)`, then all those mechanics in
+    the laws of physics that exhibit only position, momentum and
+    acceleration -- and never jolt! -- descend from this theorum in
+    mathematical physics. That limits the possibilities for conceiving
+    worlds with alternative laws of physics.
 
 [^doxastic-games]: Eger, M., 2018. Intentional Agents for [Doxastic
     Games.](https://repository.lib.ncsu.edu/handle/1840.20/35747)
