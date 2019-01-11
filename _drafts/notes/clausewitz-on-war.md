@@ -35,8 +35,6 @@
   action and the causal inferences motivating the application of
   force.
 
-
-
 ### 8. It does not consist of a single instantaneous blow
 
 - clausewitz sums up the importance of space on the application of
@@ -49,6 +47,9 @@
     mechanical complexities of the domain necessary to handle. it is
     not so easily simplified, if accuracy and utility of insight are
     to be maintained.
+
+- One can infer that Clausewitz discusses the causal paradox that the
+  past exerts more effect on the future than the present
 
 #### The concepts of Escalation and De-escalation
 
