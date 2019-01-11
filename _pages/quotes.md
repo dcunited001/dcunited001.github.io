@@ -11,6 +11,8 @@ permalink: /quotes/
 
 > Metacognition is a science as well as an art.
 
+> Emulation of ancient thought is penultimate metacognition.
+
 > That which is rarely found is always a greater treasure. The
 > greatest treasure is that which is never shown.
 
@@ -30,6 +32,9 @@ permalink: /quotes/
 > predicted.
 
 > Every man is born as many men and dies not, but becomes every man.
+
+> There are many ways to live life and not all of them equally deserve
+> to cling to life.
 
 > I am powerless. All i have is thought. All i have is knowledge. All
 > I have is the will that drives me to never let my pain be forever

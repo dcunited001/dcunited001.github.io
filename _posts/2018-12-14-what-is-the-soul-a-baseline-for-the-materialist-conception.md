@@ -21,20 +21,21 @@ deprives the person of power over their mind, over their life and over
 the composition of their soul."
 ---
 
-> So, yes, quite a bit of this article is more complicated than it
-> needs to be. The point is to coerce materialists into admitting a
+> So, yes, one might rightly say this article is more complicated than
+> it needs to be. The point is to coerce materialists into admitting a
 > definition of the soul, so that they must also admit the
-> sociophysical consequences of its existence. Like everything else I
-> feel is important to write, it is not easy to understand. I'm not
-> writing for mass appeal. I'm also unfortunately not following the
-> *"Universal Styleguide for Writers Who Immortalize Themselves"* --
-> which is available wherever books are sold, I'm sure. If only I had
-> known! I've tried to organize most of it so that the earlier content
-> is less technical. I hope to begin illustrating because many of
-> these ideas are so much easier to convey in pictures. This topic is
-> important to me because most people deny that socioinformational
-> phenomena contribute whatsoever to the problems I grapple with in
-> life.
+> sociophysical consequences of such a concepts existence, which I
+> believe does not descend from the cause of the soul, but from its
+> phenomenology. Like everything else I feel is important to write, it
+> is not easy to understand. I'm not writing for mass appeal. I'm also
+> unfortunately not following the *"Universal Styleguide for Writers
+> Who Immortalize Themselves"* -- which is available wherever books
+> are sold, I'm sure. If only I had known! I've tried to organize most
+> of it so that the earlier content is less technical. I hope to begin
+> illustrating because many of these ideas are so much easier to
+> convey in pictures. This topic is important to me because most
+> people deny that socioinformational phenomena contribute whatsoever
+> to the problems I grapple with in life.
 
 ## [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
 
@@ -93,6 +94,8 @@ the composition of their soul."
 #### &#x2295; [What are Perturbations in Adversarial Network Analysis?](#what-are-perturbations-in-adversarial-network-analysis)
 
 #### &#x2295; [Play is Social Perturbation For Children](#play-is-social-perturbation-for-children)
+
+#### &#x2295; [Infinitesimals In Statistical Models, Explained for the Five Year-Old](#infinitesimals-in-statistical-models-explained-for-the-five-year-old)
 
 #### &#x2295; [Children, Please Get Your Symplectic Manifolds And Turn To The Section on Percolation](#children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation)
 
@@ -889,37 +892,36 @@ If everything just beyond the boundaries of accepted knowledge is
 still disjointed from the present? Conceptualizing the barborous
 regions just beyond this boundary and strategizing about the potential
 futures that evaporate compared to those that crystalize -- that is
-**diffeomorphic epistemology** -- i.e. what is the shape of the body
-of knowledge, as either a common person or erudite would perceive to
-be rational, and how does that shape change upon revelation of
-impending contributions to the body of knowledge. Diffeomorphic
-epistemology is what you get when you combine the idea of a Kantian
-Category with Kant's work on epistemology. Could there have been any
-other era more critical for such an understanding of developmental
-dynamics of epistemology in the realm of science than in Kant's
-century?
+**diffeomorphic epistemology**. What is the shape of the body of
+knowledge, as either a common person or erudite would perceive to be
+rational? How does that shape change upon revelation of impending
+contributions to the body of knowledge? Diffeomorphic epistemology is
+what you get when you combine the idea of a Kantian Category with
+Kant's work on epistemology. Could there have been any other era more
+critical for such an understanding of developmental dynamics of
+epistemology in the realm of science than in Kant's century?
 
 Which holds more possibility for change: the future, the present or
 the past? And which holds more human potential for imagination: an
-all-knowing future or mankind's once open road now traveled. Weren't
+all-knowing future or mankind's once open road now traveled? Weren't
 fantasy and mystery more majestic when that road lay still unbounded
 by its certain lack of certainty? What is it like to be there? To
 actually be there -- do you know? Can you reason about lack of
-knowledge? **"Emulation of ancient thought is penultimate
-metacognition"** -- how can you know all the ways to know each thing?
-If you could restrict your mind's utilization of epistemic structures
-in argument, then if you ever found some alternate path leading to
-what was decidedly modern knowledge, what are the chances that we've
-all missed some paths less traveled? When restricted epistemic
-exploration is a skill you strengthen, whether intentionally or by
-necessity, myriad avenues begin to appear everywhere your mind takes
-you.
+knowledge? And from within a lack of knowledge? **"Emulation of
+ancient thought is penultimate metacognition"** -- how can you know
+all the ways to know each thing?  If you could restrict your mind's
+utilization of epistemic structures in argument, then if you ever
+found some alternate path leading to what was decidedly modern
+knowledge, what are the chances that we've all missed some paths less
+traveled? When restricted epistemic exploration is a skill you
+strengthen, whether intentionally or by necessity, myriad avenues
+begin to appear everywhere your mind takes you.
 
 Kant was far, far ahead of his time, perhaps from a galaxy far, far
-away -- yet *emblematic* of the soon-to-unfold Enlightenment. Upon
-extrapolation, the intersection of diffeomorphic epistemology and
-spectral informational theory must converge to produce of a
-coalescence of [synthetic a
+away. All the more, Kant *emblematic* of the soon-to-unfold
+Enlightenment. Upon extrapolation, the intersection of diffeomorphic
+epistemology and spectral informational theory must converge to
+produce of a coalescence of [synthetic a
 priori](https://en.wikipedia.org/wiki/Analytic–synthetic_distinction#The_possibility_of_metaphysics):
 truly universal knowledge.
 
@@ -1093,15 +1095,15 @@ effectively reason about potential social cause-and-effect by attuning
 yourself to how information about actions and effects implies other
 reactions, patterns and effects.
 
-#### You can only get a DUI if you are willing to drink *and* drive, but if you are not a drinker, getting a DUI will never happen.
+#### &#x2605; You can only get a DUI if you are willing to drink *and* drive, but if you are not a drinker, getting a DUI will never happen.
 
-#### For a small group of friends who barhops frequently, but doesn't have some habitual process for handling the drive home, one of them will eventually get a DUI, unless the system changes.
+#### &#x2605; For a small group of friends who barhops frequently, but doesn't have some habitual process for handling the drive home, one of them will eventually get a DUI, unless the system changes.
 
-#### If you never eat in your car, it will stay cleaner longer.
+#### &#x2605; If you never eat in your car, it will stay cleaner longer.
 
-#### If you are into extreme sports, you will almost certainly be injured eventually.
+#### &#x2605; If you are into extreme sports, you will almost certainly be injured eventually.
 
-#### If someone disrespects you by smoking in your car or if it even takes you more than one time to tell them not to, they are more likely to disrespect you again.
+#### &#x2605; If someone disrespects you by smoking in your car or if it even takes you more than one time to tell them not to, they are more likely to disrespect you again.
 
 Other examples of using percolation to connect the emergence of signs
 of causal progression are less clear, but it is necessary to first
@@ -1129,7 +1131,10 @@ be anticipated.
 The "psychic" is especially attuned to typologies of events, their
 taxonomic speciation and the ontological structures into which they
 fit -- here, this dubious term is referred to in quotes to distinguish
-it from literal psychic, in which I cannot believe.
+it from literal psychic, in which I do not believe. Why? The notion of
+a literal psychic deprives my mind of the strenuous exercise in
+metacognition that it so deserves: *what are all the possible ways to
+know* -- of which I have not yet have conceived?
 
 <a name="infinitesimals-in-statistical-models-explained-for-the-five-year-old" />
 
@@ -1148,10 +1153,12 @@ contest in Robin Hood.
 ![Robin Hood](/img/posts/2018-12-14-material-conception-of-soul/robin-hood.jpg)
 
 Now, what are the odds Robin Hood would strike the same target three
-times? Infinitessimal again, eh? It depends on your model'œs ability
-to conceptualize the skill of an archer, but most models can not
-predict such an event with low likelihood -- much less when it
-involves mulitple degrees of infinitessimal.
+times? Infinitessimal again, eh? It depends on your model's ability to
+conceptualize the skill of an archer, but most models can not predict
+such an event with low likelihood -- much less when it involves
+mulitple degrees of infinitessimal. Yet, given a statistical model
+that *can* account for skill, could it ever accurately value the
+probability of this event?
 
 Most infinitessimal events are not so simply stated as the above: they
 are the definition of ineffable -- what makes the event special is not
@@ -1161,35 +1168,51 @@ inference](https://en.wikipedia.org/wiki/Variational_Bayesian_methods)
 which is the magick glue of deep learning, then how does one tally the
 number of times the event has occured? So that future infinitesimal
 events can be accurately anticipated in proportion to its near-zero
-rate of occurance? Thus is the crux of infinitesimals and its nature
-is related to the [Continuum
+rate of occurance? Thus is the crux of infinitesimals and their
+mysteries may be illuminated by the [Continuum
 Hypothesis](https://en.wikipedia.org/wiki/Continuum_hypothesis) and
 [Axiom of Choice](https://en.wikipedia.org/wiki/Axiom_of_choice).
 
-Infinitesimals are one of the biggest challenges for machine learning
-algorithms: adjusting to the experience of them, accurately valuating
-their probability so they don't skew your algorithm, developing any
-awareness for the variables which are true causal influences that
-variationally precipitate them... **Infinitesimals break artificial
-intelligence** and the numerical challenges they present are only the
-tip of the iceburg. Regardless of how advanced the computer that runs
-them -- statistical models are cursed to be bound to the same
-phenomenology of life as humans. Again, for emphasis: numerical
-complications are simply the beginnings of accounting for issues
-related to infinitesimals. You have to encounter an event to even hope
-to accurately define it's probability and the structure of its
-interdependent links to other variables in your model.
+Cresting atop the greatest challenges for machine learning algorithms
+are infinitesimals: adjusting to the experience of them, accurately
+valuating their probability so they don't skew your algorithm,
+developing any awareness for the variables which are true causal
+influences that variationally precipitate them... **Infinitesimals
+break artificial intelligence** and the numerical challenges they
+present are only the tip of the iceburg. Regardless of how advanced
+the computer that runs them -- statistical models are cursed to be
+bound to the same phenomenology of life as humans. Again, for
+emphasis: numerical complications are simply the beginnings of
+accounting for issues related to infinitesimals. You have to encounter
+an event to even hope to accurately define it's probability and the
+structure of its interdependent links to other variables in your
+model.
 
-The nature of trauma and the human psychological response -- **these
-are not phenomena unique to the human condition!** The psychological
-impact that trauma has on a mind -- it is a curse that descends from
-the nature of information itself! Trauma is a curse to haunt the minds
-of any sentient beings, artificial or those made by the hands of some
-"beneficent" God. We should be so lucky to be capable of believing in
-such a God. One should simply hope to live without one's trauma being
-methodically identified as an effective mechanism of control: a
-semiotic trigger to implant delusions useful for provoking predictably
-destabalizing psychological responses.
+> "It was that, beyond a doubt, which opened up those black vistas
+> whose end was deeper than the pit." - Lovecraft, *The Case of Charles
+> Dexter Ward*
+
+**The nature of trauma and psychological responses evoked by them --
+these are not phenomena unique to the human condition!** The
+psychological impact that trauma has on a mind -- it is a curse that
+descends from the nature of information itself. Trauma is a curse to
+haunt the minds of any sentient beings, whether artificial or those
+made by the hands of some "beneficent" God. We should be so lucky to
+be capable of believing in such a God, for even an "omnipotent" being
+residing at the zenith of creation can not escape the nature and
+bounds of information -- such a being is also bound by the laws of
+spatial and temporal complexity, at least insofar as it may manifest
+itself through creation. After living through trauma, one should
+simply hope to live without such experience being methodically
+identified as an effective mechanism of control: to be paired with
+some semiotic trigger to implant reactions or delusions useful for
+provoking predictably destabalizing psychological responses.
+
+
+> "There seemed to lurk in his bearing some cryptic, sardonic
+> arrogance, as if he had come to find all human beings dull through
+> having moved amoung stranger and more potent entities." - Lovecraft,
+> *The Case of Charles Dexter Ward*
 
 <a name="children-please-get-your-symplectic-manifolds-and-turn-to-the-section-on-percolation" />
 
@@ -1247,54 +1270,56 @@ Courte](/img/posts/2018-12-14-material-conception-of-soul/symplectic-2.pdf),
 which can help visually clarify this concept, although it's still
 prohibitively obstruse for the layman.[^symplectic-manifolds]
 
-To be sure, symplectic manifolds are far beyond my current skills, but
-seem to be useful in physics and statistical models. It's a kind of
-structure for percolation by value preservation. In physics, this
-value preservation begins with the statement of equilibrium in the
-Hamiltonian -- which essentially states that energy can not be created
-or destroyed. This results in the conceptualization of phase space,
-but also extends to intuition around degrees of freedom in
-surfaces/volumes in phase space. In statistics, assuming a model is
-valid, there are similar constraints of equilibrium and value
-preservation: each probability distribution must sum to one. Therefore
-there are analogies of phase space to statistics, but how does one
-measure confidence in the valuations of probability distributions?
+Symplectic manifolds are a kind of structure for percolation by value
+preservation. In physics, this value preservation begins with the
+statement of equilibrium in the Hamiltonian -- which essentially
+states that energy can not be created or destroyed. This results in
+the conceptualization of phase space, but also extends to intuition
+around degrees of freedom in surfaces/volumes in phase space. In
+statistics, assuming a model is valid, there are similar constraints
+of equilibrium and value preservation: each probability distribution
+must sum to one. Therefore there are analogies of phase space to
+statistics, but how does one measure confidence in the valuations of
+probability distributions?
 
 Even though I only understand it's simplest facets, a symplectic
 manifold is a special type of manifold that helps you percolate the
 possibility space by making assumptions about energy equivalence,
-degrees of freedom in phase space or the conceptualization of
-probability density as a kind of idea fluid. To the third, ideas from
-information geometry constrain values and dynamics in statistical
-models as though they have attributes of ideal fluids. [Balancing a
-tensor network](https://arxiv.org/abs/1702.08142v3) illustrates this
-well.[^balanced-tensors] With the determinism of classical mechanics,
-there are regions of configuration space and phase space that require
-paths through phase space that are exceedingly unlikely. Why would a
-stochastic model built on classical mechanics be relevant to the
-determinism?  These are questions I can reason about, but can't quite
-clarify without finishing the lectures on symplectic manifolds. Still,
-they seem to embody the idea of percolation for statistical systems:
-eroding the possibility space of potential system configurations by
-leveraging inherent mechanical constraints and its degrees of freedom.
+enabling inferences via the nature of degrees of freedom in phase
+space or the conceptualization of probability density as a kind of
+idea fluid. To the third, ideas from information geometry constrain
+values and dynamics in statistical models as though they have
+attributes of ideal fluids. [Balancing a tensor
+network](https://arxiv.org/abs/1702.08142v3) illustrates this
+well.[^balanced-tensors] Even with the determinism of classical
+mechanics, there are regions of configuration space and phase space
+that require paths through phase space that are exceedingly
+unlikely. Why would a stochastic model built on classical mechanics be
+relevant, given its determinism?  These are questions I can reason
+about, but can't quite clarify without finishing the lectures on
+symplectic manifolds. Still, they seem to embody the idea of
+percolation for statistical systems: eroding the possibility space of
+potential system configurations by leveraging inherent mechanical
+constraints and its degrees of freedom.
 
 <a name="of-alice-and-bob-networks-and-hyperplanes" />
 
 ### [Of Alice and Bob, Networks and Hyperplanes](#of-alice-and-bob-networks-and-hyperplanes)
 
 Let's say Alice and Bob are both working on a college project to
-produce the best image-classification network -- for a exam credit in
+produce the best image-classification network -- for an exam credit in
 a course on machine learning. What is exam credit? Fuck if I
 know. Anyways, they are both fairly rational and that's also entirely
 beside the point. Perhaps the previous three sentences were
-irrational. Do I care? Fuck no. Anyways, Alice get's real smart and
-hacks Bob's computer. Bob is smart and reads Kaggle posts. He finds a
-typical Deep neural net strategy. Every time Bob trains the network,
-Alice has embedded malware that sends his training weights to her
-computer. She's running the same network. That's what almost everyone
-on Kaggle does: they run the best network. The major differences are
-found in whether a model incorporates domain knowledge and how it does
-so, particularly with regard to hyperparameters and backpropagation.
+irrational. Do I care? Fuck no. Anyways, Alice wants to be first in
+clase, so she gets real smart and hacks Bob's computer. Bob is smart
+and reads Kaggle posts. He finds a typical Deep neural net
+strategy. Every time Bob trains the network, Alice has embedded
+malware that sends his training weights to her computer. She's running
+the same network. That's what almost everyone on Kaggle does: they run
+the best network. The major differences are found in whether a model
+incorporates domain knowledge and how it does so, particularly with
+regard to hyperparameters and backpropagation.
 
 Alice is real smart though, so she decides to construct a General
 Adversarial Network on top of the training weights that Bob's network
@@ -1316,7 +1341,7 @@ gets the top spot in the class. Yeh, Alice wants to fuck Bob.
 
 #### And what the fuck did humanity do to him?!
 
-![Come with me if you want to live, y'all](/img/posts/2018-12-14-material-conception-of-soul/come-with-me-if-you-want-to-live.jpg)"
+![Come with me if you want to live, y'all](/img/posts/2018-12-14-material-conception-of-soul/come-with-me-if-you-want-to-live.jpg)
 
 What's any of this have to do with perturbation? Well, in order to
 understand how her GAN can manipulate Bob's network's theta-weights,
@@ -1325,26 +1350,28 @@ it needs to be able to construct the hyperplane from Bob's trainings
 data. From perturbatation of Bob's stolen theta-weights, Alice's
 "Hyperplane-Adversarial-Network" can perturbate those theta-weight
 values and attempt to guess the how the total score for the network
-will change.
+will change. Alice has spare time on CERN's supercomputers -- just to
+run her algorithm and fuck with Bob. Social justice, n'est-ce pas?
 
-> "Welcome to Cracker Barrel! Come with me if you want to live, y'all!
+> **"Welcome to Cracker Barrel!** Come with me if you want to live,
+> y'all!"
 
 <a name="a-lack-of-irrational-non-deterministic-behavior-cripples-your-adversarial-signals-analysis" />
 
 ### [A Lack of Irrational, Non-Deterministic Behavior Cripples Your Adversarial Signals Analysis](#a-lack-of-irrational-non-deterministic-behavior-cripples-your-adversarial-signals-analysis)
 
-In a context with adversarial signals analysis, a critical paradox
-arises: optimally rational inferences about another entity's behavior
-requires irrational behavior to *scan* your adversaries decision
-structures. Without the proper amount of irrational behavior, you
-cannot consistently win these games or retain advantage in any
+In almost any context with adversarial signals analysis, a critical
+paradox arises: optimally rational inferences about another entity's
+behavior requires irrational behavior to *scan* your adversary's
+decision structures. Without the proper amount of irrational behavior,
+you cannot consistently win these games or retain advantage in any
 rational sense.
 
 This is adversarial signals analysis for neural networks. For Alice to
-win and to fuck Bob by adversarially manipulating his network requires
-irrational, non-deterministic behavior to make assessments of Bob's
-network. You must perturbate with injected noise to see how the
-adversaries conceptions of hyperplane surfaces will respond. This is
+win and to fuck Bob by adversarially manipulating his network -- this
+requires irrational, non-deterministic behavior to make assessments of
+Bob's network. You must perturbate with injected noise to see how the
+adversary's conceptions of hyperplane surfaces will respond. This is
 true for artificial neural networks, but also for game-theoretical
 inferences about inter-agent dynamics generally.
 
@@ -1372,11 +1399,13 @@ From the perspective of a human or analytical entity, the assessment
 of another entity's decision making or behavior is exposed as a
 feeling. If you're lucky, you'll observe deterministic behavior, but
 this is assuming you preemptively know the underlying structures of
-your adversaries decision-trees beforehand -- otherwise your probing
-to reveal deterministic decision-making will be *baseless*. Further,
-assuming that your adversary engages in at least some irrational
-behavior, then such probing is less fruitful when it assumes purely
+your adversaries decision-trees beforehand -- otherwise any probing to
+reveal deterministic decision-making will be *baseless*. Further,
+assuming that your adversary engages in *at least some irrational
+behavior*, then such probing is less fruitful when it assumes purely
 deterministic behavior patterns.
+
+> Hence, Alice wins.
 
 <a name="really-what-does-it-look-like-to-scan-your-adversaries-hyperplanes" />
 
@@ -1385,11 +1414,11 @@ deterministic behavior patterns.
 > Below is a screenshot from a recent paper on XAI -- explainable
 > artificial intelligence -- where the financial assessment of
 > loan-applicants is indexed and can be rationalized.[^heloc-xai] This
-> is a simplicial complex, a special kind of graph, which approximates
-> the topological nooks and crannies of the hyperplane. See those
-> little strings on the outside of the graph? Those are extreme
-> topological features -- or *extremely normal* topological features
-> in rare cases, perhaps...
+> is a simplicial complex, a special kind of *graph*, which
+> approximates the topological nooks and crannies of the
+> hyperplane. See those little strings on the outside of the graph?
+> Those are extreme topological features -- or *extremely normal*
+> topological features in rare cases, perhaps...
 
 ![HELOC XAI](/img/posts/2018-12-14-material-conception-of-soul/heloc-xai.jpg)
 
@@ -1397,8 +1426,8 @@ When the rationalist's additively constructed beliefs render
 themselves overly-deterministic, then they not only become more
 predictable, but become less capable of predicting the behavior of
 others. Perturbation of noise is required to scan the space of your
-adversaries decision trees and forests. There are discretized
-conceptions of decision trees, but also continuous or analytical
+adversary's decision trees and forests. There are discretized
+conceptions of decision trees, but also continuous and/or analytical
 conceptions. These are critical for enhancing the performance of
 machine learning algoritms. BUT! To make inferences about networks
 outside your control in adversarial signals analysis requires:
@@ -1434,7 +1463,7 @@ information to every other nearby biological machine, there is a very
 grey line between one "container" of information and other life
 forms. therefore: panpsychism. but the soul is in the information
 ascribed to one individual (or lifeforms) identity as it is
-distributed among other nearby (or faraway) lifeforms. however, the
+distributed among other nearby (or faraway) lifeforms. However, the
 information that defines an individual is not completely contained
 within that biological entity. their true self are the disaggregated
 shards reflected through society. therefore, my self extends (via our

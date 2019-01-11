@@ -3,6 +3,7 @@ title: "Information Warfare"
 headline: "Informational Territory > Sociohierarchical Territory > Economic Territory > Physical Territory"
 ---
 
+- borrow sections from the notes on clausewitz
 
 - how social technology platforms establish a cottage industry for SEO
   & social media, which effectively paywall access to information.
