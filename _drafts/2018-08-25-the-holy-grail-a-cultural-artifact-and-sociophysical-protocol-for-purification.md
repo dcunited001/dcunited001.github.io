@@ -1734,25 +1734,3 @@ on roman infrastructure.
     dynamic-response problem in non-convex
     domain](https://jvejournals.com/article/15907), Luyun Chen, Leixin
     Li, Journal of Vibroengineering, (2015)
-
-[^what-the-fuck] if I was partially responsible for someone's death,
-    no one would let me know, so if I ever did anything great, who
-    would ever say shit? That's tragic by the way, not being allowed
-    to be accountable: how can I ever correct course? Or is that the
-    intent? To defame me without ever letting information trickle back
-    to me that would allow me to defend myself. Is it right that I
-    should never deal with remorse or justice that I deserve? That's
-    horrible. That's fucking horrible because if my actions are wrong
-    then I deserve to be held accountable and so be it. All I want in
-    life is justice, but when there is such a strong stranglehold on
-    the social diffusion of information related to my actions, it
-    simply tells me there is a threat/operation around the corner that
-    is planned to take me out. Because obviously, even though it
-    should matter, it apparently doesn't -- which is a lie. Watching
-    everyone cooperate to fake it does not help someone's "paranoia"
-    ... what a show-trial. You wouldn't be fit to serve anyone if you
-    couldn't tell the difference. I figured it out (AFAIK) and holy
-    fuck that's horrible! If I even tried to tell someone, they'd call
-    me crazy for even trying. Potent #Curcumin? :( Maybe I'm wrong,
-    but I wish I ever felt like people were straightforward with me
-    when it mattered.
