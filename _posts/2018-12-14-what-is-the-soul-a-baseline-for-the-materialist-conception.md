@@ -262,9 +262,8 @@ something worth finding?
 For me, today, those lines are about escaping some preconceived
 construction of an identity that is not only forced upon us, but seems
 to be hopelessly prevalent in society. Is it a true conception of
-one's identity? If the doors of opportunity are closed, then if you
-are excluded, how do you change the distorted belief that bars them
-shut?
+one's identity? If the doors of opportunity are closed and if you are
+excluded, how do you change the distorted belief that bars them shut?
 
 > He tried to act up I had to give in
 >

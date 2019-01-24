@@ -558,6 +558,10 @@ you're S.O.L. cuz you don't have enough explosions.
     and seeking to fearfully control everything around us
 - TODO: more themes about fear
 
+### hope:
+
+- false hope (a la Sword Art Online 2)
+
 ### misc:
 
 - the inherant cost of accepting a gift

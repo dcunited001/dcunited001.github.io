@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+#### Work on this aphorism
+
+> Lovecraft had the best dreams. Dreaming is a skill, not an accident.
+
 # Intro
 
 # A Dream About A Great Dane
@@ -15,7 +19,6 @@ excerpt: ""
 - Date: sometime before Nov 26th, 2016
 
 #### dream where this dog (a great dane) kept licking my face
-
 
 - kind of a silvery coated great dane
 - i'm not sure how i met the dog. i was in some building with open
@@ -40,7 +43,6 @@ excerpt: ""
   - no matter what we did or how we tried to egg her on, she wouldn't
     do it anymore after that.
 - kind of a wierd dream, but there was a point to it, i promise
-
 
 # A Dream About A Cat
 
@@ -73,6 +75,39 @@ excerpt: ""
       being rejected for it's injuries.
     - i started crying in the dream and immediately woke up
 
+- this cat seems to react to its own injuries/scars similarly ...
+  that I've been afraid to hide from other people. years ago, i
+  wouldn't have wanted to burden others with my pain. i lost the drive
+  to hold anything back a long time ago when i figured out people were
+  counting on me being quiet, for whatever reason. most people would
+  simply be too embarrassed, anxious or afraid to speak out if they've
+  been through what i've been through, especially understanding what i
+  know know about what happens to those who talk about their
+  psychological scars. my hesitation was originally centered in
+  misunderstanding the causes: from 2010-2015, i actually thought my
+  scars were a product of extremely bad luck in my career and my own
+  obsession with ruminating on failure. i didn't understand that
+  people engineered by psychological torture. after i started writing
+  about it and people tried to convince me to unpublish everything i
+  had written on it, it felt wrong and i decided that i didn't care
+  about the impact on my employability. i was not going to be talked
+  down so long as there was a chance for my writing to help others
+  avoid the same pain. i still didn't understand what had really
+  happened or the extent of everything that I was still being
+  subjected to. i don't understand the full scope of consequences that
+  writing about my negative experiences has had: it's almost as though
+  everyone in my life has read a memo that says: DO NOT DISCUSS
+  VERBOTEN TOPICS WITH DAVID CONNER.
+
+### About the cat dream?
+
+(2018/12/18) My reaction today? Fuck that cat! now... hear me out. I
+would never be that cat: I will always wear my scars proudly. I also,
+would never ever push that cat away. In fact, someone traumatized by
+forces beyond their control (or within their control) should never be
+pushed away. That's wrong. I gravitate towards these people or
+animals, even though they may have
+
 #### Notes
 
 - similar to my brother's cat? (cat with anxiety/ptsd. successfully
@@ -87,7 +122,6 @@ excerpt: ""
 
 ### dream where someone tried to set me up to drown in a flood
 
-
 - (when writing this, separate the dreams & my injection of
   interpretations)
 
@@ -96,11 +130,10 @@ where I would die and should could claim it was an accident. IRL, she
 is a friendly older woman figure that I trust, so let's call her
 Alice.
 
-> This is during a flood (a general weather event where emergent
-> situtions become capable of anticipation, but are those which most
-> younger, less experienced people would feel were an accident
-
-
+> [REWORD THIS] This is during a flood (a general weather event where
+> emergent situtions become capable of anticipation, but are those
+> which most younger, less experienced people would feel were an
+> accident
 
 #### Starting with Porn
 
@@ -120,10 +153,11 @@ many of the same features.
 - the next thing I remember is writing a post on facebook. this is
   wierd because I don't usually dream about digitized means of
   interaction.
-  - interactions in my house? these dreams occur often. interactions
-    set in some natural environment are more frequent. urban
-    environments or corporate environments are rare, although walking
-    or driving on the road is a theme that crops up often.
+  - Interactions in my house? Dreams with these themes occur
+    often. Interactions set in some natural environment are more
+    frequent. Urban environments or corporate environments are rare,
+    although walking or driving on the road is a theme that crops up
+    often.
 
 #### Finding myself in her car
 
@@ -283,71 +317,9 @@ I began to fear their involvement. I did not want to immediately
 contest what had just happened because anyone who was aware that what
 had just happened was the product of someone's intention to harm me
 would selectively filter out information useful to my side of the
-story from any public records.
-
-> I've been the target of conspiracies before and I know that when
-> these things happen, there are more people *who know* than you would
-> think. It's one way to advance yourself in American society:
-> demonstrate that you're willing to look the other way while shitty
-> things happen to good people. If bystanders are aware, *they are not
-> innocent*, they function as cleanup crews: they identify and contain
-> the causal consequences of information that sticks out and
-> contradicts the official narrative. If they identify that the
-> official narrative will not *stick*, then they prefer to suppress
-> any and all information related to the situation: *nothing will come
-> out*.
->
-> That's why I choose to play detective on my own and collect
-> information to use as one might use extra cards in a hand of
-> poker. I'm better at being a detective anyways, apparently. I would
-> rather force my adversaries into being over-confident about lying,
-> so that I can surprise everyone with new information later on. They
-> are not going to play fair with you and you should not play "fair"
-> with them. This becomes useful in demonstrating how *everyone
-> involved fabricates, selectively lies and suppresses information to
-> my detriment*. The problem with such a strategy is that good people
-> get caught up in the misinformation: they do not like looking bad
-> when a conspiracy begins to emerge and so they will also choose to
-> suppress information.
->
-> **Remember: this will always proceed in a manner that is selectively
-> detrimental to the target.** That is how *operations* work, they
-> process the *target* to an increasingly vulnerable state.  Everyone
-> involved abuses the system to advance that goal: for someone who is
-> truly a target, the system will never allow itself to advance the
-> target's goals or the target's protection. THUS, THE SYSTEM IS NOT
-> YOUR FRIEND. Work outside of the system and you might just
-> survive. In fact, if you are a target, involving other people
-> becomes risky for their safety. Involve them as much as possible.
-> This is also their fight. No one asked for an America like
-> this. People need to see this for what it is, until the authorities
-> no longer feel free to operate maliciously with impunity. **Rule of
-> law**.
->
-> **You're probably not a target,** so keep that in mind. There are
-> several reasons no one hears about *operations*: &#x9312; they are
-> well covered up &#x9313; the authorities process the target into a
-> marginalized, vulnerable state so they can act without
-> socioinformational consequences and &#x9314; operations like this
-> just don't happen very often. The system usually has much better
-> ways of manipulating a potential target into handling themselves by
-> encouraging the target to become associated with crime, become
-> violent, etc. You practically have to be as clean as Jesus Christ to
-> survive such processing and marginalization because they encourage
-> you to become insane or legally vulnerable, so they can throw you
-> away in a trash can marked either PRISON or MENTAL INSTITUTION.
->
-> If you are a target, be wary because these people do not play nice
-> and they will not hesitate to trash your life and torch your family
-> tree *on a whim*. That's right, the 3rd Amendment is toast. THE
-> THIRD AMENDMENT. That should frighten you. It means that you are
-> essentially being quartered with soldiers. *Target* is a term with
-> military implications. In combat, only people who are targeted can
-> be engaged with force, lethal or otherwise. If you are a literal
-> target, they are likely not going to kill you, but it is in the
-> cards. They would much rather put you in a mental institution.
-> That's often what it means to be "crazy" in America: you got
-> targeted.
+story from any public records. See the footnotes to see what has been
+so conditioned into my subconscious that it fuels the paranoia in my
+dreams[^third-amendment-is-toast].
 
 - instead of focusing on the *murky* truth that she had just tried to
   kill me, which would be difficult to prove, i instead began focusing
@@ -368,7 +340,8 @@ gradually, the
 
 #### Being Forced to Walk Home
 
-- i was basically forced to walk home
+No one was concerned with my safety or my escape from death. I was
+basically forced to walk home
 
 #### Meeting Friends Nearby (they were walking towards the river & scene of accident)
 
@@ -392,11 +365,12 @@ gradually, the
 
 #### Warping To A Skating Rink in South Caroline
 
-- where my mom wanted to get some pictures taken. I don't think she
-  yet knew what had happened. when I got there, DJ equipment started
-  falling to the floor. yet, i don't think the focus on the DJ
-  equipment was strong. The lighting was blue, the floor glowed and
-  there was more emphasis on lighting and music.
+... Where my mom wanted to get some pictures taken. I don't think she
+yet knew what had happened, but I'm not sure she would care. Not
+really.  When I got there, DJ equipment started falling to the
+floor. yet, i don't think the focus on the DJ equipment was
+strong. The lighting was blue, the floor glowed and there was more
+emphasis on lighting and music.
 
 #### Why did this dream seem different?
 
@@ -417,237 +391,263 @@ gradually, the
 
 -
 
-# Conclusions
 
+# Dream Where Trump Tried to Give Me X-Mas Presents and I Got Drugged
 
-- this cat seems to react to its own injuries/scars similarly ...
-  that I've been afraid to hide from other people. years ago, i
-  wouldn't have wanted to burden others with my pain. i lost the drive
-  to hold anything back a long time ago when i figured out people were
-  counting on me being quiet, for whatever reason. most people would
-  simply be too embarrassed, anxious or afraid to speak out if they've
-  been through what i've been through, especially understanding what i
-  know know about what happens to those who talk about their
-  psychological scars. my hesitation was originally centered in
-  misunderstanding the causes: from 2010-2015, i actually thought my
-  scars were a product of extremely bad luck in my career and my own
-  obsession with ruminating on failure. i didn't understand that
-  people engineered by psychological torture. after i started writing
-  about it and people tried to convince me to unpublish everything i
-  had written on it, it felt wrong and i decided that i didn't care
-  about the impact on my employability. i was not going to be talked
-  down so long as there was a chance for my writing to help others
-  avoid the same pain. i still didn't understand what had really
-  happened or the extent of everything that I was still being
-  subjected to. i don't understand the full scope of consequences that
-  writing about my negative experiences has had: it's almost as though
-  everyone in my life has read a memo that says: DO NOT DISCUSS
-  VERBOTEN TOPICS WITH DAVID CONNER.
+#### I went to the beach with my family
 
-### About the cat dream?
+- there were scenes in a condo. i don't remember much of anything at
+  this point, but there is quite a bit of content and narrative here
 
-(2018/12/18) My reaction today? Fuck that cat! now... hear me out. I
-would never be that cat: I will always wear my scars proudly. I also,
-would never ever push that cat away. In fact, someone traumatized by
-forces beyond their control (or within their control) should never be
-pushed away. That's wrong. I gravitate towards these people or
-animals, even though they may have
+#### A lady I hadn't met before acted familiar and asked about my writing
 
+- in kind of a superficial way. so she could say she was authentically
+  concerned for my goals, when i didn't necessarily feel that she
+  would care to help me advance them or would refrain from passive
+  aggressively disrupting me from my writing
+  - (which has been a recurring theme in my life ever since the night
+    I wrote an article about a potential **universal language** among
+    aliens that would allow for communication at twice the speed of
+    light. my brother and mom confronted me to try to send me to a
+    mental institution the next morning, before i had published. i had
+    to stream the whole thing on periscope w/o their knowledge to
+    attempt to avoid it.)
+    - i don't know what it was about this article in particular that
+      prompted a response from people, nor can i explain how they
+      communicated about it to get my brother at my house for that
+      specific conversation at 8:30am, but in my mind, it was almost
+      certainly a response to what i was writing. to me, this was an
+      indication that i was under surveillance and my family knew
+      about it.
+    - they were strongly engaging in what i was beginning to learn
+      were tactics for disruption. it was very strong and they did not
+      want to hear about what i was writing.
+    - it also came out of nowhere. there was no other real stimulus to
+      prompt the one-sided "discusson" where my mom and my brother
+      cornered me and the sole focus was to convince me to seek
+      psychiatric help.
 
+#### We ended up needing to go to the hospital
 
+- for something related to someone else's health *apparently*.
+  - there wasn't much focus on this in the dream
+  - (after the dream, I felt like this hospital visit was so that
+    doctors and medical staff could unofficially establish a genial
+    rapport with me to try to anticipate how I would present symptoms
+    when I was drugged which would lead me to be psychiatrically
+    hospitalized)
 
+#### we showed up to a baseball stadium
 
+- i'm not sure whether i knew where we were going before we got
+  there. i don't remember. everything was vividly visual.
 
+#### trump led me up the stairs towards the boxes, but we didn't go in
 
-### Wierd "Spider Bite" Dreams Where I Wake Up Sprinting
+- at the top of the stairs, he sat down, blocking the path to the
+  boxes. (my interpretation was that he was symbolically positioning
+  himself at the top)
 
-These have mostly occured from
+- during the dream, i recall having seen a video or something that
+  explained how trump likes people to sit in a very specific place on
+  the stairs. basically, if i wanted to please him, then i would sit
+  in this location.
+  - i started to comply with this, but then felt uncertain. i didn't
+    want to project compliance necessarily, but independence.
+    - i didn't want to pick a place to sit based On what i had been
+      told or subtly introduced to through some social media video or
+      whatever.
+  - so i awkwardly tilled around and couldn't decide where to sit.
+    - i kept moving up and down a region of three or four stairs,
+      sometimes sitting on the ledge beside it (which was the location
+      i was compelled to feel would indicate compliance)
+    - he was implicitly blocking the top of the stairs
 
-### Wierd Neurological Time-Processing Paradox Dreams
+#### trump started trying to pay me off (... not in any serious way though)
 
-- this should be taken to be a thought experiment, but i cannot
-  explain what I've experienced several times after these Spider Bite
-  dreams. to the best of my knowledge, the technical neurological
-  information is factual, as are the analogies to stream processing in
-  computer vision and machine learning. however, i'm trying to explain
-  my subjective experience of sensory/causal "time travel" upon waking
-  up ... so the overall hypothesis is merely that: a hypothesis that
-  may elucidate what happens when streams of neurological signals are
-  truncated for long periods of time. no. there is no time travel
-  involved. and yes, it could simply be a neurological glitch, but
-  often that's where you learn the most about how the brain works.
+- i think he was just tempting me.
+- he asked "So what do you want?" in a coy kind of way, but i could
+  tell what he was getting at. he asked it like i could get anything i
+  wanted.
+  - i looked around and fairly quickly said "Nothing"
+- he then asked me "SOOOO... what'd you get for christmas?"
+  - i took this as a sly attempt to read into what I would like,
+    in a manner less conspicuous than quid pro quo.
+  - i said "i haven't bought any Christmas presents for anyone for
+    five years, asshole."
+  - he about fell over. I felt bad for some reason, since it was
+    probably more accurate to blame Obama for most of that five years.
+  - so i said "i'm sorry"
 
-- basically, i've had two or three "spider-thread" wakeups, where no
-  "bite" is involved, but a sensation that a spider is dangling itself
-  down onto my face suddenly wakes me in the characteristic rush to
-  turn on the lights. in the instinct-driven transition from some
-  typically dreamless cycle of sleep to blitzing out of the bed, what
-  i remember here is the "idea" that there's a spider directly over my
-  face accompanied by long, thin tube-like imagery in total darkness
-  that tends to resemble stretching optical networking fibers when i
-  reflect back on it. it's not a dream. it's the timeless (tubelike)
-  sensation of a Salvia Divinorum trip in near total darkness, but
-  here one or two bright colors stretch themselves in a long cone-like
-  shape as the visuospatial imagery presented to my consciousness
-  morphs into an infinitely tall cylinder. it's wierd. it's this shape
-  that gives me the only visual image immediately before I wake up: a
-  single thread of spiderweb. yet, it seems this image only
-  incidentally accompanies the purely semantic idea of "SPIDER!!" that
-  sends me into a blitz, where only mid-sprint does my mind correlate
-  the "optic fiber" image and arachnoid.
-  - however, one particularly vivid "spider-thread" wakeup left me
-    extremely confused about the course of events. As i was running to
-    the light-switch to turn them on (and I did flip the switch), my
-    immediate (+10s - +60s) examination of my memory of waking up
-    included ONLY imagery of my room where the lights were already
-    on. And I hit that fucking light switch ... but pouring over all
-    the visual data immediately afterwards? The lights were already on
-    ... yet, i still had the same nearly pitch-black, thread-like
-    imagery of the single strand of web. the lights were off before i
-    woke, but all the visual aspects of the memory indicate that from
-    the very moment i opened my eyes, the lights were constantly on
-    until i was left perplexed about the causal paradox.
+#### Trump handed me a pill bottle in a clear bag
 
-- "null and void" - quaternary systems of values have: true, false,
-    null, void (or what is essentially void) .. void would indicate
-    that the data location is missing/invalid or that returning null
-    would be misleading.
-- hypothesize that, for data that the brain has never experienced as
-  "missing", if this data or the streams that carry it instead
-  propagate data almost completely perceived as "null and void", then
-  the brain's tendency to fill in the gaps of its experience may step
-  into overdrive. memory of spatial relationships is nearly useless
-  without the sensory data necessary to orient oneself in
-  space. still, it would still be possible to operate on memory alone,
-  even if visual streams are perceived as "null and void".
-  - but, if i jumped out of bed and hit the light switch while an
-    infinitessimally rare glitch caused visual data streams be
-    perceived as void, then how would my consciousness perceive this
-    this course of events? looking forward, if there was no visual
-    data, and my mind was operating on autopilot with deeply engrained
-    spatial data about the layout of my bedroom, then perhaps my mind
-    filled in the blanks with a visual patchwork of imagery overlaid
-    on top.
-    - (while dealing with inconsistency of thought/memory immediately
-      following an abrupt interruption of sleep) if my brain did so,
-      while receiving nearly zero visual input, then perhaps it
-      reconstructed it's memory of rushing to the lightswitch with
-      zero awareness of the lights being off. hence, looking back on
-      my own memory, the lights appeared on the whole time, even
-      though i clearly remembered the sensation of the strong "snap"
-      exhibited by my over-tightened, loud bedroom lightswitch. the
-      two elements of memory: the tactile snap of the lightswitch and
-      that it did not visually change the state of the lights are
-      incompatible. time travel? probably not. is my hypothesis
-      correct? i'm so far out on weak assumptions that Occam's razor
-      is in pieces, but assuming my recall of the experience *was*
-      valid, then there are three possibilities: (1) time travel (2)
-      aliens (3) or something else.
-    - if i'm correct, then i believe that the thinned cylindrical
-      spider thread, with its strange filaments of bright red and
-      orange are simply a result of extremely limited visual
-      processing. basically something is malfunctioning in occipital
-      lobe, the "points of sensory convergence" in the thalamus, where
-      auditory pathways approach the visual pathways, or in the
-      optical chiasm. far more likely than the former two, the latter
-      is spatially centralized and maintains fairly direct pathways
-      throughout its X shape until it reaches the occipital lobe.
-    - it is well-known that the mind tiles in patches of visual data,
-      overlaid on top of a (sparsely updated constraints on the
-      arrangement of objects in space.) this process operates
-      similarly to a computer-vision CNN in reverse or, more simply, a
-      bit like Google Deep Dream. instead of updating "every pixel on
-      the screen at every refresh", the mind is more efficient in time
-      and energy if it stochastically stitches in patches of imagery
-      overtop sparse constraints updated by visual stimuli, as they're
-      made available. this implies that the brain operates in
-      qualitatively different ways if a person finds themselves in a
-      new or unfamiliar environment, until enough information is
-      received so that the stochastic "tiling" methods can take over.
+- the pill bottle was in what looked like an evidence bag. i thought
+  it was my adderal prescription
+  - (which i'm supposed to get tomorrow, but my mom is haggling with
+    me and generally back to giving me a hard time about things that
+    actually help me make progress)
+    - she's being an ignorant bitch. she never listens to me. i'm in a
+      state of values-debasement from protracted, constant negative
+      reinforcement. there is no positive reinforcement applied, for
+      anything. there is no acknowledgement of reality, when it comes
+      to my goals, my skills or anything that happens to me in an
+      "operation"
 
+- he threw them down one or two stairs and i picked them up.
+  - after i did, i looked behind him and there were a dozen or so
+    similar bags of pills.
 
-#### experience of non-linear time
+#### I hadn't taken any of the pills and i started feeling drugged
 
-  - i have experienced non-linear time before, once. it's unbelievably
-    confusing to the point of being permanently irreconcilable to the
-    person who experiences it. obviously, the other people in that
-    situation? they were experiencing time linearly: everything occurs
-    in-sequence and there's no skipping around. this was a experience
-    in 2005 where for a half-hour, memory of dialogue jumped out of
-    sequence and cycled. for me, experiencing time moving forward
-    caused me to play and replay fragments of memory and dialogue that
-    would occasionally skip backwards and repeat. never eat Amanita
-    Muscaria!!! this experience was terrifying for everyone
-    involved. still, it left me puzzled as to how my brain would lead
-    itself to loop and shuffle 15-60 second fragments of memory until
-    it stabalized. the experience implied that, in order to provide
-    the emulation leading to the sensation of awareness known as
-    consciousness, the brain does some very interesting things to
-    permit consciousness to observe and reflect on its while recording
-    memory and enabling flexible cognition. and apparently, its very
-    possible but exceedingly rare for the experience of consciousness
-    to glitch out and expose "chopped and screwed" fragments of
-    memory, each seemingly occuring the first time with vague memory
-    of that fragment having already occurred. there are other possible
-    explanations for what my brain was doing, but the point is: when
-    enough processes in the brain become swamped with corrupted data,
-    things get weird. the experience of consciousness moving only
-    forwards is not guarenteed by the mind -- but it's not time
-    travel, obviously.
-    - i can't repeat this enough: do not eat those fucking
-      mushrooms. they're legal, but they will kill you or worse.
-    - why is this phenomena of temporally corrupted consciousness
-      possible? because the brain is constantly stream-processing data
-      to various parts of itself. keep in mind that this is pure
-      speculation. when exhibited at large enough scale, these streams
-      of ionic & electrical activity contribute to types of
-      brainwaves.  there are several kinds of spatiotemporal
-      components to signals being streamed and the information
-      representations that are stored in short-term or long-term
-      memory. there are some aspects of memory read/write that must
-      logically resemble a spatiotemporal tensor decomposition.  if
-      such a tensor were corrupted upon contraction in such a way that
-      causes data about time & space to be skewed (while seemingly
-      preserving the integrity of the data) then this would cause
-      comparison of events in time to result in invalid sequences. as
-      perceived, the flow of time may accelerate or decelerate, the
-      memories associated with experience may seem "sparse" or more
-      rich with details, or experience itself could potentially be
-      presented to consciousness out of sequence.
-      - however, it's far more likely that the mind would not be
-        capable of processing such invalid data at all: the signals
-        wouldn't simple appear corrupted, they would potentially
-        destabalize adjacent neural circuits until normal behavior was
-        restored. some mechanism like this might be responsible for
-        such phenomena as "beer-recall" where physical representations
-        of memory would be more conducive to integrating with adjacent
-        circuits or intermediary pathways if the local and global
-        chemical state were similar to that when the memories were
-        recorded. while beer-recall seems rare, some studies have
-        shown that, after studying with adderall, accuracy of recall
-        is best when the test is taken on adderal.
+- at this point, my mom re-enters(?) the dream. she notices that I'm
+  drugged, but doesn't admit it, instead *preferring* to blame it on
+  the medication
+  - (which she loathes so much, since it represents the ability to
+    learn and get things done, but which she can also project as a
+    horrible addictive drug)
+    - blah blah fucking blah blow it out your fucking ass, bitch
+  - (this scenario of having been drugged by a strange form of
+    "adderal" or being drugged after receiving a bottle of adderal is
+    something that, in 2016, seemed to happen 3 or 4 times)
+    - every time i try to explain to other people what happens, they
+      PRETEND to not understand anything that I'm saying. they get
+      away with "playing stupid" because they have so successfully
+      pretended to be stupid my entire fucking life.
+- i recognize that i'm drugged. to me, in the dream, it's the same
+  feeling i recognized from 12/5/2016 and 12/22/2018. it's the feeling
+  i dread because it's the one i've only experienced twice (or maybe
+  three times), which corresponds to a particular feeling of losing
+  control
+  - (there have been 2 predominant DISTINCT feelings of being drugged
+    over the past EIGHT YEARS. one is frequent and *seems* to be a
+    food allergy. incredibly acidic food that *just so happens* to
+    shut my fucking brain off and act as an antidote to adderal.)
+    - the other feeling is one i've experienced twice.
+      - BOTH DATES, i had the following side-effects:
+        - (1) an increase in dermotological side-effects from adderall
+          (which are only supposed to happen at exceedingly high doses
+          for dextro-amphetamine
+        - (2) 10-20 hours after i began feeling drugged, i developed
+          RESTFUL LEG SYNDROME. i have only ever had these symptoms
+          TWICE: on 12/5/2016 and 12/23/2018 ... and both times, the
+          symptoms were short-lived, appeared in bursts and STOPPED
+          AFTER 24-48 hours. I WAS DRUGGED> I WAS FUCKING DATE-RAPED
+          AND MANY PEOPLE KNEW IT *BOTH TIMES*
+      - it seems to be something that can be delivered in incredibly
+        small volumes, which is exactly what would happen if
+        CIA/FBI/DHS manufactured small amounts of drugs to be used in
+        operations.
+      - the drugs would be a subset of pharmaceuticals with some of
+        these requirements:
+        - high heat tolerance
+        - high range of tolerance to pH
+        - tasteless, odorless
+        - preferably an orally active peptide (in the 21st century)
+        - variable duration of action dependent on the operational
+          requirements
+        - a potential kill-switch (to act as an antidote to return the
+          target to a normal psychiatric state)
+        - predictable metabolic pathways
+        - predictable set of side effects
+        - AN EXTREMELY LIMITED SET OF CONTRAINDICATED PHARMACEUTICALS
+          *AND* SUPPLEMENTS
+    - if i had to name a drug it would be "scopalamine" like the
+      reports in 2012 of a new drug from south american that wiped
+      your memories and forced you to be controlled by someone who
+      caused you to commit crimes, potentially for a period of days.
+      - however, scopalamine is probabily the WORST DRUG to use for
+        such an operation (it's very easily lethal)
+      - BZ is a *possibility* (which is chemically related to
+        Scopalamine and is very much like the drug from batman begins)
+        - but i very much feel that it is in that family of drugs
 
-- the best way to explain it is that it feels like a salvia trip when
-  I wake up. this has only ever happened a handful of times, but seems
-  to be connected to the "spider bite" dreams.
-  - this is going to be very difficult to explain, but understanding
-    what's happening neurologically speaks volumes about how the brain
-    seems to stream-process temporal components of experience,
-    particularly sensory data.
-  - imagine that your brain stopped forwarding data from it's senses
-    to the thalamus, but for some reason still permitted itself to
-    engage with the world (for a period of 20-30 seconds after waking
-    up)
-    - how would the brain respond to a sudden cessation of sensory
-      data? e.g. imagine that visual data proceeding from the retinas
-      through the optic chiasm into the occipital lobe is disconnected
-      before waking up. the intermediate layers of visual processing
-      in the occipital lobe would stop receiving data (TODO: image
-      mapping brain regions to CV algorithm and/or capsule networks)
-      - what happens? there is a curious absence of signal from the
-        occipital lobe to other regions (e.g. parietal lobe centers
-        for object classification and for perception of spatial
-        orientation of objects; these two networks are completely)
-        - this "absence of signal" may simply be incoherent and
-          unintelligible signal that results when sensory streams are
-          cut.
+#### I started to run away to get space
+
+- i was running away from people who were physically close to me in
+  the dream, but i kept coming back to them. (i was still in the
+  baseball stadium environment)
+  - each time i encountered them, they would tell me about how i
+    looked like i was acting different or strange, YET I HAD NOT TOLD
+    THEM ABOUT FEELING DRUGGED. I was avoiding them becuase of their
+    imposition and their controlling tendencies
+    - (when they should not *know the cause* for my vulnerability,
+      which is exactly what happens IN REAL LIFE, practically whenever
+      disruption is needed, but especially at times when I should
+      watch my fucking back)
+
+#### I started feeling increasingly trapped
+
+- my mom said "What are you doing, David? You've just goin in a big
+  circle" in a falsely consoling tone, as if to say "nothing you're
+  doing right now makes sense", which is exactly the kind of bullshit
+  she tries to feed me constantly -- when there *is* purpose to my
+  actions, but her motivation is to disrupt me from my goals.
+
+[^third-amendment-is-toast]: I've been the target of conspiracies
+    before and I know that when these things happen, there are more
+    people *who know* than you would think. It's one way to advance
+    yourself in American society: demonstrate that you're willing to
+    look the other way while shitty things happen to good people or,
+    *even better*, play your part. If bystanders are aware, *they are
+    not innocent*, they function as cleanup crews: they identify and
+    contain the causal consequences of information that sticks out and
+    contradicts the official narrative. If they identify that the
+    official narrative will not *stick*, then they prefer to suppress
+    any and all information related to the situation: *nothing will
+    come out*. They *wall in* the socioinformational consequences of
+    operations.
+
+    That's why I choose to play detective on my own and collect
+    information to use as one might use extra cards in a hand of
+    poker. I'm better at being a detective anyways, apparently. I
+    would rather force my adversaries into being over-confident about
+    lying, so that I can surprise everyone with new information later
+    on. They are not going to play fair with you and you should not
+    play "fair" with them. This becomes useful in demonstrating how
+    *everyone involved fabricates, selectively lies and suppresses
+    information to my detriment*. The problem with such a strategy is
+    that good people get caught up in the misinformation: they do not
+    like looking bad when a conspiracy begins to emerge and so they
+    will also choose to suppress information.
+
+    **Remember: this will always proceed in a manner that is selectively
+    detrimental to the target.** That is how *operations* work, they
+    process the *target* to an increasingly vulnerable state.
+    Everyone involved abuses the system to advance that goal: for
+    someone who is truly a target, the system will never allow itself
+    to advance the target's goals or the target's protection. THUS,
+    THE SYSTEM IS NOT YOUR FRIEND. Work outside of the system and you
+    might just survive. In fact, if you are a target, involving other
+    people becomes risky for their safety. Involve them as much as
+    possible.  This is also their fight. No one asked for an America
+    like this. People need to see this for what it is, until the
+    authorities no longer feel free to operate maliciously with
+    impunity. **Rule of law**.
+
+    **You're probably not a target,** so keep that in mind. There are
+    several reasons no one hears about *operations*: &#x9312; they are
+    well covered up &#x9313; the authorities process the target into a
+    marginalized, vulnerable state so they can act without
+    socioinformational consequences and &#x9314; operations like this
+    just don't happen very often. The system usually has much better
+    ways of manipulating a potential target into handling themselves
+    by encouraging the target to become associated with crime, become
+    violent, etc. You practically have to be as clean as Jesus Christ
+    to survive such processing and marginalization because they
+    encourage you to become insane or legally vulnerable, so they can
+    throw you away in a trash can marked either PRISON or MENTAL
+    INSTITUTION.
+
+    If you are a target, be wary because these people do not play nice,
+    they do not have rules, the system exists to protect their
+    existence from ever being publicly acknowledged and they will not
+    hesitate to trash your life and torch your family tree *on a
+    whim*. That's right, the 3rd Amendment is toast. THE THIRD
+    AMENDMENT. That should frighten you. It means that you are
+    essentially being quartered with soldiers. *Target* is a term with
+    military implications. In combat, only people who are targeted can
+    be engaged with force, lethal or otherwise. If you are a literal
+    target, they are likely not going to kill you, but it is in the
+    cards. They would much rather put you in a mental institution.
+    That's often what it means to be "crazy" in America: you got
+    targeted.

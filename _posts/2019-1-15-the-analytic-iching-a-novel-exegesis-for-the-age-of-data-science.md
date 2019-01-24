@@ -8,68 +8,6 @@ author:
 excerpt: ""
 ---
 
-#### The Seventh Sense: Emulated Intuition
-
-- the idea of an ensemble from thermodynamics helps describe how the
-  mind provides a "sense" of intuition to the conscious from the
-  lower-levels of the subconscious. the mind is trying to piece apart
-  its analysis of experience in typological terms: i.e. it is
-  analytically delineating its experience to try to describe how
-  frequently variables/features of its experience occur; both when
-  those variables/features occur in isolation or in combination. this
-  is an analytical definition of intuition that the mind develops in
-  the lower levels of the subconscious. it then exposes this to the
-  conscious mind as a "feeling". if you can consciously understand how
-  this process is driven by a typological dilineation of a
-  sociophysical ensemble, then you can use this higher-level
-  constuction of intuition, which only an emulation of the lower-level
-  subconscious intuition and is separate from it. your cognition is
-  sharpend by the total intuition it has to gravitate towards
-  uncertainty and away from the "shadows" of unknown unknowns that it
-  senses.
-  - the idea of an ensemble intersects with #Jung's #Synchronicity in
-    fascinating ways! if you can connect synchronicity with the idea
-    of an ensemble, it will augment your understanding and application
-    of Jung's ideas
-  - it's a difficult concept to explain because it requires
-    understanding #StatisticalMechanics. basically, for any particle
-    system (like a mixture of gasses in an internal combustion engine)
-    there are "natural" samplings that determine valid distributions
-    of particle positions/momentums to sample from.
-  - so, if you can then describe how the statistical mechanical
-    aspects of those particle systems are aligned along various
-    variables (width of chamber in an internal combustion engine or
-    how the composition of oxygen, gasoline and nitrogen impact the
-    dynamics of the gases) then this is an ensemble. it allows you to
-    parameterize the statistical mechanical distributions used in
-    thermodynamics along some variables and sample from distributions
-    whose variables you can change.
-  - why is this relevant for psychology and sociology? your brain is
-    constantly tallying experience types & metatypes that inform it of
-    life's valid distributions -- for which it is trying to
-    typologically correlate to variables. the brain/mind do this to
-    understand how one's actions correspond to cause/effect, but in
-    doing so, it's generating the #Ensemble for intuition, so that it
-    can understand when either variables or features of sampled
-    distributions of experience (either real or simulated) are
-    strongly biased in an unnatural way, which implies the need to
-    seek more information. this is the part of your intuition that
-    operates at a low-level of the subconscious. it is exposed to the
-    conscious mind as a sense, but each individual's clarity and
-    accuracy depend strongly on that person's life experience.
-  - the realization i had was that it is possible for your conscious
-    mind to understand how this works and "emulate" it so that the
-    sense or functionality of #Intuition is itself moreso under a
-    person's control. it basically makes you a #QuasiPsychic, but
-    requires proactive & reactive engagement, otherwise, you can be
-    duped by this "emulated" intuition, just as you can be duped by
-    your subconscious intuition.
-  - essentially, there are many ideas of Jüng that were unprovable by
-    existing experimental methodologies for which #DataScience and
-    #Neurology will close in on and prove unquestionably. this should
-    happen within the next 10 years.
-
-
 # [The Essence of Things](#the-essence-of-things)
 
 #### [The Three Yi](#the-three-yi)
@@ -102,7 +40,10 @@ excerpt: ""
 
 #### [Hexagram 5 Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
 
-#### [Of Hyperplanes and The Ontological Dilineation of Sociophysical Ensembles](#of-hyperplanes-and-the-ontological-dilineation-of-sociophysical-ensembles)
+#### [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
+
+### [The Seventh Sense: Emulated Intuition](#the-seventh-sense-emulated-intuition)
+
 
 <a name="the-essence-of-things" />
 
@@ -437,7 +378,7 @@ the altered consciousness of trance-states allow the shaman to extract
 an immense amount of utility by leveraging intuition of the mind and
 of phenomena in tandem with exploratory divination.
 
-Here are three or four books I'd love to write:
+Here are three or four books I'd love to publish:
 
 #### (1) The Speed of Thought
 
@@ -513,18 +454,20 @@ If one's perception of a situation is imagined as a point in an
 analytic hyperplane, and the I Ching's explanation of a query is
 imagined as another point in along that hyperplane, then the true
 value of divination is found by evaluating all the possible paths that
-connect those two points. TODO: See [below](#below) for a better
-explanation of In my opinion, there is little value in accepting the
-random point the I Ching yields to the querent as a definitively true
-message. It is instead the dissonance between the querent's perception
-of their situation and the I Ching's projection perception of the same
-situtation: these are the two points and their dissonance is evaluated
-by constructing paths to explain the difference between them. Since
-the points returned by the I Ching or some other divinatory system are
-effectively random, then they are completely disconnected from all the
-inherent biases that humans have. This deshrouds a person from their
-biases and thereby divination may disrupt the hold that the
-unconscious or illusion have over a person.
+connect those two points.
+
+TODO: See [below](#below) for a better explanation of In my opinion,
+there is little value in accepting the random point the I Ching yields
+to the querent as a definitively true message. It is instead the
+dissonance between the querent's perception of their situation and the
+I Ching's projection perception of the same situtation: these are the
+two points and their dissonance is evaluated by constructing paths to
+explain the difference between them. Since the points returned by the
+I Ching or some other divinatory system are effectively random, then
+they are completely disconnected from all the inherent biases that
+humans have. This deshrouds a person from their biases and thereby
+divination may disrupt the hold that the unconscious or illusion have
+over a person.
 
 <a name="your-task-complete-the-circumstantial-circuits-of-explanation" />
 
@@ -600,7 +543,7 @@ information about how to escape your local minima.
 ![Analytic
 Hyperplane](/img/posts/2018-12-10-the-analytic-i-ching/analytic-hyperplane.jpg)
 
-### [Of Hyperplanes and The Ontological Dilineation of Sociophysical Ensembles](#of-hyperplanes-and-the-ontological-dilineation-of-sociophysical-ensembles)
+### [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
 
 Imagining higher dimensions is easier if you imagine the space in
 radial terms, not simply cartesian terms... In this 4D or 5D space,
@@ -652,21 +595,167 @@ energy.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hENRIAx-6D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 We are all particles in the collective potential distributions of a
-sociophysical [ensemble]() of potential distributions: each
-sociophysical particle has its own path unfolding, but society,
-collectively, relevates its state, unfolding change and essence
-through our inference of sociophysical ensemble's nature. An ensemble,
-in physics is the a collection of potential statistical mechanical
-distributions, delineating upon some parameters. Sociophysical
-ensembles yield distributions of social particles and social dyanmics
-that are not the composition of dilineated physical attributes, but
-instead are ensembles whose distributions are arranged along
-ontological space in terms of each distribution's ontological
-metatypes.
+sociophysical
+[ensemble](https://en.wikipedia.org/wiki/Statistical_ensemble_(mathematical_physics))
+of potential distributions: each sociophysical particle has its own
+path unfolding, but society, collectively, relevates its state,
+unfolding change and essence through our inference of sociophysical
+ensemble's nature. An ensemble, in physics is the a collection of
+potential statistical mechanical distributions, delineating upon some
+parameters. Sociophysical ensembles yield distributions of social
+particles and social dyanmics that are not the composition of
+dilineated physical attributes, but instead are ensembles whose
+distributions are arranged along ontological space in terms of each
+distribution's ontological metatypes.
+
+<a name="the-seventh-sense-emulated-intuition" />
+
+### [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
+
+> Warning: This section is intended as a process to augment abductive
+> and inductive logic! It is *only* a process that is intended to help
+> you follow the gradient of uncertainty -- i.e. to form smart
+> hypothesis that allow you to collapse uncertainty as quickly as
+> possible. If you use it in the wrong way, it will encourage paranoid
+> thinking. It shouldn't make you *more paranoid*. It should inform
+> your direction when trying to discover information relevant to some
+> situation, particularly involving social behavior. Furthermore,
+> social isolation will render your perception of the ensemble so
+> skewed, you won't know your hand from you ass. You've been warned,
+> young psychic padawan.
+
+The idea of an ensemble from thermodynamics helps describe how the
+mind provides a "sense" of intuition to the conscious from the
+lower-levels of the subconscious. the mind is trying to piece apart
+its analysis of experience in typological and ontological terms:
+i.e. it is analytically delineating its experience to try to describe
+how frequently variables/features of its experience occur; both when
+those variables/features occur in isolation or in combination. **This
+is an analytical definition of intuition that the mind develops in the
+lower levels of the subconscious. it then exposes this to the
+conscious mind as a "feeling".** *Something else is there, you haven't
+found it yet, but you can **feel** it...* If you can consciously
+understand how this process is driven by a typological dilineation of
+a sociophysical ensemble, then you can use this as a higher-level
+construction of intuition. Thus, it's an emulation of the lower-level
+subconscious intuition -- separate from instinctual intuition, but
+also *driving your instinctual intuition.* Your cognition is sharpend
+by the total intuition it has to gravitate towards uncertainty and
+away from the "shadows" of unknown unknowns that it senses.
+
+> Again, you've been warned. Seek consistency of information.
+> **Assumptions should break quickly. Belief should form slowly!**
+
+The idea of an ensemble intersects with Jung's Synchronicity in
+fascinating ways! If you can connect synchronicity with the idea of an
+ensemble, it will augment your understanding and application of Jung's
+ideas. It's a difficult concept to explain because it requires
+understanding Statistical Mechanics. For any particle system, like a
+mixture of gasses in an internal combustion engine, there are
+"natural" samplings that determine valid distributions of particle
+positions/momentums to sample from. In statistical mechanics, you
+discard invalid samplings -- they also don't contributed to the shape
+of a valid distribution. Yet, these distributions vary only many
+variables. For a gas, pressure, temperature, the size of a container,
+variance in pressure or variance in temperature: all of these are
+variables that could theoretically be relevant to the ensemble, which
+allows you to control variation in those variables and generate a
+valid classical-mechanical distribution, a priori.
+
+If you can then describe how the statistical mechanical aspects of
+those particle systems are aligned along various variables -- width of
+chamber in an internal combustion engine or how the composition of
+oxygen, gasoline and nitrogen impact the dynamics of the gases -- then
+this is an ensemble. It allows you to parameterize the statistical
+mechanical distributions used in thermodynamics along some variables
+and sample from distributions whose variables you can change.
+
+**Why is this relevant for psychology and sociology?** Even though the
+spatial complexity is profoundly more convoluted than with
+thermodynamics, your brain is constantly tallying experience types &
+metatypes that inform it of life's valid distributions -- for which it
+is trying to typologically correlate to variables. This impacts the
+effect that accumulation of information and the precipitation of new
+belief has on the conscious formation of memories of events, as they
+happen. Later in life you may reevaluate the same memories with new
+information and extract useful information, but you can't form those
+beliefs moving forward unless you have the information to consciously
+include them in your frame and perspective. If you form memories with
+a clear perspective moving forward, those memories are more likely to
+be consistent, but critically you still have the chance to affect what
+happens: thus this understanding impacts the direction you will take
+to seek relevant information.
+
+The brain/mind engages in this process of tallying experience and
+reflecting on its understanding of sociophysical ensembles to
+understand how one's actions correspond to cause/effect. If your mind
+is polluted with misinformation and disinformation, this results in
+invalid conceptions being retained in memory. Yet, the brain
+neurologically seeks *consistency* in information. In doing so, it's
+generating the ensemble for intuition, so that it can understand when
+either variables or features of sampled distributions of experience
+(either real or simulated) are strongly biased in an unnatural way,
+which implies the need to seek more information. Conscious thoughts
+and the sub/conscious interface impact how the brain stores
+information and forms beliefs from the top down -- in addition to the
+are bottom up effects resulting in a sense of intuition.
+
+Your sense of intuition that operates at a low-level of the
+subconscious. It is exposed to the conscious mind as a sense, but each
+individual's clarity and accuracy depend strongly on that person's
+life experience, but also that person's constructed perception of
+their life experience.
+
+#### No, there is no such thing as a real psychic ... *AFAIK!*
+
+> "No, that’s the thing with psychics, they already know. Why are they
+> asking? Next." - [Seth
+> Godin](https://www.youtube.com/watch?time_continue=52&v=D65-9sz7V0g)
+
+The mind-blowing realization is that, if your conscious mind
+understands how the sociophysical ensemble corresponds to intuition
+and, if you are skilled resolving synchronicity, then you can develop
+the skill of consciously emulating intuition. It's a metacognitive
+skill with profound implications. Since it tells you the most valuable
+places to look for relevant information, *it tells you everything you
+need to know ... that you don't already know.*
+
+When the sense or functionality of intuition is itself under a
+person's control, it basically makes them a quasi-psychic. Still, it
+requires proactive & reactive engagement. Otherwise, you can be duped
+into delusional thinking by this "emulated" intuition, just as you can
+be duped by your subconscious intuition. You have to form hypotheses
+-- and then act on them. In my life, information flows one way: away
+from me. It never flows to me. People short-circuit my access to
+information while encouraging beliefs they know to be false. I'm not
+sure if this is the **most unhealthy thing you can do** for "someone
+you fear may be delusional" -- but it's probably pretty close.
+
+Essentially, there are many ideas of Jüng that were unprovable by
+existing experimental methodologies for which data science and
+neurology will close in on and prove unquestionably. This should
+happen within the next 10 years. Some of his ideas, may not have a
+neuro-analytical basis -- but just because you can't prove it's true
+doesn't mean it is not true.
+
+Even if there's no rationale for connecting your detection of
+synchronicity to some person's intention in your social environment,
+reasoning about it helps you metacognitively reflect on your self. Why
+did that event seem synchronous? Is it just me? Can I discern when
+someone intends to provoke synchronicity? Why would they try so hard?
+That last question is usually a good check on paranoid thinking -- how
+would someone have access to information that informs them on how to
+provoke synchronicity? You must be able to reason about social flows
+of information to reason about this. In isolation and under
+surveillance, the weaponization of synchronicity can drive someone
+insane -- EASILY! This is how the mafia threatens you, by the
+way. They use the idea of the Kantian Category along with provocation
+of synchronicity to send the signal: BACK OFF! ... from what? If i
+don't know, i can't heed your threat. It's meaningless.
 
 <a name="the-algebraic-topology-of-hyperplanes" />
 
-### [The Algebraic Topology of Hyperplanes ... Donuts My Mind Will Never Digest](#the-algebraic-topology-of-hyperplanes)
+### [The Algebraic Topology of Hyperplanes ... Donuts My Mind May Never Digest](#the-algebraic-topology-of-hyperplanes)
 
 > The following paragraphs should be read as though one is sorting
 > through the vomit of a thief to find a stolen diamond. There's
@@ -712,6 +801,66 @@ thing.* For continuity constraints to be placed upon physical systems,
 the additional constraint of energetic equilibrium results in a far
 more limited space for potential system configurations.
 
+
+The hyperplane describes an analytic algorithm's solution space -- the
+range of possibilities for theta weights concerning the efficiency of
+the algorithm. As algorithm training and backpropagation inform
+gradient descent -- whether using Newton's method, one based on the
+Fisher metric or another optimization method -- it generates a path on
+the hyperplane surface. Gradually, the velocity of this object
+traveling in the hyperspace slows down as the algorithm approaches
+diminishing returns. Brouwer's translation theorem may apply to some
+advanced optimization approaches, but Gauss-Bonnet certainly applies
+when there are complicated topological features. This latter method is
+related to the MAPPER algorithm, which converts the hyperplane into
+simplicial complices which discretize the hyperplane's topological
+features, to further efficient approximations about where returns are
+less diminishing. MAPPER also enables XAI (explainable artificial
+intelligence), since hyperplane features are imprints of form
+corresponding to the problem domain. This is why reasoning about the
+topological features of the hyperplane corresponds to metacognition.
+
+No matter how one structures a computer vision algorithm, there are
+image classes that trouble it. Since its score is always below 100%
+accuracy, the configurations of theta-weights cluster around holes in
+the hyperplane.  These may be whiteholes. Or, they may not be
+singularities, but instead an insurmountable boundary to the
+algorithm's hyperparameters. If the latter is true, the
+hyperparameters must be tuned to cross into a region of the hyperplane
+that corresponds to an inaccessible signed vector field or some
+otherwise inaccessible region -- both are why Brouwer's is
+relevant. It's like being stuck in a valley or canyon, never being
+able to see what's beyond the horizon. Because you can't climb on the
+ridges fast enough to get to the top to see, you never think to look
+beyond. In 3-D? Easy. In n-D? The curse of dimensionality convolutes
+the species of concavity and convexity which means there are lots of
+pockets of space in the hyperplane to search -- none of which are
+guaranteed to produce results.
+
+Making inferences about Gauss-Bonnet allows the hyper-algorithm to
+*analytically* reason about topological features in a manner
+completely disconnected from the possible range of correspondent
+domain features. By indirectly inferring their presence, the nature of
+convexity beyond the ridgeline and whether the topological features
+are singular, one overcome the barriers presented by hyperparameter
+configuration. Hence, the Euler characteristic is relevant, and
+Gauss-Bonnet tells you about how these "holes" are balanced and
+distributed across the space, what their density is, how the
+hyper-algorithm's conception of the hyperplane evolves, what the what
+the implications are for hyperplane's curvature, etc. It's a metric
+similar to the Laplacian or the Hausdorff dimension which changes over
+the regions of the space considered.
+
+The downside? This hyper-algorithmic process is expensive!
+Topologically analyzing the hyperplane effectively involves a
+cost-function of cost-function configurations. It is also a
+particularly expensive application of metalearning, requiring perhaps
+thousands of algorithm-trainings. In practice, applications require
+analyzing the Hyperplane as it changes -- analyzing the changing
+hyperplane diffeomorphically, in other words. When it changes,
+*sometimes* previously held data, theta-paths and the assumptions
+thereof must be thrown out.
+
 <a name="wherefore-a-rough-diamond-lies-herein" />
 
 ### [Wherefore A Rough Diamond Lies Herein](#wherefore-a-rough-diamond-lies-herein)
@@ -742,6 +891,87 @@ Ultimately, pure math remains mental masturbation until an application
 becomes relevant. Fortunately, an analytic interpretation of the I
 Ching is implicitly dependent on natural philosophy and on metaphors
 to natural phenomena. There is no purely abstract math.
+
+### [Hexagram 1 and 2: Of Analytical Machines and Perfraction of Metaphysical Form](#hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form)
+
+Our minds are like vessels, entities of Receptive to complement the
+Creative. In the language of the I Ching, to say the mind is a sponge
+conveys its relationship to the Receptive, but they are all tuned to
+different wavelengths and bands of information forms from the same
+source: the Creative. These eternal forms exist independently from
+time & space and thus the forms of the creative must manifest
+themselves into the Receptive and every mind is a vessel, an
+analytic-machine that has its own conception of these eternal
+forms.
+
+In the language of machine learning, an AI program's memory resources
+form much the same function as a vessel. For computer vision, for
+handwritten digits, here it is often seen that no domain logic -- no
+explicit encoding of knowledge related to the domain -- is necessary
+to achieve accuracy, per se. Yet, such domain logic in many cases can
+augment the capabilities of those programs -- thus understanding the
+nature of the creative and the eternal can similarly augment the human
+mind. Regardless, the forms encoded within the training data begin to
+manifest in the trained theta weights of the algorithm.
+
+Almost every machine learning is a combinatoric analytical model of
+some sort or another. It's the combinatorial use of polynomials that
+correspond to some tensorial algebra -- i.e. some model made of matrix
+multiplication. It's a lot simpler than it sounds. Here, the
+analytical model converges to internalize a numerical model. Often, in
+computation for physical or chemical simulations, it's found that the
+most comprehensively numerical model is insufferably complicated, but
+that another analytical or numerical model exists which achieves
+effective accuracy for the simulation. What this means is that there
+is some formula which is disconnected from the underlying physical
+mechanics which can simplify computation without a loss of
+accuracy.
+
+#### Predicting the Average Size of Bubble[^average-bubble-size]
+
+Predicting the average size of bubbles, or a distribution of
+bubble sizes, in a foam like that produced by urine can be predicted
+given a much simpler set of variables: pH, kinetic energy input,
+surface tension, chemical properties solutes. To predict this, you use
+a simplified analytical/numerical model, but complete accuracy cannot
+be guaranteed.
+
+#### The Wave Based Method (WPM)[^wave-based-method]
+
+This method allows you to run fast simulations to predict the sound
+that the shape of a drum might produce. If you understand what's
+written in this article, you should understand a generalized
+conception of a Wave Function, useful in the quantum information
+theory that is detached from quantum mechanics. It is the former that
+gives rise to the latter: information itself is primary and its
+impacts on material is dependent on the nature of information.
+
+Understanding this and also mathematical physics sheds light on the
+nature of action the Creative exerts on and through the Receptive.
+The combined numerical/analytical approaches to the problems above are
+examples of approaching a problem, given the domain knowledge
+extracted from experimentation. The approaches are *numerical* in
+terms of physics, but are composed of analytical structures required
+for discretization of vector fields in PDE's, particularly for the
+Wave Based Method.[^wave-based-method-2]
+
+Representational learning allows machine learning algorithms to begin
+to disentangle its own impure conceptions of form. Eventually AI will
+be able to deconstruct typological and metatypological relationships,
+connecting these to semiotic, semantic and symbolic interpretations of
+the meaning behind the relationships.
+
+There are materially dependent metaphysical forms, but there are also
+metaphysical forms which do not descend from the material plane at
+all. Everything in the material plane is a consequence of these
+eternal forms and can be more clearly seen through them. Since our
+minds do arise in the material plane, whether one has a clear
+conception of these eternal forms is another question
+entirely. Further confounding the contention whether knowledge and
+information is materially derived,
+
+- are these alien-forms from outside our universe
+
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
@@ -819,9 +1049,12 @@ In the first and second lines of Hexagram 15: before the first, no
 norm existed, but after such an undertaking as the crossing of the
 great water ....
 
-### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"]()
+- move content about normification here.
 
 
+### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"](#hexagram-16-the-laplacians-socioinformational-analogue)
+
+- what does this mean for normification
 
 
 # The Statistical Mechanics of I Ching
@@ -851,4 +1084,24 @@ great water ....
     Sets and 3D Object
     Recognition](https://scholar.google.com/citations?user=_RClkA4AAAAJ&hl=en&fbclid=IwAR36IXnrqjtHUepJkSZGDt8mzTDkVqoBWmJRYDRrVQiG3_RsXlwaOuRu188#d=gs_md_cita-d&p=&u=%2Fcitations%3Fview_op%3Dview_citation%26hl%3Den%26user%3D_RClkA4AAAAJ%26citation_for_view%3D_RClkA4AAAAJ%3Au5HHmVD_uO8C%26tzom%3D300)
 
-[^]
+[^wave-based-method]: Deckers, E., Atak, O., Coox, L., D’Amico, R.,
+    Devriendt, H., Jonckheere, S., Koo, K., Pluymers, B., Vandepitte,
+    D. and Desmet, W., 2014. [The wave based method: An overview of 15
+    years of
+    research.](https://scholar.google.com/scholar?cluster=5249177327764278619&hl=en&as_sdt=0,47)
+    Wave Motion, 51(4), pp.550-565.
+
+[^wave-based-method-2]: WBM is a numerical physical model, but it
+    cannot be built in software without some pretty impressive
+    approaches, especially if it's going to be built to leverage the
+    GPU, which may be impossible. Doing so requires interpolation to
+    identify derivatives used in **a fourth-order differential
+    equation over a vector field.** I'm not sure you can Runge-Kutta
+    that on a GPU or use energetic approaches for balancing the
+    valuation of derivatives.
+
+[^average-bubble-size]: Lain, S., Bröder, D. and Sommerfeld,
+    M., 1999. [Experimental and numerical studies of the hydrodynamics
+    in a bubble
+    column.](https://www.researchgate.net/publication/244116008_Experimental_and_Numerical_Studies_of_the_Hydrodynamics_in_a_Bubble_Column)
+    Chemical Engineering Science, 54(21), pp.4913-4920.

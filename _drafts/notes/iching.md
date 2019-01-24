@@ -1,6 +1,158 @@
 
+## Gurren Lagann Iching Theory
 
-## make this a machine-learning post
+
+> Tell me, Simon. You know why people have eyes in front?
+>
+> It's 'cause you have to move forward to see the landscape in the
+> distance.
+>
+> If you have eyes in back, all you can see is your hometown getting
+> farther away. You can't move forward like that.
+>
+> If your eyes are in front, what you see in the distance keeps
+> getting closer.
+>
+> That's what lets people move foward.
+
+
+
+- episodes seem patterned on pairs of iching #Hexagrams
+  - Each character represents a #Trigram.
+  - The hexagrams for the episode are emphasized by “loud”
+    interactions between characters early in the episode or are
+    inferred by the themes throughout
+  - #Kamina symbolizes “the middle son”, the abyssal
+  - #Yoko symbolizes “the receptive”, it seems.
+
+#### Episode 5
+
+- Episode 5 is thus the earth/receptive on top of water/abyssal, hence
+  Hexagram 7 (the army)
+  - but also possibly #Hexagram8, holding together; both of them, but
+    I’m not sure yet)
+  - to validate, immediately after falling through the Earth, there is
+    a large abyss with iching symbolism -- the first apparent
+    homoglyphic references to yin/yang lines -- and they finally fall
+    into #Water at the bottom of the long long abyss.
+  - In terms of the hexagram #TheArmy, this doesn’t bode well for
+    humanity, since water in this hexagram symbolizes a nation’s
+    readiness to fight.
+
+### Kiyoh, Kinan, Kiyal
+
+- the loudest symbolism so far:
+  - has been the introduction of the three sisters Kiyoh, Kinan,
+    Kiyal, who along with a fourth member fight a Revolution against
+    the gunmen using Burning Water
+  - Burning water seems to represent Hexagram64, Before Completion
+     (i.e. fire over water)
+     - I.e. in the context of a war against the gunmen, before
+       completion seems to mean “before it’s too late” ... why is this
+       strong signal?
+
+- This invokes I Ching imagery because it deviates from normal
+  dialogue “configuration entropy” (I.e. it feels stilted with a
+  purpose) to introduce the sisters as, definitively, the
+  OldestDaughter (the gentle; wind), the MiddleDaughter (the clinging;
+  fire) and YoungestDaughter (the joyous; lake) — in the INNER WORLD I
+  Ching configuration, which adds another layer of complexity ☯️
+  further
+
+
+
+- Iching-influence is validated for Gurren Lagann. It’s such a strong
+  hit at this point that it’s undeniable.
+  - What’s unclear is whether the interpretations I have are correct
+    - for the character’s #trigrams and/or episodes’ #hexagrams
+    - and whether that pattern exists at all
+
+- Whenever I have the suspicion that the iching is an underlying
+  design pattern, perfectly fitting the interpretation to that
+  prefigured construction so that the pieces all line up is very
+  difficult.
+
+## Gurren Lagann Episodes
+
+#### Episode 1: Obstruction (39)
+
+- EpisodeOne seems to feature the themes Hexagram4 YouthfulFolly and
+  Hexagram 39 Obstruction, which are the potential pairs formed by
+  Kamina and Simon’s trigrams (the abyssal, water; and keeping still,
+  mountain) ... ☯️ Simon has “a drill to pierce the heavens” and the
+  show seems to be about an inverted, upside down world, where people
+  are trapped in a false paradigm of metaphysics (one that’s often
+  found in the western world) ☯️ there are “inner worlds” and a
+  singular outer world. In the I Ching’s philosophy, forms from the
+  exterior metaphysical reality are projected from TheCreative into
+  our shared interior reality TheReceptive. ☯️ So the manifestation of
+  the gunmen enemies represents this phenomena of metaphysical
+  precipitation, but also the show is obviously deep with intriguing
+  interpretations and symbols, all valid until demonstrated
+  otherwise. If nothing else, all interpretations (exegesis), even if
+  invalid, are useful for evaluation and for thought and
+  exploration. One should be able to engage in dialectical thinking to
+  evaluated meaning and correspondence to etch away the space of
+  invalid interpretations to find what is valid — but the process of
+  doing so is what gives rise to growth and learning.
+
+#### Episode 2: ???
+
+#### Episode 3: ???
+
+#### Episode 4: ???
+
+
+#### Episode 5: The Army (7)
+
+- earth over abyss
+
+
+#### Episode 6: ???
+
+- early in the episode there is mountain over abyss, but the imagery
+  of "mountain" is not 100% clear.
+
+- Fog in the mech early in the episode when Yoko flips out bc it
+  stinks. A quick search on "Fog" and "I Ching" shows Hexagram 4 and
+  Hexagram 59, but these references to fog/mist are are arbitrary -
+
+#### Episode 7:
+
+
+#### Episode 8: Splitting Apart (23)
+
+- mountain over earth
+- at the end of episode 7, a volcano explodes and the characters
+  mention mountain and earth. this seems to indicate Hexagram 23:
+  Splitting Apart.
+  - knowing what happens in this episode, it doesn't seem like Kamina
+    heeds the signs of "splitting apart"
+- in contraposition, seems to be Hexagram 15 (modesty). i get this
+  feeling because of the conversation between Simon & Yoko about the
+  lava coming from the center of the earth
+- Kamina mentions "can't a man get some rest around here?" or
+  something similar. the imagery of a bed progressively breaking to
+  pieces is throughout (23) Splitting Apart
+  - at the end, Kamina dies, and thus he may represent the inferior
+    man? but this interpretation doesn't take into account the roles
+    typically attributed to each line (advisor; 5:ruler, 6:sage)
+
+#### Episode 8: The Abyssal (29)
+
+- water above abyss? (i.e. abyss on abyss)
+- Simon falls into the abyss. there is rain throughout. a vessel is
+  pushed into the abyss, which carries Nia
+- after opening the case and finding Nia, the rainclouds part and
+  light appears. This may mean that Hexagram 29 (The Abyssal) changes
+  into Hexagram 5 (Waiting)
+  - very soon after, three unexpected guests arrive: an enemy and two
+    friends ... hmmmm but these wouldn't be the lines read for 29 =>
+    5, but instead those read for 5 => 29
+
+
+
+# make this a machine-learning post
 
 - include differences b/w this and [XGBoost] and other boosted
     tree-like algorithms

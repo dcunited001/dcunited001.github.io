@@ -237,7 +237,6 @@ this person for being "try hard" and "not adulting good"
       color from our dreams, to render subjugated those who broke
       early while consuming the rest.
 
-
 ### Harness inherent computational potential by leveraging sociophysical networks
 
 - specific example: could organized gambling's potential to informally
@@ -2200,6 +2199,22 @@ information.
 <a name="information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement" />
 
 ### &#8855; &#8710; &#8968;xx&#8969; [Information In Holonic, Particle Form Exhibits Complicated Behavior Analogous To Entanglement](#information-in-holonic-particle-form-exhibits-complicated-behavior-analogous-to-entanglement)
+
+- what does the wave function's structure as a wave function itself
+  say about potentially entangled states in information?
+  - this question needs more clarification
+
+- rate-of-change over time (in the spectral theory of information),
+  implies *what* for an analogy of schrodinger's theorum to
+  information?
+  - in the quantum mechanics wave equation, if one transforms from
+    position-to-momentum with the fourier-transform (check precision),
+    what does this mean, given a spectral understanding of
+    information?
+  - and how do rates of change of these quantities (change in an
+    information-frequencies amplitude in time) correspond to
+    schrodinger's, which is like a differential equation for the wave
+    equation?
 
 - non-local behavior demonstrated when the state for a wikipedia page
   edit graphs undergoes a mode-switch (DeDeo Wikipedia: see end of

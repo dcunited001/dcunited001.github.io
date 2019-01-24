@@ -66,4 +66,6 @@ permalink: /quotes/
 > The definition of insanity is to remain unconscious to one's
 > unconsciousness.
 
-> **Normal** *is* no longer what *normal* **was**.
+> **Normal** *is* no longer what *normal* **was**. (On Disnormatization)
+
+> Assumptions should break quickly. Belief should form slowly.

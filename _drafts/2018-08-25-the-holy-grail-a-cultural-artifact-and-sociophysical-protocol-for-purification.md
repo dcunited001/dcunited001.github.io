@@ -36,8 +36,7 @@ terms (wiki articles)
 > within me that knowledge of my religion is a norm. Why would the few
 > people close to me do that? Perhaps to dissuade me from taking my
 > belief system as far as it must go. If it's already gone far enough,
-> then perhaps I'll simply let everything go. Thank
-> you.[^what-the-fuck]
+> then perhaps I'll simply let everything go. Thank you.
 
 You cannot censor a religion: to do so is to revoke the last remaining
 Right in the Bill of Rights!
