@@ -69,3 +69,7 @@ permalink: /quotes/
 > **Normal** *is* no longer what *normal* **was**. (On Disnormatization)
 
 > Assumptions should break quickly. Belief should form slowly.
+
+> Control how people conceive reality, control the limits of how
+> people conceive reality and you control the collective dreams of
+> humanity.

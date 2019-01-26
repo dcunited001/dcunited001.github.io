@@ -8,41 +8,62 @@ author:
 excerpt: ""
 ---
 
+
+Pictured above are the famous notes on I Ching gifted to Gottfried
+Leibniz.
+
+![](leibniz-iching.jpg)
+
+![Yin-Yang
+Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
+
+#### &#9775; &#x9775; The Heavenly Colors To Your Terrestrial Canvas &#x9775; &#9775;
+
+> Perhaps it should be quaternary to be all-encompassing...
+>
+> ... or trinary with a complementary void.
+
 # [The Essence of Things](#the-essence-of-things)
 
-#### [The Three Yi](#the-three-yi)
+#### &#19904; &#9775; [The Three Yi](#the-three-yi)
 
 ## [The Analytic I Ching](#the-analytic-i-ching)
 
-#### [Sociophysical Phenomena in a Bronze Age Encyclopedia of Natural Philosophy](#sociophysical-phenomena-in-a-bronze-age-encyclopedia-of-natural-philosophy)
+#### &#19966; &#9775; [Sociophysical Phenomena in a Bronze Age Encyclopedia of Natural Philosophy](#sociophysical-phenomena-in-a-bronze-age-encyclopedia-of-natural-philosophy)
 
-#### [Why Couldn't Vector Calculus Be More Relatable?](#why-couldnt-vector-calculus-be-more-relatable)
+#### &#19967; &#9775; [Why Couldn't Vector Calculus Be More Relatable?](#why-couldnt-vector-calculus-be-more-relatable)
 
-#### [Art: the Good, the Bad and the Ugly](#art-the-good-the-bad-and-the-ugly)
+#### &#19966; &#9775; [Art: the Good, the Bad and the Ugly](#art-the-good-the-bad-and-the-ugly)
 
 ## [Rationalize Your Exegesis](#rationalize-your-exegesis)
 
-#### [Timeless Writing Assumes All Possible Interpretations](#timeless-writing-assumes-all-possible-interpretations)
+#### &#19967; &#9775; [Timeless Writing Assumes All Possible Interpretations](#timeless-writing-assumes-all-possible-interpretations)
 
-#### [The I Ching Stands Alone!](#the-i-ching-stands-alone)
+#### &#19966; &#9775; [The I Ching Stands Alone!](#the-i-ching-stands-alone)
 
 ## [The Epitomization of Design Imperatives Motivating the Shaman's Method](#the-epitomization-of-design-imperatives-motivating-the-shamans-method)
 
-#### [A Book Pitch No Earthly Publishers Would Entertain](#a-book-pitch-no-earthly-publishers-would-entertain)
+#### &#19967; &#9775; [A Book Pitch No Earthly Publishers Would Entertain](#a-book-pitch-no-earthly-publishers-would-entertain)
 
-#### [The Trance State: A Visual Emulation Whereby One Viscerally Experiences The Metaphysical](#the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical)
+#### &#19966; &#9775; [The Trance State: A Visual Emulation Whereby One Viscerally Experiences The Metaphysical](#the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical)
 
-#### [The Shaman's Method is Experiential Divination By Reverse Engineering The Mind's Analytic Systems](#the-shamans-method-is-experiential-divination-by-reverse-engineering-the-minds-analytic-systems)
+#### &#19967; &#9775; [The Shaman's Method is Experiential Divination By Reverse Engineering The Mind's Analytic Systems](#the-shamans-method-is-experiential-divination-by-reverse-engineering-the-minds-analytic-systems)
 
-#### [Your Task: Complete The Circumstantial Circuit(s) Of Explanation](#your-task-complete-the-circumstantial-circuits-of-explanation)
+#### &#19966; &#9775; [Your Task: Complete The Circumstantial Circuit(s) Of Explanation](#your-task-complete-the-circumstantial-circuits-of-explanation)
 
 ## [What Is A Hexagram, Analytically?](#what-is-a-hexagram-analytically)
 
-#### [Hexagram 5 Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
+#### &#19967; &#9775; [Hexagram 5 Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
 
-#### [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
+#### &#19966; &#9775; [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
 
-### [The Seventh Sense: Emulated Intuition](#the-seventh-sense-emulated-intuition)
+#### &#19967; &#9775; [Hexagram 12 Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
+
+#### &#19966; &#9775; [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
+
+#### &#19967; &#9775; [The Algebraic Topology of Hyperplanes ... Donuts My Mind May Never Digest](#the-algebraic-topology-of-hyperplanes)
+
+#### &#19966; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
 
 
 <a name="the-essence-of-things" />
@@ -67,11 +88,11 @@ and essence.
 TODO: link lecture that this was obtained from. note that I can't find
 much info on this (even in chinese searches)
 
-#### State 簡易 jiǎnyì かんい 간이
+#### &#9312; State 簡易 jiǎnyì かんい 간이
 
-#### Change: 變易 biànyì へんい 변이
+#### &#9313; Change: 變易 biànyì へんい 변이
 
-#### Essence: 不易 bùyì ふい 부이
+#### &#9314; Essence: 不易 bùyì ふい 부이
 
 > The above phonetic translations into Korean and Japanese may need
 > correction comes from
@@ -119,7 +140,7 @@ essence.
 
 ### [What Is Knowledge of Dependent Origination Without Applied Awareness of Phenomena?](#what-is-knowledge-of-dependent-origination-without-applied-awareness-of-phenomena)
 
-By stuyding the I Ching, one arrives at tools and methods to
+By studying the I Ching, one arrives at tools and methods to
 analytically assess phenomena. Because such methods are fundamentally
 analytically, the insights and extrapolations derived thereof do not
 necessarily depend on the inner workings of the phenomena, their
@@ -241,41 +262,79 @@ physics is starkly violated. As a work of natural philosophy, the I
 Ching informed ancient China of social physics by generating random
 images of metaphor to natural phenomena.
 
+#### A Spherical Arrangement of the I Ching's Hexagrams
+
+> Notice the arrangement of hexagrams: 1, 2, 11, 12, 63 and 64. These
+> are positioned in a manner that is significant to the symmetry that
+> is displayed by the lines in those hexagrams.
+
+![I Ching Sphere](/img/posts/2018-12-10-the-analytic-i-ching/ichingsphere.jpg)
+
 # [The Yin-Yang Microcosm Pervading I Ching](#the-yin-yan-microcosm-pervading-i-ching)
 
-#### Hexagram 1: [The Creative]()
+I woke up from a dream and, as is often the case, the first five
+minutes were filled with blissful insights the clarity of which
+subside for the remainder of the day. Dreams are the only time I am
+free, I think, but it won't be long until technology comes to take
+away our dreams as well. Nihilism... what will we do when it becomes
+as broad as daylight: there is nothing a man can dream to save us from
+the final human condition. And why would we take this from ourselves?
 
-#### Hexagram 2: [The Receptive]()
+And, as it does after the most vivid dreams, the nerves in my nose
+were tingling electrically for those five minutes. These dreams
+usually involve transportation at some point. I've only ever
+experienced this in the past few years of my life. Here I have the
+most clear thoughts, though not necessarily connected to my dreams,
+and it is here where I feel like I know my mind, as it is truly meant
+to be. Perhaps it is artificially constrained and maybe it's
+natural. Every waking minute is a lie: it's all swimming upstream,
+which has made me not only stronger, but instinctively aware of the
+mind's facets, since I have to deal with so many neurological
+issues. I am engaged in constant metacognition.
 
-#### Hexagram 11: [Peace]()
+The sudden insight: the social and phenomenological dynamics
+symbolized following hexagrams can all be summed up by analogies to
+waves on a beach.
 
-#### Hexagram 12: [Stagnation]()
+#### &#9775; Hexagram 1: [The Creative](https://ichingfortune.com/hexagrams/1.php)
 
-![](leibniz-iching.jpg)
+#### &#9775; Hexagram 2: [The Receptive](https://ichingfortune.com/hexagrams/2.php)
 
-Pictured above are the famous notes on I Ching gifted to Gottfried
-Leibniz. Hexagrams 1, 2, 11, and 12 are located in the four corners of
+#### &#9775; Hexagram 11: [Peace](https://ichingfortune.com/hexagrams/11.php)
+
+#### &#9775; Hexagram 12: [Standstill (Stagnation)](https://ichingfortune.com/hexagrams/12.php)
+
+#### &#9775; Hexagram 63: [After Completion](https://ichingfortune.com/hexagrams/63.php)
+
+#### &#9775; Hexagram 64: [Before Completion](https://ichingfortune.com/hexagrams/64.php)
+
+
+- [briefly!] explain 1,2,11,12,64,63 in terms of the mechanics of seaside
+  waves in four periods (crashing in, reaching their full extent,
+  pulling out and Riptide/undertow)
+  - the creative: the force forming waves and them inwards towards the
+    shore
+  - the receptive: for the waves rolling in, the receptive are the
+    forces (of the shore) acting on each to deconstruct their form and
+    to eventually pull them back out to sea.
+  - peace: is like the intersection between the shore and the waves
+    noisily frothing to their maximal extent.
+  - stagnation:
+  - before completion, after completion
+    - these could also be imagined as the farthest point the wave
+      reaches on a shore, at the moment where it becomes difficult to
+      discern whether the wave is coming in or going out.
+
+
+
+
+Hexagrams 1, 2, 11, and 12 are located in the four corners of
 the grid. Within the I Ching, these four hexagrams form a microcosm
 that parallels the four.
 
 ####
 
 - A less terse article on the Creative and the Receptive
-
-- [briefly!] explain 1,2,11,12 in terms of the mechanics of seaside
-  waves in four periods (crashing in, reaching their full extent,
-  pulling out and Riptide/undertow)
-  - the creative: the force forming waves and them inwards towards the
-    shore
-  - the receptive: for the waves rolling in, the receptive are the
-    forces acting on each to deconstruct their form and to eventually
-    pull them back out to sea.
-  - peace: is like the intersection between the shore and the waves
-    noisily frothing to their maximal extent.
-  - stagnation:
-
-
-
 
 
 <a name="rationalize-your-exegesis" />
@@ -380,29 +439,39 @@ of phenomena in tandem with exploratory divination.
 
 Here are three or four books I'd love to publish:
 
-#### (1) The Speed of Thought
+#### &#9312; The Speed of Thought
 
-#### (2) The Analytic I Ching,
+#### &#9313; The Analytic I Ching
 
-#### (3) A Collection of [Revised] Essays,
+#### &#9314; A Collection of [Revised] Essays
 
-#### (4) Who Knows?
+#### &#9315; Who Knows?
 
 Still, even now, no one takes me seriously. And I mean [almost] *no
 person on the planet* takes me seriously. People are simple -- they
-recognize labels and that is mostly all. They do not know labels. When
-they want to ascertain the extent and novelty of someone's
-internalized epistemic structures, they merely look at someone's
-academic degrees. That is all. This leaves me with *nothing* and
-certainly without the respect I deserve.
+recognize labels and that is mostly all. They do not know the
+substance attached to labels, if they can even expound on the label's
+meaning. They excel at vocabulary tests, dominate multiple choice, but
+suffer from a prefrontal defect where applied critical thinking is not
+available to them. Knowing they cannot, would they even dare to try?
+With the thought police over their shoulder? When they want to
+ascertain the extent and novelty of someone's internalized epistemic
+structures, they are capable of limited reasoning, given a short list
+of that person's academic degrees. That is all.
 
-#### But, as Nietzche posthumously published:
+This leaves me with *nothing* and certainly without the respect I
+deserve. Perhaps I don't deserve much. I'm not asking for much, but
+`-$0.61` in the bank is ludicrous.
 
-> Posthumous men — I, for example — are understood worse than timely
+#### But, as Nietzche [posthumously] published:
+
+> "Posthumous men — I, for example — are understood worse than timely
 > ones, but heard better. More precisely: we are never understood —
-> hence our authority.
+> hence our authority."[^institutionalized]
 
-<a name="the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical" />
+<a
+name="the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical"
+/>
 
 ### [The Trance State: A Visual Emulation Whereby One Viscerally Experiences The Metaphysical](#the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical)
 
@@ -415,7 +484,7 @@ informational phenomena. To apprehend the true nature of these
 metaphysical forms as they appear to influence causal flow of events
 is to be in tune with the spiritual. If various methods of shamanism
 can repeatedly evoke visceral experiences to bring you closer to
-understanding of these forms as they influence the the world around
+understanding of these forms as they influence the world around
 you, then there is no need for a supernatural connection. Instead, the
 spiritual experience can be explained as purely the mind's experience
 of purely informational mechanics within itself -- which can include
@@ -428,7 +497,7 @@ time. while they are composed of ineffable "monadic substances", the
 same eternal forms can be tapped into by *any consciousness* and *any
 information-processing entity*, without any need for supernatural
 mechanics -- whether or not those exist is perhaps another
-question. this is essentially no different than the the Tao or
+question. this is essentially no different than the Tao or
 Leibniz's Monad. to me, the shaman's trance and spiritual experiences
 are visceral experiences in the minds of those who are intimately in
 tune with the nature of the eternal. it is projected to the mind as a
@@ -517,7 +586,7 @@ in this analytic hyperplane.
 
 There is a taxonomy of local minima that describes ALL of the species
 of minima that can be encountered: the first five lines of Hexagram 5
-enumerates ALL of these minima types. The Theorema EgregumThere is
+enumerates ALL of these minima types. The Theorema Egregum... There is
 the meadow, a flat space, which is a symbol that recurs again and
 again in the I Ching. This is a space of comfort; nothing is to be
 challenged, but "crossing the great water" requires moving oneself out
@@ -540,8 +609,7 @@ information about how to escape your local minima.
 > truth about high-dimensional spaces is that they're not so different
 > than three dimensional spaces ... for the most part.
 
-![Analytic
-Hyperplane](/img/posts/2018-12-10-the-analytic-i-ching/analytic-hyperplane.jpg)
+![Analytic Hyperplane](/img/posts/2018-12-10-the-analytic-i-ching/hyperplane.jpg)
 
 ### [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
 
@@ -560,9 +628,11 @@ navigating the depths. You will not know from whom to expect this
 re-orientation but you must expect it to inquire about these three
 guests' journey when you do meet them.
 
+- TODO: content on boltzman suicide from notes
+
 #### From the paper, Dynamic Boltzmann Machines
 
-![Dynamic Boltzmann Machines](/img/posts/2018-12-10/the-analytic-i-ching/boltzmann-evolution.jpg)
+![Dynamic Boltzmann Machines](/img/posts/2018-12-10-the-analytic-i-ching/boltzmann-evolution.jpg)
 
 [I've written
 before](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html#boltzmanns-distribution-a-generalized-heat-equation),
@@ -581,18 +651,187 @@ distinguishing this from physical energy: these I have named energies,
 plural. The concept of "Energies" is employed repeatedly in biophysics
 and social physics. Any and every quantity that is statistically
 distributed over a space can be conceptualized as a higher-order
-energy, which can be braided together with the concept of Dirichley
+energy, which can be braided together with the concept of Dirichlet
 energy.
 
 > Boltzmann killed himself at a depressingly early age because his
 > work was derided and labelled insignificant, at best. In reality,
 > Boltzmann's work challenged the conventional understanding of
-> thermodynamics, chemistry and physics at the time, which threatened
-> to overturn the esoteric grasp that existing powers held on the
-> world. So, they socially reduced him to a depressed husk of his
-> former self via academic witchhunt *until he killed himself*.
+> thermodynamics, chemistry and physics at the time, which seems to
+> have threatened to overturn the esoteric grasp that existing powers
+> held on the world. So, they socially reduced him to a depressed husk
+> of his former self via academic witchhunt *until he killed
+> himself*. It happens to the very best of them.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hENRIAx-6D4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Why was Boltzmann tormented to suicide? It's all for revelating to the
+West -- the relationship between energy and entropy, the order of
+disorder -- which had been known to the East and occult West for
+millennia. If you understand how this revolutionized the steel and
+chemical industries, then you must understand the threat of disruption
+posed by Boltzmann’s revelations.
+
+Disruption is dangerous to the powers that be. "They" want a gradual
+rollout of innovation. This way, the stability of economic paradigms
+that benefit them can be guaranteed. What will be known in the near
+future is almost always already known by a handful of people, who
+exploit their control over scarce knowledge for financial
+advantage. This gradual rollout is simply not practical in the 21st
+century and I fart in your general direction, good sir.[^elderberries]
+
+#### Sorry, I'm not playing Accademia's game... It's rigged against me.
+
+![Fart in your General Direction](/img/posts/2018-12-10-the-analytic-i-ching/fart-in-your-general-direction.jpg)
+
+<a name="hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation" />
+
+### [Hexagram 12 Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
+
+The hexagram that warns against such intellectual stagnation is
+**Hexagram 12**. This is a scenario of Stagnation profits the weak who
+somehow cling to power, which is why the wise must unseat them by
+**tying seeds to the shoots of a mulberry bush**, in gambits often
+involving sacrifice and a transgenerational passing of the
+baton. Those at the top of the pyramid will ruthless torment a family
+for generations if they lead to significant problems
+... apparently. To affect significant change and get away with it
+requires being well protected, being smart enough to hide the intent
+to create change and/or being made the seeds tied to the shoots of the
+mulberry bush, which is very difficult to destroy.
+
+#### Hexagram 12: 5th Line
+
+> *Nine in the fifth place means:*
+>
+> Standstill is giving way.
+>
+> Good fortune for the great man.
+>
+> "What if it should fail, what if it should fail?"
+>
+> In this way, he ties it to a cluster of mulberry shoots.
+
+If you act in this way, you do not necessarily *destroy* to guarantee
+success, but you plan to succeed in all situations. Even in the face
+of systemic failure, such an occurance would only result in an
+imbalance that allows you to grow faster. In this way, there is no
+need to worry about failure. The turbulence of systemic collapse is a
+net benefit to no one, which is also what nearly guarantees that a
+system will continue. For example, when Wall Street faces systemic
+collapse, it only lights a fire under the ass of the most wealthy
+people in the world -- they all collectively work to save the system
+that benefits them so much.
+
+#### What Rises From The Ashes?
+
+> How to architect robust social institutions hardened against total
+> system collapse is a lesson humanity learned at a socialological
+> scale during the centuries after the Sea Peoples disrupted trade at
+> the height of the european Bronze Age. Trade was more critical to
+> quality of life than any king or pharoah.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRcu-ysocX4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+To me, the mulberry bush also symbolizes an epistemological revolution
+-- a revolution in the epistemic shape of knowledge. When you are
+standing on the shoulders of giants, you always structure new
+knowledge in terms of the old. Sometimes this can prevent a culture's
+systems of knowledge from progressing any further, in a significant
+way. This is stagnation all the same. To overcome it, one needs to
+reach the same heights -- without standing on the shoulders of
+giants. It is theoretically possible for some intellectual body of
+knowledge to seem consistent, but have epistemic flaws. If everyone's
+drinking from the same well, so to speak, then their intellectual
+pursuits will all extrapolate similarly. If someone approaches the
+same problems naïvely, it requires a hundred times the effort and
+natural talent, but they can recalclitrate the problems near the base
+of the epistemic mulberry bush. When the bush groups back, it will
+have a stronger base, but sociologicially fixing the structure of
+shared knowledge is also expensive.
+
+You can thank Aristotle and the Greeks for creating such a system to
+counter the East: when physical travel limited the spread of
+information, the West was always at an geoinformational disadvantage.
+Together, humanity seems to have created a "sociophilosophical churn"
+based on moving back and forth between material and immaterial
+conceptions of metaphysics. That's speculative of course -- but
+philosophy is incredibly powerful. Control how people conceive
+reality, *control the limits of how people conceive reality* **and you
+control the collective dreams of humanity.** This is the power of
+trapping entire cultures in a false paradigms; this is the danger of
+pure materialism. It is terrifying because it means that humanity's
+power to dream collectively might be extinguished and not a single
+person would be standing to pierce through the invisible darkness of
+ignorance that blankets us.
+
+#### Lordgenome, the Spiral King, from Gurren Lagan
+
+![Lordgenome](/img/posts/2018-12-10-the-analytic-i-ching/lordgenome.jpg)
+
+> To me, the Spiral King's usage of power symbolizes this control over
+> the socioepistemic and sociophilosophical churn. If you watch the
+> anime, maybe you'll get the same interpretation. Similar to the
+> socioeconomic churn from which billionaires extract slices of
+> financial wealth and similar to a battery's potential difference
+> that creates voltage, there is power to be gained in the social
+> movement from one paradigm to another.
+
+Psychology also exhibits social churn in society's acceptance of
+distributed paradigms. Jungian ideas are notoriously difficult to
+frame in an experiment. Thus, they are often conspicuously absent from
+psychological practice, though it's arguable that some Jungian ideas
+exhibit more power and allow more control if they influence you
+*unconsciously*. Hence, encourage the acceptance of a false paradigm
+and *some* of Jung's ideas are more effective. Every person undergoes
+a gradual, lifelong process of waking up. Their individual unconscious
+tabula rasa is etched away by their experience...
+
+TODO: move?
+
+
+  - [The problem of reproducing experiemental results in
+    psychology](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-soul-is-not-what-you-think-it-is)
+    results from the near-infinite nature of the mind. Studying the
+    mind and assuming you can clamp down controls one a handful of
+    variables is foolish. The mind differs fundamentally from other
+    subjects of experimental methodology by the same phenomenological
+    measure that finite-dimensional systems are distinguished from
+    infinite-dimensional systems. This is why simply controlling a
+    handful of variables is not enough to guaranteed consistency or
+    reproducibility. You must approach the brain and mind as a
+    holistic system -- i.e. from both the top down and bottom up.
+  - So many of Jung's ideas are derided because they cannot be
+    proven. This is similar to what is perhaps greatest riddle of
+    Navier Stokes: what if something is true, but simply unprovable?
+    What if something exists beyond time and space, whose truth can
+    never be made certain in the material world? Does science fail?
+    What if Navier Stokes is a neverending riddle is freakishly
+    similar to Kant's noumenon. Regardless to the answer in Navier
+    Stokes, here it's presented merely as food for thought -- but
+    would this imply Gödel to be any less provable?
+
+Briefly cover the contention between hegelian/marxist dialectic as it
+relates to peace/stagnation, before completion & after completion.
+
+- The contention between the Marxist and Hegelian conceptions of both
+  metaphysics and dialectical argumentation
+  - the marxist dialectic's utility, in the context of sociopolitical
+    reform, is in overturning an existing order or establishing a new
+    one. In the same context, the hegelian dialectic's utility is in
+  - supporting argument?
+
+#### What If I Told You: The Frozen Flame is the Answer
+
+![]()
+
+![The Frozen Flame](/img/posts/2018-12-10-the-analytic-i-ching/the-frozen-flame.jpg)
+
+<a name="the-seventh-sense-emulated-intuition-or-how-to-psychic" />
+
+### [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
+
+(The six sense is memory.)
 
 We are all particles in the collective potential distributions of a
 sociophysical
@@ -608,14 +847,10 @@ dilineated physical attributes, but instead are ensembles whose
 distributions are arranged along ontological space in terms of each
 distribution's ontological metatypes.
 
-<a name="the-seventh-sense-emulated-intuition" />
-
-### [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
-
 > Warning: This section is intended as a process to augment abductive
 > and inductive logic! It is *only* a process that is intended to help
 > you follow the gradient of uncertainty -- i.e. to form smart
-> hypothesis that allow you to collapse uncertainty as quickly as
+> hypotheses that allow you to collapse uncertainty as quickly as
 > possible. If you use it in the wrong way, it will encourage paranoid
 > thinking. It shouldn't make you *more paranoid*. It should inform
 > your direction when trying to discover information relevant to some
@@ -644,6 +879,7 @@ by the total intuition it has to gravitate towards uncertainty and
 away from the "shadows" of unknown unknowns that it senses.
 
 > Again, you've been warned. Seek consistency of information.
+>
 > **Assumptions should break quickly. Belief should form slowly!**
 
 The idea of an ensemble intersects with Jung's Synchronicity in
@@ -654,13 +890,22 @@ understanding Statistical Mechanics. For any particle system, like a
 mixture of gasses in an internal combustion engine, there are
 "natural" samplings that determine valid distributions of particle
 positions/momentums to sample from. In statistical mechanics, you
-discard invalid samplings -- they also don't contributed to the shape
-of a valid distribution. Yet, these distributions vary only many
-variables. For a gas, pressure, temperature, the size of a container,
-variance in pressure or variance in temperature: all of these are
-variables that could theoretically be relevant to the ensemble, which
-allows you to control variation in those variables and generate a
-valid classical-mechanical distribution, a priori.
+discard invalid samplings. Instead they are undefined and thus they
+don't contribute to the shape of a valid distribution. Yet, these
+distributions vary only many variables. For a gas, pressure,
+temperature, the size of a container, variance in pressure or variance
+in temperature: all of these are variables that could theoretically be
+relevant to the ensemble, which allows you to control variation in
+those variables and generate a valid classical-mechanical
+distribution, a priori.
+
+#### Imagine Randomly Generated Distributions of Disks
+
+> Disks are sampled with random positions *one at a time*. See the
+> footnote for a brief description on how this problem
+> works.[^hard-disk-system]
+
+![Hard Disk System](/img/posts/2018-12-10-the-analytic-i-ching/hard-disk-system.jpg)
 
 If you can then describe how the statistical mechanical aspects of
 those particle systems are aligned along various variables -- width of
@@ -711,6 +956,8 @@ their life experience.
 > "No, that’s the thing with psychics, they already know. Why are they
 > asking? Next." - [Seth
 > Godin](https://www.youtube.com/watch?time_continue=52&v=D65-9sz7V0g)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/D65-9sz7V0g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The mind-blowing realization is that, if your conscious mind
 understands how the sociophysical ensemble corresponds to intuition
@@ -780,13 +1027,14 @@ surface curvature to the need to average the values of Euler
 Characteristic when considering the surfaces of manifolds,
 differentially.
 
-- maxima/minima along the hyperplane (which is like a higher-order
-  cost function of theta-weight configurations of the cost function)
-  in high-dimensional spaces yield regions that are inaccessible to
-  any configuration of theta-weights.  these regions are, to the
-  hyperplane, what white-holes are to black holes. this is why there
-  are major topological connections to be found in optimizing the
-  hyperparameters for machine learning.
+Maxima & minima along the hyperplane -- which is itself a higher-order
+cost function of theta-weight configurations of the cost function in
+high-dimensional spaces -- may yield regions that are inaccessible to
+any configuration of theta-weights. The algorithm requires structural
+or algebraic changes to produce improvements. These regions are, to
+the hyperplane, what white-holes are to black holes. This is why there
+are major topological connections to be found in optimizing the
+hyperparameters for machine learning.
 
 Even the volume of spacetime *is* a surface: a 3D surface in a 4D
 volume. This is perhaps more correctly considered as [2,1]-D surfaces
@@ -801,6 +1049,9 @@ thing.* For continuity constraints to be placed upon physical systems,
 the additional constraint of energetic equilibrium results in a far
 more limited space for potential system configurations.
 
+<a name="the-hows-and-whys-of-the-mapper-algorithm" />
+
+### [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
 
 The hyperplane describes an analytic algorithm's solution space -- the
 range of possibilities for theta weights concerning the efficiency of
@@ -812,13 +1063,28 @@ traveling in the hyperspace slows down as the algorithm approaches
 diminishing returns. Brouwer's translation theorem may apply to some
 advanced optimization approaches, but Gauss-Bonnet certainly applies
 when there are complicated topological features. This latter method is
-related to the MAPPER algorithm, which converts the hyperplane into
-simplicial complices which discretize the hyperplane's topological
-features, to further efficient approximations about where returns are
-less diminishing. MAPPER also enables XAI (explainable artificial
-intelligence), since hyperplane features are imprints of form
-corresponding to the problem domain. This is why reasoning about the
-topological features of the hyperplane corresponds to metacognition.
+related to the MAPPER algorithm[^mapper-algorithm], which converts the
+hyperplane into simplicial complices which discretize the hyperplane's
+topological features, to further efficient approximations about where
+returns are less diminishing. MAPPER also enables XAI (explainable
+artificial intelligence), since hyperplane features are imprints of
+form corresponding to the problem domain. This is why reasoning about
+the topological features of the hyperplane corresponds to
+metacognition.
+
+#### Images from a paper on MAPPER[^mapper-algorithm]
+
+> MAPPER extracts simplicial complices from the Hyperplane, which
+> allows it to approximate it.
+
+![MAPPER algorithm 2](/img/posts/2018-12-10-the-analytic-i-ching/mapper-alg-2.jpg)
+
+HELOC is a technique which builds on MAPPER, rendering the decisions
+in automated loan processing explainable, for example. These
+simplicial complices result in a kind of index for AI which can be
+searched, more or less.[^heloc-xai] Computing this index requires less
+computation for AI's analysis of human communications/signals than
+vice versa...
 
 No matter how one structures a computer vision algorithm, there are
 image classes that trouble it. Since its score is always below 100%
@@ -850,6 +1116,12 @@ hyper-algorithm's conception of the hyperplane evolves, what the what
 the implications are for hyperplane's curvature, etc. It's a metric
 similar to the Laplacian or the Hausdorff dimension which changes over
 the regions of the space considered.
+
+#### More images from that clever paper on MAPPER[^mapper-algorithm]
+
+> This is what the machines see.
+
+![MAPPER algorithm 1](/img/posts/2018-12-10-the-analytic-i-ching/mapper-alg-1.jpg)
 
 The downside? This hyper-algorithmic process is expensive!
 Topologically analyzing the hyperplane effectively involves a
@@ -1070,14 +1342,42 @@ great water ....
 
 ### On Conceptualizing State and Change (and the statistical mechanics of I Ching)
 
-![Social Physics from XIII anime #1](/img/posts/iching/b-xiii-social-physics-1.jpg)
+![Social Physics from XIII anime #1](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-1.jpg)
 
-![Social Physics from XIII anime #2](/img/posts/iching/b-xiii-social-physics-2.jpg)
+![Social Physics from XIII anime #2](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-2.jpg)
 
+[^institutionalized]: The quote is from Twilight of the Idols, a book
+    that's little more than a short list of post-it notes cobbled
+    together by Nietzsche from the confines of an asylum. Not his best
+    work, but his next greatest work. They don't let you have pencils
+    in the mental institution. You are permitted the bare minimum
+    existence to ensure your "safety" ... Nothing with greater than an
+    infinitesimal probability of a harmful event is permitted. What
+    kind of existence is that? Is it safe? *Is it secure?* It depends
+    on what's waiting for you on the outside. It certainly forces the
+    person to adapt to an unfamiliar set of behaviors, where the
+    nursing staff gets to observe the patient as they do so...
 
+    > "And what are *you* thinking?"
+    >
+    > "Telepathy is strictly forbidden here, son. You're lucky if we
+    > let you tell a joke without questioning its sanity! How's that
+    > for negative reinforcement? Would you like a shot of Haldol,
+    > young man?  Then shut the fuck up!"
 
-
-
+    No, my own brief stay in a mental institution was actually
+    interesting. It wasn't *that* bad. It was an educational
+    experience. When I am stressed or especially when I'm
+    intentionally triggered from the outside, my response is to
+    externalize. I imagine myself becoming the other people:
+    extreme empathy. Triggers and NLP only works when your confined
+    into your own mind
+    I began observing the other patients. Another reason
+    for the prison-like restriction in behaviors is because they want
+    you to be motivated to avoid coming back. For any one policy, rule
+    or action, there are always many reasons. For anything with a
+    single reason or motivation, expecting it, understanding it and
+    developing responses to it are all too easy
 
 [^mapper-algorithm]: Singh, G., Mémoli, F. and Carlsson, G.,
     [Topological Methods for the Analysis of High Dimensional Data
@@ -1105,3 +1405,24 @@ great water ....
     in a bubble
     column.](https://www.researchgate.net/publication/244116008_Experimental_and_Numerical_Studies_of_the_Hydrodynamics_in_a_Bubble_Column)
     Chemical Engineering Science, 54(21), pp.4913-4920.
+
+[^hard-disk-system]: If any two disks overlap, in crude classical
+    mechanics, this is not a valid particle configuration for
+    consideration in particle position distributions -- or for
+    configuration entropy. That entire distribution is thrown
+    out. More disks?  More potential to throw out distributions. This
+    is **low-level statistical mechanics** -- and from here, there are
+    critical semantic connections to the *terms* **quantum mechanics**
+    and **classical mechanics**. If you don't understand statistical
+    mechanics (and I gloss over it), then you probably don't
+    understand classical mechanics or quantum mechanics in depth.
+
+[^elderberries]: ... because elderberries were a treatment at the time
+    for bacterial STD's? I think? Elderberries are like steroids for
+    the immune system.
+
+[^heloc-xai]: Brown, K., Doran, D., Kramer, R. and Reynolds,
+    B., 2018. [HELOC Applicant Risk Performance Evaluation by
+    Topological Hierarchical
+    Decomposition](https://arxiv.org/abs/1811.10658) arXiv preprint
+    arXiv:1811.10658.

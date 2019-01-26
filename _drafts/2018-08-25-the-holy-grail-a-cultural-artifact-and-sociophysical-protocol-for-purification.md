@@ -8,6 +8,13 @@ author:
 excerpt: ""
 ---
 
+> I am here to tell you: it is no longer necessary for society to
+> shroud the next generation in darkness to retain control or
+> order. Whatever justifications you think you have for doing so, I
+> will eliminate them. I will break the mechanisms of control and the
+> reasoning for them. This is why I am who I am. It is now my raison
+> d'être.
+
 terms (wiki articles)
 
 - pneumatology
@@ -1726,8 +1733,6 @@ on roman infrastructure.
   curbed by major depopulation events like the Black Death which would
   extend the time remaining until such Apocalyptic crisis from
   twenty-six generations through forty generations.
-
-
 
 [^fem-wbm-displacement]: [Wave-based prediction analysis for
     dynamic-response problem in non-convex

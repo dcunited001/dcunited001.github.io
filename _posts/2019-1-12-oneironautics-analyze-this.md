@@ -20,7 +20,7 @@ excerpt: ""
 
 #### dream where this dog (a great dane) kept licking my face
 
-- kind of a silvery coated great dane
+- i saw a kind of silvery coated great dane
 - i'm not sure how i met the dog. i was in some building with open
   space and open floors, like a dance studio, but in the back area
 - when i met the dog, she was with her owner, who was also a
