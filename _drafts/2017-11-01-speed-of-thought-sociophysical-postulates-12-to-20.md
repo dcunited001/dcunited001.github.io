@@ -2289,7 +2289,7 @@ information.
 
 
 
-  whereas thesdynamics cause macroscopic changes that are that are
+  whereas these dynamics cause macroscopic changes that are that are
   ultimately ar these dynamics result in macroscopic changes to the
   system where specific schema of information are fairly arbitrary
 
@@ -2313,7 +2313,6 @@ information.
 
 #### What Fragile is to Anti-Fragile, the Concept of Disnormatizability is to Normitization
 
-
 - Disnormatization, the dissociation and disregulation of norms as it
   relates to a spectrally derived total measure of normatization, and
   the vectors with potential to denormalize contribute greatly to the
@@ -2323,12 +2322,11 @@ information.
     concept is convoluted by norms of mutual knowledge and beliefs
     about knowledge of .
 
-in what
-are discussed here as socioepistemic systems,
+in what are discussed here as socioepistemic systems,
 
 Disnormative: Oxford doesn't include it in their dictionary, but it is
-still a valid word in the english Language. not enough fancy
-post-graduate researchers have thought to use it. too many NPC's and
+still a valid word in the english Language. Not enough fancy
+post-graduate researchers have thought to use it. Too many NPC's and
 not enough people who think for themselves to understand that word
 yet.
 
@@ -2406,6 +2404,30 @@ all cultural and interpersonal norms.
     singular maximal harmonization.
 
 #### Quantum Mechanics, Generalized. It Is Purely Informational.
+
+  - Consider society's inconsistent development of norms in reaction
+    to technology: here you can see this phenomenon of
+    disnormitization play out. Limit the context to UI/UX design in
+    social media: remember the outrage in society when Facebook
+    introduced it's first major UI/UX design changes? How does
+    society's decide, as individuals, how to collectively react to
+    technological changes when they impact user experience but occur
+    behind the scenes? e.g. as part of Newsfeed design, the
+    functionality of which significantly contributes or detracts from
+    the quality of a user's experience? Do they even understand the
+    algorithmic minutia? How do some users develop beliefs about
+    technological norms and normitizing beliefs when these changes are
+    invisible?
+    - as the rate of UI/UX changes and algorithmic increases does the
+      rate of norm development also change? Yes, but it does not pace
+      the rate of UI/UX change. How does the rate of diffusion of
+      norms into society change? The acceleration of comminication in
+      hyperconnected social media networks means norms diffuse faster
+      -- but is it enough? I posit that neither the individual's
+      development of norms, their adjustment to norms, nor their
+
+    Because the rate of systemic change in user experience rapidly
+    increases as new
 
 - Just like physical systems above minimal temperatures cease to
   permit detection of the strange probalistic distortion of quantum

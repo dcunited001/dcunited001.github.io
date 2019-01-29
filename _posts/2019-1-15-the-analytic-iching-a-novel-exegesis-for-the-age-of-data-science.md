@@ -849,7 +849,7 @@ distribution's ontological metatypes.
 
 > Warning: This section is intended as a process to augment abductive
 > and inductive logic! It is *only* a process that is intended to help
-> you follow the gradient of uncertainty -- i.e. to form smart
+> you follow the **gradient of uncertainty** -- i.e. to form smart
 > hypotheses that allow you to collapse uncertainty as quickly as
 > possible. If you use it in the wrong way, it will encourage paranoid
 > thinking. It shouldn't make you *more paranoid*. It should inform
@@ -1199,7 +1199,7 @@ is some formula which is disconnected from the underlying physical
 mechanics which can simplify computation without a loss of
 accuracy.
 
-#### Predicting the Average Size of Bubble[^average-bubble-size]
+#### Predicting the Average Size of Bubbles[^average-bubble-size]
 
 Predicting the average size of bubbles, or a distribution of
 bubble sizes, in a foam like that produced by urine can be predicted
@@ -1247,14 +1247,14 @@ information is materially derived,
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
-Hexagram 13 ends (and begins) with an allusion to the space of the
-meadow. This is a flat space, where motion in any direction is
-easy. But in life, we must not simply accept comfort, per se, for if
-we do, the powerful will count upon our complacency. Soon, we will
-find our lives at the intersection of disproportionate influences.
-However, crossing the great water is a trek across many hills and
-valleys. If the crossing is a group endeavor, the hills and valleys of
-that analytic hyperplane may disrupt the group by altering the
+Hexagram 13 both ends and begins with an allusion to the space of the
+meadow. This is a flat space, where motion in any direction is easy.
+But in life, we must not simply accept comfort, per se, for if we do,
+the powerful will count upon our complacency. Soon, we will find our
+lives at the intersection of disproportionate influences.  However,
+crossing the great water is a trek across many hills and valleys. If
+the crossing is a group endeavor, the hills and valleys of that
+analytic hyperplane may disrupt the group by altering the
 incentivization structure that motivates its individuals and
 subgroups.
 
@@ -1322,11 +1322,16 @@ norm existed, but after such an undertaking as the crossing of the
 great water ....
 
 - move content about normification here.
-
+- what happens when norms evolve faster than people can keep up?
+  - explain this as a metaphor to breaking the speed of sound, as we
+    approach the singularity.
 
 ### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"](#hexagram-16-the-laplacians-socioinformational-analogue)
 
-- what does this mean for normification
+- what does this mean for normification?
+- TODO: move notes from section on Information Consensus
+
+
 
 
 # The Statistical Mechanics of I Ching

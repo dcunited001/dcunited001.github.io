@@ -146,6 +146,8 @@ new religion or a new denomination:
 God is or was dead. We are approaching a cliff and beyond is the abyss
 of nihilism.
 
+...
+
 Humanity's need for religion itself is ripe to be rekindled. When it
 is, we will have a fresh direction to rush towards and this may be the
 final direction we choose to socioculturally evolve towards.
@@ -594,10 +596,10 @@ value.
     sparsely ever been more than 2.5. With more grandparents spending
     more time with younger parents, this dramatically increases an
     individual's average cumulative flux of information exchange
-    between their lifelong connections in their social
-    network. Therefore, that societies exoliterary persistence of
-    social memory increases exponentially -- similar to an inverse of
-    the [Broken Window]().
+    between their lifelong connections in their social network.
+    Therefore, that societies exoliterary persistence of social memory
+    increases exponentially -- similar to an inverse of the [Broken
+    Window]().
     - Therefore, early on, social memory was rebooted quite often,
       which was a mythological design imperative for our distant
       ancestors: myth demanded teleological information be compacted
@@ -608,9 +610,8 @@ value.
         cultural universals
         - relied on semiotic signifiers mostly pointing
 
-
         - frequently experienced meta-narrativestowards
-        symbols representing
+          symbols representing
         - local flora & fauna
 
 
