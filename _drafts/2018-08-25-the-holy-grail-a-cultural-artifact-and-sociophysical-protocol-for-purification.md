@@ -15,6 +15,95 @@ excerpt: ""
 > reasoning for them. This is why I am who I am. It is now my raison
 > d'être.
 
+======
+
+# What Do You Do When No One's Watching
+
+> "what you do when no one's watching says more about your character
+> than what you do when you think someone's watching."
+
+Not a bad way to reassess your character and the influence that others
+have on you, but is it a good way to judge someone else?  Today, in
+the 21st century, does this still apply -- when we all know that the
+NSA is always watching? Is this really a good way to judge everyone?
+How can you be sure that someone has been causally isolated? And if
+someone is so socially isolated that it can be said they are
+hermetically sealed from causal interference, *ARE YOU AWARE OF THE
+DAMNING DOWNSTREAM HARM CREATED IN THEIR LIFE?* Is there any
+possibility for true causal isolation in our hyperconnected world?
+
+### Quoth the Raven, "Never more!"
+
+Socially vulnerable people are almost always isolated, in one way or
+another, whether sooner or later. Either isolation causes their pain
+or pain creates the isolation that births subsequent enmities and
+pains, perhaps for the remainder of their life. Extreme or protracted
+isolation is a strong mutagen for the psyche. When you know that your
+actions causally impact someone's thoughts or state of mind, this in
+itself exerts an unconscious impact on your mind.  You are forced to
+parameterize your actions by coming to terms with how it impacts
+someone else's thoughts, words or actions. For this reason, someone
+who suffers protracted isolation will slowly develop neuroses and
+gradually lose touch with any social norms. There is no external
+reinforcement of norms. Consider how miraculous it was that Chomsky
+decoded language without needing to study a Tarzan raised completely
+outside the social propagation of language -- could that person ever
+learn language? What about an adult who has suffered nearly a decade
+of artificial social isolation? What would the effects be on their
+person's conceptualization of "adulting" and social norms? It would
+nearly ruin their development, perhaps forever. They would never age
+normally again, psychologically -- i.e. their process of development
+may forever be stagnant and idiosyncratic. They would be misunderstood
+for the rest of their life.
+
+In order for isolation to be useful as a psychological change agent,
+it would need to be carefully monitored.  Could such isolation be used
+beneficially, considering the social or emotional consequences? To
+whose benefit? Does isolation work as a vector for psychological
+change if the person is aware they're being intentionally isolated? Is
+it effective if they have choice? If they do have choice, can they
+simply walk away from their isolated circumstances? It's easy to say
+they are free to leave unharmed if you live in a society where social
+physics is verboten and people are punished for trying to teach
+knowledge about life and society. If that's the case, nearly every
+person is ignorant of social resources -- and ignorant of how to live
+life. What's the point in America trying to pretend that stands to
+protect an international order -- the UN and Geneva Convention --
+that, in turn, protects life if America also forbids its citizens at
+home from learning about how to effectively live life? It's
+unbelievable that I would suffer so much lashback from all directions
+in America, simply for trying to teach people about social physics! I
+want to help people circumvent the pain and torment that I've
+experienced at the hands of those who abuse power! GOD FLOOD AND DAMN
+IT ALL!
+
+If you believe in the traditional definition of God, then you believe
+that someone is always watching you. However, the definition that I've
+developed for God is a collection of information from the shadows of
+the unconscious which is accumulated through the generations. In other
+words, God is a helpful collection of information about causality --
+i.e. the downstream consequences of people's actions -- that has been
+accumulated over the course of centuries or millenia. This is God, but
+does not necessarily imply the existence or non-existence of an entity
+who is aware of everything that occurs. Knowing God helps you to
+inform your actions with an `a priori` knowledge set of the
+consequences of your actions -- without having to live out your
+mistakes in order to learn from them. That your conception of God and
+your belief systems laws that follow thereof are justified is what
+makes the concept of ultimate, unchanging truth so critical in
+Abrahamic religions -- how do....
+
+  - Acting in accordance with this definition of God is beneficial and
+    acting out of accordance is ultimately detrimental. This
+    definition of justice is not carried out by an entity, but carried
+    out as part of the socioinformational consequences of your
+    actions, both positive and negative. Understanding the
+    harmatological consequences of sins is critical to understanding
+    right and wrong, given this definition of God.
+    - ....
+
+======
+
 terms (wiki articles)
 
 - pneumatology
@@ -609,11 +698,9 @@ value.
         evolutionarily-advantageous teleological relationships between
         cultural universals
         - relied on semiotic signifiers mostly pointing
-
         - frequently experienced meta-narrativestowards
           symbols representing
         - local flora & fauna
-
 
 ### Extrapolating Logical Consequences of Epistemic Structures With Epistemological Virtual Machines
 
@@ -1739,3 +1826,102 @@ on roman infrastructure.
     dynamic-response problem in non-convex
     domain](https://jvejournals.com/article/15907), Luyun Chen, Leixin
     Li, Journal of Vibroengineering, (2015)
+
+
+
+========
+
+### A quick non-theological apologetic argument
+
+what does it mean for atheism to triumph if all individual belief
+systems collectively end up being social white noise
+
+![Graph Theory pic]()
+
+so, consider each of those graphs an individual piece of information,
+composed of other pieces of information
+
+and also consider each piece of information a frequency
+
+now consider the social distribution of that information. when there
+are more instances of a specific structure of information, that
+information is louder -- i.e. it is "turnt up"
+
+so you can socially amplify information, but it is also possible to
+attenuate pieces of information
+
+if people decide how to structure their values, morals and according
+to their individual belief system (whether that is an individual
+atheism or a shared religion) then doesn't religion have value as
+effective social engineering?
+
+basically religion is a socially replicating structure of information
+(or a memetic program) that inculcates homogenous information
+structures into society.  now consider sociological systems in terms
+of game theory. what does spatial complexity mean for games? if a
+space is more complex, then it requires more computation to solve that
+game, if it is solvable at all
+
+when people's actions and beliefs are aligned, then social games are
+more predictable. as followers of a religion, they can advance their
+own group but also render the social games in society more predictable
+by seeing the world in terms of their own religion
+
+it's a framework of thought that simplifies life and helps followers
+avoid mistakes. and even if it cannot be connected to some basis in
+absolute truth (i.e. God) it still has value in that it's an
+information system that creates spectral harmony in society
+
+even if someone follows that argument, they are still left deciding
+whether or not one individual conceptualization of God is valid or
+corresponds to absolute truth. that's not my problem, although i do
+have an argument for that as well.
+
+furthermore, atheism to me is the "nadir" of belief systems.
+it's the most minimal belief system.
+
+there really is a void left in life that isn't necessarily filled by
+secular institutions or atheists. that is, religious institutions
+performed and still performs very critical functions in society. if
+religion were to suddenly disappear, these functions/roles/niches are
+not immediately available from other social institutions in society
+
+a great example is the role that mandatory church attendance filled in
+medieval europe. by forcing people to attend church weekly, this
+established a guaranteed weekly social flux of information. the
+function that church performed here was similar to the heartbeat
+network in VPN hardware or the social "heartbeat" of information being
+pushed around the local social environment.
+
+#### [Heartbeat Network](https://en.wikipedia.org/wiki/Heartbeat_network)
+
+if you were to rip that out of Medieval Europe and not replace it with
+anything, europe would have quickly become decentralized and would
+have fallen to the Middle East quickly. There was an eternal battle
+between Turkey and Eastern Europe, which people most often associate
+with Vlad the Impaler. If it were not for some culturally unifying
+belief system, Europe would have become subservient to middle eastern
+economic interests
+
+as for the whole "heartbeat network" analogy, basically church served
+as a weekly sociophysical health-check on the community. to encourage
+a rhythmic flux of information.
+
+but this is ONLY possible when you have socially distributed
+information which act to establish behavioral protocols for social
+interaction (i.e. holidays, traditions, weekly prayer, daily prayer,
+etc)  all of these must collectively add value to the
+community/society/followers. otherwise, some other religion or belief
+system fills that void because it's better adapted to providing value
+
+none of these arguments rely on the 'a priori' assumption that God is
+absolute truth.
+
+so you don't acknowledge the impact that belief and information have
+on the collective action of individuals in society?
+
+if information doesn't influence the actions of people, then i'm
+wrong. i'm not.  so socially distributed information does influence
+behavior, and now the question becomes: how does one design
+informational systems to optimally benefit either society or your
+religion's followers? isn't that social engineering?

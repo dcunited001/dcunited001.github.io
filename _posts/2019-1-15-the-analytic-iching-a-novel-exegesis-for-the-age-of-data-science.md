@@ -343,8 +343,8 @@ that parallels the four.
 
 The exegesis herein is motivated by a visual reconstruction of
 inductive combinations of potential narratives implied by
-semiotics. The exegesis, or the motivation and modus operandi of
-interpretation, further reduces the induced possibilities by
+semiotics. The exegesis -- the motivation and modus operandi of
+interpretation -- further reduces the induced possibilities by
 constraining interpretation with Wilhelm's interpretation of the text,
 in most areas. There are some lines where I feel that Wilhelm skipped
 over the proper interpretation, but as of yet, I am not operating with
@@ -397,18 +397,48 @@ timelessness, one relies on timeless symbols:
 > New York (multinationals) today.
 
 The most effective writing assumes all interpretations are valid and,
-line by line, places constraints on the space of interpretations. By
-limiting the set of symbols and morphemes employed, this guarantees
-that the proper interpretation will be reinforced by the apparent
-spectral harmony of a subset of semantic interpretations made manifest
-to the well-attuned reader.
+line by line, nails constraints onto the space of interpretations,
+constricting the flexibility of interpretation. This is a
+combinatorial search method that scores on informational coherence,
+but also has "look ahead & collapse backwards" used by Bell's Theorum
+-- i.e. assume all possibilities, use deduction wherever possible (it
+is efficient), use combinatorial induction to scan forwards, then use
+deduction to collapse backwards. By limiting the set of symbols and
+morphemes employed, this guarantees that the proper interpretation
+will be reinforced by the apparent spectral harmony of a subset of
+semantic interpretations made manifest to the well-attuned reader. In
+the informational context, spectral harmony defines "informational
+coherence". However, I believe that *there is still absolute truth* --
+which is an all encompassing ontological lattice into which all
+information can fit.
 
 I realize that Chinese authors of the I Ching -- and indeed the
 authors of whatever body of divinatory work preceeded the I Ching --
 did not have the modern era's profiency with symbolic manipulation of
 math and physics. However, I truly believe they found much the same
 form and order in nature to be rediscovered by the West's
-proto-Rationalists in the Renaissance.
+proto-Rationalists in the Renaissance. It is math by intuition. Also,
+the mind is an analytical computer and, if the most efficient way for
+the mind to make physical predictions is by converging its own
+analytical models to their numerical complements, then why can't the
+mind bridge the gap from analytical to numerical simply by sseking the
+most efficient solutions?
+
+> In other words, is the secret behind the video of Bruce Lee lighting
+> matchsticks with nunchukus to internalize analytical representations
+> of physical models that account for infinitessimals and the fluid
+> dynamics of air?
+
+How is this possible? How much more efficiently can the mind operate
+when its analytical models of physics approach near consensus with
+symbolic/numerical physical laws? And, furthermore, can it then apply
+such physical emulation monadically in concert with other
+functionality in the mind?  Wouldn't this be far more efficient than
+anything the conscious mind could produce?
+
+#### Bruce Lee seems to embody my neuro-analytical understanding of the human mind
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kl1sS1kVAvA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <a name="the-epitomization-of-design-imperatives-motivating-the-shamans-method" />
 
@@ -789,7 +819,6 @@ tabula rasa is etched away by their experience...
 
 TODO: move?
 
-
   - [The problem of reproducing experiemental results in
     psychology](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-soul-is-not-what-you-think-it-is)
     results from the near-infinite nature of the mind. Studying the
@@ -1028,12 +1057,12 @@ Characteristic when considering the surfaces of manifolds,
 differentially.
 
 Maxima & minima along the hyperplane -- which is itself a higher-order
-cost function of theta-weight configurations of the cost function in
-high-dimensional spaces -- may yield regions that are inaccessible to
-any configuration of theta-weights. The algorithm requires structural
-or algebraic changes to produce improvements. These regions are, to
-the hyperplane, what white-holes are to black holes. This is why there
-are major topological connections to be found in optimizing the
+cost function of theta-weight configurations of the lower-order cost
+function -- may yield regions that are inaccessible to any
+configuration of theta-weights. The algorithm requires structural or
+algebraic changes to produce improvements. These regions are, to the
+hyperplane, what white-holes are to black holes. This is why there are
+major topological connections to be found in optimizing the
 hyperparameters for machine learning.
 
 Even the volume of spacetime *is* a surface: a 3D surface in a 4D
@@ -1238,12 +1267,11 @@ metaphysical forms which do not descend from the material plane at
 all. Everything in the material plane is a consequence of these
 eternal forms and can be more clearly seen through them. Since our
 minds do arise in the material plane, whether one has a clear
-conception of these eternal forms is another question
-entirely. Further confounding the contention whether knowledge and
-information is materially derived,
+conception of these eternal forms is another question entirely.
+Further confounding the contention whether knowledge and information
+is materially derived,
 
 - are these alien-forms from outside our universe
-
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
@@ -1286,6 +1314,57 @@ foresee this and avoid it entirely: thus, when the faction climbs up
 on the wall, that faction finds that they cannot attack or insurrect
 without adversely impacting their own motivations. Thereby, the group
 remains as one.
+
+In all social relationships, when people are considered as particles,
+there are forces which attract and those that repel. However, in
+sociophysical systems, the number, quality and structure of fields is
+myriad: i.e. the complexity of forces acting on people tends to create
+not only more complicated systems, but the complexity itself gives
+rise to its own dynamics. Still, there is attraction and
+repulsion. This hexagram first defines "crossing the water" and, to
+the challenge therein, then expounds on the necessity of generating
+sufficient attraction between members of a group.
+
+#### How Are You Going To Keep Your Crew Together?
+
+> Study the shape of the sociophysical fields in the direction ahead
+> of your group. Group cohesion is more efficient when your groups
+> remain together, so find mechanisms of attraction between the
+> members of the group. Thus, move forward, together.
+
+![Hey Wanna Go Tubing?](/img/posts/2018-12-10-the-analytic-i-ching/tubing.jpg)
+
+Imagine, if you will, drying hibiscus leaves, and gently separating
+them. Now, drop groups of hibisucus leaves into various parts of a
+stream. Pay attention to the groups of leaves as they flow. What
+started as one group became many groups. Why? If these were people
+whose motion along the surface of water was really their motion along
+some sociophysical field, then how do you improve their tendancy to
+stay as a group? If they remain as a group -- i.e. if you can
+guarantee that they encounter the same experiences and share similar
+struggles in overcoming challenges -- then won't the phenomena that
+cause the incentivization of behavior remain consistent across the
+groups individuals? That is, if you remain together, it is much easier
+to stay together.
+
+How do you plan to hold together? Hexagram 8 contains one such clue:
+it's named **Holding Together (8)** and speaks of a leader whose
+social magnetism rallies others around him. But, as for the group
+itself, it should plan on utilizng communication and planning. With
+these, a group can overcome the tendency to factionalize. As an aside,
+this is the opposite of what you want with Boltzmann Machines
+exploring a space. **Fellowship With Men ** implies the planning, the
+anticipation and the communication required by its imagery of a group
+intending to enter through the same gate -- all before crossing the
+great water. You need everyone to be together, to be on the same
+wavelength before you part on your journey. Otherwise, you are like
+the hibiscus leaves with no sources of group attraction between
+you. As soon as you encounter adversity, you will be split
+part. **Coming To Meet (44)** covers some of the same principles at a
+sociological scale.
+
+- While along the journey how do you measure the space and it's impact
+  on group cohesion?
 
 ### [Hexagram 15 Details The Phenomena of Normification, Not Simply "Modesty"](#hexagram-15-details-the-phenomena-of-normification-not-simply-modesty)
 
@@ -1330,8 +1409,6 @@ great water ....
 
 - what does this mean for normification?
 - TODO: move notes from section on Information Consensus
-
-
 
 
 # The Statistical Mechanics of I Ching

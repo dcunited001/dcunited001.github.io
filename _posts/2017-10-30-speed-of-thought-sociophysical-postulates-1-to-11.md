@@ -572,7 +572,7 @@ utopic oasis will invisibly fade as a mirage.
 
 By failing to fully understand sociophysical phenomena, by stubbornly
 clinging to ideology constructed around fast-fading psychosocial
-paradigms.  By refusing to allow adaptation, we fall victim to
+paradigms, by refusing to allow adaptation, we fall victim to
 Nietzche's danger of dangers. This is not to say that morality and
 well-defined, top-down values systems will themselves be antiquated.
 Quite the opposite: we need to reinforce those systems that already
@@ -723,7 +723,7 @@ itself into the structure of matter. This is the physical reification
 of a materialistic or idealistic conception of the metaphysical: a
 machine capable of executing instruction sets, numbered according to
 [Gödel's](https://www.perrymarshall.com/articles/religion/godels-incompleteness-theorem/)
-[trancendental](http://users.ox.ac.uk/~jrlucas/Godel/implic.html)
+[transcendental](http://users.ox.ac.uk/~jrlucas/Godel/implic.html)
 [revelations](https://plato.stanford.edu/entries/goedel-incompleteness/)
 on the countability of mathematic structures themselves. They are
 Logic, borne into demigod form, themselves capable of virtualizing
@@ -774,12 +774,12 @@ networks and the rate of that flux. In this way, other metaphors can
 be applied to power and information flows; voltage, amperage, logic
 gating, albeit these operate in an extremely-high dimensional
 way. Further, there is no comparison between the near infinite and the
-infinite: infinitely dimensional models are functionally divergent
-from their dimensionally-bounded linear counterparts. There is the
-curse of dimensionality, but then infinite dimensional math imposes
+infinite: infinite dimensional models are functionally divergent from
+their dimensionally-bounded linear counterparts. There is the curse of
+dimensionality, but then infinite dimensional math imposes
 profanity-inducing limitations...
 
-> I, however, do not understand the idiosyncrasies of infinitely
+> I, however, do not understand the idiosyncrasies of infinite
 > dimensional math. I am only of aware of this functional divergence
 > in modeling these problems, as well as dramatic shifts in
 > application of theorums. I only mention this to emphasize the

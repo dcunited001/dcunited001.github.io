@@ -2461,7 +2461,6 @@ all cultural and interpersonal norms.
       arises from purely statistical notions of energy distributed
       across space with defined mechanics.
 
-
 #### Beliefs About Information Consensus Leads to Amplification of Beliefs
 
   - (maybe reorder this & following sections)
@@ -2528,6 +2527,7 @@ all cultural and interpersonal norms.
 
 #### Wu Xing
 
+- wu xing physics
 - signaling with Wu Xing (actual name of this?) in the Imperial Palace
   - there should be notes on this somewhere, but it's a perfect
     example (of one interpretation of what this postulate means)
