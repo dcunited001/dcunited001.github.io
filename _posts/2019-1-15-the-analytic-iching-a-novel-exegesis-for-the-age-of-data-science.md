@@ -935,7 +935,8 @@ relates to peace/stagnation, before completion & after completion.
   metaphysics and dialectical argumentation
   - the marxist dialectic's utility, in the context of sociopolitical
     reform, is in overturning an existing order or establishing a new
-    one. In the same context, the hegelian dialectic's utility is in
+    one. In the same context, the hegelian dialectic's utility is
+    in...
   - supporting argument?
 
 #### What If I Told You: The Frozen Flame is the Answer
@@ -1062,11 +1063,20 @@ and the sub/conscious interface impact how the brain stores
 information and forms beliefs from the top down -- in addition to the
 are bottom up effects resulting in a sense of intuition.
 
-Your sense of intuition that operates at a low-level of the
-subconscious. It is exposed to the conscious mind as a sense, but each
-individual's clarity and accuracy depend strongly on that person's
-life experience, but also that person's constructed perception of
-their life experience.
+- TODO: this process of classifying, organizating and arranging
+  experiences, which develops one's intuition ... is similar to the
+  process by which personal norms and perceived social norms form.
+  - when someone's experience is skewed typologically in some extreme
+    ways, then their intuition and apprehension of norms may become
+    dysfunctional. this tends to create abnormal psychology and can be
+    provoked intentionally, but almost certainly requires social
+    isolation.
+
+Your sense of intuition operates at a low-level of the subconscious.
+It is exposed to the conscious mind as a sense, but each individual's
+clarity and accuracy depend strongly on that person's life experience,
+but also that person's constructed perception of their life
+experience.
 
 #### No, there is no such thing as a real psychic ... *AFAIK!*
 
@@ -1714,31 +1724,39 @@ disregulation of meaning.
 Disnormalization describes a sociocultural phenomena where it becomes
 more normal for ideas to resist normification. As humanity approaches
 the singularity, technology will begin to evolve faster than we can
-culturally adjust to it. For socioinformational systems where
+culturally adjust to it. Determining what is considered normal is
+necessary in the deontic logic of legal argumentation involving the
+"reasonable person." For socioinformational systems where
 disnormatization is prevalent: norms either manifest slowly, resist
-social consensus or are never formed whatsoever. Disnormatization is
-not about the formation, development or obselescence of individual
-norms. Instead, it concerns dynamics of norms within some realm,
-including legal, social or linguistic spheres. Is the system in such a
-state where it is reasonable to expect that norms will coalesce
-naturally as a product of social interaction? Particularly, does the
-system, realm or social network generally exhibit social consensus on
-norms?
+social consensus or are not formed in time to be relevant.
+Disnormatization is not about the formation, development or
+obselescence of individual norms. Instead, it concerns dynamics of
+norms within some realm, including legal, social or linguistic
+spheres. Is the system in such a state where it is reasonable to
+expect that norms will coalesce naturally as a product of social
+interaction? Particularly, does some system, realm or social network
+generally exhibit social consensus on norms?
 
-Determining what is considered normal is necessary in the deontic
-logic of legal argumentation involving the "reasonable person."
+When the phenomenon of disnormalization becomes prevelant in some
+sphere, this implies that either &#9312; the social experiences which
+tend to cause individuals to perceive norms no longer facilitate the
+conception of norms or &#9313; the distribution of information about
+norms is impaired. Both may occur when speciation of information
+around which individual norms would be formed becomes too complex:
+that is, the nature of each individual's experiences are so distinct
+that there aren't enough common traits or patterns of experience upon
+which to reason about other individual's experiences. The difficulty
+of validating one's own perception of norms from within the skew of a
+filter bubble is one technological mechanism that potential
+contributes to disnormalization.
 
-While
-that is restricted to the legal realm, ... disnormalization's impacts
-on social communication...
+####
 
-to manifest around ideas,
-generally.
+> More technically, the spatial complexity of the structure that
+> underlies deontic frames and deontic models becomes convoluted to
+> the point intractibility.
 
-- it is not denormalization. it is not ... (etc, etc)
-  - disnormalization is to normalization as disregulation is to
-    regulation.
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4LqtZrzI_ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - TODO: move content about normification here.
 
@@ -1746,7 +1764,27 @@ generally.
   - explain the sociocultural phenomena of disnormatization as a
     metaphor to breaking the speed of sound.
     - as we approach the singularity, technology and culture evolve
-      faster than norms can be established and diffused.
+      faster than norms can be established and diffused. Since the
+      human brain is an analytical machine, people require
+      conditioning via experience (to develop the social instantiation
+      of types of beliefs upon which norms are constructed). That is,
+      an individual's conception of a norm requires some type,
+      metatype or abstraction of experience whereby beliefs about
+      aggregate beliefs are grouped.
+      - To develop beliefs about norms, individuals must reason about
+        how others categorize, structure and organize their
+        experiences, information or beliefs.
+      - Similarly to how grouping a SQL table by the `id` column
+        returns a result where all the counts are 1, attempting to...
+
+      - assertions about norms, proactively establishing norms and
+        diffusing information to reinforce social perception of norms
+        each alleviate problems related to tractibility in
+        sociophysical systems.
+        - since it's impossible to reason about socially distributed
+          information in totality, people instead reason with
+          approximated representations of aggregate belief.
+
     - similar to how breaking the sound barrier introduces completely
       novel dynamics for aerospace engineers to design around.
       - in any dynamical system, the emergence of specific dynamics
@@ -1789,7 +1827,7 @@ generally.
       jet, far exceeds some maximal rate of sociocultural adaption,
       analogous to the propagation of vibrations in air molecules
       around the jet. What results is the emergence of convoluted
-      dynamic in sociocultural evolution which are similar to
+      dynamics in sociocultural evolution which are similar to
       transonic dynamics that emerge at the speed of sound.
 
 ### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"](#hexagram-16-the-laplacians-socioinformational-analogue)

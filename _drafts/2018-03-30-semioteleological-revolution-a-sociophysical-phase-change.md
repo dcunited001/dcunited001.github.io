@@ -1453,6 +1453,12 @@ difficult to leverage the diversity of thought.
   socially distributed epistemic structures
   - TODO: rename #1
 
+- TODO: notes from index card on 7 means of manipulating epistemology
+  explained in terms of the Kybalion's 7 laws.
+
+- TODO: examine kuhn/piaget's work on epistemology
+  - assimilation/accommodation
+
 #### (1) Whither Are An Individual's Epistemic Structures Rooted?
 
 - rooting epistemic structures in the metaphysical
