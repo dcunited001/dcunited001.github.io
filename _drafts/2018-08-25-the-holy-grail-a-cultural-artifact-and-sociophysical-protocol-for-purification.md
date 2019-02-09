@@ -8,6 +8,16 @@ author:
 excerpt: ""
 ---
 
+“...I prefer the term ‘the unconscious’, knowing that I might equally
+well speak of God’ or ‘daimon’ if I wished to express myself in mythic
+language. When I do use such mythic language, I am aware that ‘mana’,
+‘daimon’, and ‘God’ are synonyms for the unconscious, that is to say,
+we know just as much or just as little about them as about the
+latter. People only believe they know much more about them and for
+certain purposes that belief is far more useful and effective than a
+scientific concept.” - ‘Late Thoughts’, the final chapter of ‘Dreams,
+Memories, Reflections’
+
 > I am here to tell you: it is no longer necessary for society to
 > shroud the next generation in darkness to retain control or
 > order. Whatever justifications you think you have for doing so, I
@@ -1925,3 +1935,23 @@ wrong. i'm not.  so socially distributed information does influence
 behavior, and now the question becomes: how does one design
 informational systems to optimally benefit either society or your
 religion's followers? isn't that social engineering?
+
+
+==========
+
+- the effect of death on early humans (in the era with early
+  architecture and earlier) with poor communicative ability mean that
+  the pain of close social loss that accompanied death was something
+  that was profoundly more difficult to communicate than it was in any
+  era after language became sophisticated.
+  - it would be similar to the pain experienced by a dog who loses its
+    owner to death and is clearly affected, but cannot convey their
+    pain to anyone close by, nor can they come to terms with why the
+    event occured. because in this period language constricts the
+    consensus of abstractions and information (encodings of reified
+    abstractions), people would likely have struggled over loss and
+    the effects of violence, until they learned to cope with the pain
+    by leveraging architecture to mark and notate sites of
+    significance (etching them into social memory) and inventing
+    mythological vehicles to help each other move forward (culturally
+    and socially) to cope with loss

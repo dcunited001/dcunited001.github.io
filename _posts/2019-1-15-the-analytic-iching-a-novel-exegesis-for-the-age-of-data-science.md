@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 Pictured above are the famous notes on I Ching gifted to Gottfried
 Leibniz.
 
@@ -247,8 +246,28 @@ Again ... Why? Because a visual representation of phenomena, whether
 artistic or photographic, in its depiction of natural phenomena, must
 reflect the preservation of equilibrium. Otherwise it *looks*
 fake. This is the difference between bad lighting and good lighting in
-paintings. This is the difference between bad waves and good waves in
-Japanese woodblock prints.
+paintings. When visual phenomena deviate from our neurologically
+encoded physical models, our analytical emulation of physics can not
+only distinguish the qualitative differences at a subconscious level,
+but also direct the mind's attention to areas in the depiction's local
+space that seem *most fake*.
+
+Via our experience of physical phenomena via sensory stimuli, our
+brain develops analytical models of physics that effectively
+approximate the laws of physics. This provides our minds with
+intuition for physical systems. Even though our minds have no
+numerical/algebriac encoding of the laws of physics, it is conditioned
+early on to be capable of analytically emulating the laws. By engaging
+in physically strenuous activities -- e.g. [martial arts with weapons
+or
+skateboarding](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+-- our minds can be trained to more effectively internalize these
+physical models.
+
+> Even though waves in Japanese woodblock prints aren't depicted in a
+> realistic painting style, they still *seem* realistic. Why? Their
+> *depiction* of phenomena visually triggers activations that are
+> similar to the characteristics of the physical phenomena.
 
 ![The Great Wave, a Japanese Woodblock Print](/img/posts/2018-12-10-the-analytic-i-ching/the-great-wave.jpg)
 
@@ -296,24 +315,77 @@ The sudden insight: the social and phenomenological dynamics
 symbolized following hexagrams can all be summed up by analogies to
 waves on a beach.
 
+#### Phenomenology of Ocean Waves
+
+> Just as one might consider the positive and negative space of shapes
+> in art, consider the positive and negative spaces of phenomena in
+> the lifecycle of waves. Typically, the negative phenomenology are
+> the unconscious aspects of things: the aspects of things that are
+> like the Shadow in Jungian psychology.
+
+![The lifecycle of waves](/img/posts/2018-12-10-the-analytic-i-ching/waves-lifecycle.jpg)
+
 #### &#9775; Hexagram 1: [The Creative](https://ichingfortune.com/hexagrams/1.php)
 
 #### &#9775; Hexagram 2: [The Receptive](https://ichingfortune.com/hexagrams/2.php)
+
+Hexagram 1 corresponds to the action of kinetic energy on the system
+that creates the forms we recognize as waves. Hexagram 2 represents
+the action of the beach & seafloor shaping the dispersion of kinetic
+energy. The shaping influence that the seafloor exerts corresponds to
+the female aspect of the phenomenology here. The influence that the
+forces and momentums exert on the water as a fluid-dynamical system
+correspond to the male aspects.
+
+- TODO: stress this as waves of sociocultural or sociopolitical influence
+
+> In rip currents, notice how it is the shape of the seafloor that
+> *captures and channels* the collective momentum of water.
+
+![Ripcurrents](/img/posts/2018-12-10-the-analytic-i-ching/waves-ripcurrents.jpg)
 
 #### &#9775; Hexagram 11: [Peace](https://ichingfortune.com/hexagrams/11.php)
 
 #### &#9775; Hexagram 12: [Standstill (Stagnation)](https://ichingfortune.com/hexagrams/12.php)
 
+Hexagram 11 can be conceptualized by imagining rhythms of waves that
+reinforce constructive interference. This is a situation where there
+is minimal impact of undertow that deconstructs the kinetic energy of
+waves into turbulence.
+
+Using the pattern language of waves as an *au naturale* basis for
+dialectic -- i.e. describing the hexagrams within the language of
+waves -- then one may conceptualize Hexagram 12 as the effect undertow
+has on the constructive interference between waves. (Stagnation)
+creates a situation were waves tend to deconstruct each other. On the
+time scale of less than a dozen waves, protracted Stagnation creates
+an opportunity for the next big wave to blow past the stagnant
+water. The existing order is to be annihilated by the next large burst
+of energy, whether from the interior or exterior. In sociopolitcal
+terms, this is signified by a group of social institutions that have
+unwisely waste their energy. Perhaps this is fate and perhaps it is
+mismanagement. Regardless, it forebodes a precarious situation, where
+change is soon to wash over.
+
+#### Stagnation in Ocean Waves
+
+> Conceptualized above as the dissipation of turbulence in a vector
+> field, stagnation of the motion of water has set the stage for the
+> next powerful wave to influence the system so much that it rips the
+> sand from the ocean floor.
+
+![Waves Stagnation](/img/posts/2018-12-10-the-analytic-i-ching/waves-stagnation.jpg)
+
 #### &#9775; Hexagram 63: [After Completion](https://ichingfortune.com/hexagrams/63.php)
 
 #### &#9775; Hexagram 64: [Before Completion](https://ichingfortune.com/hexagrams/64.php)
 
+- on another order...
+- perhaps high tide, perhaps low tide
 
 - [briefly!] explain 1,2,11,12,64,63 in terms of the mechanics of seaside
   waves in four periods (crashing in, reaching their full extent,
   pulling out and Riptide/undertow)
-  - the creative: the force forming waves and them inwards towards the
-    shore
   - the receptive: for the waves rolling in, the receptive are the
     forces (of the shore) acting on each to deconstruct their form and
     to eventually pull them back out to sea.
@@ -332,9 +404,25 @@ Hexagrams 1, 2, 11, and 12 are located in the four corners of
 the grid. Within the I Ching, these four hexagrams form a microcosm
 that parallels the four.
 
-####
+- Causal membranes & causality as a sociophysical process of
+  diffusion: relate to the Conception of causality in terms of a
+  naïve, base recognition of state/change in a system with diffusion.
 
-- A less terse article on the Creative and the Receptive
+  - contrast the differences in causal perception, inference,
+    (maneuvering), dilineated along intuition of nth-order diffusion
+    systems. These factors tend to exhibit dynamics of coarse/fine
+    scales
+  - Reactions using a purely naïve understanding (without a concept of
+    drift for first-order diffusion) amount to casting blame, whereas
+    those who can accurately apprehend the SDE system state AND
+    extrapolate state change to 1st/2nd order drift tend to identify
+    options and leverage. They instead exhibit control, given
+    mindfulness to foster valid apprehension of social state, coupled
+    with an understanding of higher-order diffusion of causal waves
+    gives them control (pic of kung fu training with cauldron/water)
+  - Measures of potential & sociokinetic higher-order energy
+    (potential to influence)
+
 
 
 <a name="rationalize-your-exegesis" />
@@ -648,12 +736,12 @@ radial terms, not simply cartesian terms... In this 4D or 5D space,
 rotate your perspective. What's different?
 
 The final message in "Waiting" is that by leveraging the experience of
-other people -- each their own process in a massive [Boltzmann
-Machine](https://en.wikipedia.org/wiki/Boltzmann_machine) -- we can
-more efficiently come to know the collective contours of society's
-collective analytical hyperplane. Though you've known your own
-descent and can chart the depths you know, there are others who have
-been deeper and carry with them knowledge they've gained while
+other people -- each mind is its own social process in a massive
+[Boltzmann Machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
+-- we can more efficiently come to know the collective contours of
+society's collective analytical hyperplane. Though you've known your
+own descent and can chart the depths you know, there are others who
+have been deeper and carry with them knowledge they've gained while
 navigating the depths. You will not know from whom to expect this
 re-orientation but you must expect it to inquire about these three
 guests' journey when you do meet them.
@@ -819,7 +907,7 @@ tabula rasa is etched away by their experience...
 
 TODO: move?
 
-  - [The problem of reproducing experiemental results in
+  - [The problem of reproducing experimental results in
     psychology](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-soul-is-not-what-you-think-it-is)
     results from the near-infinite nature of the mind. Studying the
     mind and assuming you can clamp down controls one a handful of
@@ -852,7 +940,7 @@ relates to peace/stagnation, before completion & after completion.
 
 #### What If I Told You: The Frozen Flame is the Answer
 
-![]()
+- TODO: Drop it?
 
 ![The Frozen Flame](/img/posts/2018-12-10-the-analytic-i-ching/the-frozen-flame.jpg)
 
@@ -1347,24 +1435,32 @@ cause the incentivization of behavior remain consistent across the
 groups individuals? That is, if you remain together, it is much easier
 to stay together.
 
-How do you plan to hold together? Hexagram 8 contains one such clue:
-it's named **Holding Together (8)** and speaks of a leader whose
-social magnetism rallies others around him. But, as for the group
-itself, it should plan on utilizng communication and planning. With
-these, a group can overcome the tendency to factionalize. As an aside,
-this is the opposite of what you want with Boltzmann Machines
-exploring a space. **Fellowship With Men ** implies the planning, the
-anticipation and the communication required by its imagery of a group
-intending to enter through the same gate -- all before crossing the
-great water. You need everyone to be together, to be on the same
-wavelength before you part on your journey. Otherwise, you are like
-the hibiscus leaves with no sources of group attraction between
-you. As soon as you encounter adversity, you will be split
-part. **Coming To Meet (44)** covers some of the same principles at a
-sociological scale.
+How do you plan to hold together? The eponymous **Holding Together
+(8)** speaks of a leader whose social magnetism rallies others around
+him. But, as for the group itself, it should plan on utilizng
+communication and planning. With these, a group can overcome the
+tendency to factionalize. As an aside, this is the opposite of what
+you want with Boltzmann Machines exploring a space -- their motion
+should diverge to efficiently explore the convex and concave nooks and
+crannies of a space. **Fellowship With Men (13)** implies the
+planning, the anticipation and the communication required by its
+imagery of a group intending to enter through the same gate -- all
+before crossing the great water. You need everyone to be together, to
+be on the same wavelength before you part on your journey. Otherwise,
+you are like the hibiscus leaves with no sources of group attraction
+between you. As soon as you encounter adversity, you will be split
+part. **Coming To Meet (44)** covers some of the same principles of
+cohesion at a sociological scale.
 
-- While along the journey how do you measure the space and it's impact
-  on group cohesion?
+While along the journey how do you measure the space and it's impact
+on group cohesion? In what dimensions to you measure togetherness? By
+what metrics do you measure the distance between group members? How do
+you measure the surfaces in the space of your shared journey? In high
+dimensions, especially with analytical or exterior methods, one may
+combinatorially determine the convexity and concavity of surfaces.
+Doing so quickly becomes intractible, so the energy you invest thereto
+must be channeled wisely, otherwise it is wasted. In sociophysical
+systems, even before the validity the tractibility of problems
 
 ### [Hexagram 15 Details The Phenomena of Normification, Not Simply "Modesty"](#hexagram-15-details-the-phenomena-of-normification-not-simply-modesty)
 
@@ -1400,18 +1496,319 @@ In the first and second lines of Hexagram 15: before the first, no
 norm existed, but after such an undertaking as the crossing of the
 great water ....
 
-- move content about normification here.
+- establish why this relates to norms/normification
+  - how does one know how to be modest? to regulate your projection of
+    normal behavior, you must know what is normal in the context. how
+    would one know whether they are being modest about their modesty?
+    how much self-regulation of behavior is necessary to appear
+    modest?
+
+
+
+####
+
+> The process of reaching social consensus on (changing?) phenomena,
+> the adaptation of norms thereof, and distributing information about
+> those norms is similar to the problem of Optimal Transport.
+
+![picture of norms from index card]()
+
+- perception of norms before social consensus on norms
+  - shift of a distribution's volume
+  - prior to consensus on norms relating to a specific event or
+    phenomena, the structure of norms that may develop is more open
+    ended. In public relations, it's critical to set the tone early
+    because the ideas that gain momentum early become difficult to
+    change as social consensus begins to form. It is inevitable for
+    some opinions or perspectives to lose their momentum. When
+    politicians gain ground with fallacious arguments or with tactics
+    requiring too many dependencies to hold, perhaps one makes gains,
+    but the risks for loss may be greater. When it becomes necessary
+    to exert energy in controlling the evolution of social consensus,
+    opinions or the release of information, then simply exerting
+    information to control these dependencies can give you away.
+    these are insights that may be gained by applying the Laplacian to
+    social information systems: where is energy being invested to
+    direct developments in public opinion and why? It's critical to
+    set the tone early, but to do so in accordance with knowledge of
+    future developments and with your personal values.
+
+When you have a robust system of values that informs your ethical
+behavior, your strategic calculus and your identification of
+opportunity, then you act moving forwards in ways that should prevent
+such regressive unraveling of gains on specific issues. If some set of
+universally justified values exists upon which to base a system of
+ethics (i.e. if God exists or if some other perfect values system
+exists), then to be in accordance with that is to be assured that your
+actions will always have been for the best. Such assumptions hinge on
+whether there exists some perfect system of values, whether you are
+perfectly in tune with it and whether your embodiment of those values
+through your actions was optimal. Regardless -- a well-developed sense
+of values informing your sense of morality and character offers
+immeasurable advantages.
+
+Social consensus on sufficient ethical behavior is not guaranteed to
+be normal in a society, which must propagate norms surrounding ethical
+behavior. [This article on
+Aeon]((https://aeon.co/ideas/legal-standards-invoke-the-reasonable-person-who-is-it))
+dives into the legalistic motivations behind determining the
+reasonable person's response in specific situations. When this becomes
+relevant to logic in legal argumentation -- i.e. when court decisions
+must take into account some decisive conclusion as to a "reasonable
+person's" action and motivation -- then such arguments become
+[deontic](https://en.wikipedia.org/wiki/Deontic_logic) in
+nature. Thus, the logic of such arguments requires assessing norms of
+perception, thought, action and values in society. In criminal and
+civil cases, this can help the courts determine whether such actions
+were subversive: did some person determine their actions assuming they
+could explain away their intents later on to avoid consequences?
+
+### (Norms, Communication and the Expectation of Perceived Meaning)
+
+- wherever there is a norm, there is the potential for signaling via
+  deviation from the norm. this is partially the reasoning behind
+  rules of etiquette and other cultural rules. if you do not cohere to
+  these norms, the people around you cannot read your signaling via
+  deviation from those perceived norms. If people in society do not
+  adhere to norms, propogate the traditions that establish them or
+  ... then no one can use those norms (nor the deviation from them)
+  for signaling. what results is a gradual breakdown in the quality
+  and consistency of both non-verbal and non-literal communication --
+  it is out-of-band signaling, broadcast on a channel which is not
+  expected. Any culture which receives a sudden flux of cultural or
+  economic change -- perhaps via imperialism or the growth of religion
+  -- experiences a breakdown of such potential for communication.
+
+  - The nature of norms as they relate to communication generally is
+    not well understood by most people within a society, thus they
+    can't see the socioinformational fabric shifting beneath their
+    feet as it is happening. They don't understand how their
+    traditions and the social consensus thereof contribute to
+    effective communication, especially when it's necessary to
+    communicate such that only those *inside* the culture may
+    understand the implicit meanings. When the norms break down, a
+    long term destabalizing effect is produced whereby signaling
+    amoung members of a culture is impacted. The effect is slow. It's
+    not usually perceived as it is happening. It's easy for outsiders
+    to trivialize aspects of a culture that they don't understand. By
+    convincing the youth to similar question traditions that seem
+    backwards, the outsiders un/intentionally may damage the
+    perpetuation of tradition necessary for harmony.
+
+  - Individuals and societies are not necessarily aware of the
+    teleological functions of tradition and norm. It is certainly
+    useful for elders in a culture to be aware of the teleological
+    aspects of norms and traditions, whether they were designed with
+    purpose or where evolved ad hoc. Regardless, people tend to
+    propagate the norms and traditons for which they see purpose and
+    functionality. By enacting the rules of etiquette or following
+    tradtion, individuals are influencing the social election of memes
+    to transmit and propagate. These evolve over time, but when there
+    is significant disruption that systemically affects the traditions
+    of a culture, there may be unreconcilable damage to a society.
+  - The implicit non-verbal communication found in traditions and in
+    deviation from norms derives power from its emotional relavance in
+    the psyches of those who use it to communicate. There is no
+    dictionary that defines the meaning conveyed by signaling via
+    tradition or norm. This lack of denotative meaning requires a
+    slower, more expensive process of inculcation to socially
+    distribute the connontation of communicative acts. Without this
+    inculcation, individuals in the society cannot perceive these
+    actions to signal meaning that is relevant or consistent. The
+    connotative meanings of these actions are layered and
+    duplicitous. These actions enable complex methods of signaling
+    which are powerful and may only be perceived by those who
+    understand them. Establishing such connotations requires
+    establishing or perpetuating social memory that corresponds to
+    some implicit meaning for an action, often relating to the
+    teleological significane of the tradition or norm.
+
+  - Dilute the social memory and suddenly it becomes normative to
+    assume that no one knows what that means anymore. Before the age
+    of the internet, this would be like making a joke with a Bonanza
+    reference to a teenager in the 90's -- they have no clue what
+    you're talking about. Today, this is like making references to old
+    memes or memes without enough social distribution for reasonable
+    expectation of consistent meaning to be conveyed. Personally, I
+    detest meme templates in my newsfeed ... but please, bear with me.
+
+
+Remember the first set of memes that came out? Scumbag Steve? The
+Obsessed Girlfriend? There was a limited set of symbols established by
+the memes, which resonated strongly enough with people to power those
+meme's social election over others. Yet, once the idea of memed-images
+became normalized and the arcane secrets of automated meme-generation
+became commonplace, this unleashed a deluge of idiosyncratic memes. If
+an internet meme does not have wide distribution, then one cannot
+anticipate consistent apprehension of meaning in those who see it --
+it has not become normalized.
+
+####
+
+![picture of Zipf's Distribution]()
+
+Social media will never again return to a state where there the
+share-frequency of memes is restricted to to such a limited set of
+memes templates. To understand this, apply the idea of [Zipf's
+Distribution]() to meme templates: from now on, the sum of all of meme
+distribution on social media will spread out into over a greater
+number of meme templates. There is some threshold of social consensus
+required for most individuals to form the expectation that meaning
+will be perceived as it is intended without denotation or
+clarification. When the frequency of meme-shares becomes diluted into
+so many meme templates, it is rare for any meme to naturally gain
+enough momentum to surpass that threshold.
+
+#### Hence, Pew Die Pie Meme Review
+
+> "What am I supposed to think about memes ... if PewDiePie hasn't
+> reviewed them?"
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8B2dwVbTKDg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+As a sociocultural phenomenon that emerged primarily from the UI/UX
+design considerations of Twitter and Facebook, reasoning about how and
+why people elect internet memes as a vehicle for communication is
+fascinating. Why did facebook introduce the feature that attaches a
+background image to be attached to a simple textual status update
+message? Because memes are a hack: the idea is that your potential
+viewers are scrolling quickly. If your text is large and simple with
+an easily recognized image, this is far more likely to have its
+meaning conveyed within the UI/UX confines of mobile social
+media. Thus the form factors of social media are exhibiting a grossly
+destabalizing effect on the quality of communication -- see the
+footnote for specific criticism.[^neuro-social-media]
+
+I'm critical of memes primarily because too many complex ideas are
+condensed into a picture with 50 words or less. This results in
+impaired communication: too much communication on the internet has
+simply become noise. I don't care how many likes some image has --
+unless I get a good laugh ... but isn't that just the intellectual
+equivalent of junk food? Are people seriously stupefied on how Russia
+hacked the American election? Can you actually hack a communications
+system that's inherently broken? Regardless of whether Russia
+interfered or the specifics of the details thereof ... do Americans
+actually expect for people to have reasonable opinions on critical
+issues?
+
+Doesn't democracy depend on an informed public? What are the
+consequences on disregulation of communication?
+
+
+
+disregulation of meaning.
+
+- semiotics, semantics and reasonable expectations of meaning.
+
+- when can one reasonably expect meaning to be conveyed? how do people
+  communicate about norms?
+  - how can people expect to communicate with body language? how does
+    one decide whether a gesture will be received as intended.
+
+
+
+###
+
+- TODO: decide on terminology
+
+Disnormalization describes a sociocultural phenomena where it becomes
+more normal for ideas to resist normification. As humanity approaches
+the singularity, technology will begin to evolve faster than we can
+culturally adjust to it. For socioinformational systems where
+disnormatization is prevalent: norms either manifest slowly, resist
+social consensus or are never formed whatsoever. Disnormatization is
+not about the formation, development or obselescence of individual
+norms. Instead, it concerns dynamics of norms within some realm,
+including legal, social or linguistic spheres. Is the system in such a
+state where it is reasonable to expect that norms will coalesce
+naturally as a product of social interaction? Particularly, does the
+system, realm or social network generally exhibit social consensus on
+norms?
+
+Determining what is considered normal is necessary in the deontic
+logic of legal argumentation involving the "reasonable person."
+
+While
+that is restricted to the legal realm, ... disnormalization's impacts
+on social communication...
+
+to manifest around ideas,
+generally.
+
+- it is not denormalization. it is not ... (etc, etc)
+  - disnormalization is to normalization as disregulation is to
+    regulation.
+
+
+- TODO: move content about normification here.
+
 - what happens when norms evolve faster than people can keep up?
-  - explain this as a metaphor to breaking the speed of sound, as we
-    approach the singularity.
+  - explain the sociocultural phenomena of disnormatization as a
+    metaphor to breaking the speed of sound.
+    - as we approach the singularity, technology and culture evolve
+      faster than norms can be established and diffused.
+    - similar to how breaking the sound barrier introduces completely
+      novel dynamics for aerospace engineers to design around.
+      - in any dynamical system, the emergence of specific dynamics
+        can impact the system such that fundamentally novel measures
+        are required to address these. Simply expecting a linear
+        increase of *more of the same* to address engineering
+        challenges at transonic speeds is not enough.
+      - e.g. the sudden emergence of [vapor
+        cone](https://en.wikipedia.org/wiki/Vapor_cone) at transonic
+        speeds is introduced by extreme fluctuations in pressure and
+        temperature that affect the rate of water condensation. This
+        changes the composition, distribution and phases of matter in
+        the air, which impacts the surface of the jet in fundamentally
+        novel ways.
+
+#### F-18C Vapor Cones and Condensation Clouds at Transonic Speeds
+
+> The [Ideal Gas Law](https://en.wikipedia.org/wiki/Ideal_gas_law)
+> produces interesting phenomena at extreme values. The near-vacuum
+> conditions in proximity to a jet at transonic speeds cause water
+> dissolved in the air to drop below its [saturation
+> point](https://en.wikipedia.org/wiki/Boiling_point).
+
+![F-18C Vapor Cones and Condensation Clouds at transonic speeds]()
+
+  - Such insights from dynamical systems may be carried back over to
+    the phenomena of disnormalization, (which the world is only
+    beginning to see). The sonic boom and transonic phenomena are
+    unlike most dynamical phenomena in that there is a sudden boundary
+    beyond which the phenomena is seen -- the range of transonic
+    speeds.
+  - How does industry in Silicon Valley diffuse information into
+    society? How does one explain the phenomenological implications of
+    data science, machine learning and networked computer systems to a
+    five-year old or to your grandmother?
+    - When these technologies evolve faster, how does the rate of
+      sociocultural adaptation match the technology's rollout? Can
+      people adapt quickly enough? There seems to be a point at which
+      the rate of change of technology, analogous to the speed of the
+      jet, far exceeds some maximal rate of sociocultural adaption,
+      analogous to the propagation of vibrations in air molecules
+      around the jet. What results is the emergence of convoluted
+      dynamic in sociocultural evolution which are similar to
+      transonic dynamics that emerge at the speed of sound.
 
 ### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"](#hexagram-16-the-laplacians-socioinformational-analogue)
+
+
+- how consciousness/awareness of norms impacts the process of
+  normitization and people's application of deontological reasoning
+  - how do people behave when they are unconscious to norms or believe
+    they are aware of norms which are invalid assumptions?
+  - this is a good segue into hexagram 16
+
+- the concept of teaching and teaching how to teach something
+  - the statistical paradoxes thereof (from the same index card as the
+    above distributions transport illustration)
 
 - what does this mean for normification?
 - TODO: move notes from section on Information Consensus
 
-
-# The Statistical Mechanics of I Ching
+# [The Statistical Mechanics of I Ching](#the-statistical-mechanics-of-i-ching)
 
 - How does the Yarrow Sticks method of sampling critically differ from
   a Tarot deck? partly because the sampling process is not a
@@ -1427,6 +1824,34 @@ great water ....
 ![Social Physics from XIII anime #1](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-1.jpg)
 
 ![Social Physics from XIII anime #2](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-2.jpg)
+
+[^neuro-social-media]: The constant juxtaposition of the objects
+    mental focus has disastrous long-term effects, psychologically and
+    neurologically. When you read a book, you focus on the same
+    categories for hours. This protracted investment of time and
+    energy focuses your mind: thus, the information is encoded more
+    deeply and more broadly across the brain. For social media, the
+    objects of mental focus are constantly changing in category or
+    topic. This is not so bad in small amounts.
+
+    Another psychological
+    consequence of curated newsfeed content: users don't
+    reinforce behaviors for discernment of content selection. If an
+    overwhelming proportion of media consumption habits take place
+    without reinforcement of discernment or content navigation habits,
+    one can expect these behaviors and associated skills to be
+    lacking. Without metacognition related to how one is seeking
+    interactive content to interact, your experience is mostly
+    reactive. How do you know that the content in your newsfeed
+    respects your interests or relates to your intention for that
+    time spent on social media? This passive approach to content
+    navigation entrusts far too much control to exterior interests,
+    whose actions or motives cannot be understood by the user since
+    algorithms operate as a black box. Yet privacy concerns prevent FB
+    from yielding most data to private users.
+
+
+
 
 [^institutionalized]: The quote is from Twilight of the Idols, a book
     that's little more than a short list of post-it notes cobbled

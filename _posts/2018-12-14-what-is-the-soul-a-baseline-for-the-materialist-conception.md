@@ -24,7 +24,7 @@ the composition of their soul."
 > So, yes, one might rightly say this article is more complicated than
 > it needs to be. The point is to coerce materialists into admitting a
 > definition of the soul, so that they must also admit the
-> sociophysical consequences of such a concepts existence, which I
+> sociophysical consequences of such a concept's existence, which I
 > believe does not descend from the cause of the soul, but from its
 > phenomenology. Like everything else I feel is important to write, it
 > is not easy to understand. I'm not writing for mass appeal. I'm also

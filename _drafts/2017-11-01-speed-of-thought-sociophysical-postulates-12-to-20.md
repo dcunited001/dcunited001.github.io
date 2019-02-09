@@ -2351,7 +2351,7 @@ So what is a #Disnormative component of a system? It's a component
 that destabilizes norms or beliefs about norms. Like the word
 #Perfracted -- referring a phenomenon in similar to refraction, but
 occurs system-wide and, in #ChaosTheory, is independent of time and
-space -- Disnormative is an example of a #Protologism. For now, it's a
+space -- Disnormative is an example of a protologism. For now, it's a
 #HapaxLegomenon -- a word only used once in an author's writings or,
 less precisely, a rarely used neologism. That's how words are born. An
 author who introduces protologisms that map to ideas which need
