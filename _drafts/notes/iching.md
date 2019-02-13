@@ -151,6 +151,37 @@
     5, but instead those read for 5 => 29
 
 
+## Kakegurui xx
+
+#### Episodes 3 and 4
+
+Although these aren't strong connections, there is at least the basis
+for assuming story elements (plot and characters) are connected in
+some way to Yin/Yang, though not necessarily I Ching.
+
+- 陰喰 三欲 Inbami Miyo
+  - 陰 is Yin
+- 陽喰 三理 Yōbami Miri
+  - 陽 is Yang
+
+- the sister’s last names (Inbami and Yōbami) contain the characters
+  for Yin/Yang in the Tai Ji
+- the sisters have some basis for a telepathic means of communication
+- the game the episode center’s on involves modular arithmatic (in two ways)
+  - the cards are numbered 0 through 3. hence modular arithematic
+  - players take turns playing randomly assigned cards in their hand
+  - the lower the cards in one’s hand, the better.
+  - the player forced to play a card over 8 loses. again, modular arithmatic.
+- the game/story hinge on having a fair shuffling of cards and whether
+  the players are aware of a specific shuffling strategy for cards.
+  - the Artesian method's reliance on modular arithmatic, which
+    produces a completely uniform distribution, is a critical aspect
+    of I Ching that places it above other similar methods of
+    bibliomancy. Everything is fairly weighted.
+
+
+
+
 
 # make this a machine-learning post
 
