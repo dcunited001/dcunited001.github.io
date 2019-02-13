@@ -240,8 +240,8 @@ faster than it was driven by population density alone.
 
 Wherever there is supply and demand, you'll find economic dynamics and
 information is no exception. While no one in Germany counted all the
-Bibles in 1350, the notions that documents are tangible and also
-countable change how people react to perceived supply and demand.
+Bibles in 1350, the notions that documents are tangible and countable
+themselves change how people react to perceived supply and demand.
 Unwritten records are much harder to pin down, but what's the use in
 bartering for a juicy piece of gossip if you don't get it early on?
 Information conveys power when it is scarce, even when it may not be

@@ -1521,6 +1521,11 @@ great water ....
 > the adaptation of norms thereof, and distributing information about
 > those norms is similar to the problem of Optimal Transport.
 
+- is the "optimal transport" aspect of this problem described under
+  hexagram 16?  (or both 15 & 16?)
+  - in otherwords, controlling the evolution of the norm for some
+    variables of a phenomenon
+
 ![picture of norms from index card]()
 
 - perception of norms before social consensus on norms
@@ -1616,6 +1621,7 @@ could explain away their intents later on to avoid consequences?
     to transmit and propagate. These evolve over time, but when there
     is significant disruption that systemically affects the traditions
     of a culture, there may be unreconcilable damage to a society.
+
   - The implicit non-verbal communication found in traditions and in
     deviation from norms derives power from its emotional relavance in
     the psyches of those who use it to communicate. There is no
@@ -1699,7 +1705,8 @@ hacked the American election? Can you actually hack a communications
 system that's inherently broken? Regardless of whether Russia
 interfered or the specifics of the details thereof ... do Americans
 actually expect for people to have reasonable opinions on critical
-issues?
+issues? Most terrifying: blame it on Russia or don't, is there any way
+to fix the true underlying problems?
 
 Doesn't democracy depend on an informed public? What are the
 consequences on disregulation of communication?
@@ -1720,6 +1727,13 @@ disregulation of meaning.
 ###
 
 - TODO: decide on terminology
+  - emphasize disnormalization's disruption to language, non-verbal
+    communication and parsing meaning from action/symbols
+  - touch on how the distributed nature of agency in AI entities will
+    allow them outpace man's ability to keep up with disnormalization.
+    - so while we will struggle with social consensus of meaning and
+      norms, (artificial entities will have much less difficulty doing
+      so.)
 
 Disnormalization describes a sociocultural phenomena where it becomes
 more normal for ideas to resist normification. As humanity approaches
@@ -1758,6 +1772,15 @@ contributes to disnormalization.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4LqtZrzI_ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- TODO: how will disnormalization affect international relations?
+  - impacts to sociocultural & domestic political norms will tend to
+    cause many of the issues hinted at in this article from [Harvard
+    ILJ](http://www.harvardilj.org/wp-content/uploads/HLI204_crop.pdf)
+    - e.g. breakdown of rationality and well-definedness of states due
+      to turbulent cultural/political situations ... it's
+      sociocultural disnormalization that leads to a contentious
+      situation where [ideological] conflict over norms is
+      necessary/possible.
 - TODO: move content about normification here.
 
 - what happens when norms evolve faster than people can keep up?
@@ -1829,6 +1852,11 @@ contributes to disnormalization.
       around the jet. What results is the emergence of convoluted
       dynamics in sociocultural evolution which are similar to
       transonic dynamics that emerge at the speed of sound.
+    - any approach to social engineering to accommodate for these
+      novel dynamics must account for them, while ensuring the
+      powerful does not seek to abuse disnormalization by selectively
+      conducting social engineering -- which has been happening with
+      technology for decades.
 
 ### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"](#hexagram-16-the-laplacians-socioinformational-analogue)
 
