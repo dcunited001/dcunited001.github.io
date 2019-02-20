@@ -790,6 +790,16 @@ millennia. If you understand how this revolutionized the steel and
 chemical industries, then you must understand the threat of disruption
 posed by Boltzmann’s revelations.
 
+- That philosophy can never move forwards in an authentic direction is
+  a product of insurmountable complexity combined with Neitzsche's
+  Danger of Dangers.
+  - the required complexity renders it exceedingly unlikely that
+    anyone could ever deconstruct existing ideas to reconstruct them
+    into some truly novel basis. Existing moral systems are frightened
+    by the prospect of any such authentic move forwards in philosophy,
+    if it is to be significant. And never in human history have the
+    stakes seemed higher.
+
 Disruption is dangerous to the powers that be. "They" want a gradual
 rollout of innovation. This way, the stability of economic paradigms
 that benefit them can be guaranteed. What will be known in the near
@@ -1514,6 +1524,63 @@ great water ....
     modest?
 
 
+=======
+
+TODO: sort imported content from notes
+
+Modesty: discuss any deviation from norm as potential for meaning in
+non-verbal communication
+- a social norm is a belief about a multivariate distributions’
+  characteristics: what are the perceived average or reasonable values
+  for those variables. a norm is not necessarily a distribution in
+  itself, but at least an informal belief about a distribution. to
+  study norms, formalizing them into data-driven definitions helps,
+  but also is not necessarily capable of capturing the ephemeral or
+  sporadic structures that people may use to reason about them.
+- disnormalization pares with a state of perceived uncertainty
+  regarding the state of norms, though perhaps unconcious
+- normalization as a social process is similar to normalization of
+  database schema in that the social process results in the
+  coalescence and distribution of (schematic abstractions) ... that is
+  social norms frame informational schematic that we use to perceive
+  both state in social systems and the meaning in actions/words.
+- Metamodernism (as applied to norms) describes the ebb/flow between
+- Top down and bottom up understanding on normative social
+  structures. From the bottom up, norms on interpersonal relations and
+  communication stratify into increasingly sophisticated and
+  regularized structures. These latter normative structures preciptate
+  from human interaction and conflict at various levels (regional,
+  national, contextual, etc) and include legal systems and social
+  institutions (and the actions/policies/interfaces thereof)
+- The point: denormalization and the state of disnormalization (even
+  in norms concerning language, communication and etc), from the
+  bottom up, absolutely does extend a denormalizing effect to higher
+  strata. Even when norms related to social communication are
+  disrupted, this can extend to unpredictable and destabilizing
+  effects in regional or nation legal spheres, if this denormalization
+  is significant or systemic. But the greatest potential for
+  disruption emerges from the lack of awareness and unconscious
+  reactions to denormalization — the people who’s social norms are
+  being disrupted at an accelerating rate are almost certainly
+  unconscious to the process and it’s consequences.
+- emphasize the consequences to communication, language, semantics,
+  relevance of symbols, and how this denormalizes the epistemic
+  structures of schema and abstraction that we use to harmonize
+  meaning-making in communication.  When communicating between
+  divergent filter-bubbles, especially in politcal discourse,
+  anticipating conveyed meaning has become a Tower of Babel. The
+  confusion is intentional: filter bubbles allow various groups whose
+  bubbles overlap to inculcate vastly different meaning for the same
+  semiotic signifiers -- e.g. triggers, words, acronyms. To insulate
+  their group from developments in disparate groups, sophisticated
+  hacks of langauge are taking place to short-circuit open
+  discourse.
+  - long-term conditioning to normalize beliefs and reactions.
+  - this confounds communication and perhaps even language. The
+    semiotic remapping of the "OK" sign by the left is probably The
+    Worst Example.
+
+========
 
 ####
 
@@ -1526,27 +1593,59 @@ great water ....
   - in otherwords, controlling the evolution of the norm for some
     variables of a phenomenon
 
-![picture of norms from index card]()
+#### Comparison of Interpolation of Gaussians[^computational-optimal-transport]
+
+> From the 2019 "Computational Optimal Transport" text by Peyré and
+> Cuturi, this image contrasts two methods of interpolating between
+> distributions, KL Divergence and Optimal Transport. The latter is
+> more linear.
+
+![Evolution of Norms](/img/posts/2018-12-10-the-analytic-i-ching/norm-evolution-1.jpg)
+
+In the context of social norms as distributions, methods similar to KL
+and OT may extrapolate forward in time the likely developments for a
+given norm's distribution. Thus, as belief coalesces, this socially
+distributed belief feeds back into the norm. This dependency on belief
+must begin with a minimal quantity of socially distributed information
+relevant to the norm being formed collectively by social groups --
+albeit this does not account for the schematic aspects of norms, since
+they are informal and ad hoc.
+
+There are differential aspects to the evolution of the norm as this
+quantity of socially distributed information accumulates mass and
+momentum. The norm begins with some minimal "mass" of information and
+gradually changes shape as it accumulates more mass or change in
+momentum. During this process the initial shape of the normative
+distribution, the informational salience and allocation of attention
+all feedback into the process of evolution, similar to the initial
+values of a differential equation. How the norm is oriented in its
+nascent stages strongly impacts trajectory, tone and pace of the
+normative development. Once the norm achieves widespread social
+consensus, far more energy, treatment for saliency and redirection of
+attention is required to result in significant changes to the
+distribution.
+
+
+![photo more clearly describing norm evolution (from index card?)]()
 
 - perception of norms before social consensus on norms
-  - shift of a distribution's volume
-  - prior to consensus on norms relating to a specific event or
-    phenomena, the structure of norms that may develop is more open
-    ended. In public relations, it's critical to set the tone early
-    because the ideas that gain momentum early become difficult to
-    change as social consensus begins to form. It is inevitable for
-    some opinions or perspectives to lose their momentum. When
-    politicians gain ground with fallacious arguments or with tactics
-    requiring too many dependencies to hold, perhaps one makes gains,
-    but the risks for loss may be greater. When it becomes necessary
-    to exert energy in controlling the evolution of social consensus,
-    opinions or the release of information, then simply exerting
-    information to control these dependencies can give you away.
-    these are insights that may be gained by applying the Laplacian to
-    social information systems: where is energy being invested to
-    direct developments in public opinion and why? It's critical to
-    set the tone early, but to do so in accordance with knowledge of
-    future developments and with your personal values.
+
+EDIT: Prior to consensus on norms relating to a specific event or
+phenomena, the structure of norms that may develop is more open
+ended. In public relations, it's critical to set the tone early
+because the ideas that gain momentum early become difficult to change
+as social consensus begins to form. It is inevitable for some opinions
+or perspectives to lose their momentum. When politicians gain ground
+with fallacious arguments or with tactics requiring too many
+dependencies to hold, perhaps one makes gains, but the risks for loss
+may be greater. When it becomes necessary to exert energy in
+controlling the evolution of social consensus, opinions or the release
+of information, then simply exerting information to control these
+dependencies can give you away. These are insights that may be gained
+by applying the Laplacian to social information systems: where is
+energy being invested to direct developments in public opinion and
+why? It's critical to set the tone early, but to do so in accordance
+with knowledge of future developments and with your personal values.
 
 When you have a robust system of values that informs your ethical
 behavior, your strategic calculus and your identification of
@@ -1735,6 +1834,14 @@ disregulation of meaning.
       norms, (artificial entities will have much less difficulty doing
       so.)
 
+- define denormalization, as it applies herein, as a process between
+  normalized and disnormalized. define disnormalization as it applies
+  variously in the contexts of individual psychology, sociocultural
+  settings, etc as a state of dissociation from norms.
+  - because of the singularity's accelerating sociocultural
+    destabalization, absent some artificial forces of normalization,
+    society will continue to become destructured.
+
 Disnormalization describes a sociocultural phenomena where it becomes
 more normal for ideas to resist normification. As humanity approaches
 the singularity, technology will begin to evolve faster than we can
@@ -1860,12 +1967,27 @@ contributes to disnormalization.
 
 ### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"](#hexagram-16-the-laplacians-socioinformational-analogue)
 
+- brought to you from the depths of zen, it's a spectral conception of
+  phenomenology
+
+### What's Normal? Trial By Bayesian Persuasian
+
+- it means that one person acts as a litmus test to vouch on the
+  behalf of another person. used by social justice warriors and
+  scientologists to decide whether to permit [temporarily] social
+  access to a targeted individual.
+
+#### Don't Understand? Let this lady from the Simon's Institute read you your rights.
+
+
 
 - how consciousness/awareness of norms impacts the process of
   normitization and people's application of deontological reasoning
   - how do people behave when they are unconscious to norms or believe
     they are aware of norms which are invalid assumptions?
   - this is a good segue into hexagram 16
+
+- structure in content about a spectral theory of information
 
 - the concept of teaching and teaching how to teach something
   - the statistical paradoxes thereof (from the same index card as the
@@ -1999,3 +2121,8 @@ contributes to disnormalization.
     Topological Hierarchical
     Decomposition](https://arxiv.org/abs/1811.10658) arXiv preprint
     arXiv:1811.10658.
+
+[^computational-optimal-transport]: Peyré, G., Cuturi, M., 2019,
+    [Computational Optimal
+    Transport](https://arxiv.org/abs/1803.00567v2) arXiv preprint
+    arXiv:1803.00567v2
