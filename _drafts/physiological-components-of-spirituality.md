@@ -13,9 +13,87 @@ title: "Physiological Components of Spirituality"
 #### ^^^^ Love IS stored in the heart
 
 
+========
 
+#### From Notes
 
+- Is meditation’s impact on placating cumulative stress mediated via
+  some kind of biophysical currency (whose potential to trigger
+  cellular response and epigenetic program events is consumed in the
+  course of executing the required level of stabalization to cultivate
+  the tranquil state of mind necessary for meditation) ?
+    - If so, short-term and long-term residues of stress in the mind
+      and brain would have different impacts and corresponding
+      biophysical traces (e.g. stress-markets like cortisol, etc)
+    - While meditation can encourage the mind to become tranquil, if
+      the mind needs to expend these units of biophysical currency
+      (NGH, BDNF, other neurotrophic factors, activation/priming of
+      g-coupled protein receptors, etc) to quell the turbulence of
+      stress in the mind (the monkey mind, rumination, etc) before
+      achieving the requisite tranquility to reach various meditative
+      states, then meditation has immediate benefits in stabilizing
+      stress responses, reducing biophysical “accumulation” of
+      short-term stress co-products, etc.
+    - These “consumable” biophysical resources and co-products should
+      manifest as inconsistent stress-reduction responses in novices
+      with varying levels of practice, who also seem to deal with more
+      stress than the average practicing novice. So if the biophysical
+      co-products are primed/available, then the stressed novice will
+      get more short-term benefits from meditation; but the same
+      person should experience diminishing returns in stress-reduction
+      over 1-3 day timescales from meditation (and perhaps other
+      *similar* means of stress relief)
+    - This “biophysical” theory to explain life’s epi/genetic programs
+      is essentially the same motivation (w/ a different name) that is
+      behind “Trump’s belief that your body starts life with some
+      biological resources with varying degrees of finiteness.” which
+      left-leaning media laughed at. Puberty is an example of a set of
+      epigenetic program with an extremely finite quantity of
+      gene-expression-units before it is disactivated. The impact of
+      telomeres on aging causes a different mechanism for limitations
+      to gene-expression, which causes networks of genes to randomly
+      lose gene dependencies necessary for the network’s feedback
+      loops to regulate expression (esp. of transcription factors)
+    - However, without corresponding lifestyle changes to reduce the
+      psychosocial circumstances that precipitate stress that needs to
+      be quelled, then meditation’s *direct* long-term benefits mostly
+      derive from conditioning the practitioner to learn to operate
+      their mind (to reduce stress, seek spiritualism, etc)
+    - While meditation might prompt the practitioner to seek such
+      exterior lifestyle changes,
+- focused meditation (akin to zazen, eyes open, basket-vision) while
+  maintaining horizontal semi-occlusion of most visual artifacts, the
+  focus is blurring the perception of forms — and coming to understand
+  the perception of perception of forms; i.e. meta/cognition of
+  conceptual designation, while in focused meditative state. One
+  should focus on the arrangement/presentation (mise en scène) of the
+  barely visible *before* the meditation, while focusing on the
+  sensations emerging in the mind corresponding to perception of
+  un-real visual forms. At the intersection of the occluded and
+  eyes-open regions of the visual field, there is a blurred region,
+  where the arrangement of visible cloth patterns/etc may facilitate
+  the mind in perceiving forms that stretch across the blurred
+  region. This is conceptual designation of visible form stretching
+  from the occluded into the visible, where most of the visual input
+  received is the ebbing/flowing of colors (for me, royal purple
+  swirling into and out of forest green) since zazen requires distance
+  the self (I think?) from visual input, the goal is to stimulate
+  random recognition of form from noisy visual input and witness the
+  mind conduct a kind of cyclic/perpetual reevaluation of Rorschach
+  imagery, without clinging to (or being disrupted by) the cognitions
+  that arise as a result of the mind conducting conceptual designation
+  on what essentially visual noise overlaid by the imposition of
+  patterns via [simple] mise en scene for the lower half of the visual
+  field. This should at least trigger interesting experiences and
+  perceptions of mind/cognition, but may also cause the mind to
+  restructure some lower level neural circuits related to the
+  recognition of form, the pervasive symmetry in visual form, the
+  structuring of the :visual:characteristic: for individual form as
+  entangled representations threaded together by and dilineated by
+  symmetry. (Characteristic: sing. meaning the representational
+  fingerprint)
 
+========
 
 
 ### Where Pop locking Intersects with Ancient Kalisthenic Methods for Developing Energy Chi

@@ -114,6 +114,12 @@ Abrahamic religions -- how do....
 
 ======
 
+Whitehead's seven quotes on God and the material realm.
+
+
+
+======
+
 terms (wiki articles)
 
 - pneumatology

@@ -13,7 +13,7 @@ self. They stop looking or maybe they've never looked much at
 all. This is what's so dangerous about the materialist misconception
 that *there is no soul!* What do you mean by that? Do you even know?
 To the person who needs soul-searching, if they believe the soul
-resides entirely within some interalized encoding of matter interally,
+resides entirely within some internalized encoding of matter,
 then they allow the noise of life to define all they see and all they
 think. They believe the extent of their soul to exist entirely
 separately of society and this is a dangerous assumption because it
@@ -24,18 +24,48 @@ the composition of their soul."
 > So, yes, one might rightly say this article is more complicated than
 > it needs to be. The point is to coerce materialists into admitting a
 > definition of the soul, so that they must also admit the
-> sociophysical consequences of such a concept's existence, which I
-> believe does not descend from the cause of the soul, but from its
-> phenomenology. Like everything else I feel is important to write, it
-> is not easy to understand. I'm not writing for mass appeal. I'm also
-> unfortunately not following the *"Universal Styleguide for Writers
-> Who Immortalize Themselves"* -- which is available wherever books
-> are sold, I'm sure. If only I had known! I've tried to organize most
-> of it so that the earlier content is less technical. I hope to begin
-> illustrating because many of these ideas are so much easier to
-> convey in pictures. This topic is important to me because most
-> people deny that socioinformational phenomena contribute whatsoever
-> to the problems I grapple with in life.
+> sociophysical consequences of such a concept's existence. To how an
+> individual discerns the true boundaries of their self, the most
+> critical consequences for this definition of the soul do not arise
+> from its cause -- whether it be matter or God -- but from the
+> phenomenology of the soul.
+
+What is the soul? How is the soul structured? Is my soul separate from
+yours? How is it socially distributed? How does it impact the mind?
+How can it be measured or known? How does belief impact this
+definition of the soul? Do impacts on the mind arising from a
+informational basis (viz. epistemic basis) affect the soul? Do they
+affect the brain?
+
+Why do materialists get a free pass for causing harm to others via
+turbulence and carnage of a socioinformational kind? When someone is
+defamed and nailed down with socially distributed belief to be
+tormented by the remainder of their life, why does society believe
+this is permissible? Why is it so easy for people in society to
+believe that such torment is simply mental illness and a "chemical
+imbalance"? If this is so patently false, then isn't it a convenient
+false paradigm? Architect someone's suffering via insinuation, the
+rumor mill and defamation -- they will suffer for the rest of their
+life, until their mind is chemically destroyed by pharmaceuticals.
+Yet, the false paradigm of "a chemical imbalance" means that nothing
+will be done to address the true socio-epistemic causes of mental
+illness -- is it because there is nothing that no person or group can
+do to ameliorate the suffering of some individuals? How can this be
+so? What God would create the possibility for social information
+viruses to cause such unrelenting torment for individuals who will
+suffer for the remainder of their lives, but never understand why?
+
+> Like everything else I feel is important to write, it is not easy to
+> understand. I'm not writing for mass appeal. I'm also unfortunately
+> not following the *"Universal Styleguide for Writers Who Immortalize
+> Themselves"* -- which is available wherever books are sold, I'm
+> sure. If only I had known! I've tried to organize most of it so that
+> the earlier content is less technical. I hope to begin illustrating
+> because many of these ideas are so much easier to convey in
+> pictures. This topic is important to me because most people deny
+> that socioinformational phenomena contribute whatsoever to the
+> problems I grapple with in life. All my suffering arises primarily
+> from a confluence of information and social isolation.
 
 ## [From the Soul, Defined, to Jung's Individuation](#from-the-soul-defined-to-jungs-individuation)
 
@@ -136,11 +166,15 @@ definition of the soul, this statement is very powerful:
 > must be *quiet* if we are to hear what our soul is trying to speak
 > to us.
 
-I have come to realize recently that I don't know what the soul is,
-but listening to her videos accelerated my exploration of the soul as
-a concept. Isn't it strange that so many of us believe so strongly for
-or against the soul. Yet, I made it more than thirty years without
-being able to clarify some self-understanding of the soul? How is it
+I have come to realize recently that I don't know what the soul is
+... More clearly, despite the prevalance of the word in all forms
+culture, including that of religion, new age, agnosticism and atheism,
+I have never bothered to reach a personal consensus or definition of
+the term. What is it? Listening to Agyeiwaah's videos accelerated my
+exploration of the soul as a concept. Isn't it strange that while so
+many of us believe so strongly for or against the soul, I made it more
+than thirty years without bothering to clarify some self-understanding
+of the soul? Or is it that I am incapable of defining it? How is it
 possible that I wouldn't know what the soul is, when its existence (or
 lack thereof) is so universal and so necessary to belief systems? This
 universality contributes greatly to confusion over its existence: your
@@ -182,32 +216,34 @@ philosophical and spiritual concepts that I do; it is simply developed
 with more wisdom, practice *and contact with people.* I've learned a
 lot from watching her videos. However, my own weaknesses thereof have
 taught me to examine more deeply the experience and word of others for
-substance, *not appearance of substance*. True substance lies
-within. If I can't listen to others, how the hell could I expect them
-to listen to me?
+substance, *not appearance of substance*. True substance lies within
+and her message exudes spiritual authenticity. If I can't listen to
+others, how the hell could I expect them to listen to me?
 
 <a name="if-the-soul-is-not-purely-internal-then-how-does-one-know-their-own-soul" />
 
 ### [Then How Does One Know Their Own Soul?](#then-how-does-one-know-their-own-soul)
 
-The second statement: we must be still to separate ourselves from the
-noise of life that interferes with the vibrations from our soul. We
-need to develop that sense of a soul connection, so that our actions
-*resonate* with our deeper, more authentic self -- it is found
-*somewhere* in our soul, but that might not exist within us already.
+The second statement: she implies we must be still to separate
+ourselves from the noise of life that interferes with the vibrations
+from our soul. We need to develop that sense of a soul connection, so
+that our actions *resonate* with our deeper, more authentic self -- it
+is found *somewhere* in our soul, but it might not exist within us
+already. To me, this means to pull back from the noise of life and
+calibrate our spiritual connection.
 
 <a name="one-does-not-simply-accept-their-identity" />
 
 ### [One Does Not Simply Accept Their Identity](#one-does-not-simply-accept-their-identity)
 
 So many people accept at face value either some identity given to them
-by others or perhaps the assumed identity developed by a younger
+by others or perhaps some assumed identity developed by a younger
 self. They stop looking or maybe they've never looked much at
 all. This is what's so dangerous about the materialist misconception
 that *there is no soul!* What do you mean by that? Do you even know?
 To the person who needs soul-searching, if they believe the soul
-resides entirely within some interalized encoding of matter interally,
-then they allow the noise of life to define all they see and all they
+resides entirely within some internalized encoding of matter, then
+they allow the noise of life to define all they see and all they
 think. They believe the extent of their soul to exist entirely
 separately of society and this is a dangerous assumption because it
 deprives the person of power over their mind, over their life and over
@@ -231,7 +267,7 @@ knowledge, then you'll see your composite actualized selves coalescing
 from your self awareness breaking through threshold shadows of
 unconscious.
 
-#### "Oooooh! That's a real metaphysical; We pull down the light cause the force is centrifugal"
+#### "Oooooh! That's a real metaphysical; We pull down the light *cause the force is* **centrifugal**"
 
 > Follow me here in this moment and time
 >
@@ -255,9 +291,9 @@ k-os, whose name means knowledge of self, this was the first song of
 his I had heard and it captivated me *because of it's cry to defend
 authenticity.* Technically, I had heard Superstarr Part Zero before.
 That song is like bliss to the ears of a padawan B-Boy, but it wasn't
-until I bought the album after I heard Freeze that I realized it was
-the same artist. CD's and life before Shazam, eh?  What makes
-something worth finding?
+until I bought the album that I realized it was the same artist. CD's
+and life before Shazam, eh? What makes something worth finding? *Can
+you google that?*
 
 For me, today, those lines are about escaping some preconceived
 construction of an identity that is not only forced upon us, but seems
@@ -327,28 +363,32 @@ the true extent of which you must remain somewhat unconscious. If you
 can define the extent of your goals in totality, then they are not
 great enough to compel you onwards along the Hero's journey. It must
 be something seemingly insurmountable that you will master because you
-must overcome it, not because you understand it or are capable of
+must overcome it, not because you understand it or are yet capable of
 deconstructing it. This is the true path to awakening and
 self-actualization: it is indeed *not* medication, IMO, though that
-may help some to numb their pain. Yet, isn't there a purpose to pain?
+may help some to numb their pain, from which their circumstances might
+change enough to enable change... Yet, isn't there a purpose to pain?
 It's a signal like no other, and it's there for a reason.
 
 What compels people towards rending the insuperable into some short
-list of a dozen feats, despite all the doubts, the pains and your
-ensuing fears? It's some miraculously twisted rewards systems whose
-shape and configuration are the result of slow and steady
-precipitation of life experience. This is not unlike the stalagtites
-and stalagmites of caves, whose shapes can change but are all but set,
-diffeomorphically, once they start forming. Freudian ideas are all
-about the shape of the psyche's earliest kernel: how initial
-experience, especially before the conscious mind can adequately
-recognize or model behaviors, sets in motion developmental dynamics
-that have a greater effect on *change* the mind than most life
-developments could ever have. Freud's ideas were about building a
-dictionary-like taxonomy of nascent psychological developmental
-progressions that would allow the therapist to *classify* the
-patient's current perspectives and developmental potential in terms of
-the past.
+list of a dozen herculean feats, despite all the doubts, the pains and
+your ensuing fears? What is that heroic version of ourselves towards
+which we orient ourselves upwards? Is there a single such version?
+It's some miraculously twisted rewards systems whose shape and
+configuration are the result of slow and steady precipitation of life
+experience. This is not unlike the stalagtites and stalagmites of
+caves, whose shapes can change but whose range of potential change are
+all but set, *diffeomorphically* once they start forming. Freudian
+ideas are all about the shape of the psyche's earliest kernel: how
+initial experience, especially before the conscious mind can
+adequately recognize or model behaviors, sets in motion developmental
+dynamics that have a greater effect on *change* the mind than most
+later life developments could ever have. Freud's ideas were about
+building a dictionary-like taxonomy of nascent psychological
+developmental progressions that would allow the therapist to
+*classify* the patient's current perspectives and developmental
+potential in terms of the past. Yet, why must our flexibility for
+psychological change be petrified in any way by the past?
 
 >  The best way to conceptualize the difference between Freud's ideas
 >  and Jung's: Freud was obsessed with beginnings, Jung wanted to
@@ -374,11 +414,11 @@ The socially distributed variation in the diversity of human
 experience and of *psychic* configuration -- the configuration of
 one's psyche -- [is in itself
 miraculous](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html). Every
-flower is beautiful in its own way. It is up to you to find that
+flower is beautiful in its own way. It is up to you to find those
 jewels hidden in your psyche. Somewhere buried within your mind, your
-memories and even the trauma, there is to be found a miracle that
-gives you purpose. There must be and if you find it not, then you make
-it.
+memories and even the trauma, there is to be found another miracle
+that gives you purpose. There must be and if you find it not, then you
+make it.
 
 The corollary: It is horrible when people refuse to enable any
 progression from your current state. They look upon your manufactured,
@@ -392,16 +432,20 @@ IT. They never intended you to succeed and they never cared.
 
 To catalyze self-actualization requires disaggregating the influences
 on your mind that spawned so many selves that were...  so the most
-significant versions of them can be known and reverse-engineered.
-After the disaggregation of socially distributed self is
-reverse-engineered, then those modified selves must be reoriented
-towards an end-goal and wherefore reaggregated. In necessarily terse
-terms, this sums of the process of individuation from society -- by
-deconstructing and reconstructing the socially distributed self.
+significant versions of them can be known and reverse-engineered. If
+you like, combine this idea with [Piaget's genetic
+epistemology](https://youtu.be/BQ4VSRg4e8w). After the disaggregation
+of socially distributed self is reverse-engineered, then those
+modified selves must be reoriented towards an end-goal and wherefore
+reaggregated. In necessarily terse terms, this sums of the process of
+individuation from society -- by deconstructing and reconstructing the
+socially distributed self.
 
 Once you have disaggregated your socially distributed self, you must
 reorient your self ... from there, it's warp-speed all the way. That
 is, until you must reassess your location in quadrant four.
+
+> This is not unlike *Number Five...*
 
 <a name="doxastic-games-telephone-the-rumor-mill-and-your-eternal-torment" />
 
@@ -420,12 +464,12 @@ Werewolf](https://www.amazon.com/Bezier-Games-Night-Ultimate-Werewolf/dp/B00HS7G
 and
 [Hanabi](https://boardgamegeek.com/boardgame/98778/hanabi). Understanding
 the ideas of epistemic, doxastic and deontic games *with depth*
-requires [incredibly deep
-knowledge](https://www.youtube.com/watch?v=4LqtZrzI_ko) of logic with
-applied game theory[^mat-science-playlist]. Try to watch the videos I
-just linked: I dare you LMAO. Essentially, these are games where
-beliefs are projected among players or through society. **Telephone**
-and **The Rumor Mill**: these are also doxastic games.
+requires [incredibly deep knowledge of
+logic](https://www.youtube.com/watch?v=4LqtZrzI_ko) with applied game
+theory[^mat-science-playlist]. Try to watch the videos I just linked:
+I dare you LMAO. Essentially, these are games where beliefs are
+projected among players or through society. **Telephone** and **The
+Rumor Mill**: these are also doxastic games.
 
 > "Explain it to them like they're five" they said...
 
@@ -508,7 +552,8 @@ steganographer is going to type. They have to cover their tracks. Did
 records. Hell motherfucking no! They will bluff it, but if you size it
 up *and truly recognize fabrication for what it is*, then you can call
 their call their bluff. You don't need to look at their cards. It
-doesn't matter anyways, *THEY'RE CHEATERS!*. #BB8. #Surveillance
+doesn't matter anyways, *THEY'RE
+CHEATERS!*. [#BB8](https://github.com/dcunited001/bb8). #Surveillance
 (somehow)...
 
 If you bind people down with fabricated information or belief, that is
@@ -522,9 +567,9 @@ wrong wrong, wrong, WRONG!
 By encouraging sin in youth, people are intrinsically disempowered,
 often for the rest of their lives. This was the reason Jesus flipped
 the tables of moneychangers, *who stood to profit if sin was
-encouraged*.  This was the single thing that angered Jesus: more sin,
-more money. Today: more sin, more doxastic leverage: more power over
-people. While that story applies to *Ancient Judaism's* flaws of
+encouraged*.  This story was single example of an angry Jesus. More
+sin, more money. Today: more sin, more doxastic leverage: more power
+over people. While that story applies to *Ancient Judaism's* flaws of
 executing theological ideas in its social institutions, what is to be
 underscored here is the potential for people to be enslaved by sin in
 their youth. Perhaps sin is a loaded term: more clearly, I mean
@@ -561,7 +606,7 @@ destruction. You walk a fine line, but if you manage it, your threats
 will cancel out if they manifest at all. To do so is often to give up
 greatness and only the truly great can wield power with truth in the
 light. To do so requires faith in the truth as a shield, faith in the
-process and understanding that is difficult to come by *without
+process and an understanding that is difficult to come by *without
 religion*. If you cannot connect the dots between Psalm 23 and the
 power of truth as a guardian, then you need to go to school. To
 devalue religion as ancient, pre-modern, non-scientific hocus pocus is
@@ -581,7 +626,7 @@ have it. It was pre-meditated fabrication: the "truth" manufactured
 and little more -- to a limited audience, which is why startups are
 perfect. Where there was one fabrication operation, there are
 many. There's no handbook for fabrication: it's a difficult skill to
-teach because its edge is dulled when then general public is aware of
+teach because its edge is dulled when the general public is aware of
 the possibility of intentionally manufactured circumstances. It's just
 not effective when people expect it: they become cynical and
 skeptical. They ask questions. They gain insight: therefore the
@@ -614,12 +659,15 @@ Where does it say that Jesus toyed with the lives of the weak or
 protected them from the truth? He opened their eyes and healed the
 sick. He empowered the people for being what they were: people. Ever
 individual has inherent power they produce. In the I Ching, this
-energy is fire as discussed in Hexagram 37: Family. This is an
+energy is fire as discussed in [Hexagram 37:
+Family](http://the-iching.com/hexagram_37_to_hexagram_24). This is an
 individual's inherent ability to produce and accumulate power, no
-matter whether rich or poor. To do so requires *knowledge*. Knowledge
-is power. Jesus opened the eyes of the poor and healed the lame. He
-empowered the meek. For this and other 'blasphemies' he was crucified
-by the Jews *and Romans.*
+matter whether rich or poor, through the social group(s) to which they
+are most tightly connected. Hexagram 37 is about leveraging tight
+connections to be an efficient social power generator. To do so
+requires *knowledge*. Knowledge is power. Jesus opened the eyes of the
+poor and healed the lame. He empowered the meek. For this and other
+'blasphemies' he was crucified by the Jews *and Romans.*
 
 The Romans and Jews *thought* they had killed the enlightened Jesus:
 the Jesus whose soul lived on in others. The Romans and Jews were
@@ -636,10 +684,10 @@ power by controlling the seeds of all later scholastic thought.
 
 Moreover, it seems that the soul of Jesus lived on in the form of a
 sociophysical programme for building institutions that would continue
-the work of Jesus after his death ... bounded to the limits of the
-materialistic perspective, of course. It then seems that perhaps his
-death was not only anticipated but also necessary for you can kill a
-person, but you cannot kill an idea.
+the work of Jesus after his death ... a programme bounded to the
+limits of the materialistic perspective, perhaps? It then seems that
+perhaps his death was not only anticipated but also necessary for you
+can kill a person, but you cannot kill an idea.
 
 <a name="why-did-adam-and-eve-hide-from-god" />
 
@@ -710,7 +758,7 @@ and reincarnation from world religions.
 > programming](https://www.youtube.com/watch?v=cefnmjtAolY), which
 > provides a better idea of the *look and feel* of types and
 > typologies. I wrote on lenses in an [article on the application of
-> "optic operrators" to dynamic graphics pipelines in
+> "optic operators" to dynamic graphics pipelines in
 > Swift](/posts/2016-04-30-lambda-fu-powerup-lenses-prisms-and-optics-with-swift.html).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/K-YYoigWN24" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

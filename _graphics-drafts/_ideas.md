@@ -13,6 +13,16 @@ title: "Graphics Ideas"
 
 # Misc
 
+### GIS
+
+#### Measure of 2D area of terrain surface visible from a point in 3D space.
+
+  - this is tightly coupled to local/regional changes in convexity/concavity
+  - This measure is lower for terrain with ravines, higher for areas of
+    high elevation and visibility, Lower for areas of low elevation
+  - Connections to variations calculus? I don’t no why but it seems
+    there are some intuitive connections here
+
 ### Visualized Deconstruction of Probabilistic Values in Catan
 
 - the probabilities of benefitting from the arrangement of values in
