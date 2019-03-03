@@ -10,6 +10,12 @@ title: "Graphics Ideas"
   - i.e. select texture and provide options to transform it to a GIF
 -
 
+- density of emoji description keywords distribution over a semantic
+  network (trained in english or chinese)
+  - just plot points for each emoji title/descriptions most
+    significant keywords over a semantic network (representing
+    english) to see which semantic concepts are over-covered and which
+    concepts are not covered.
 
 # Misc
 

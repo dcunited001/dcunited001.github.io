@@ -36,6 +36,59 @@ excerpt: ""
 
 =======
 
+- projecting/receiving belief about norms is a social process that
+  helps harmonize perceived normative distritions by accelerating
+  social consensus of belief about norms.
+  - Reasoning about the perceived belief about norms helps someone
+    conform.
+  - If they are isolated from observing stimulus which project belief
+    about norm and/or facilitate its consensus -- and there is more
+    than bidirectional signaling at play -- then this accelerates
+    their own piagetian changes in internal epistemic structure. in
+    the absence of social stimuli, one's own experience and thoughts
+    have more impact on their evolution in cognitive structuring,
+    sub/conscious direction of attention and abstraction.
+  - Also, you're receiving less information about changes in group
+    consensus on norms and thus, one further deviates from group
+    consensus. Furthermore, when the isolated individual has
+    denormalized from social consensus, if society's genetic epistemic
+    evolution is also accelerated, then thus their separation from
+    normative signaling accumulates dissonance from social consensus
+    at an accelerated rate. Hence, our descent into the Singularity
+    will cause the collective disharmonious impact on social consensus
+    to accelarate in mutation.
+
+- both jungian progression and regression can result from social
+  isolation, whereby in addition to other general developmental
+  effects also results in typological filtration of the social
+  imposition of norms via constriction of experience-types.
+  - as the variety and distribution of norms in society appears to the
+    isolated person, this typological restriction make provoke a
+    disnormalization of the perception of norms and/or normative
+    behavior in society.
+  - this disregulation of the social apprehension of norms may be
+    responsible for tweaking the hyperparameters for learning and
+    cognitive flexibility -- in ways both beneficial and/or
+    detrimental.  Ultimately as this dysregulated state of the
+    apprehension of information and belief about norms
+  - as the person gradually drifts away from social consensus of
+    norms, this allows them to update the hyperparameters and
+    solutions in an ad hoc infinite-dimensional analytic-model of the
+    world, wherein they explore the solution space in some ways
+    adjacent to social consensus. this not unlike a socially
+    distributed boltzmann machine -- both with and without schematic
+    overlap between individual boltzmann processes' differing, but
+    replicating structures -- where reintegration brings change as
+    novel information structures are distributed into society and vie
+    to alter group consensus. this could be imagined as a process of
+    piagettian genetic epistemology, in which there is some universal
+    way of communicating between social entities which are boltzmann
+    processes in an ad hoc boltzmann
+
+- therefore, the individual's own disnormalization is exacerbated
+
+=======
+
 - norms from different areas of life can be seen through a unified
   lense.
   - legal norms are much more well-structured. in common law,
