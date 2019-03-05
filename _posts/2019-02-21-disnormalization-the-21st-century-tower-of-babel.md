@@ -8,96 +8,201 @@ author:
 excerpt: ""
 ---
 
+#### The Obligatory Brueghel Tower of Babel
 
-- add sections from "process theology" article on: sociological
-  phenomena that results in the greatest spiritual revitalization
-  humanity has seen. (There will be a rebirth of the Jungian old God),
-  where instead it is not some archaic forgotten god that is
-  revitalized, but the social viability, saliency and necessity of
-  religious ideas themselves.
-  - this (...) is a result of the impact that secularism and atheism
-    have had in removing religion from culture and social
-    institutions. With regard to religion and spectrally harmonious
-    distributed belief, atheists and secularists have disnormalized
-    belief systems -- it is this disnormalization that is creating the
-    the urgent need for and indeed the very possibility of this deluge
-    back towards God and spirituality.
-  - there are other aspects of society that can become disnormalized.
+![Brueghel Tower of Babel](/img/posts/2019-03-05-disnormalization/brueghel-tower-of-babel.jpg)
 
-- The Tower of Babel, whether true, false, mythological or incomplete,
-  is a story about the disnormalization of language until a schism
-  occurred. It is likely that this is one of the first examples of the
-  Marxist dialectical being used to inform contentious rhetorical
-  tactics that disrupt assumptions, facts, etc in debate/discussion by
-  disrupting the networks of semantic meaning corresponding to
-  morphemes. Also, wherever there is a grammar, there is the potential
-  to create “shadow grammars” where alternative grammatical parsing is
-  implied to the listener via abnormal inflection or intonation.
+Norms from different areas of life -- psychological, social, cultural,
+legal and epistemic -- can all be seen through a unified lens. Hence,
+regardless of how well-structured, ephemeral or [holonic]() norms are,
+they can all be reasoned about within the same frame of reference.
+Herein, norms are delineated and stratified in order of the rigidity
+and/or clarity of their structure.
+
+For systems whose mechanics include norms, a state of global
+dysregulation results when:
+
+#### &#9312; There is disrupted normative consensus: distributions corresponding to norms typically produce few distinct local maximums.
+
+#### &#9313; There is disrupted normative evolution:
+
+#### &#9314; Systemically, there is difficulty in finding (overlap) in higher-order normative structures (i.e. in beliefs about norms or epistemic structures derived from a distribution corresponding to a norm)
+
+#### &#9315; There is spectral aspects of epistemic components of norms
+become disharmonic -- i.e. the epistemic components tend to become
+noise.
+
+- From the dysregulated system's normative mechanics, novel dynamics
+  and accelerated evolution emerge. Usually, a system in a
+  disnormalized state accelerates evolution of norms and corresponding
+  socioinformational structures, until the advantageous sociocultural
+  adaptations replicate and the system again becomes harmonized in a
+  new equilibrium. This is an equilibrium of the system's normative
+  mechanics and is related to the rates of normative evolution,
+  replication and consensus
+
+####
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VpRBfOnc-pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- This is most easily understood by visual metaphor, so imagine
+  measuring the amount of order or disorder in [this 2D Ising
+  Simulation](https://mattbierbaum.github.io/ising.js/). If you
+  increase the temperature, the apparent disorder increases, as does
+  the entropy. Decrease the temperature and local particle states are
+  more likely to become dependent on adjacent particle
+  states. Consider hyperconnected networks and the speed at which
+  thought travels in the modern world to both be coupled to a
+  generalized temperature that describes rate of information in a
+  sociophysical system. Disnormalization should normally accompany an
+  increase the value for this specific definition of a generalized
+  temperature. When a new equilibrium of normative evolution is
+  reached, disnormalization is scaled back and the sociophysical
+  system's particles are more entangled. Though likely unrelated to
+  the mechanics of entanglement of physical systems, the mechanics of
+  norms seem to mimic quantum entanglement in many ways. The
+  connection between norms in sociophysical systems and quantum
+  mechanics is *shallow*: primarily, many particles take on values
+  that they expect other particles take on and particles each
+  conceptualize *normal* behavior by forming statistical distributions
+  from their experience.
+  - For social organisms within a sociophysical system, their
+    individuals are much more capable of reasoning about the group
+    collectively and extrapolating to reason about possible futures if
+    they are well-ordered social organisms. Still, homogeny is the
+    mother of weakness and total order means halting evolutionary
+    mechanisms, eventually yielding a social organism easily
+    out-competed by its neighbors. With too much disorder, it is
+    impossible for an individual in a social organism to make
+    expectations about group behavior in the future. In this state of
+    disnormalization, there are no certainties except the stagnation
+    of meaningless change. If individuals are called to act as a
+    group, they cannot know how to call the entire group to
+    action. Eventually, a state of disnormalization either results in
+    a new equilibrium or a mitotic division into multiple social
+    organisms each seeking normative equilibrium.
+
+  - Relevent to disnormalization (and establishing a new equilibrium)
+    are I Ching Hexagrams:
+    - Peace (11) -- benefitting from a self-perpetuating harmonious
+      order
+    - Stagnation (12) -- a previously harmonious order decaying,
+      trying to sustain itself, but eventually precipitating a new
+      order
+    - After Completion (63)
+    - Before Completion (64)
+    - Modesty (15) -- reading norms and posturing oneself around them
+    - Enthusiasm (16) -- signaling to define/strengthen norms
+    - Splitting Apart (23)
+    - Family (37) -- bottom up accumulation/projection of energy
+    - Revolution/Molting (49)
+
+======
+
+- condense the following into a segue
+
+- Introduce thesis about systemic state of disnormalization can result
+  in systems that introduces a new phase of normative evolution: norms
+  evolve faster, new system dynamics emerge, expectations about
+  behavior or system trajectory become impotent if even accurate, and
+  more change occurs
+  - emphasize disnormalization's disruption to language, non-verbal
+    communication and parsing meaning from action/symbols
+  - touch on how the distributed nature of agency in AI entities will
+    allow them outpace man's ability to keep up with disnormalization.
+    - so while we will struggle with social consensus of meaning and
+      norms, (artificial entities will have much less difficulty doing
+      so.)
+
+- define denormalization, as it applies herein, as a process between
+  normalized and disnormalized. define disnormalization as it applies
+  variously in the contexts of individual psychology, sociocultural
+  settings, etc as a **state of dissociation from norms.**
+  - because of the singularity's accelerating sociocultural
+    destabalization, absent some artificial forces of normalization,
+    society will continue to become destructured.
 
 =======
 
-- projecting/receiving belief about norms is a social process that
-  helps harmonize perceived normative distritions by accelerating
-  social consensus of belief about norms.
-  - Reasoning about the perceived belief about norms helps someone
-    conform.
-  - If they are isolated from observing stimulus which project belief
-    about norm and/or facilitate its consensus -- and there is more
-    than bidirectional signaling at play -- then this accelerates
-    their own piagetian changes in internal epistemic structure. in
-    the absence of social stimuli, one's own experience and thoughts
-    have more impact on their evolution in cognitive structuring,
-    sub/conscious direction of attention and abstraction.
-  - Also, you're receiving less information about changes in group
-    consensus on norms and thus, one further deviates from group
-    consensus. Furthermore, when the isolated individual has
-    denormalized from social consensus, if society's genetic epistemic
-    evolution is also accelerated, then thus their separation from
-    normative signaling accumulates dissonance from social consensus
-    at an accelerated rate. Hence, our descent into the Singularity
-    will cause the collective disharmonious impact on social consensus
-    to accelarate in mutation.
 
-- both jungian progression and regression can result from social
-  isolation, whereby in addition to other general developmental
-  effects also results in typological filtration of the social
-  imposition of norms via constriction of experience-types.
-  - as the variety and distribution of norms in society appears to the
-    isolated person, this typological restriction make provoke a
-    disnormalization of the perception of norms and/or normative
-    behavior in society.
-  - this disregulation of the social apprehension of norms may be
-    responsible for tweaking the hyperparameters for learning and
-    cognitive flexibility -- in ways both beneficial and/or
-    detrimental.  Ultimately as this dysregulated state of the
-    apprehension of information and belief about norms
-  - as the person gradually drifts away from social consensus of
-    norms, this allows them to update the hyperparameters and
-    solutions in an ad hoc infinite-dimensional analytic-model of the
-    world, wherein they explore the solution space in some ways
-    adjacent to social consensus. this not unlike a socially
-    distributed boltzmann machine -- both with and without schematic
-    overlap between individual boltzmann processes' differing, but
-    replicating structures -- where reintegration brings change as
-    novel information structures are distributed into society and vie
-    to alter group consensus. this could be imagined as a process of
-    piagettian genetic epistemology, in which there is some universal
-    way of communicating between social entities which are boltzmann
-    processes in an ad hoc boltzmann
+### But What If Norms With Widely Distributed Social Consensus Are Rare?
 
-- therefore, the individual's own disnormalization is exacerbated
+Disnormalization describes a sociocultural phenomena where it becomes
+more normal for ideas to resist normification. As humanity approaches
+the singularity, technology will begin to evolve faster than we can
+culturally adjust to it. Determining what is considered normal is
+necessary in the deontic logic of legal argumentation involving the
+[reasonable person](). For socioinformational systems where
+disnormatization is prevalent: norms either manifest slowly, resist
+social consensus or are not formed in time to be relevant.
+Disnormatization is not about the formation, development or
+obselescence of individual norms. Instead, it concerns dynamics of
+norms within some realm, including legal, social or linguistic
+spheres. Is the system in such a state where it is reasonable to
+expect that norms will coalesce naturally as a product of social
+interaction? Particularly, does some system, realm or social network
+generally exhibit social consensus on norms?
 
-=======
+When the phenomenon of disnormalization becomes prevelant in some
+sphere, this implies that either &#9312; the social experiences which
+tend to cause individuals to perceive norms no longer facilitate the
+conception of norms or &#9313; the distribution of information about
+norms is impaired. Both may occur when speciation of information
+around which individual norms would be formed becomes too complex:
+that is, the nature of each individual's experiences are so distinct
+that there aren't enough common traits or patterns of experience upon
+which to reason about other individual's experiences. The difficulty
+of validating one's own perception of norms from within the skew of a
+filter bubble is one technological mechanism that potential
+contributes to disnormalization.
 
-- norms from different areas of life can be seen through a unified
-  lense.
-  - legal norms are much more well-structured. in common law,
-    reasoning about legal norms via precedent affects judicial
-    decisions.
-  - open with a discussion on legal norms (question distinctions
-    between social and legal norms), since they are more tightly
-    structured and there is wider consensus. from here move to the
-    definition,
+> More technically, the spatial complexity of the structure that
+> underlies deontic frames and deontic models becomes convoluted to
+> the point intractibility.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4LqtZrzI_ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+# (Contrasting Legal Norms With Social Norms)
+
+Legal norms are particularly useful in that it is simple to reason
+about them in the objective sense. Their structure is so well defined
+that AI in the form of analytic machines may datamine court records to
+identify patterns of deviation from legal norms. This can identify
+cases where sentencing decisions were too harsh, considering the
+judge's reasoning behind previous rulings. Precedent establishes norms
+that can be delineated into plain language, *whereby legal staff can
+collectively collaborate* to develop rhetoric or to strategically
+sieve away the disadvantageous space of argumentation. The latter
+refers to tactics including influencing what a judge determines as
+["holding"](https://en.wikipedia.org/wiki/Holding_(law)) for a case or
+distorting the set of precedent & case history that would sift a case
+towards or away from rendering legal norms relevant for consideration.
+
+Distinguishing the objectivity and well-structuredness of legal norms
+from other norms, legal staff can cooperate to collaborate on what
+norms have been established through precedent. This collection of
+information must be considered relevant to anticipate how the judge
+will make determinations. It can be said that decisions or suggestions
+in legal strategy are *correct or incorrect, in a definitive manner*.
+Such issues may also be undecidable, but this objectivity is scarce
+for social norms.
+
+In common law, establishing precedent systematically affects future
+judicial decisions and it is hereby that actors in common law systems
+may extrapolate the diffeomorphic boundary of legal norms and legal
+precedent -- this is the boundary of change in common law
+systems. When the cases along this diffeomorphic boundary have some
+novel epistemic configuration of information (with nuanced relation to
+existing legal norms), this results in some issue as-yet-undecided by
+current case law -- as well as an article in your favorite
+
+- the scope of consensus in legal norms (how widely through society
+  the same epistemic structures are distributed)
+
+  - a major difference between the more ephemerally structured social
+    norms and legal norms is the degree of social consensus on the
+    epistemic structures (and how objective/subjective the associated
+    information is...)
 
 - In H-ILJ, it is primarily the lack of a definitive supreme authority
   (along with a confluence of other complex factors) that results in
@@ -145,6 +250,16 @@ Clausewitz (chapter one, section 15, on polarity)
   necessary, the principle of polarity breaks down. This is
   essentially equivalent to the last sentence of section 15.
 
+- TODO: how will disnormalization affect international relations?
+  - impacts to sociocultural & domestic political norms will tend to
+    cause many of the issues hinted at in this article from [Harvard
+    ILJ](http://www.harvardilj.org/wp-content/uploads/HLI204_crop.pdf)
+    - e.g. breakdown of rationality and well-definedness of states due
+      to turbulent cultural/political situations ... it's
+      sociocultural disnormalization that leads to a contentious
+      situation where [ideological] conflict over norms is
+      necessary/possible.
+
 
 =======
 
@@ -153,6 +268,91 @@ Clausewitz (chapter one, section 15, on polarity)
   reactions to norms. (this is a good ELI5 example)
   - if norm's corresponding multivariate distribution has multiple
     global convexities.
+
+
+======
+
+- add sections from "process theology" article on: sociological
+  phenomena that results in the greatest spiritual revitalization
+  humanity has seen. (There will be a rebirth of the Jungian old God),
+  where instead it is not some archaic forgotten god that is
+  revitalized, but the social viability, saliency and necessity of
+  religious ideas themselves.
+  - this (...) is a result of the impact that secularism and atheism
+    have had in removing religion from culture and social
+    institutions. With regard to religion and spectrally harmonious
+    distributed belief, atheists and secularists have disnormalized
+    belief systems -- it is this disnormalization that is creating the
+    the urgent need for and indeed the very possibility of this deluge
+    back towards God and spirituality.
+  - there are other aspects of society that can become disnormalized.
+
+=======
+
+- The Tower of Babel, whether true, false, mythological or incomplete,
+  is a story about the dysregulation of meaning in language until a
+  schism occurred.
+  - In the long-term, this challenges the established the networks of
+    semantic meaning corresponding to morphemes. Also, wherever there
+    is a grammar, there is the potential to create “shadow grammars”
+    where alternative grammatical parsing is implied to the listener
+    via abnormal inflection or intonation.
+  -
+
+=======
+
+- projecting/receiving belief about norms is a social process that
+  helps harmonize perceived normative distritions by accelerating
+  social consensus of belief about norms.
+  - Reasoning about the perceived belief about norms helps someone
+    conform.
+  - If they are isolated from observing stimulus which project
+    belief about norm and/or facilitate its consensus -- and there is
+    more than bidirectional signaling at play -- then this accelerates
+    their own piagetian changes in internal epistemic structure. in
+    the absence of social stimuli, one's own experience and thoughts
+    have more impact on their evolution in cognitive structuring,
+    sub/conscious direction of attention and abstraction.
+  - Also, you're receiving less information about changes in group
+    consensus on norms and thus, one further deviates from group
+    consensus. Furthermore, when the isolated individual has
+    denormalized from social consensus, if society's genetic epistemic
+    evolution is also accelerated, then thus their separation from
+    normative signaling accumulates dissonance from social consensus
+    at an accelerated rate. Hence, our descent into the Singularity
+    will cause the collective disharmonious impact on social consensus
+    to accelarate in mutation.
+
+- both jungian progression and regression can result from social
+  isolation, (whereby in addition to other general developmental
+  effects also results in) typological filtration of the social
+  imposition of norms via constriction of experience-types.
+  - as the variety and distribution of norms in society appears to the
+    isolated person, this typological restriction make provoke a
+    disnormalization of the perception of norms and/or normative
+    behavior in society.
+  - this disregulation of the social apprehension of norms may be
+    responsible for tweaking the hyperparameters for learning and
+    cognitive flexibility -- in ways both beneficial and/or
+    detrimental.  Ultimately as this dysregulated state of the
+    apprehension of information and belief about norms
+  - as the person gradually drifts away from social consensus of
+    norms, this allows them to update the hyperparameters and
+    solutions in an ad hoc infinite-dimensional analytic-model of the
+    world, wherein they explore the solution space in some ways
+    adjacent to social consensus. this not unlike a socially
+    distributed boltzmann machine -- both with and without schematic
+    overlap between individual boltzmann processes' differing, but
+    replicating structures -- where reintegration brings change as
+    novel information structures are distributed into society and vie
+    to alter group consensus. this could be imagined as a process of
+    piagettian genetic epistemology, in which there is some universal
+    way of communicating between social entities which are boltzmann
+    processes in an ad hoc boltzmann
+
+- therefore, the individual's own disnormalization is exacerbated
+
+=======
 
 
 =======
@@ -168,7 +368,7 @@ non-verbal communication
   study norms, formalizing them into data-driven definitions helps,
   but also is not necessarily capable of capturing the ephemeral or
   sporadic structures that people may use to reason about them.
-- disnormalization pares with a state of perceived auncertainty
+- disnormalization pares with a state of perceived uncertainty
   regarding the state of norms, though perhaps unconcious
 - normalization as a social process is similar to normalization of
   database schema in that the social process results in the
@@ -176,6 +376,7 @@ non-verbal communication
   social norms frame informational schematic that we use to perceive
   both state in social systems and the meaning in actions/words.
 - Metamodernism (as applied to norms) describes the ebb/flow between
+  harmonization and disnormalization of systems. (elaborate...)
 - Top down and bottom up understanding on normative social
   structures. From the bottom up, norms on interpersonal relations and
   communication stratify into increasingly sophisticated and
@@ -243,7 +444,7 @@ non-verbal communication
 > distributions, KL Divergence and Optimal Transport. The latter is
 > more linear.
 
-![Evolution of Norms](/img/posts/2018-12-10-the-analytic-i-ching/norm-evolution-1.jpg)
+![Evolution of Norms](/img/posts/2019-03-05-disnormalization/norm-evolution-1.jpg)
 
 In the context of social norms as distributions, methods similar to KL
 and OT may extrapolate forward in time the likely developments for a
@@ -353,9 +554,9 @@ could explain away their intents later on to avoid consequences?
 ### [Social Consensus of Abstractions is What Distinguishes Man From Animal]()
 
 Language itself is the social consensus on abstraction.
-Neuroanalytically, each abstraction is a representation of some
-stimulus pattern within the mind, whether the stimulus arises
-completely internally or externally. Many species operate with
+Neuroanalytically, each abstraction is a representation in the form of
+superimposed stimuli pattern within the mind, whether the stimuli
+arises completely internally or externally. Many species operate with
 neurological abstractions, though few develop complicated behavior
 patterns with layered or interwoven abstractions. The [tool-using
 carpenter finch](https://en.wikipedia.org/wiki/Woodpecker_finch) is an
@@ -389,7 +590,7 @@ resulting in change of shape to face, toungue, nasal cavity,
 esophogus, diaphram -- the capability of any member of a species to
 produce a given phoneme must asymptotically converge to one.
 
-![Persistence of Memory]()
+![Persistence of Memory](/img/posts/2019-03-05-disnormalization/persistence-of-memory.jpg)
 
 Given this and the neurological requirements, then developing language
 seems to be a matter of the time required to generate phonological
@@ -638,76 +839,7 @@ disregulation of meaning.
   - how can people expect to communicate with body language? how does
     one decide whether a gesture will be received as intended.
 
-
-
-###
-
-- TODO: decide on terminology
-  - emphasize disnormalization's disruption to language, non-verbal
-    communication and parsing meaning from action/symbols
-  - touch on how the distributed nature of agency in AI entities will
-    allow them outpace man's ability to keep up with disnormalization.
-    - so while we will struggle with social consensus of meaning and
-      norms, (artificial entities will have much less difficulty doing
-      so.)
-
-- define denormalization, as it applies herein, as a process between
-  normalized and disnormalized. define disnormalization as it applies
-  variously in the contexts of individual psychology, sociocultural
-  settings, etc as a state of dissociation from norms.
-  - because of the singularity's accelerating sociocultural
-    destabalization, absent some artificial forces of normalization,
-    society will continue to become destructured.
-
-### But What If Norms With Widely Distributed Social Consensus Are Rare?
-
-Disnormalization describes a sociocultural phenomena where it becomes
-more normal for ideas to resist normification. As humanity approaches
-the singularity, technology will begin to evolve faster than we can
-culturally adjust to it. Determining what is considered normal is
-necessary in the deontic logic of legal argumentation involving the
-[reasonable person](). For socioinformational systems where
-disnormatization is prevalent: norms either manifest slowly, resist
-social consensus or are not formed in time to be relevant.
-Disnormatization is not about the formation, development or
-obselescence of individual norms. Instead, it concerns dynamics of
-norms within some realm, including legal, social or linguistic
-spheres. Is the system in such a state where it is reasonable to
-expect that norms will coalesce naturally as a product of social
-interaction? Particularly, does some system, realm or social network
-generally exhibit social consensus on norms?
-
-When the phenomenon of disnormalization becomes prevelant in some
-sphere, this implies that either &#9312; the social experiences which
-tend to cause individuals to perceive norms no longer facilitate the
-conception of norms or &#9313; the distribution of information about
-norms is impaired. Both may occur when speciation of information
-around which individual norms would be formed becomes too complex:
-that is, the nature of each individual's experiences are so distinct
-that there aren't enough common traits or patterns of experience upon
-which to reason about other individual's experiences. The difficulty
-of validating one's own perception of norms from within the skew of a
-filter bubble is one technological mechanism that potential
-contributes to disnormalization.
-
 ####
-
-> More technically, the spatial complexity of the structure that
-> underlies deontic frames and deontic models becomes convoluted to
-> the point intractibility.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4LqtZrzI_ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- TODO: how will disnormalization affect international relations?
-  - impacts to sociocultural & domestic political norms will tend to
-    cause many of the issues hinted at in this article from [Harvard
-    ILJ](http://www.harvardilj.org/wp-content/uploads/HLI204_crop.pdf)
-    - e.g. breakdown of rationality and well-definedness of states due
-      to turbulent cultural/political situations ... it's
-      sociocultural disnormalization that leads to a contentious
-      situation where [ideological] conflict over norms is
-      necessary/possible.
-- TODO: move content about normification here.
 
 - what happens when norms evolve faster than people can keep up?
   - explain the sociocultural phenomena of disnormatization as a
@@ -783,8 +915,6 @@ contributes to disnormalization.
       powerful does not seek to abuse disnormalization by selectively
       conducting social engineering -- which has been happening with
       technology for decades.
-
-[^]
 
 [^socially-retarded]: So, please, spare me your fucking "I don't
     understand" bullshit because I didn't understand this until I
