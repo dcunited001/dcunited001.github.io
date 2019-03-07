@@ -8,6 +8,40 @@ author:
 excerpt: ""
 ---
 
+- TODO: piece in thoughts from youtube video on spectral theory of
+  information.
+  - It's essentially a spectrogram for information, mapping
+    information in terms of *tones* and *information chords* that
+    correspond to times-series emissions of patterns of cliques via
+    algebraic graph theory. The graph-theoretic structures can be
+    mapped to an over-arching, all-encompassing ontological structure
+    of generalized information geometric tones/chords. A universal
+    language should be based on this ontological structure -- and
+    recursively analyzing the overlap between semantic mappings of
+    language pairs should provide insight into the structure of this
+    global generalized ontological structure.
+  - Japanese, the language, has the concept of 調 (chou) which means
+    BOTH "investigate" and "tone" ... why are those words & concepts
+    related? The symbol 調 is used in words that represent "condition;
+    state of affairs", "investigation" and "auditory tone" ... When
+    you investigate, you seek to ask questions that indicate the
+    amplitude of informational tones.
+    - 周: circumference. 言: say, word. If you wanted to see how far
+      across the social graph information had spread, how would you
+      identify where to look and how broadly?
+    - "Choushi wa dou?" means, loosely "what's going on?". Other
+      derivations from 調 more clearly imply the combined denotative
+      *semantic tones* from 調: investigate (information acquisition)
+      and tone.
+      - 調和: harmony. 調合: compounding, dispensing. 調子外れ:
+        discord. 調律: musical tuning. 調味: seasoning (connection to
+        意味). 調号: musical key signature.　調波: Harmonic (wave). 調
+        声: tonal mark (viz. Pinyin). 調べ直す: re-examine,
+        reassess. 調心輪: aligning ring (to guide & stabalize a piston
+        in an engine). 調べ合わす: to tune to; to check against.
+      - Other interesting words in the same semantic vain: 曲線:
+        curve (曲 is music/curves, 線 is line)
+
 > "But for him who has seen the chaos, there.is no more hiding,
 > because he knows that the bottom sways and knows what this swaying
 > means."
