@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+> "But for him who has seen the chaos, there.is no more hiding,
+> because he knows that the bottom sways and knows what this swaying
+> means."
+
 #### The Obligatory Brueghel Tower of Babel
 
 ![Brueghel Tower of Babel](/img/posts/2019-03-05-disnormalization/brueghel-tower-of-babel.jpg)
@@ -17,7 +21,14 @@ legal and epistemic -- can all be seen through a unified lens. Hence,
 regardless of how well-structured, ephemeral or [holonic]() norms are,
 they can all be reasoned about within the same frame of reference.
 Herein, norms are delineated and stratified in order of the rigidity
-and/or clarity of their structure.
+and/or clarity of their structure. A systemic state of
+disnormalization can result in systems that introduces a new phase of
+normative evolution: norms evolve faster, new system dynamics emerge,
+expectations about behavior or system trajectory become impotent if
+even accurate. Extrapolation dependent upon the spectral harmony of
+common belief causes expectations of trajectory (of system and groups)
+to become unclear -- information becomes less useful than action,
+power, credibility or potentials thereof.
 
 For systems whose mechanics include norms, a state of global
 dysregulation results when:
@@ -28,44 +39,61 @@ dysregulation results when:
 
 #### &#9314; Systemically, there is difficulty in finding (overlap) in higher-order normative structures (i.e. in beliefs about norms or epistemic structures derived from a distribution corresponding to a norm)
 
-#### &#9315; There is spectral aspects of epistemic components of norms
-become disharmonic -- i.e. the epistemic components tend to become
-noise.
+#### &#9315; There are spectral aspects of epistemic components of norms, which maybecome disharmonic -- i.e. the epistemic components tend to become noise.
 
-- From the dysregulated system's normative mechanics, novel dynamics
-  and accelerated evolution emerge. Usually, a system in a
-  disnormalized state accelerates evolution of norms and corresponding
-  socioinformational structures, until the advantageous sociocultural
-  adaptations replicate and the system again becomes harmonized in a
-  new equilibrium. This is an equilibrium of the system's normative
-  mechanics and is related to the rates of normative evolution,
-  replication and consensus
+From the dysregulated system's normative mechanics, novel dynamics and
+accelerated evolution emerge. Usually, a system in a disnormalized
+state accelerates evolution of norms and corresponding
+socioinformational structures, until the advantageous sociocultural
+adaptations replicate and the system again becomes harmonized in a new
+equilibrium. This is an equilibrium of the system's normative
+mechanics and is related to the rates of normative evolution,
+replication and consensus.
 
-####
+### (Ising)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VpRBfOnc-pg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+This is most easily understood by visual metaphor, so imagine
+measuring the amount of order or disorder in [this 2D Ising
+Simulation](https://mattbierbaum.github.io/ising.js/). If you increase
+the temperature, the apparent disorder increases, as does the
+entropy. Decrease the temperature and local particle states are more
+likely to become dependent on adjacent particle states. Check the link
+to visually grok the "phase transitions" induced via the tug of war
+between order and entropy. The phase transitions here are a
+generalization of solid, liquid, gas and plasma. Various interaction
+dynamics (both particle and group) become dominant while specific
+phases are active -- in the local social graph neighborhood for a
+socioinformational Ising simulation.
 
-- This is most easily understood by visual metaphor, so imagine
-  measuring the amount of order or disorder in [this 2D Ising
-  Simulation](https://mattbierbaum.github.io/ising.js/). If you
-  increase the temperature, the apparent disorder increases, as does
-  the entropy. Decrease the temperature and local particle states are
-  more likely to become dependent on adjacent particle
-  states. Consider hyperconnected networks and the speed at which
-  thought travels in the modern world to both be coupled to a
-  generalized temperature that describes rate of information in a
-  sociophysical system. Disnormalization should normally accompany an
-  increase the value for this specific definition of a generalized
-  temperature. When a new equilibrium of normative evolution is
-  reached, disnormalization is scaled back and the sociophysical
-  system's particles are more entangled. Though likely unrelated to
-  the mechanics of entanglement of physical systems, the mechanics of
-  norms seem to mimic quantum entanglement in many ways. The
-  connection between norms in sociophysical systems and quantum
-  mechanics is *shallow*: primarily, many particles take on values
-  that they expect other particles take on and particles each
-  conceptualize *normal* behavior by forming statistical distributions
-  from their experience.
+#### Quantitatively measuring sophistication of order in Ising simulations is not simply a product of my imagination:
+
+> There is also a long tradition of using the Ising model and its
+> extensions to represent social interactions and organization
+> (Wiedlich, 1971; 1991; 2000; Callen and Shapero, 1974; Montroll and
+> Badger, 1974; Galam et al., 1982; Orlean, 1995). Indeed, the analogy
+> between magnetic polarization and opinion polarization was presented
+> in the early 1970s by Weidlich (1971), in the framework of
+> “Sociodynamics”, and later by Galam et al. (1982) in a manifesto for
+> “Sociophysics”. In this decade, several efforts towards a
+> quantitative sociology developed (Schelling, 1971; 1978;
+> Granovetter, 1978; 1983), based on models essentially
+> undistinguishable from spin models.[^ising-social]
+
+Consider hyperconnected networks and the speed at which thought
+travels in the modern world to both be coupled to a generalized
+temperature that describes rate of information in a sociophysical
+system. Disnormalization should normally accompany an increase the
+value for this specific definition of a generalized temperature. When
+a new equilibrium of normative evolution is reached, disnormalization
+is scaled back and the sociophysical system's particles are more
+entangled. Though likely unrelated to the mechanics of entanglement of
+physical systems, the mechanics of norms seem to mimic quantum
+entanglement in many ways. The connection between norms in
+sociophysical systems and quantum mechanics is *shallow*: primarily,
+many particles take on values that they expect other particles take on
+and particles each conceptualize *normal* behavior by forming
+statistical distributions from their experience.
+
   - For social organisms within a sociophysical system, their
     individuals are much more capable of reasoning about the group
     collectively and extrapolating to reason about possible futures if
@@ -84,6 +112,7 @@ noise.
 
   - Relevent to disnormalization (and establishing a new equilibrium)
     are I Ching Hexagrams:
+    - Holding Together (8) -- esp line 5
     - Peace (11) -- benefitting from a self-perpetuating harmonious
       order
     - Stagnation (12) -- a previously harmonious order decaying,
@@ -101,11 +130,7 @@ noise.
 
 - condense the following into a segue
 
-- Introduce thesis about systemic state of disnormalization can result
-  in systems that introduces a new phase of normative evolution: norms
-  evolve faster, new system dynamics emerge, expectations about
-  behavior or system trajectory become impotent if even accurate, and
-  more change occurs
+- Introduce thesis about
   - emphasize disnormalization's disruption to language, non-verbal
     communication and parsing meaning from action/symbols
   - touch on how the distributed nature of agency in AI entities will
@@ -297,7 +322,6 @@ Clausewitz (chapter one, section 15, on polarity)
     is a grammar, there is the potential to create “shadow grammars”
     where alternative grammatical parsing is implied to the listener
     via abnormal inflection or intonation.
-  -
 
 =======
 
@@ -327,6 +351,11 @@ Clausewitz (chapter one, section 15, on polarity)
   isolation, (whereby in addition to other general developmental
   effects also results in) typological filtration of the social
   imposition of norms via constriction of experience-types.
+
+> "But for him who has seen the chaos, there.is no more hiding,
+> because he knows that the bottom sways and knows what this swaying
+> means."
+
   - as the variety and distribution of norms in society appears to the
     isolated person, this typological restriction make provoke a
     disnormalization of the perception of norms and/or normative
@@ -350,12 +379,48 @@ Clausewitz (chapter one, section 15, on polarity)
     way of communicating between social entities which are boltzmann
     processes in an ad hoc boltzmann
 
-- therefore, the individual's own disnormalization is exacerbated
+- therefore, social disnormalization and the acceleration in evolution
+  of societal norms thereof exacerbate the individual's own
+  disnormalization.
+
+
+### Algebraic Speciation of Infogeometric Structures.
+
+- Useful as an ontological structure that algebraically provides a set
+  of generalized statistical models, which may be used to analytically
+  approximate any statistical system -- regardless of tensor rank,
+  which is increased by every algebraically irreducible direct sum.
+- Similar to the algebraic structures describing convexity in high
+  dimensions or enumerations relevant to Gaussian curvature.
+- Does the difference between norms (as distribution) and beliefs
+  about them provide a basis for descent using fisher metric to find
+  the infogeometric analytic structure(s) that generate(s) the
+  perceived norm.
+- The superposition of analytic structures (direct summation) that
+  represent the mapping of function spaces may be possible to infer
+  from the infogeometric results. This superposition (imprinted or
+  implied) may correspond to some algebra on hilbert spaces.
+- Normalization is like adversarial optimal transport (as a game)
+- Extrapolation is easier when common belief has greater social spread
+  and more complete consensus (in epistemic domains relevant to
+  propositions or some game) — the more epistemic similarity and
+  infogeometric overlap, the more resonance perceived by those
+  operating within the system.
+
+### Hexagram 8 (holding together) line 5
+
+  - Holding Together (8) centers around the qualities of a person
+    capable of establishing a values structure in society that
+    optimizes the social impact that the collective process of
+    normative evolution.
+
 
 =======
 
 
 =======
+
+### (Norms Defined As Objects Built On Multivariate Distributions)
 
 TODO: sort imported content from notes
 
@@ -467,7 +532,10 @@ nascent stages strongly impacts trajectory, tone and pace of the
 normative development. Once the norm achieves widespread social
 consensus, far more energy, treatment for saliency and redirection of
 attention is required to result in significant changes to the
-distribution.
+distribution. The saliency of ideas combines with and derives from
+each agent's spectral consumption/emission of information. Control the
+focus of agents and modulate information consumption/emission -- but
+exert too much influence and artificial distortion will blind you.
 
 ![photo more clearly describing norm evolution (from index card?)]()
 
@@ -915,6 +983,56 @@ disregulation of meaning.
       powerful does not seek to abuse disnormalization by selectively
       conducting social engineering -- which has been happening with
       technology for decades.
+
+
+
+
+Causation, dependent origination and constriction/filtration of causal
+connection using sobolev-space-like objects.
+
+- Building on a stochastic model for causality, sobolev spaces *may*
+  extend this model to extrapolate along infinitessimals or to
+  compensate for unknown-unknowns. Sobolev spaces are built from
+  Hilbert Spaces, but include mechanisms to effectively filter the
+  "blow ups" of infinite values and discontinuities.
+
+- where causal connection is constructed from a simplicial complex
+  (generated via infogeometric structures), its expressions are
+  emitted via patterns of cliques/simplices expressed in time-series
+
+- here, for sociophysical systems, objects like sobolev spaces would
+  be useful for filtration of extrapolations of notions of EVOLVING
+  SYSTEM STATE in graph/simplex/network theory analogies of PDE’s
+
+- when paths emerging on top of a causal graph/network are then
+  assigned probability/valuation, then these sobolev-space objects
+  could filter combinatorially constructed paths, finding those least
+  reasonably likely to introduce discontinuities.
+
+  - further, a sort of complementary object to this Sobolev
+    construction for filtration of paths could operate on the (1
+    -P(e)) complement to paths. thereby, such objects might filter out
+    paths/cliques on the causal graph most likely to result in
+    infinitesimal consequences.
+
+  - Combining this with the notion of causal inferences utilizing a
+    “light-cone & world-line” (from Terrence Tao’s Summary
+    Introduction to Approaches for Navier-Stokes, where consequences
+    of fluid interactions are limited/filtered by tools from
+    relativity like the light-cone) should provide a powerful set of
+    tools for identifying the intersection of cliques/paths in a
+    causal graph with confluential consequences relevant to causal
+    outcomes.
+
+    - Also, the “light-cone/world-line” tools
+
+
+
+
+[^ising-social]: Sornette, D., 2014. [Physics and financial economics
+    (1776–2014): puzzles, Ising and agent-based
+    models.](https://arxiv.org/abs/1404.0243v1) Reports on progress in
+    physics, 77(6), p.062001.
 
 [^socially-retarded]: So, please, spare me your fucking "I don't
     understand" bullshit because I didn't understand this until I
