@@ -1565,6 +1565,10 @@ great water ....
 
 ### On Conceptualizing State and Change (and the statistical mechanics of I Ching)
 
+#### [Shape Entropy](https://phys.org/news/2014-11-geometry-entropy-links-nanostructures-emergent.html)
+
+![Shape Entropy](/img/posts/2018-12-10-the-analytic-i-ching/shape-entropy.jpg)
+
 ![Social Physics from XIII anime #1](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-1.jpg)
 
 ![Social Physics from XIII anime #2](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-2.jpg)

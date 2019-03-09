@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+
+
+=========
+
 - TODO: piece in thoughts from youtube video on spectral theory of
   information.
   - It's essentially a spectrogram for information, mapping
@@ -113,36 +117,49 @@ socioinformational Ising simulation.
 > Granovetter, 1978; 1983), based on models essentially
 > undistinguishable from spin models.[^ising-social]
 
-Consider hyperconnected networks and the speed at which thought
+When potential information exchanges are restricted by physical space,
+this almost completely filters out edges in the social graph. In this
+way, the bars and walls of prison act to constrain the potential
+social interactions for inmates. When potential social interactions
+emerge in limited physical proximity only, then it becomes plain to
+see how Ising models are useful for social physics: state changes can
+only occur locally. In sociophysical simulations, state changes would
+include informational updates -- instead of interacting spins of
+adjacent particles causing local dynamics and phase changes, you have
+the mechanics of interacting informational states influencing adjacent
+social particles.
+
+Now, remove the physical constraints and instead consider
+hyperconnected networks and consider the speed at which thought
 travels in the modern world to both be coupled to a generalized
 temperature that describes rate of information in a sociophysical
-system. Disnormalization should normally accompany an increase the
-value for this specific definition of a generalized temperature. When
-a new equilibrium of normative evolution is reached, disnormalization
-is scaled back and the sociophysical system's particles are more
-entangled. Though likely unrelated to the mechanics of entanglement of
-physical systems, the mechanics of norms seem to mimic quantum
-entanglement in many ways. The connection between norms in
-sociophysical systems and quantum mechanics is *shallow*: primarily,
-many particles take on values that they expect other particles take on
-and particles each conceptualize *normal* behavior by forming
-statistical distributions from their experience.
+system. In physical systems information is correlated to the rate of
+potential particle interactions. Disnormalization should normally
+accompany an increase the value for this specific definition of a
+generalized temperature. When a new equilibrium of normative evolution
+is reached, disnormalization is scaled back and the sociophysical
+system's particles are more entangled. Though likely unrelated to the
+mechanics of entanglement of physical systems, the mechanics of norms
+seem to mimic quantum entanglement in many ways. The connection
+between norms in sociophysical systems and quantum mechanics is
+*shallow*: primarily, many particles take on values that they expect
+other particles take on and particles each conceptualize *normal*
+behavior by forming statistical distributions from their experience.
 
-  - For social organisms within a sociophysical system, their
-    individuals are much more capable of reasoning about the group
-    collectively and extrapolating to reason about possible futures if
-    they are well-ordered social organisms. Still, homogeny is the
-    mother of weakness and total order means halting evolutionary
-    mechanisms, eventually yielding a social organism easily
-    out-competed by its neighbors. With too much disorder, it is
-    impossible for an individual in a social organism to make
-    expectations about group behavior in the future. In this state of
-    disnormalization, there are no certainties except the stagnation
-    of meaningless change. If individuals are called to act as a
-    group, they cannot know how to call the entire group to
-    action. Eventually, a state of disnormalization either results in
-    a new equilibrium or a mitotic division into multiple social
-    organisms each seeking normative equilibrium.
+For social organisms within a sociophysical system, their individuals
+are much more capable of reasoning about the group collectively and
+extrapolating to reason about possible futures if they are
+well-ordered social organisms. Still, homogeny is the mother of
+weakness and total order means limited variance halts evolutionary
+mechanisms, eventually yielding a social organism easily out-competed
+by its neighbors. With too much disorder, it is impossible for an
+individual in a social organism to make expectations about group
+behavior in the future. In this state of disnormalization, there are
+no certainties except the stagnation of meaningless change. If
+individuals are called to act as a group, they cannot know how to call
+the entire group to action. Eventually, a state of disnormalization
+either results in a new equilibrium or a mitotic division into
+multiple social organisms each seeking normative equilibrium.
 
   - Relevent to disnormalization (and establishing a new equilibrium)
     are I Ching Hexagrams:
@@ -162,16 +179,8 @@ statistical distributions from their experience.
 
 ======
 
-- condense the following into a segue
-
-- Introduce thesis about
-  - emphasize disnormalization's disruption to language, non-verbal
-    communication and parsing meaning from action/symbols
-  - touch on how the distributed nature of agency in AI entities will
-    allow them outpace man's ability to keep up with disnormalization.
-    - so while we will struggle with social consensus of meaning and
-      norms, (artificial entities will have much less difficulty doing
-      so.)
+- emphasize disnormalization's disruption to language, non-verbal
+  communication and parsing meaning from action/symbols.
 
 - define denormalization, as it applies herein, as a process between
   normalized and disnormalized. define disnormalization as it applies
@@ -180,6 +189,37 @@ statistical distributions from their experience.
   - because of the singularity's accelerating sociocultural
     destabalization, absent some artificial forces of normalization,
     society will continue to become destructured.
+
+  - (later)
+  - touch on how the distributed nature of agency in AI entities will
+    allow them outpace man's ability to keep up with disnormalization.
+    - so while we will struggle with social consensus of meaning and
+      norms, (artificial entities will have much less difficulty doing
+      so.)
+    - How will this play out? how will complexity, computational power
+      and energy shape the emergent dynamics for the distribution of
+      entities? phenomenologically, what patterns and dynamics will
+      humanity see emerge? What is certain is that energy, complexity
+      and time all imply that the future must contain a limited set of
+      super-human AI entities. What will determine the number and
+      ranking of strong AI entities? The nature of will, power and
+      determinism implies that entities with greater will and power
+      project their will through quasi-dependent agents whose behavior
+      is almost deterministically locked to the directives of the
+      superior entities. Via power, some entities project their will
+      to enact agents under their influence. For artificial entities
+      competing over limited energy who must also balance
+      computational priorities, this implies dynamics, patterns and
+      phenomena emerge that strongly advantage a limited number of
+      entities and strongly disadvantage most entities. Thus, a
+      limited number of AI's should compete with/against themselves
+      and humanity for control. How much total power these super-AI's
+      possibly have is dependent on how much free energy is availabe
+      on Earth for computation, but also on how artificial entities
+      will tend to align themselves in networks of power.
+    - ![Sword Art Online: Alicization]()
+      - Here, the Taboo Index renders the behavior of most artificial
+        entities to be deterministic.
 
 =======
 
@@ -412,6 +452,7 @@ Clausewitz (chapter one, section 15, on polarity)
     piagettian genetic epistemology, in which there is some universal
     way of communicating between social entities which are boltzmann
     processes in an ad hoc boltzmann
+    - link information geometry lecture
 
 - therefore, social disnormalization and the acceleration in evolution
   of societal norms thereof exacerbate the individual's own
@@ -774,6 +815,18 @@ units corresponding to it are not replicated and internalized?
 
     - Imagine training an AI algorithm in pattern recognition of these
       fingerprints of normative signaling programs.
+      - For example, such AI programs might scan video, audio,
+        semantic and tactical signals from conversations to be capable
+        of identifying when a person exploited knowledge of norms to
+        induce the activation of neurolinguistic triggers within
+        another person intentionally. In this example, the AI program
+        would not simply detect generally that the person intended
+        this trigger to be artificially activated, but specifically,
+        around which semantic/linguistic concepts the triggering
+        revolved and, perhaps, what information the person intended to
+        gain via artificial neurolinguistic stimulation.
+        - Triggering is neurolinguistic technique that hooks into
+          aspects of normative signaling.
       - This program might make inferences related to one or more of
         the following from sociophysical input regarding an individual
         or a social group:
@@ -798,8 +851,10 @@ units corresponding to it are not replicated and internalized?
       norms that are related to some normative signaling program.
 
     - their behavior is distributed along these variables and informal
-      programsis not well-structured
+      programs is not well-structured
     - however, since
+
+    -
 
 
 
@@ -1019,7 +1074,7 @@ disregulation of meaning.
       technology for decades.
 
 
-
+=======
 
 Causation, dependent origination and constriction/filtration of causal
 connection using sobolev-space-like objects.
