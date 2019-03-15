@@ -669,6 +669,8 @@ developments or the size/shape of the skull and parts of the brain,
 
 - todo: there's probably a name for this subfield of linguistics
   (anatomy, genetics & linguistics)
+  - [Human sound systems are shaped by post-Neolithic changes in bite
+    configuration](http://science.sciencemag.org/content/363/6432/eaav3218)
 
 - was the process and form of our neurological evolution constrained
   by phenomenological ideals related to computational complexity?

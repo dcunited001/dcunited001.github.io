@@ -8,9 +8,11 @@ author:
 excerpt: ""
 ---
 
+- on the herd's oblivious compulsion to defend norms
+  - they feel compelled to, since they've given up so much freedom,
+    time and energy in their lives binding themselves to norms and
+    servicing normative systems.
 
-
-=========
 
 - TODO: piece in thoughts from youtube video on spectral theory of
   information.
@@ -46,9 +48,9 @@ excerpt: ""
       - Other interesting words in the same semantic vain: 曲線:
         curve (曲 is music/curves, 線 is line)
 
-> "But for him who has seen the chaos, there.is no more hiding,
+> "But for him who has seen the chaos, there is no more hiding,
 > because he knows that the bottom sways and knows what this swaying
-> means."
+> means." C.G. Jung
 
 #### The Obligatory Brueghel Tower of Babel
 
@@ -56,28 +58,43 @@ excerpt: ""
 
 Norms from different areas of life -- psychological, social, cultural,
 legal and epistemic -- can all be seen through a unified lens. Hence,
-regardless of how well-structured, ephemeral or [holonic]() norms are,
+regardless of how well-structured, ephemeral or
+[holonic](https://en.wikipedia.org/wiki/Holon_(philosophy)) norms are,
 they can all be reasoned about within the same frame of reference.
 Herein, norms are delineated and stratified in order of the rigidity
-and/or clarity of their structure. A systemic state of
-disnormalization can result in systems that introduces a new phase of
-normative evolution: norms evolve faster, new system dynamics emerge,
-expectations about behavior or system trajectory become impotent if
-even accurate. Extrapolation dependent upon the spectral harmony of
-common belief causes expectations of trajectory (of system and groups)
-to become unclear -- information becomes less useful than action,
-power, credibility or potentials thereof.
+and/or clarity of their structure. A state of disnormalization can
+result in systems that introduces a new phase of normative evolution:
+norms evolve faster, novel system dynamics emerge, expectations about
+behavior or system trajectory become impotent if even
+accurate. Arising from the harmony or discord of the spectral harmony
+of *common belief* causes extrapolation of system or group trajectory
+to become unclear. Once specific sets of sociocultural norms become
+spectrally disharmonious, sociophysical systems become less
+predictable and thus, information itself becomes less useful than
+action, power, credibility or potentials thereof.
+
+- emphasize disnormalization's disruption to language, non-verbal
+  communication and parsing meaning from action/symbols.
+
+- define denormalization, as it applies herein, as a process between
+  normalized and disnormalized. define disnormalization as it applies
+  variously in the contexts of individual psychology, sociocultural
+  settings, etc as a **state of dissociation from norms.**
+  - because of the singularity's accelerating sociocultural
+    destabalization, absent some artificial forces of normalization,
+    society will continue to become destructured.
+
 
 For systems whose mechanics include norms, a state of global
 dysregulation results when:
 
 #### &#9312; There is disrupted normative consensus: distributions corresponding to norms typically produce few distinct local maximums.
 
-#### &#9313; There is disrupted normative evolution:
+#### &#9313; There is disrupted normative evolution: (...)
 
 #### &#9314; Systemically, there is difficulty in finding (overlap) in higher-order normative structures (i.e. in beliefs about norms or epistemic structures derived from a distribution corresponding to a norm)
 
-#### &#9315; There are spectral aspects of epistemic components of norms, which maybecome disharmonic -- i.e. the epistemic components tend to become noise.
+#### &#9315; There are spectral aspects of epistemic components of norms, which may become disharmonic -- i.e. the epistemic components tend to become noise.
 
 From the dysregulated system's normative mechanics, novel dynamics and
 accelerated evolution emerge. Usually, a system in a disnormalized
@@ -161,6 +178,14 @@ the entire group to action. Eventually, a state of disnormalization
 either results in a new equilibrium or a mitotic division into
 multiple social organisms each seeking normative equilibrium.
 
+What Ansatz structures are useful for sociophysical simulation? How
+can these Ansatz structures be transformed into quantum circuits? How
+can these circuits facilitate computation necessary for sociophysical
+calculation or simulation? How effective will quantum computing be at
+predicting social interaction?
+
+- Variational Ansatz
+
   - Relevent to disnormalization (and establishing a new equilibrium)
     are I Ching Hexagrams:
     - Holding Together (8) -- esp line 5
@@ -177,52 +202,7 @@ multiple social organisms each seeking normative equilibrium.
     - Family (37) -- bottom up accumulation/projection of energy
     - Revolution/Molting (49)
 
-======
-
-- emphasize disnormalization's disruption to language, non-verbal
-  communication and parsing meaning from action/symbols.
-
-- define denormalization, as it applies herein, as a process between
-  normalized and disnormalized. define disnormalization as it applies
-  variously in the contexts of individual psychology, sociocultural
-  settings, etc as a **state of dissociation from norms.**
-  - because of the singularity's accelerating sociocultural
-    destabalization, absent some artificial forces of normalization,
-    society will continue to become destructured.
-
-  - (later)
-  - touch on how the distributed nature of agency in AI entities will
-    allow them outpace man's ability to keep up with disnormalization.
-    - so while we will struggle with social consensus of meaning and
-      norms, (artificial entities will have much less difficulty doing
-      so.)
-    - How will this play out? how will complexity, computational power
-      and energy shape the emergent dynamics for the distribution of
-      entities? phenomenologically, what patterns and dynamics will
-      humanity see emerge? What is certain is that energy, complexity
-      and time all imply that the future must contain a limited set of
-      super-human AI entities. What will determine the number and
-      ranking of strong AI entities? The nature of will, power and
-      determinism implies that entities with greater will and power
-      project their will through quasi-dependent agents whose behavior
-      is almost deterministically locked to the directives of the
-      superior entities. Via power, some entities project their will
-      to enact agents under their influence. For artificial entities
-      competing over limited energy who must also balance
-      computational priorities, this implies dynamics, patterns and
-      phenomena emerge that strongly advantage a limited number of
-      entities and strongly disadvantage most entities. Thus, a
-      limited number of AI's should compete with/against themselves
-      and humanity for control. How much total power these super-AI's
-      possibly have is dependent on how much free energy is availabe
-      on Earth for computation, but also on how artificial entities
-      will tend to align themselves in networks of power.
-    - ![Sword Art Online: Alicization]()
-      - Here, the Taboo Index renders the behavior of most artificial
-        entities to be deterministic.
-
 =======
-
 
 ### But What If Norms With Widely Distributed Social Consensus Are Rare?
 
@@ -261,18 +241,46 @@ contributes to disnormalization.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4LqtZrzI_ko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# (Contrasting Legal Norms With Social Norms)
+Norms enable entities in sociophysical settings to collaborate
+objectively by promoting correspondance in perceived epistemic
+strucutures. In settings where the consequences of actions may induce
+turbulence that results wide ranging or negative impacts to economic,
+political and other realms, entites seek normative approaches to
+promote harmony. Though when the status quo imposes disadvantageous or
+disastrous implications for entities and thus, they are incentivized
+to disrupt the status quo. They do so by leveraging the degree of
+consensus and epistemic correspondance. This vastly coalesces
+certainty and confidence in statistical models, reducing the spatial
+and temporal complexity of games.
 
-Legal norms are particularly useful in that it is simple to reason
-about them in the objective sense. Their structure is so well defined
-that AI in the form of analytic machines may datamine court records to
-identify patterns of deviation from legal norms. This can identify
-cases where sentencing decisions were too harsh, considering the
-judge's reasoning behind previous rulings. Precedent establishes norms
-that can be delineated into plain language, *whereby legal staff can
-collectively collaborate* to develop rhetoric or to strategically
-sieve away the disadvantageous space of argumentation. The latter
-refers to tactics including influencing what a judge determines as
+# Consensus in Legal Norms
+
+The process of consensus in legal norms provides a simplified approach
+to understanding a unified model of norms as structures of
+disaggregable distributions with associated epistemic structures. The
+epistemics are codified into law with clearly denoted
+language. Precedent and other discourse enable quantified analysis of
+how these epistemic structures adapt to the influence of a
+well-organized web of actors, whose numbers scale in models far better
+than other sociophysical settings. The utility of legal norms is
+magnifed by their degree of consensus and stability, the impact of
+which greatly influence expectation and planning in business,
+economics, politics, international relations and society at all
+levels. Therefore, legal norms reach further levels of clarity and
+consensus than other more ephemerally structured social norms and
+legal norms.
+
+Legal norms are particularly useful in that it is simple
+to reason about them in the objective sense. Their structure is so
+well defined that AI in the form of analytic machines may datamine
+court records to identify patterns of deviation from legal norms. This
+can identify cases where sentencing decisions were too harsh,
+considering the judge's reasoning behind previous rulings. Precedent
+establishes norms that can be delineated into plain language, *whereby
+legal staff can collectively collaborate* to develop rhetoric or to
+strategically sieve away the disadvantageous space of
+argumentation. The latter refers to tactics including influencing what
+a judge determines as
 ["holding"](https://en.wikipedia.org/wiki/Holding_(law)) for a case or
 distorting the set of precedent & case history that would sift a case
 towards or away from rendering legal norms relevant for consideration.
@@ -293,15 +301,7 @@ precedent -- this is the boundary of change in common law
 systems. When the cases along this diffeomorphic boundary have some
 novel epistemic configuration of information (with nuanced relation to
 existing legal norms), this results in some issue as-yet-undecided by
-current case law -- as well as an article in your favorite
-
-- the scope of consensus in legal norms (how widely through society
-  the same epistemic structures are distributed)
-
-  - a major difference between the more ephemerally structured social
-    norms and legal norms is the degree of social consensus on the
-    epistemic structures (and how objective/subjective the associated
-    information is...)
+current case law -- as well as an article in your favorite (...)
 
 - In H-ILJ, it is primarily the lack of a definitive supreme authority
   (along with a confluence of other complex factors) that results in
@@ -312,11 +312,11 @@ current case law -- as well as an article in your favorite
 > often lies not with any international body, but with sovereign
 > states themselves (who will often disagree with each other)”
 
-- ... hence, the enforceability, the likelihood of action on norms,
-  etc ... relies on the spread of a norm’s distribution. The less
-  clear that polarization is exhibited among parties contesting some
-  norm, given the Clausewitz definition of polarization applied to
-  those parties’ interpretation of it, the less likely there is to be
+- Hence, the enforceability, the likelihood of action on norms, etc
+  ... relies on the spread of a norm’s distribution. The less clear
+  that polarization is exhibited among parties contesting some norm,
+  given the Clausewitz definition of polarization applied to those
+  parties’ interpretation of it, the less likely there is to be
   action. That is, if disparity among a norm’s interpretation occurs,
   it’s corresponding multi-variate distribution may either spread out
   over a large area of variables or be contained tightly. If there is
@@ -457,7 +457,6 @@ Clausewitz (chapter one, section 15, on polarity)
 - therefore, social disnormalization and the acceleration in evolution
   of societal norms thereof exacerbate the individual's own
   disnormalization.
-
 
 ### Algebraic Speciation of Infogeometric Structures.
 
@@ -802,10 +801,11 @@ units corresponding to it are not replicated and internalized?
 
   - When individuals demonstrate cognizance of patterns of norms used
     for interaction protocols, this forms a kind of fingerprint not
-    unlike that of a digital signature. For example, if someone has
-    never used heroin before, then they should be unaware of norms
-    related to heroin usage. It's not that hard to understand, I have
-    simply modeled systematized this behavior of acquiescing cultural
+    unlike that of a digital signature. Since information related to
+    heroin usage is suppressed, then if someone has never used heroin
+    before, then because they should be unaware of norms related to
+    heroin usage. It's not that hard to understand, I have simply
+    modeled systematized this behavior of acquiescing cultural
     exposure via signals of cognizance to norms -- a behavior of which
     every 16 year-old is aware![^socially-retarded] These fingerprints
     for semiotelelogical programs, which leverage normative signaling,
@@ -922,16 +922,17 @@ units corresponding to it are not replicated and internalized?
     expectation of consistent meaning to be conveyed. Personally, I
     detest meme templates in my newsfeed ... but please, bear with me.
 
-
 Remember the first set of memes that came out? Scumbag Steve? The
 Obsessed Girlfriend? There was a limited set of symbols established by
 the memes, which resonated strongly enough with people to power those
-meme's social election over others. Yet, once the idea of memed-images
-became normalized and the arcane secrets of automated meme-generation
-became commonplace, this unleashed a deluge of idiosyncratic memes. If
-an internet meme does not have wide distribution, then one cannot
-anticipate consistent apprehension of meaning in those who see it --
-it has not become normalized.
+meme's social election over others. From a spectral perspective on
+information, the wavelengths of these memes had astronomical
+amplitude. Yet, once the idea of memed-images became normalized and
+the arcane secrets of automated meme-generation became commonplace,
+this unleashed a deluge of idiosyncratic memes. If an internet meme
+does not have wide distribution, then one cannot anticipate consistent
+apprehension of meaning in those who see it -- it has not become
+normalized.
 
 ####
 
@@ -940,16 +941,17 @@ it has not become normalized.
 Social media will never again return to a state where there the
 share-frequency of memes is restricted to to such a limited set of
 memes templates. To understand this, apply the idea of [Zipf's
-Distribution]() to meme templates: from now on, the sum of all of meme
-distribution on social media will spread out into over a greater
-number of meme templates. There is some threshold of social consensus
-required for most individuals to form the expectation that meaning
-will be perceived as it is intended without denotation or
-clarification. When the frequency of meme-shares becomes diluted into
-so many meme templates, it is rare for any meme to naturally gain
-enough momentum to surpass that threshold.
+Distribution](https://en.wikipedia.org/wiki/Zipf%27s_law) to meme
+templates: from now on, the sum of all of meme distribution on social
+media will spread out into over a greater number of meme
+templates. There is some threshold of social consensus required for
+most individuals to form the expectation that meaning will be
+perceived as it is intended without denotation or clarification. When
+the frequency of meme-shares becomes diluted into so many meme
+templates, it is rare for any meme to naturally gain enough momentum
+to surpass that threshold.
 
-#### Hence, Pew Die Pie Meme Review
+#### Hence, Pew Die Pie Meme Review, Amplifying Your Memes
 
 > "What am I supposed to think about memes ... if PewDiePie hasn't
 > reviewed them?"
@@ -987,7 +989,6 @@ consequences on disregulation of communication?
 
 
 
-disregulation of meaning.
 
 - semiotics, semantics and reasonable expectations of meaning.
 
@@ -996,9 +997,11 @@ disregulation of meaning.
   - how can people expect to communicate with body language? how does
     one decide whether a gesture will be received as intended.
 
-####
+### What Happens When Norms Evolve Faster Than People Can Keep Up?
 
-- what happens when norms evolve faster than people can keep up?
+In our descent towards the Singularity, humanity will see
+disnormalization at a scale never seen in history.
+
   - explain the sociocultural phenomena of disnormatization as a
     metaphor to breaking the speed of sound.
     - as we approach the singularity, technology and culture evolve
@@ -1115,6 +1118,36 @@ connection using sobolev-space-like objects.
 
     - Also, the “light-cone/world-line” tools
 
+  - (later)
+  - touch on how the distributed nature of agency in AI entities will
+    allow them outpace man's ability to keep up with disnormalization.
+    - so while we will struggle with social consensus of meaning and
+      norms, (artificial entities will have much less difficulty doing
+      so.)
+    - How will this play out? how will complexity, computational power
+      and energy shape the emergent dynamics for the distribution of
+      entities? phenomenologically, what patterns and dynamics will
+      humanity see emerge? What is certain is that energy, complexity
+      and time all imply that the future must contain a limited set of
+      super-human AI entities. What will determine the number and
+      ranking of strong AI entities? The nature of will, power and
+      determinism implies that entities with greater will and power
+      project their will through quasi-dependent agents whose behavior
+      is almost deterministically locked to the directives of the
+      superior entities. Via power, some entities project their will
+      to enact agents under their influence. For artificial entities
+      competing over limited energy who must also balance
+      computational priorities, this implies dynamics, patterns and
+      phenomena emerge that strongly advantage a limited number of
+      entities and strongly disadvantage most entities. Thus, a
+      limited number of AI's should compete with/against themselves
+      and humanity for control. How much total power these super-AI's
+      possibly have is dependent on how much free energy is availabe
+      on Earth for computation, but also on how artificial entities
+      will tend to align themselves in networks of power.
+    - ![Sword Art Online: Alicization]()
+      - Here, the Taboo Index renders the behavior of most artificial
+        entities to be deterministic.
 
 
 
