@@ -1,5 +1,5 @@
 ---
-title: "Disnormalization: The 21st Century Tower of Babel"
+title: "Disnormalization: The Postmodern Tower of Babel"
 categories: "blog"
 tags: "philosophy sociology linguistics semiotics"
 headline: "What is meaning in linguistics and semiotics?"
@@ -8,45 +8,252 @@ author:
 excerpt: ""
 ---
 
-- on the herd's oblivious compulsion to defend norms
+- on the herd's oblivious compulsion to defend norms.
   - they feel compelled to, since they've given up so much freedom,
     time and energy in their lives binding themselves to norms and
     servicing normative systems.
 
+- Normative implications in strategy, tactics and discussion thereof
+  (created from the differences in console/PC gaming created by
+  differences in expectations of accuracy between players who use
+  mouse and those who use joysticks.)
+  - Almost all Overwatch players at silver or above are aware of how
+    this phenomena impacts the character-composition of teams: PS4
+    games are much less likely to include the characters Widow and
+    Hanzo.
 
-- TODO: piece in thoughts from youtube video on spectral theory of
-  information.
-  - It's essentially a spectrogram for information, mapping
+- normative cost of using disinformation defensively at home on morale
+  and control of morale preceding/during a conflict
+
+# [A Spectral Theory of Information](#a-spectral-theory-of-information)
+
+A critical idea for understanding sociological dynamics, generally and
+especially in the 21st century, is **spectral information
+theory**. Without it, you can't make predictions about trends on
+social media. You can't even understand the causal implications of
+your own actions in our technocracy.
+
+It essentially provides a spectrogram for information, where
+individual instantiations of information are frequencies and their
+amplitudes correspond to their prevelance. One way to explain it to
+children is "What's your favorite word? What do you think your
+friend's favorite words are? What do you think the class's favorite
+word is?" -- that's not so complicated, is it? Put away your crayons
+and your liberal arts degree(s), this is the stuff marketing and
+communications is made of, folks. With advances in computation and
+analysis, it's about to become cold, hard science.
+
+### [The Era of the Subjective is Coming to an End](#the-era-of-the-subjective-is-coming-to-an-end)
+
+We will discover that the capacity for subjectivity evaporates as our
+collective computational prowess expands. That's right:
+post-modernists be damned, subjectivity has always been a fleeting
+illusion. The good [old] news is that the bars of your newfound
+structuralist prison are reigned in by limitations imposed by
+computational complexity and free-energy. The degree by which the
+potential for subjectivity is mediated is a problem of social
+engineering and metamodernism: to balance the energy requirements of
+computation with the needs of society for the realized
+phenomenological benefits for efficient computation, society must
+adapt itself informationally. Language, knowledge and other cultural
+artifacts need to be architected to maximize the benefits of
+computation. Without cheaply indexed language and culture, humanity
+depletes itself of energy without gaining phenomenologically
+significant returns on technology.[^caelis-ruissant]
+
+- include information from #3.a and #3.b
+
+  - This conceptualization for information crosses into the territory
+    of music theory! ... mapping
     information in terms of *tones* and *information chords* that
     correspond to times-series emissions of patterns of cliques via
     algebraic graph theory. The graph-theoretic structures can be
     mapped to an over-arching, all-encompassing ontological structure
-    of generalized information geometric tones/chords. A universal
+    of generalized information-geometric tones & chords. A universal
     language should be based on this ontological structure -- and
     recursively analyzing the overlap between semantic mappings of
     language pairs should provide insight into the structure of this
     global generalized ontological structure.
-  - Japanese, the language, has the concept of 調 (chou) which means
-    BOTH "investigate" and "tone" ... why are those words & concepts
-    related? The symbol 調 is used in words that represent "condition;
-    state of affairs", "investigation" and "auditory tone" ... When
-    you investigate, you seek to ask questions that indicate the
-    amplitude of informational tones.
-    - 周: circumference. 言: say, word. If you wanted to see how far
-      across the social graph information had spread, how would you
-      identify where to look and how broadly?
-    - "Choushi wa dou?" means, loosely "what's going on?". Other
-      derivations from 調 more clearly imply the combined denotative
-      *semantic tones* from 調: investigate (information acquisition)
-      and tone.
-      - 調和: harmony. 調合: compounding, dispensing. 調子外れ:
-        discord. 調律: musical tuning. 調味: seasoning (connection to
-        意味). 調号: musical key signature.　調波: Harmonic (wave). 調
-        声: tonal mark (viz. Pinyin). 調べ直す: re-examine,
-        reassess. 調心輪: aligning ring (to guide & stabalize a piston
-        in an engine). 調べ合わす: to tune to; to check against.
-      - Other interesting words in the same semantic vain: 曲線:
-        curve (曲 is music/curves, 線 is line)
+
+![Cliques and Edges](/img/posts/2019-03-05-disnormalization/complete-graph-cycls.gif)
+
+<a name="acknowldgement-of-the-spectral-in-eastern-languages" />
+
+### [調: Acknowledgement of the Spectral in Eastern Languages](#acknowldgement-of-the-spectral-in-eastern-languages)
+
+In Japanese, the concept of 調 (chou) means both *investigate* and
+*tone*. The symbol 調 is used in words that represent "condition;
+state of affairs", "investigation" and "auditory tone".  At first
+glance, this seems counterintuitive -- but when you investigate, you
+seek to ask questions that indicate the amplitude of informational
+tones. 調 is composed of the symbol 周 (circumference), modified by
+the radical 言 (say, word). If you wanted to see how far across the
+social graph information had spread, how would you identify where to
+look and how broadly? You would probably investigate.
+
+**Choushi wa dou?** means, loosely "what's going on?". Other
+derivations from 調 more clearly imply the combined denotative
+*semantic tones* from 調: investigate (information acquisition) and
+tone.
+
+#### 調和: Harmony
+
+#### 調査: Investigation
+
+#### 調合: Compounding or Dispensing a Medicine
+
+#### 調子外れ: Discord
+
+#### 調律: Musical Tuning
+
+#### 調味: Seasoning (literally tone-flavor) -- with connections to 意味 (literally idea-flavor)
+
+#### 調号: Musical Key Signature
+
+#### 調波: Harmonic (wave)
+
+#### 調声: Tonal Mark (viz. Pinyin)
+
+#### 調べ直す: To Re-examine or Reassess
+
+#### 調心輪: An Aligning Ring, which guides a piston's motion to stabalize its timing in an engine
+
+#### 調べ合わす: To Tune To or To Check Against
+
+Other interesting words in the same semantic vain can be delineated
+from the characther 曲's connection to both music and curvature. where
+線 simply means line, the combined 曲線 means curve.
+
+###
+
+In the west conceptualizing in terms of the spectral is almost
+entirely relegated to the obscurantism of the occult, native speakers
+of eastern languages get these concepts for free -- no initiation
+required! While the semantics of many of the same concepts do appear
+in Western languages, they appear in idioms, in myths or in forgotten
+aspects of etymological evolution. The Han Dynasty's writing system,
+which propagated from Middle China to Japan and Korea, slowed
+linguistic evolution in the Far East by binding morphemes
+
+You can see how the practices of Shinto and Taoism openly deal with
+managing the spectral content of information. Though it might be
+sacrilegious, if one were to run computational linguistic analysis on
+Ema tablets, you would produce spectral insights into the collective
+desires of the community served by the shrine.
+
+#### Ema Tablets[^tokyo-ravens] Hang In A Shinto Shrine
+
+> Religious practices have been adapted to fill critical social
+> functions. Here, information is being collected about what people
+> wish for in their community.
+
+![](/img/posts/2019-03-05-disnormalization/ema-tablets.jpg)
+
+The practice of hanging and burning Ema tablets facilitates an
+exchange of information that helps priests and religious organizations
+tune into the needs of their community. Christianity has similar
+practices -- dedicational prayers, devotionals, or even confessions --
+where the [teleonomic](https://en.wikipedia.org/wiki/Teleonomy) niche
+fulfilled is to facilitate informational exchange critical to serving
+the community or to orient individuals to be receptive to change.
+
+<a name="wat-you-mad-bro" />
+
+### [Wat? You Mad Bro?](#wat-you-mad-bro)
+
+In the West, you practically need to sell your firstborn to the
+Illuminati or your soul to the Masons to operate with these
+concepts. It is forbidden knowledge and, albeit cryptically, the
+impact that the spectral has on western societies is covered in the
+book [The Law is a White Dog](). Accumulating "informational taint" by
+one's actions or social associations ...
+
+In the west, the consequences of association with tainted individuals
+range from mildly burdening your reputation to all-out [Corruption of
+Blood](https://en.wikipedia.org/wiki/Attainder) in the
+extreme. Corruption of Blood, in its legal implementation, is a
+practice associated with attainder, but as it and other forms of
+attainder can occur implicitly or as a consequence of a sociophysical
+program, it is not strictly dependent on a legal mechanism. The Law is
+a White Dog deals with the spectral consequences of accumulation and
+diffusion of taint in society -- in America, the Constitutional
+provisions prohibiting Bills of Attainder have been circumvented by
+secret law and secret precedent, as well as the prohibitions of Cruel
+and Unusual Punishment.
+
+Secret law itself seems carried out by occult traditions and is
+thereby extra-legal: you are never nominally punished, but are
+subjected to "extra" helpings of legal process until whatever shadowy
+forces behind the scene that direct law and "order" see that society
+at large believes that the individual's punishment has been meted out
+fairly. Nothing will be left of the individual's social memory, except
+ghost stories. If [the extralegal bullshit that happened to me in this
+case](https://github.com/dcunited001/bb8) had been pulled off, I would
+never be able to receive a Visa to live in Japan. Do these people
+care? No. It is a foregone conclusion to them that my life is already
+and always will be *forfeit*. Forfeit to what? I don't even know.
+
+The same mechanisms by which these spectral processes proceed are nigh
+verboten for open discussion in the West, but so commonly understood
+in the East that they have been encoded into the semiotic and semantic
+structures of the Han Dynasty's written language for over two thousand
+years. Why? Because the individual is sacred in the West and the
+collective is enshrined in the East. Again, why?  Because the West was
+always reacting, economically and sociopolitically, to developments
+occuring in the East. To congeal to a sociopolitical collective was to
+conform to dynamics with causal momentum set in motion by the
+East. Why? In addition to the geoeconomic distribution of resources
+and commerce, it is because the day begins in the East and the causal
+implications of economic or sociopolitical events ripple westward,
+giving the East an timelessly insurmountable advantage for proactively
+driving dynamics the West would respond to. This advantage has
+subsided in the modern era, but the impacts to the evolution of
+language and especially philosophic thought will never be erased.
+
+####
+
+### Explain The Image of a Spectrogram
+
+- Where the amplitude of each Idea-Tones' frequency can be seen as the
+  aggregated attention invested in that idea over time
+  - Here, the frequency axis for an info-spectrogram is not so
+    linear. And while it isn't so simple to explain, the
+    conceptualization of ideas plotted in an infospectrogram is still
+    relevant.
+
+### Algebraic Speciation of Infogeometric Structures
+
+
+
+#### Yes, I Just Made Up The Word "Infogeometric" ...
+
+> Moral consequentialism is a thing and neologisms can sometimes be a
+> justified necessary evil, especially when they save you eight
+> characters. Information Geometry? No. I didn't make that up. It has
+> profound implications for artificial cognition and ontology.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m3QbaIdJ-xs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Useful as an ontological structure that algebraically provides a set
+  of generalized statistical models, which may be used to analytically
+  approximate any statistical system -- regardless of tensor rank,
+  which is increased by every algebraically irreducible direct sum.
+- Similar to the algebraic structures describing convexity in high
+  dimensions or enumerations relevant to Gaussian curvature.
+- Does the difference between norms (as distribution) and beliefs
+  about them provide a basis for descent using fisher metric to find
+  the infogeometric analytic structure(s) that generate(s) the
+  perceived norm.
+- The superposition of analytic structures (direct summation) that
+  represent the mapping of function spaces may be possible to infer
+  from the infogeometric results. This superposition (imprinted or
+  implied) may correspond to some algebra on hilbert spaces.
+- Normalization is like adversarial optimal transport (as a game)
+- Extrapolation is easier when common belief has greater social spread
+  and more complete consensus (in epistemic domains relevant to
+  propositions or some game) — the more epistemic similarity and
+  infogeometric overlap, the more resonance perceived by those
+  operating within the system.
 
 > "But for him who has seen the chaos, there is no more hiding,
 > because he knows that the bottom sways and knows what this swaying
@@ -314,9 +521,9 @@ current case law -- as well as an article in your favorite (...)
 
 - Hence, the enforceability, the likelihood of action on norms, etc
   ... relies on the spread of a norm’s distribution. The less clear
-  that polarization is exhibited among parties contesting some norm,
-  given the Clausewitz definition of polarization applied to those
-  parties’ interpretation of it, the less likely there is to be
+  the polarization that is exhibited among parties contesting some
+  norm, given the Clausewitz definition of polarization applied to
+  those parties’ interpretation of it, the less likely there is to be
   action. That is, if disparity among a norm’s interpretation occurs,
   it’s corresponding multi-variate distribution may either spread out
   over a large area of variables or be contained tightly. If there is
@@ -458,29 +665,6 @@ Clausewitz (chapter one, section 15, on polarity)
   of societal norms thereof exacerbate the individual's own
   disnormalization.
 
-### Algebraic Speciation of Infogeometric Structures.
-
-- Useful as an ontological structure that algebraically provides a set
-  of generalized statistical models, which may be used to analytically
-  approximate any statistical system -- regardless of tensor rank,
-  which is increased by every algebraically irreducible direct sum.
-- Similar to the algebraic structures describing convexity in high
-  dimensions or enumerations relevant to Gaussian curvature.
-- Does the difference between norms (as distribution) and beliefs
-  about them provide a basis for descent using fisher metric to find
-  the infogeometric analytic structure(s) that generate(s) the
-  perceived norm.
-- The superposition of analytic structures (direct summation) that
-  represent the mapping of function spaces may be possible to infer
-  from the infogeometric results. This superposition (imprinted or
-  implied) may correspond to some algebra on hilbert spaces.
-- Normalization is like adversarial optimal transport (as a game)
-- Extrapolation is easier when common belief has greater social spread
-  and more complete consensus (in epistemic domains relevant to
-  propositions or some game) — the more epistemic similarity and
-  infogeometric overlap, the more resonance perceived by those
-  operating within the system.
-
 ### Hexagram 8 (holding together) line 5
 
   - Holding Together (8) centers around the qualities of a person
@@ -500,6 +684,7 @@ TODO: sort imported content from notes
 
 Modesty: discuss any deviation from norm as potential for meaning in
 non-verbal communication
+
 - a social norm is a belief about a multivariate distributions’
   characteristics: what are the perceived average or reasonable values
   for those variables. a norm is not necessarily a distribution in
@@ -1077,6 +1262,14 @@ disnormalization at a scale never seen in history.
       technology for decades.
 
 
+# Hexagram 15
+
+
+
+
+# Hexagram 16
+
+
 =======
 
 Causation, dependent origination and constriction/filtration of causal
@@ -1166,3 +1359,10 @@ connection using sobolev-space-like objects.
     Realism as a Theory of
     Uncertainty](http://www.harvardilj.org/wp-content/uploads/HLI204_crop.pdf). Harv. Int'l
     LJ, 58, p.421.
+
+[^caelis-ruissant]: This, and other things people didn't both read
+    *and* understand, have been covered in [Caelis Ruissant](/posts/) and
+    other illegal essays.
+
+[^tokyo-ravens]: Yeh, I saw this in an anime once (Tokyo Ravens in
+    2014) and it blew my mind.

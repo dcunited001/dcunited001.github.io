@@ -1552,6 +1552,12 @@ great water ....
 - what does this mean for normification?
 - TODO: move notes from section on Information Consensus
 
+### Pay It Forward
+
+- (index card on teaching/norms)
+- implications of information replication to the spectral content of
+  epistemic structures, norms and the dynamics thereof.
+
 # [The Statistical Mechanics of I Ching](#the-statistical-mechanics-of-i-ching)
 
 - How does the Yarrow Sticks method of sampling critically differ from

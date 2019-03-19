@@ -50,6 +50,8 @@ permalink: /quotes/
 > is the cataclysm that results from our greatest fall since time
 > immemorial.
 
+> One man's dumpster fire is another man's religion.
+
 > Those who expect the unexpected stand to profit from the unexpected.
 > The ignorant then become like leaves in a wind they cannot begin to
 > see. Knowledge is power; truth is formless and all-emcompassing;
