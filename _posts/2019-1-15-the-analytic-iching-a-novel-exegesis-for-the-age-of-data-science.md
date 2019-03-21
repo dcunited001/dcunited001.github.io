@@ -643,18 +643,18 @@ imagined as another point in along that hyperplane, then the true
 value of divination is found by evaluating all the possible paths that
 connect those two points.
 
-TODO: See [below](#below) for a better explanation of In my opinion,
-there is little value in accepting the random point the I Ching yields
-to the querent as a definitively true message. It is instead the
-dissonance between the querent's perception of their situation and the
-I Ching's projection perception of the same situtation: these are the
-two points and their dissonance is evaluated by constructing paths to
-explain the difference between them. Since the points returned by the
-I Ching or some other divinatory system are effectively random, then
-they are completely disconnected from all the inherent biases that
-humans have. This deshrouds a person from their biases and thereby
-divination may disrupt the hold that the unconscious or illusion have
-over a person.
+TODO: See [below](#below) for a better explanation of (...) In my
+opinion, there is little value in accepting the random point the I
+Ching yields to the querent as a definitively true message. It is
+instead the dissonance between the querent's perception of their
+situation and the I Ching's projection perception of the same
+situtation: these are the two points and their dissonance is evaluated
+by constructing paths to explain the difference between them. Since
+the points returned by the I Ching or some other divinatory system are
+effectively random, then they are completely disconnected from all the
+inherent biases that humans have. This deshrouds a person from their
+biases and thereby divination may disrupt the hold that the
+unconscious or illusion have over a person.
 
 <a name="your-task-complete-the-circumstantial-circuits-of-explanation" />
 
@@ -928,15 +928,15 @@ TODO: move?
     handful of variables is not enough to guaranteed consistency or
     reproducibility. You must approach the brain and mind as a
     holistic system -- i.e. from both the top down and bottom up.
-  - So many of Jung's ideas are derided because they cannot be
-    proven. This is similar to what is perhaps greatest riddle of
-    Navier Stokes: what if something is true, but simply unprovable?
-    What if something exists beyond time and space, whose truth can
-    never be made certain in the material world? Does science fail?
-    What if Navier Stokes is a neverending riddle is freakishly
-    similar to Kant's noumenon. Regardless to the answer in Navier
-    Stokes, here it's presented merely as food for thought -- but
-    would this imply Gödel to be any less provable?
+  - Some of Jung's ideas are derided because they cannot be proven.
+    This is similar to what is perhaps greatest riddle of Navier
+    Stokes: what if something is true, but simply unprovable?  What if
+    something exists beyond time and space, whose truth can never be
+    made certain in the material world? Does science fail?  What if
+    Navier Stokes is a neverending riddle is freakishly similar to
+    Kant's noumenon. Regardless to the answer in Navier Stokes, here
+    it's presented merely as food for thought -- but would this imply
+    Gödel to be any less provable?
 
 Briefly cover the contention between hegelian/marxist dialectic as it
 relates to peace/stagnation, before completion & after completion.
@@ -1379,7 +1379,7 @@ conception of these eternal forms is another question entirely.
 Further confounding the contention whether knowledge and information
 is materially derived,
 
-- are these alien-forms from outside our universe
+- are these alien-forms from outside our universe [taking shape...]
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 

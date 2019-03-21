@@ -228,7 +228,7 @@ language and especially philosophic thought will never be erased.
 #### Yes, I Just Made Up The Word "Infogeometric" ...
 
 > Moral consequentialism is a thing and neologisms can sometimes be a
-> justified necessary evil, especially when they save you eight
+> justified, necessary evil -- especially when they save you eight
 > characters. Information Geometry? No. I didn't make that up. It has
 > profound implications for artificial cognition and ontology.
 
@@ -1118,6 +1118,11 @@ this unleashed a deluge of idiosyncratic memes. If an internet meme
 does not have wide distribution, then one cannot anticipate consistent
 apprehension of meaning in those who see it -- it has not become
 normalized.
+- for someone to retransmit a meme, they need to assume that people on
+  the receiving end get the joke. this is a belief about a normative
+  distribution. (the same thing applies to jokes. what's the point in
+  telling a joke if the other side can't piece together the
+  informational dependencies required for the joke?)
 
 ####
 
