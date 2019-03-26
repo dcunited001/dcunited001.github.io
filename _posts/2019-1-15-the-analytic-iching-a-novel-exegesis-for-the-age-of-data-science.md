@@ -13,8 +13,7 @@ Leibniz.
 
 ![](leibniz-iching.jpg)
 
-![Yin-Yang
-Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
+![Yin-Yang Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
 
 #### &#9775; &#x9775; The Heavenly Colors To Your Terrestrial Canvas &#x9775; &#9775;
 
@@ -64,7 +63,6 @@ Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
 
 #### &#19966; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
 
-
 <a name="the-essence-of-things" />
 
 # [The Essence of Things](#the-essence-of-things)
@@ -84,8 +82,9 @@ according to the following lecture. Each period corresponds to a
 different means of interpreting the I Ching: in terms of state, change
 and essence.
 
-TODO: link lecture that this was obtained from. note that I can't find
-much info on this (even in chinese searches)
+- TODO: link lecture that this was obtained from. note that I can't
+  find much info on this (even in chinese searches)
+- TODO: correct
 
 #### &#9312; State 簡易 jiǎnyì かんい 간이
 
@@ -198,9 +197,9 @@ concepts can be felt via exploration of purely natural phenomena.
 ### [Why Couldn't Vector Calculus Be More Relatable?](#why-couldnt-vector-calculus-be-more-relatable)
 
 What are the operators of vector calculus? The Gradient? The
-Laplacian? They are morphemes in the universal language of math? How
-universal is that language, *truly?* Are these merely applicable to
-science, math and physics? No doubt, these operators and other
+Laplacian? They are morphemes in the universal language of math... But
+how universal is that language, *truly?* Are these merely applicable
+to science, math and physics? No doubt, these operators and other
 mathematic phonemes are invaluable tools for expansion of the mind's
 abilities: to coordinate; to plan; to predict; to define. But can they
 be explained to a five year-old?
@@ -224,6 +223,33 @@ of an analytic interpretation of the I Ching: metaphors of purely
 natural philosophy can allow both a wise, but uneducated grandmother
 and an average physicist to communicate powerful explanations of
 social dynamics using a language of purely natural phenomena.
+
+The beauty of vector calculus operators is in how they pervade the
+world around us, despite being swept into abyssal enigmas of college
+textbooks, ancient wisdom traditions and the occult. You can see
+vector calculus when you steep tea or when you make tye dye
+t-shirts. Every cook in the kitchen, if they're worth their salt, must
+develop some intuition of the gradient and laplacian. They just don't
+realize the knowledge that the analytic systems in their brain are
+enabling their mind to operate with. A chef has to work with
+particularly complicated chemical changes and, to do so, must visually
+*read* changing color gradient that identify visible phase changes
+marking the progression of a chemical reaction.
+
+Natural philosophy enables the mind to curry metaphors from nature
+into our cognitive processes, so that we can reason about state,
+change and essence -- even in social systems where such dynamics do
+not manifest visibly. Math merely makes certain the epistemic
+structures corresponding to knowledge relevated to us by
+nature. Understand this and suddenly the ancient world's forgotten
+traditions of knowledge awaken again. Humans have always dealt with
+the same experience of reality and we have always possessed
+approximately the same level of intelligence. The only factor
+distinguishing the modern era is that we stand on the shoulders of
+giants, whose rationalist traditions pass down knowledge through
+literature that cannot fade from the world so easily. Still, the
+ancient world holds more knowledge that remains lost, so long as our
+arrogant perception of superiority persists.
 
 <a name="art-the-good-the-bad-and-the-ugly" />
 
@@ -337,8 +363,6 @@ the female aspect of the phenomenology here. The influence that the
 forces and momentums exert on the water as a fluid-dynamical system
 correspond to the male aspects.
 
-- TODO: stress this as waves of sociocultural or sociopolitical influence
-
 > In rip currents, notice how it is the shape of the seafloor that
 > *captures and channels* the collective momentum of water.
 
@@ -355,17 +379,18 @@ waves into turbulence.
 
 Using the pattern language of waves as an *au naturale* basis for
 dialectic -- i.e. describing the hexagrams within the language of
-waves -- then one may conceptualize Hexagram 12 as the effect undertow
-has on the constructive interference between waves. (Stagnation)
-creates a situation were waves tend to deconstruct each other. On the
-time scale of less than a dozen waves, protracted Stagnation creates
-an opportunity for the next big wave to blow past the stagnant
-water. The existing order is to be annihilated by the next large burst
-of energy, whether from the interior or exterior. In sociopolitcal
-terms, this is signified by a group of social institutions that have
-unwisely waste their energy. Perhaps this is fate and perhaps it is
-mismanagement. Regardless, it forebodes a precarious situation, where
-change is soon to wash over.
+waves -- then one may conceptualize Hexagram 12 as the deconstructive
+effect the turbulence of undertow has on incoming waves.
+[Stagnation](https://ichingfortune.com/hexagrams/12.php) creates a
+situation were waves tend to deconstruct each other. (On the time
+scale of less than a dozen waves, protracted Stagnation creates an
+opportunity for the next big wave to blow past the stagnant
+water). The existing order is to be annihilated by the next large
+burst of energy, whether from the interior or exterior. In
+sociopolitcal terms, this is signified by a group of social
+institutions that have unwisely waste their energy. Perhaps this is
+fate and perhaps it is mismanagement. Regardless, it forebodes a
+precarious situation, where change is soon to wash over.
 
 #### Stagnation in Ocean Waves
 
@@ -376,12 +401,12 @@ change is soon to wash over.
 
 ![Waves Stagnation](/img/posts/2018-12-10-the-analytic-i-ching/waves-stagnation.jpg)
 
+The hexagrams 1, 2, 11 and 12 form a microcosm within the I Ching by
+mirroring the four images of [四象 (Sì Xiàng)]()
+
 #### &#9775; Hexagram 63: [After Completion](https://ichingfortune.com/hexagrams/63.php)
 
 #### &#9775; Hexagram 64: [Before Completion](https://ichingfortune.com/hexagrams/64.php)
-
-- on another order...
-- perhaps high tide, perhaps low tide
 
 - [briefly!] explain 1,2,11,12,64,63 in terms of the mechanics of seaside
   waves in four periods (crashing in, reaching their full extent,
@@ -397,12 +422,8 @@ change is soon to wash over.
       reaches on a shore, at the moment where it becomes difficult to
       discern whether the wave is coming in or going out.
 
-
-
-
 Hexagrams 1, 2, 11, and 12 are located in the four corners of
-the grid. Within the I Ching, these four hexagrams form a microcosm
-that parallels the four.
+the grid.
 
 - Causal membranes & causality as a sociophysical process of
   diffusion: relate to the Conception of causality in terms of a
@@ -412,6 +433,7 @@ that parallels the four.
     (maneuvering), dilineated along intuition of nth-order diffusion
     systems. These factors tend to exhibit dynamics of coarse/fine
     scales
+
   - Reactions using a purely naïve understanding (without a concept of
     drift for first-order diffusion) amount to casting blame, whereas
     those who can accurately apprehend the SDE system state AND
@@ -420,10 +442,9 @@ that parallels the four.
     mindfulness to foster valid apprehension of social state, coupled
     with an understanding of higher-order diffusion of causal waves
     gives them control (pic of kung fu training with cauldron/water)
+
   - Measures of potential & sociokinetic higher-order energy
     (potential to influence)
-
-
 
 <a name="rationalize-your-exegesis" />
 
@@ -587,9 +608,7 @@ deserve. Perhaps I don't deserve much. I'm not asking for much, but
 > ones, but heard better. More precisely: we are never understood —
 > hence our authority."[^institutionalized]
 
-<a
-name="the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical"
-/>
+<a name="the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical" />
 
 ### [The Trance State: A Visual Emulation Whereby One Viscerally Experiences The Metaphysical](#the-trance-state-a-visual-emulation-whereby-one-viserally-experiences-the-metaphysical)
 
@@ -729,6 +748,8 @@ information about how to escape your local minima.
 
 ![Analytic Hyperplane](/img/posts/2018-12-10-the-analytic-i-ching/hyperplane.jpg)
 
+<a name="of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles" />
+
 ### [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
 
 Imagining higher dimensions is easier if you imagine the space in
@@ -799,6 +820,8 @@ posed by Boltzmann’s revelations.
     by the prospect of any such authentic move forwards in philosophy,
     if it is to be significant. And never in human history have the
     stakes seemed higher.
+  - reference will to power (976): "The Highest Man as Lawgiver of the
+    Future"
 
 Disruption is dangerous to the powers that be. "They" want a gradual
 rollout of innovation. This way, the stability of economic paradigms
@@ -1380,6 +1403,14 @@ Further confounding the contention whether knowledge and information
 is materially derived,
 
 - are these alien-forms from outside our universe [taking shape...]
+
+
+- TODO: integrate bits on the techniques from AlphaGo/AlphaZero that
+  leverage Dirichlet Distribution, which provides a mechanism for
+  "sensing" the most promising direcitons for exploration of
+  hypersurfaces.
+  - connect this to an analytic process of elucidation of the
+    metaphysical.
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 

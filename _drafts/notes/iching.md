@@ -180,7 +180,29 @@ some way to Yin/Yang, though not necessarily I Ching.
     bibliomancy. Everything is fairly weighted.
 
 
+#### Episode 9 and 10
 
+These episodes seem to be oriented around [Hexagram 20
+(Contemplation)](https://ichingfortune.com/hexagrams/20.php), which is
+symbolized by the lone tower, amidst a grove surrounded by wood. When
+Yumeko opens her door at the end of episode 9, she is blasted by wind
+as she stands at the top of the tower. She looks outwards, staring
+down at the earth, which is contextually relevant to the episode's
+plot. This hexagram is meaningful to Yumeko's motivation for opening
+the door: the view from the tower is symbolic to the impact on one's
+perspective that contemplation yields.
+
+Because of the strong imagery of wind, I had also considered [Hexagram
+57 (The Gentle)], which is wind over wind. The Wind trigram is also
+associated with wood, which is visible to Yumeko below. However, I
+feel that #20 is correct.
+
+If you take a leap of symbolic faith and assume that the six doors
+imply the existance of a code and that because Yumeko opened Door #2
+(hex 78 := 120º), then perhaps this implies the reading is
+20/Contemplation changing into 59/Dispersion.
+
+The flowers in the episode are white lilies (白百合)
 
 
 # make this a machine-learning post
