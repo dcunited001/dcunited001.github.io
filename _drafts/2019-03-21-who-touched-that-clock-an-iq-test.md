@@ -9,9 +9,9 @@ excerpt: ""
 ---
 
 "Have you ever bought a cheap, battery-powered clock, only to wonder a
-few months later: who keeps changing the time?"  Part ① Have you ever
-experienced this? Why does it happen?  Answer first, then read the
-answer below.
+few months later: who keeps changing the time?"
+
+#### Part ① Have you ever experienced this? Why does it happen? Answer first, then read the answer below.
 
 - i thought of our clock at Tech when I saw this. it kept getting
   stuck and off-time. this is why. (i posted on the SHS page, but it
@@ -30,9 +30,7 @@ impact of thermal change on the battery's power output.
 
 =======
 
-Part ② In particular, what are the least efficient gear positions?
-Assume what you like about the system of gears, but assume the minute
-hand and hour hand both weigh the same.
+#### Part ② In particular, what are the least efficient gear positions? Assume what you like about the system of gears, but assume the minute hand and hour hand both weigh the same.
 
 Again, answer first if you like, then read the answer below.
 
@@ -41,11 +39,12 @@ Again, answer first if you like, then read the answer below.
 The most expensive gear positions are times where the hand's are all
 on the left side of the clock.
 
-Part ③ What math would allow you to model this physical system with a
-#CyclicStateMachine? Did you picture the combinatorial system of gear
-positions, abstracted from time? Can you imagine doing the same for
-other physical systems? What other physical systems require reasoning
-about cyclic #StateMachines, combinatorially?
+#### Part ③ What math would allow you to model this physical system with a cyclic state machine?
+
+Did you picture the combinatorial system of gear positions, abstracted
+from time? Can you imagine doing the same for other physical systems?
+What other physical systems require reasoning about cyclic
+#StateMachines, combinatorially?
 
 Reasoning about this can unlock your brain's ability to intuitively
 reason about physical systems using #Combinatorial #HopfAlgebra, which
@@ -61,4 +60,4 @@ without worrying about variations in energy consumption.
 
 
 
-### (content from MENSA)
+### (content from MENSA group)

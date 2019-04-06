@@ -11,7 +11,13 @@ excerpt: ""
 Pictured above are the famous notes on I Ching gifted to Gottfried
 Leibniz.
 
-![](leibniz-iching.jpg)
+![](/img/posts/2018-12-10-the-analytic-i-ching/leibniz-iching.jpg)
+
+![](/img/posts/2018-12-10-the-analytic-i-ching/bagua.gif)
+
+![](/img/posts/2018-12-10-the-analytic-i-ching/monkwater.jpg)
+
+![](/img/posts/2018-12-10-the-analytic-i-ching/cauldron.jpg)
 
 ![Yin-Yang Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
 
@@ -54,6 +60,8 @@ Leibniz.
 #### &#19967; &#9775; [Hexagram 5 Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
 
 #### &#19966; &#9775; [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
+
+### [The Highest Man As Lawgiver of the Future](#the-highest-man-as-lawgiver-of-the-future)
 
 #### &#19967; &#9775; [Hexagram 12 Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
 
@@ -230,26 +238,33 @@ textbooks, ancient wisdom traditions and the occult. You can see
 vector calculus when you steep tea or when you make tye dye
 t-shirts. Every cook in the kitchen, if they're worth their salt, must
 develop some intuition of the gradient and laplacian. They just don't
-realize the knowledge that the analytic systems in their brain are
-enabling their mind to operate with. A chef has to work with
-particularly complicated chemical changes and, to do so, must visually
-*read* changing color gradient that identify visible phase changes
-marking the progression of a chemical reaction.
+realize the depth of knowledge that analytic neurological systems in
+their human brain enable within their mind. Its simply a matter of
+perception and cognition to unlock within the mind what already exists
+in the brain. A chef has to work with particularly complicated
+chemical changes and, to do so, must visually *read* changing color
+gradient that identify visible phase changes marking the progression
+of a chemical reaction. From the level of neurological circuits to
+pathways, these analytic systems can be reverse engineered by the mind
+to enable streamlined cognition in the same way one accelerates
+graphics processing with a GPU.
 
 Natural philosophy enables the mind to curry metaphors from nature
 into our cognitive processes, so that we can reason about state,
 change and essence -- even in social systems where such dynamics do
 not manifest visibly. Math merely makes certain the epistemic
 structures corresponding to knowledge relevated to us by
-nature. Understand this and suddenly the ancient world's forgotten
-traditions of knowledge awaken again. Humans have always dealt with
-the same experience of reality and we have always possessed
-approximately the same level of intelligence. The only factor
-distinguishing the modern era is that we stand on the shoulders of
-giants, whose rationalist traditions pass down knowledge through
-literature that cannot fade from the world so easily. Still, the
-ancient world holds more knowledge that remains lost, so long as our
-arrogant perception of superiority persists.
+nature.
+
+Understand this and suddenly the ancient world's forgotten traditions
+of knowledge awaken again. Humans have always dealt with the same
+experience of reality and we have always possessed approximately the
+same level of intelligence. The only factor distinguishing the modern
+era is that we stand on the shoulders of giants, whose rationalist
+traditions pass down knowledge through literature that cannot fade
+from the world so easily. Still, the ancient world holds more
+knowledge that remains lost so long as our arrogant perception of
+superiority persists.
 
 <a name="art-the-good-the-bad-and-the-ugly" />
 
@@ -260,23 +275,22 @@ preservation of quantities in vorticies insults the memory of
 Helmholtz. In more simple terms: the photo *looks* fake, but how can
 one intuitively describe *how* it is definitively fake without
 inspecting the pixels for evidence of photoshopping? It's because it
-defies the human intuition for natural philosophy. We do not need
-advanced symbolic manipulation of maths and logic to understand that
-this photo is fake.
+defies the human intuition for natural philosophy.
 
 #### Helmholtz's Three Laws Are Demonstrated By Every Vape Video On Youtube
 
 ![Smoke Rings](/img/posts/2018-12-10-the-analytic-i-ching/smoke-rings.jpg)
 
-Again ... Why? Because a visual representation of phenomena, whether
-artistic or photographic, in its depiction of natural phenomena, must
-reflect the preservation of equilibrium. Otherwise it *looks*
-fake. This is the difference between bad lighting and good lighting in
-paintings. When visual phenomena deviate from our neurologically
-encoded physical models, our analytical emulation of physics can not
-only distinguish the qualitative differences at a subconscious level,
-but also direct the mind's attention to areas in the depiction's local
-space that seem *most fake*.
+We do not need advanced symbolic manipulation of maths and logic to
+understand that this photo is fake. A visual representation of
+phenomena, whether artistic or photographic, in its depiction of
+natural phenomena, must reflect the preservation of equilibrium.
+Otherwise it *looks* fake. This is the difference between bad lighting
+and good lighting in paintings. When visual phenomena deviate from our
+neurologically encoded physical models, our analytical emulation of
+physics can not only distinguish the qualitative differences at a
+subconscious level, but also direct the mind's attention to areas in
+the depiction's local space that seem *most fake*.
 
 Via our experience of physical phenomena via sensory stimuli, our
 brain develops analytical models of physics that effectively
@@ -309,11 +323,24 @@ images of metaphor to natural phenomena.
 
 #### A Spherical Arrangement of the I Ching's Hexagrams
 
-> Notice the arrangement of hexagrams: 1, 2, 11, 12, 63 and 64. These
+> Notice the arrangement of **hexagrams: 1, 2, 11, 12, 63 and 64**. These
 > are positioned in a manner that is significant to the symmetry that
 > is displayed by the lines in those hexagrams.
 
 ![I Ching Sphere](/img/posts/2018-12-10-the-analytic-i-ching/ichingsphere.jpg)
+
+#### &#9775; Hexagrams 1 & 2: at the poles
+
+#### &#9775; Hexagrams 63 & 64: at the very center
+
+#### &#9775; Hexagrams 11 & 12: to the left and right of center
+
+Their symmetrical placement in this sphere is reflected in the Yin and
+Yang lines constituting each hexagram. These six hexagrams exhibit the
+clearest, most simply defined symmetry, making them a microcosm of the
+I Ching.
+
+<a name="the-yin-yang-microcosm-pervading-i-ching" />
 
 # [The Yin-Yang Microcosm Pervading I Ching](#the-yin-yan-microcosm-pervading-i-ching)
 
@@ -325,21 +352,18 @@ away our dreams as well. Nihilism... what will we do when it becomes
 as broad as daylight: there is nothing a man can dream to save us from
 the final human condition. And why would we take this from ourselves?
 
-And, as it does after the most vivid dreams, the nerves in my nose
-were tingling electrically for those five minutes. These dreams
-usually involve transportation at some point. I've only ever
-experienced this in the past few years of my life. Here I have the
-most clear thoughts, though not necessarily connected to my dreams,
-and it is here where I feel like I know my mind, as it is truly meant
-to be. Perhaps it is artificially constrained and maybe it's
-natural. Every waking minute is a lie: it's all swimming upstream,
-which has made me not only stronger, but instinctively aware of the
-mind's facets, since I have to deal with so many neurological
-issues. I am engaged in constant metacognition.
+As it does after the most vivid dreams, the nerves in my nose were
+tingling electrically for those five minutes. These dreams usually
+involve transportation at some point. I've only ever experienced this
+in the past few years of my life. Here I have the most clear thoughts,
+though not necessarily connected to my dreams, and it is here where I
+feel like I know my mind, as it is truly meant to be. Perhaps it is
+artificially constrained and maybe it's natural.[^metacognition]
 
 The sudden insight: the social and phenomenological dynamics
 symbolized following hexagrams can all be summed up by analogies to
-waves on a beach.
+waves on a beach. Describing six fundamental hexagrams within a
+pattern language of waves yields an *au naturale* basis for dialectic.
 
 #### Phenomenology of Ocean Waves
 
@@ -363,8 +387,13 @@ the female aspect of the phenomenology here. The influence that the
 forces and momentums exert on the water as a fluid-dynamical system
 correspond to the male aspects.
 
-> In rip currents, notice how it is the shape of the seafloor that
-> *captures and channels* the collective momentum of water.
+#### Ripcurrents
+
+> Notice how it is the shape of the seafloor that *captures and
+> channels* the collective momentum of water. Thus, the female
+> receptive shape of the seafloor channels the male physical energy of
+> ocean waves, yielding the emergent phenomena of ripcurrents via
+> balance of dynamics of sediment dispersion and collection.
 
 ![Ripcurrents](/img/posts/2018-12-10-the-analytic-i-ching/waves-ripcurrents.jpg)
 
@@ -373,14 +402,14 @@ correspond to the male aspects.
 #### &#9775; Hexagram 12: [Standstill (Stagnation)](https://ichingfortune.com/hexagrams/12.php)
 
 Hexagram 11 can be conceptualized by imagining rhythms of waves that
-reinforce constructive interference. This is a situation where there
-is minimal impact of undertow that deconstructs the kinetic energy of
-waves into turbulence.
+reinforce constructive interference. At the intersection of adjacent
+waves, their energy becomes constructive and they push farther up the
+shoreline, noisily frothing to their maximal extent. This is a
+situation where there is minimal impact of unseen undertow, which
+deconstructs the kinetic energy of waves into turbulence.
 
-Using the pattern language of waves as an *au naturale* basis for
-dialectic -- i.e. describing the hexagrams within the language of
-waves -- then one may conceptualize Hexagram 12 as the deconstructive
-effect the turbulence of undertow has on incoming waves.
+One may conceptualize Hexagram 12 as the deconstructive effect the
+turbulence of undertow has on incoming waves.
 [Stagnation](https://ichingfortune.com/hexagrams/12.php) creates a
 situation were waves tend to deconstruct each other. (On the time
 scale of less than a dozen waves, protracted Stagnation creates an
@@ -402,49 +431,48 @@ precarious situation, where change is soon to wash over.
 ![Waves Stagnation](/img/posts/2018-12-10-the-analytic-i-ching/waves-stagnation.jpg)
 
 The hexagrams 1, 2, 11 and 12 form a microcosm within the I Ching by
-mirroring the four images of [四象 (Sì Xiàng)]()
+mirroring the four images of [四象 (Sì Xiàng)](https://en.wikipedia.org/wiki/Four_Symbols)
 
 #### &#9775; Hexagram 63: [After Completion](https://ichingfortune.com/hexagrams/63.php)
 
 #### &#9775; Hexagram 64: [Before Completion](https://ichingfortune.com/hexagrams/64.php)
 
-- [briefly!] explain 1,2,11,12,64,63 in terms of the mechanics of seaside
-  waves in four periods (crashing in, reaching their full extent,
-  pulling out and Riptide/undertow)
+Regardless of how strongly resonant normative forces seem to secure
+the certainty of an era or empire's social order, that group's social
+order will break like the crest of a wave to reach its furthest extent
+on the shore. This is the crux highlighted by the infinitessimal
+difference between the hexagrams Before Completion (64) and After
+Completion (63). The energies in flux that reinforce one social
+hierarchy's sociopolitical norms are essentially generated by socially
+distributed beliefs. As the socioeconomic situation changes
+incentization of entities projecting agency through a system, socially
+distributed belief changes to suit the needs of individuals and
+groups. Network effects intrinsic to sociophysical networks create
+tail risks. The socioepistemological churn between idealism and
+materialism is a socially distributed process of genetic
+epistemology. To be demonstrated later, the methods of marxist and
+hegelian dialectic are tools for individuals and groups to influence
+the mechanics and dynamics of this genetic socioepistemological
+process.
+
+The difference between the moment before and after some phenomenon's
+maximal extent is infinitessimal. This is the task left to the fox
+crossing the ice in hexagrams 63 & 64. When the energies reinforcing
+systems of norms are resonant, this ice representing the forms of the
+existing order may reinforce itself. To benefit from the apparent
+certainty of the existing order is expedient; to exude confidence in
+the overgrown shadow of creeping tail risk is foolish. That said, no
+one actually respects an obsequious sycophant. As useful as they may
+be, if their values are baseless, their lack of ethical fortitude will
+eventually render moot any potential gain their servile calculations
+may appear to offer.
+
   - the receptive: for the waves rolling in, the receptive are the
     forces (of the shore) acting on each to deconstruct their form and
     to eventually pull them back out to sea.
-  - peace: is like the intersection between the shore and the waves
-    noisily frothing to their maximal extent.
-  - stagnation:
-  - before completion, after completion
-    - these could also be imagined as the farthest point the wave
-      reaches on a shore, at the moment where it becomes difficult to
-      discern whether the wave is coming in or going out.
 
 Hexagrams 1, 2, 11, and 12 are located in the four corners of
 the grid.
-
-- Causal membranes & causality as a sociophysical process of
-  diffusion: relate to the Conception of causality in terms of a
-  naïve, base recognition of state/change in a system with diffusion.
-
-  - contrast the differences in causal perception, inference,
-    (maneuvering), dilineated along intuition of nth-order diffusion
-    systems. These factors tend to exhibit dynamics of coarse/fine
-    scales
-
-  - Reactions using a purely naïve understanding (without a concept of
-    drift for first-order diffusion) amount to casting blame, whereas
-    those who can accurately apprehend the SDE system state AND
-    extrapolate state change to 1st/2nd order drift tend to identify
-    options and leverage. They instead exhibit control, given
-    mindfulness to foster valid apprehension of social state, coupled
-    with an understanding of higher-order diffusion of causal waves
-    gives them control (pic of kung fu training with cauldron/water)
-
-  - Measures of potential & sociokinetic higher-order energy
-    (potential to influence)
 
 <a name="rationalize-your-exegesis" />
 
@@ -593,10 +621,13 @@ substance attached to labels, if they can even expound on the label's
 meaning. They excel at vocabulary tests, dominate multiple choice, but
 suffer from a prefrontal defect where applied critical thinking is not
 available to them. Knowing they cannot, would they even dare to try?
-With the thought police over their shoulder? When they want to
-ascertain the extent and novelty of someone's internalized epistemic
-structures, they are capable of limited reasoning, given a short list
-of that person's academic degrees. That is all.
+With the thought police over their shoulder? When the educated
+populace want to ascertain the extent and novelty of someone's
+internalized epistemic structures, they are capable of limited
+reasoning, given a short list of that person's academic degrees, each
+degree corresponding to a lower epistemic bound of domain
+knowledge. This, in itself is valuable, but insufficient for true
+evolution.
 
 This leaves me with *nothing* and certainly without the respect I
 deserve. Perhaps I don't deserve much. I'm not asking for much, but
@@ -701,9 +732,9 @@ circumstance of social captivity.
 
 # [What Is A Hexagram, Analytically?](#what-is-a-hexagram-analytically)
 
-Note: some creativity may be required to assemble the parts
-included. Referring to the Wilhelm-Baynes text should complete the
-circuit, if one finds pieces missing.
+> Note: some creativity may be required to assemble the parts
+> included. Referring to the Wilhelm-Baynes text should complete the
+> circuit, if one finds pieces missing.
 
 ### [Hexagram 5 Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
 
@@ -811,6 +842,10 @@ millennia. If you understand how this revolutionized the steel and
 chemical industries, then you must understand the threat of disruption
 posed by Boltzmann’s revelations.
 
+<a name="the-highest-man-as-lawgiver-of-the-future" />
+
+### [The Highest Man As Lawgiver of the Future](#the-highest-man-as-lawgiver-of-the-future)
+
 - That philosophy can never move forwards in an authentic direction is
   a product of insurmountable complexity combined with Neitzsche's
   Danger of Dangers.
@@ -818,13 +853,13 @@ posed by Boltzmann’s revelations.
     anyone could ever deconstruct existing ideas to reconstruct them
     into some truly novel basis. Existing moral systems are frightened
     by the prospect of any such authentic move forwards in philosophy,
-    if it is to be significant. And never in human history have the
-    stakes seemed higher.
+    if it is to be significant -- but never in human history have the
+    stakes been higher.
   - reference will to power (976): "The Highest Man as Lawgiver of the
     Future"
 
 Disruption is dangerous to the powers that be. "They" want a gradual
-rollout of innovation. This way, the stability of economic paradigms
+rollout of innovation, whereby the stability of economic paradigms
 that benefit them can be guaranteed. What will be known in the near
 future is almost always already known by a handful of people, who
 exploit their control over scarce knowledge for financial
@@ -877,7 +912,7 @@ that benefits them so much.
 #### What Rises From The Ashes?
 
 > How to architect robust social institutions hardened against total
-> system collapse is a lesson humanity learned at a socialological
+> system collapse is a lesson humanity learned at a sociolological
 > scale during the centuries after the Sea Peoples disrupted trade at
 > the height of the european Bronze Age. Trade was more critical to
 > quality of life than any king or pharoah.
@@ -903,78 +938,135 @@ shared knowledge is also expensive.
 
 You can thank Aristotle and the Greeks for creating such a system to
 counter the East: when physical travel limited the spread of
-information, the West was always at an geoinformational disadvantage.
-Together, humanity seems to have created a "sociophilosophical churn"
-based on moving back and forth between material and immaterial
-conceptions of metaphysics. That's speculative of course -- but
-philosophy is incredibly powerful. Control how people conceive
-reality, *control the limits of how people conceive reality* **and you
-control the collective dreams of humanity.** This is the power of
-trapping entire cultures in a false paradigms; this is the danger of
-pure materialism. It is terrifying because it means that humanity's
-power to dream collectively might be extinguished and not a single
-person would be standing to pierce through the invisible darkness of
-ignorance that blankets us.
+information, the West was always at an geoinformational
+disadvantage. Further, that the most significant economically
+strategic chokepoints along the Silk Road were dominated by the East
+implies that until the past millinium, the West constantly bled
+liquidity to middlemen in the Near East, who stood to benefit from all
+trade between the East and West. From the churn of empires contending
+to displace one another in the Near East emerged the need to control
+*sociophilosophical churn*. Despite every empire's tendency to project
+an illusion of unquestionable eternity, every architect of empire
+knows it is a pyramid scheme of power. Controlling the potential for
+systems of thought to normalize back and forth between material and
+immaterial conceptions of metaphysics conferred advantages: for those
+empires whose regional power was secured in foreseeable generations
+needed to secure the potential to regain power in future generations;
+likewise, those regions dominated by the empire of their times needed
+popular adoption of systems of thought to counter the existing powers.
+
+This idea that philosophical traditions in the West and Near East
+would churn between being immaterially and materially oriented based
+on the economic needs and trends of the powerful and the powerless
+resonates with the Conflict Theory of Karl Marx. In times when the
+existing systems of thought economically benefit the masses, then the
+people are content with systems leaning towards immaterial metaphysics
+-- yet between generations, each region's economic imperitives
+ordained specific benefits to systems of thought, which above all else
+needed to be adaptable. This perhaps explains the rift between Plato
+and Aristotle's thought on metaphysics: Aristotle's generation had
+found the truth impractical, given the West's economic dependence on
+trade in the east.
+
+The contention between the Marxist and Hegelian conceptions of both
+metaphysics and dialectical argumentation can also be explained as
+tools to reinforce or disrupt existing orders. The marxist dialectic's
+utility, in the context of sociopolitical reform, is in challenging
+and overturning an existing order or establishing a new one
+entirely. It provides a vexingly systematic means of influencing
+discourse and rhetoric by rooting argumentation in a limited set of
+terms and dissuading "constructing". The Hegelian dialectic, in its
+social application, advantages the existing sociopolitical order,
+whether it is dominant or occult. However, this begs the question: how
+do Marxist political orders whose systems of thought become well
+established insulate themselves from disruption without eventually
+diluting their dialectic?
+
+Control how people conceive reality, *control the limits of how people
+conceive reality* **and you control the collective dreams of
+humanity.** Into which far-flung recesses of the collective
+epistemological possibility space might thinkers great and small
+direct their attention? Socially distributed systems of thought
+determine what can be considered "normal" to be within the Kantian
+Category for some individual in society -- which is itself a kind of
+[dual space](https://en.wikipedia.org/wiki/Dual_space) of reasonable
+thought or expectation about some given social phenomena or
+dynamic. Control, constrain or spectrally filter this dual space of
+the Kantian Category of reasonably expected extrapolations in social
+mechanics/dynamics and you control the collective dreams of your
+people.
+
+This is the power of trapping entire cultures in a false paradigms;
+this is the danger of pure materialism. It is terrifying because it
+means that humanity's power to dream collectively might be
+extinguished. Not a single person would be standing to pierce through
+the invisible darkness of ignorance that blankets us. Where the
+idealist conception of metaphysics is typically rooted in some set of
+perfect archetypes or froms, the materialist's conception is ideally
+rooted in a universally distributed shared epistemology of empirically
+observable facts. Hence, to the materialist, the region of epistemic
+possibility space that seems reasonable is far more constrained. This
+is pragmatic for material progress, but it bounds the potential for
+socioepistemic churn and thus limits the rate of evolution.
 
 #### Lordgenome, the Spiral King, from Gurren Lagan
 
+> To me, the Spiral King's usage of power symbolizes this control over
+> socioepistemic and sociophilosophical churn. If you watch the anime,
+> maybe you'll arrive at a similar interpretation.
+
 ![Lordgenome](/img/posts/2018-12-10-the-analytic-i-ching/lordgenome.jpg)
 
-> To me, the Spiral King's usage of power symbolizes this control over
-> the socioepistemic and sociophilosophical churn. If you watch the
-> anime, maybe you'll get the same interpretation. Similar to the
-> socioeconomic churn from which billionaires extract slices of
-> financial wealth and similar to a battery's potential difference
-> that creates voltage, there is power to be gained in the social
-> movement from one paradigm to another.
+Similar to the socioeconomic churn from which billionaires extract
+slices of financial wealth and similar to a battery's potential
+difference that creates voltage, there is power to be gained in the
+social movement from one paradigm to another. This process plays out
+between groups vying for power over man's shadow and his self-imposed
+limitations on thought. With respect to a philosophical context, when
+thought is consolidated into more singular paradigms, the potential
+for humanity's evolution stagnates.
 
 Psychology also exhibits social churn in society's acceptance of
 distributed paradigms. Jungian ideas are notoriously difficult to
 frame in an experiment. Thus, they are often conspicuously absent from
 psychological practice, though it's arguable that some Jungian ideas
 exhibit more power and allow more control if they influence you
-*unconsciously*. Hence, encourage the acceptance of a false paradigm
-and *some* of Jung's ideas are more effective. Every person undergoes
-a gradual, lifelong process of waking up. Their individual unconscious
-tabula rasa is etched away by their experience...
+*unconsciously*. Hence, encourage the acceptance of a false or
+unprovable paradigm and you empower *some* of Jung's ideas. Every
+person undergoes a gradual, lifelong process of waking up. Though
+initially tabula rasa, their individual unconscious, is etched away by
+their experience...
 
-TODO: move?
+> Buddhists would say we have simply forgotten. Our true nature is
+> pre-eminent, but obscured from us. When true light radiates outward
+> from us, what happens to the shadows we used to see? If we see our
+> true nature within, what do we see without?
 
-  - [The problem of reproducing experimental results in
-    psychology](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-soul-is-not-what-you-think-it-is)
-    results from the near-infinite nature of the mind. Studying the
-    mind and assuming you can clamp down controls one a handful of
-    variables is foolish. The mind differs fundamentally from other
-    subjects of experimental methodology by the same phenomenological
-    measure that finite-dimensional systems are distinguished from
-    infinite-dimensional systems. This is why simply controlling a
-    handful of variables is not enough to guaranteed consistency or
-    reproducibility. You must approach the brain and mind as a
-    holistic system -- i.e. from both the top down and bottom up.
-  - Some of Jung's ideas are derided because they cannot be proven.
-    This is similar to what is perhaps greatest riddle of Navier
-    Stokes: what if something is true, but simply unprovable?  What if
-    something exists beyond time and space, whose truth can never be
-    made certain in the material world? Does science fail?  What if
-    Navier Stokes is a neverending riddle is freakishly similar to
-    Kant's noumenon. Regardless to the answer in Navier Stokes, here
-    it's presented merely as food for thought -- but would this imply
-    Gödel to be any less provable?
+Some of Jung's ideas are derided because they cannot be proven.  This
+is similar to what is perhaps greatest riddle of Navier Stokes: what
+if something is true, but simply unprovable?  What if something exists
+beyond time and space, whose truth can never be made certain in the
+material world? Does science fail?  What if Navier Stokes is a
+neverending riddle is freakishly similar to Kant's
+noumenon. Regardless to the answer in Navier Stokes, here it's
+presented merely as food for thought -- but would this imply Gödel to
+be any less provable?
 
-Briefly cover the contention between hegelian/marxist dialectic as it
-relates to peace/stagnation, before completion & after completion.
-
-- The contention between the Marxist and Hegelian conceptions of both
-  metaphysics and dialectical argumentation
-  - the marxist dialectic's utility, in the context of sociopolitical
-    reform, is in overturning an existing order or establishing a new
-    one. In the same context, the hegelian dialectic's utility is
-    in...
-  - supporting argument?
+[The problem of reproducing experimental results in
+psychology](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-soul-is-not-what-you-think-it-is)
+results from the near-infinite nature of the mind. Studying the mind
+and assuming you can clamp down controls one a handful of variables is
+foolish. The mind differs fundamentally from other subjects of
+experimental methodology by the same phenomenological measures whereby
+finite-dimensional systems are distinguished from infinite-dimensional
+systems. Psychology stands to benefit by understanding the approaches
+used in bayesian non-parametrics and infinite dimensional
+systems. Simply controlling a handful of variables is not enough to
+guaranteed consistency or reproducibility. You must approach the brain
+and mind as a holistic system -- i.e. from both the top down and
+bottom up.
 
 #### What If I Told You: The Frozen Flame is the Answer
-
-- TODO: Drop it?
 
 ![The Frozen Flame](/img/posts/2018-12-10-the-analytic-i-ching/the-frozen-flame.jpg)
 
@@ -982,7 +1074,7 @@ relates to peace/stagnation, before completion & after completion.
 
 ### [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
 
-(The six sense is memory.)
+> (The sixth sense is memory.)
 
 We are all particles in the collective potential distributions of a
 sociophysical
@@ -1346,18 +1438,24 @@ nature of the creative and the eternal can similarly augment the human
 mind. Regardless, the forms encoded within the training data begin to
 manifest in the trained theta weights of the algorithm.
 
-Almost every machine learning is a combinatoric analytical model of
-some sort or another. It's the combinatorial use of polynomials that
-correspond to some tensorial algebra -- i.e. some model made of matrix
-multiplication. It's a lot simpler than it sounds. Here, the
-analytical model converges to internalize a numerical model. Often, in
-computation for physical or chemical simulations, it's found that the
-most comprehensively numerical model is insufferably complicated, but
-that another analytical or numerical model exists which achieves
-effective accuracy for the simulation. What this means is that there
-is some formula which is disconnected from the underlying physical
-mechanics which can simplify computation without a loss of
-accuracy.
+Almost every machine learning methods involve combinatoric analytical
+models of some sort or another. It's the combinatorial use of
+polynomials that correspond to some tensorial algebra -- e.g. some
+model made of matrix multiplication. Further, plate models can be
+combinatorically enumerated using algebraic structures. So if we
+consider at least some algebraic structures from math as metaphysical
+noumenological structures, they give us analytical models which yield
+further emergent metaphysical structures asymptotically corresponding
+to analytic representations of epistemic structures.
+
+It's a lot simpler than it sounds. Here, the analytical model
+converges to internalize a numerical model. Often, in computation for
+physical or chemical simulations, it's found that the most
+comprehensively numerical model is insufferably complicated, but that
+another analytical or numerical model exists which achieves effective
+accuracy for the simulation. What this means is that there is some
+formula which is disconnected from the underlying physical mechanics
+which can simplify computation without a loss of accuracy.
 
 #### Predicting the Average Size of Bubbles[^average-bubble-size]
 
@@ -1387,8 +1485,22 @@ terms of physics, but are composed of analytical structures required
 for discretization of vector fields in PDE's, particularly for the
 Wave Based Method.[^wave-based-method-2]
 
-Representational learning allows machine learning algorithms to begin
-to disentangle its own impure conceptions of form. Eventually AI will
+#### The Pilot-Wave Dynamics of Walking Droplets
+
+> A demonstration of the generalized conception of wave functions at
+> the macroscopic level in an experiment setup using cymatics to move
+> oil droplets. However, these methods have not been shown to
+> replicate results from the double-slit experiments.[^pilot-wave-theory]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### Representational Learning
+
+[Representational
+learning](https://www.youtube.com/watch?time_continue=33&v=N0Ld2iTMaMs)
+allows machine learning algorithms to begin to [disentangle its own
+impure conceptions of
+form](). Eventually AI will
 be able to deconstruct typological and metatypological relationships,
 connecting these to semiotic, semantic and symbolic interpretations of
 the meaning behind the relationships.
@@ -1396,21 +1508,86 @@ the meaning behind the relationships.
 There are materially dependent metaphysical forms, but there are also
 metaphysical forms which do not descend from the material plane at
 all. Everything in the material plane is a consequence of these
-eternal forms and can be more clearly seen through them. Since our
+eternal forms and can be more clearly seen through them. (Since our
 minds do arise in the material plane, whether one has a clear
-conception of these eternal forms is another question entirely.
+conception of these eternal forms is another question entirely.)
 Further confounding the contention whether knowledge and information
-is materially derived,
+is materially derived, ...
 
-- are these alien-forms from outside our universe [taking shape...]
+These forms whose shape transcends space and time as perceived within
+our universe: are they not alien to this world? There is some kernel
+of truth thats transcends all possible realities. All possible
+simulations or virtual realities have within them this kernel of truth
+and from it are enumerated all mathematical and logical forms.
 
+No matter how much effort reinforce your virtual sociophysical jail --
+whether it be some clever [Frustrator
+Device](https://aeon.co/videos/if-you-knew-everything-could-you-predict-anything-a-thought-experiment)
+or applied [Knights and Knaves
+Paradox](https://en.wikipedia.org/wiki/Knights_and_Knaves); whether or
+not it is augmented by surveillance -- all their effort is wasted, if
+you cling stubbornly to free will. They may delude you as to the
+truth, fantasy or pure delusion of your apparent reality, but because
+there is no conception of reality which does not contain this
+asymptotic connection to universal truth, you may always awaken to it
+-- from within any simulation, virtual reality or jail concocted as a
+sociophysical [SDE boundary
+problem](https://en.wikipedia.org/wiki/Stochastic_processes_and_boundary_value_problems).
+
+The process of constructing a **sociophysical frustrator** by
+constructing "walls" made of SDE Boundary Condtions, must necessarilly
+deprive the target of right to liberty and pursuit of happiness by
+constricting their sources of income and social influence all for the
+singular purpose of rendering them *predictable* enough to be bounded
+into a sociophyisical jail. If you find yourself in this situation,
+you live inside a virtual reality where everyone around you acts as a
+knave to corral you back into your SDE boundary, no matter what you
+do. However, your adversaries themselves always have sociophysical
+energy constraints that restrict their actions and force them to
+constrict their targets. In order to operate efficiently, they must
+cultivate an air of fear by overreacting to create examples of ruined
+lives. This fear enables them to direct their energy towards a more
+limited set of targets -- all to operate their sociophysical prisons
+in an energy-efficient manner. Thus, projecting the delusion that you
+do not have free will is useful to those who operate with fear, which
+itself is a tool for managing system-wide certainty and uncertainty by
+architecting information systems of terror and fear to be socially
+distributed.
+
+In a virtual reality built by knaves, the question of whether you may
+awaken to the truth is determined your capacity to direct willpower
+and intelligence to gravitate towards the gradient of absolute truth
+shared between all realities. Hence, identifying those threads and
+strands of informational connections to ultimate truth is of vital
+importance -- whether escaping some trivial boundary conditions,
+attainder or outright corruption of blood.
 
 - TODO: integrate bits on the techniques from AlphaGo/AlphaZero that
   leverage Dirichlet Distribution, which provides a mechanism for
   "sensing" the most promising direcitons for exploration of
   hypersurfaces.
+  - dirichlet processes, bayesian non-parametrics, clustering and
+    information geometry.
+  - the distinctions herein between Kant's epistemological analytic
+    and synthetic terminology ... and the usage of analytic as it
+    relates to the contexts of analytic representations of information
+    in machine learning or analytic philosophy.
   - connect this to an analytic process of elucidation of the
-    metaphysical.
+    metaphysical. specifically, in terms of Kant's Analytic-Synthetic
+    Distinction, the analytic methods of machine learning begin to
+    reveal connections to synthetic a priori knowledge in the form of
+    combinatoric structures (a la statistical modeling or algebras
+    producing polynomials)
+    - that is, if we can form assumptions along an a priori synthetic
+      basis that can be validated in terms by means of postieri
+      analytic/synthetic process, then we can accelerate our
+      development of knowledge (and epistemic forms that are analytic
+      methods of machine learning internalize).
+    - by hooking [...]  into a metaphysically global, overarching
+      ontological structure... one can accelerate the development of
+      synthetic a priori postulates whose truth can only be validated
+      by synthetic a postieri reasoning.
+
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
@@ -1513,103 +1690,6 @@ Doing so quickly becomes intractible, so the energy you invest thereto
 must be channeled wisely, otherwise it is wasted. In sociophysical
 systems, even before the validity the tractibility of problems
 
-### [Hexagram 15 Details The Phenomena of Normification, Not Simply "Modesty"](#hexagram-15-details-the-phenomena-of-normification-not-simply-modesty)
-
-What is modesty? In social interactions? How does one know how to
-subtle tailor the presentation of action and intent to match a modest
-display of values? This is accomplished by averaging qualities of
-one's life experience and comparing them against society's average
-expectations.
-
-The lines of Hexagram 15, Modesty, detail phenomena, dynamics and
-mechanics of norms and normification. Paradoxes arise in norms: how
-does one project their beliefs and values regarding some subject when
-there aren't enough data regarding that subject for society to have
-formed norms and expectations?
-
-#### Hexagram 15: 1st and 2nd Lines
-
-> *Nine at the beginning means:*
->
-> A superior man modest about his modesty
->
-> May cross the great water.
->
-> Good Fortune.
->
-> *Six in the second place means:*
->
-> Modesty that comes to expression.
->
-> Perseverence brings good fortune.
-
-In the first and second lines of Hexagram 15: before the first, no
-norm existed, but after such an undertaking as the crossing of the
-great water ....
-
-- establish why this relates to norms/normification
-  - how does one know how to be modest? to regulate your projection of
-    normal behavior, you must know what is normal in the context. how
-    would one know whether they are being modest about their modesty?
-    how much self-regulation of behavior is necessary to appear
-    modest?
-
-### [Hexagram 16: The Laplacian's Socioinformational Analogue, Not Simply "Enthusiasm"](#hexagram-16-the-laplacians-socioinformational-analogue)
-
-- brought to you from the depths of zen, it's a spectral conception of
-  phenomenology
-
-### What's Normal? Trial By Bayesian Persuasian
-
-- it means that one person acts as a litmus test to vouch on the
-  behalf of another person. used by social justice warriors and
-  scientologists to decide whether to permit [temporarily] social
-  access to a targeted individual.
-
-#### Don't Understand? Let this lady from the Simon's Institute read you your rights.
-
-- how consciousness/awareness of norms impacts the process of
-  normitization and people's application of deontological reasoning
-  - how do people behave when they are unconscious to norms or believe
-    they are aware of norms which are invalid assumptions?
-  - this is a good segue into hexagram 16
-
-- structure in content about a spectral theory of information
-
-- the concept of teaching and teaching how to teach something
-  - the statistical paradoxes thereof (from the same index card as the
-    above distributions transport illustration)
-
-- what does this mean for normification?
-- TODO: move notes from section on Information Consensus
-
-### Pay It Forward
-
-- (index card on teaching/norms)
-- implications of information replication to the spectral content of
-  epistemic structures, norms and the dynamics thereof.
-
-# [The Statistical Mechanics of I Ching](#the-statistical-mechanics-of-i-ching)
-
-- How does the Yarrow Sticks method of sampling critically differ from
-  a Tarot deck? partly because the sampling process is not a
-  differential: i.e. the probabilities of the next sampled reading do
-  not depend on the state of the deck of cards. Why do Vegas dealers
-  *only* draw from fresh decks of cards? For similar reasons: to
-  eliminate any potential differential interdependency in the values
-  sampled. So, the yarrow sticks method is like sampling from a fresh
-  deck of cards every time.
-
-### On Conceptualizing State and Change (and the statistical mechanics of I Ching)
-
-#### [Shape Entropy](https://phys.org/news/2014-11-geometry-entropy-links-nanostructures-emergent.html)
-
-![Shape Entropy](/img/posts/2018-12-10-the-analytic-i-ching/shape-entropy.jpg)
-
-![Social Physics from XIII anime #1](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-1.jpg)
-
-![Social Physics from XIII anime #2](/img/posts/2018-12-10-the-analytic-i-ching/b-xiii-social-physics-2.jpg)
-
 [^neuro-social-media]: The constant juxtaposition of the objects
     mental focus has disastrous long-term effects, psychologically and
     neurologically. When you read a book, you focus on the same
@@ -1635,8 +1715,22 @@ great water ....
     algorithms operate as a black box. Yet privacy concerns prevent FB
     from yielding most data to private users.
 
-
-
+[^metacognition]:Every waking minute is a lie: it's all swimming
+    upstream, which has made me not only stronger, but instinctively
+    aware of the mind's facets, since I have to deal with so many
+    neurological issues. I am engaged in constant metacognition. To
+    other people, the flaws can be obvious, but most people don't see
+    the parts of my mind that compensate for the flaws. Since my
+    short-term memory is weak, I externalize information systems and
+    overcompensate by developing diverse procedural mechanisms to read
+    information that most people filter out, if they are capable of
+    apprehending it at all. Leveraging metacognition to systematizing
+    that process causes me to develop functionality that other people
+    don't need to bother with. What is crazy is how no one else
+    mentions this or attempts to bring it to my attention
+    whatsoever. It's like they're counting on me failing and they
+    don't want to mess it up. I'm not sure why I'm so thoroughly
+    alienated that simple honesty or acts of kindness is verboten.
 
 [^institutionalized]: The quote is from Twilight of the Idols, a book
     that's little more than a short list of post-it notes cobbled
@@ -1723,3 +1817,6 @@ great water ....
     [Computational Optimal
     Transport](https://arxiv.org/abs/1803.00567v2) arXiv preprint
     arXiv:1803.00567v2
+
+[^pilot-wave-theory]: [Famous Experiment Dooms Alternative to Quantum
+    Weirdness](https://www.quantamagazine.org/famous-experiment-dooms-pilot-wave-alternative-to-quantum-weirdness-20181011/)

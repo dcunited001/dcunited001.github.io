@@ -875,6 +875,14 @@ this way and was so intelligent.
       society through a simple 2D/3D LINEAR TRANSFORMATION, which
       neural networks are EXCELLENT at recognizing.
 
+- [Mirror writing ability is genetic and probably transmitted as a
+  sex-linked dominant trait: it is hypothesised that mirror writers
+  have bilateral language centres with a callosal
+  interconnection](https://doi.org/10.1016/j.mehy.2003.12.039)
+- [Mirror writing: neurological reflections on an unusual
+  phenomenon](http://dx.doi.org/10.1136/jnnp.2006.094870)
+- [Brain activation associated with practiced left hand mirror
+  writing](https://doi.org/10.1016/j.bandl.2012.12.015)
 
 ### Expansive Symbol Recognition
 

@@ -8,15 +8,71 @@ author:
 excerpt: ""
 ---
 
+
+### [Hexagram 15 Details The Phenomena of Normification, Not Simply "Modesty"](#hexagram-15-details-the-phenomena-of-normification-not-simply-modesty)
+
+What is modesty? In social interactions? How does one know how to
+subtly tailor the presentation of action or intent to match a modest
+display of values? This is accomplished by averaging qualities of
+one's life experience and comparing them against society's average
+expectations.
+
+The lines of Hexagram 15, Modesty, detail phenomena, dynamics and
+mechanics of norms and normification. Paradoxes arise in norms: how
+does one project their beliefs and values regarding some subject when
+there aren't enough data regarding that subject for society to have
+formed norms and expectations?
+
+#### Hexagram 15: 1st and 2nd Lines
+
+> *Nine at the beginning means:*
+>
+> A superior man modest about his modesty
+>
+> May cross the great water.
+>
+> Good Fortune.
+>
+> *Six in the second place means:*
+>
+> Modesty that comes to expression.
+>
+> Perseverence brings good fortune.
+
+In the first and second lines of Hexagram 15: before the first, no
+norm existed, but after such an undertaking as the crossing of the
+great water ....
+
+- establish why this relates to norms/normification
+  - how does one know how to be modest? to regulate your projection of
+    normal behavior, you must know what is normal in the context. how
+    would one know whether they are being modest about their modesty?
+    how much self-regulation of behavior is necessary to appear
+    modest?
+
+========
+
+![Pic from Annihilation]()
+
+- link to "cauldron of change"
+  - similarity to [recurrance period density
+    entropy](https://en.wikipedia.org/wiki/Recurrence_period_density_entropy)
+  - the cauldron of change describes the difficulties encountered in
+    making short-term changes in society stick long-term
+
 - on the herd's oblivious compulsion to defend norms.
   - they feel compelled to, since they've given up so much freedom,
     time and energy in their lives binding themselves to norms and
     servicing normative systems.
 
+- the tax code as a legalistic means of normative enforcement,
+  - the similarities between the tax code and regulation of behavior
+    post-UBI
+
 - Normative implications in strategy, tactics and discussion thereof
-  (created from the differences in console/PC gaming created by
-  differences in expectations of accuracy between players who use
-  mouse and those who use joysticks.)
+  (created from the differences in console/PC gaming via divergent
+  expectations of accuracy between players who use mouse and those who
+  use joysticks.)
   - Almost all Overwatch players at silver or above are aware of how
     this phenomena impacts the character-composition of teams: PS4
     games are much less likely to include the characters Widow and
@@ -34,6 +90,11 @@ excerpt: ""
   propositions or some game) — the more epistemic similarity and
   infogeometric overlap, the more resonance perceived by those
   operating within the system.
+
+- How do the concepts of coarse-graining
+  ([granularity](https://en.wikipedia.org/wiki/Granularity)) and
+  mixture models intersect with the concept of norms as probability
+  distributions?
 
 > "But for him who has seen the chaos, there is no more hiding,
 > because he knows that the bottom sways and knows what this swaying
@@ -169,9 +230,12 @@ What Ansatz structures are useful for sociophysical simulation? How
 can these Ansatz structures be transformed into quantum circuits? How
 can these circuits facilitate computation necessary for sociophysical
 calculation or simulation? How effective will quantum computing be at
-predicting social interaction?
+predicting social interaction? Can social processes emulate
+computational processes? After all, such is the essence of
+crowdsourcing, but can the same approach be used for sociophysical
+extrapolation?
 
-- Variational Ansatz
+- Variational ansatz
 
   - Relevent to disnormalization (and establishing a new equilibrium)
     are I Ching Hexagrams:
@@ -199,9 +263,9 @@ the singularity, technology will begin to evolve faster than we can
 culturally adjust to it. Determining what is considered normal is
 necessary in the deontic logic of legal argumentation involving the
 [reasonable person](). For socioinformational systems where
-disnormatization is prevalent: norms either manifest slowly, resist
+disnormalization is prevalent: norms either manifest slowly, resist
 social consensus or are not formed in time to be relevant.
-Disnormatization is not about the formation, development or
+Disnormalization is not about the formation, development or
 obselescence of individual norms. Instead, it concerns dynamics of
 norms within some realm, including legal, social or linguistic
 spheres. Is the system in such a state where it is reasonable to
@@ -213,7 +277,7 @@ When the phenomenon of disnormalization becomes prevelant in some
 sphere, this implies that either &#9312; the social experiences which
 tend to cause individuals to perceive norms no longer facilitate the
 conception of norms or &#9313; the distribution of information about
-norms is impaired. Both may occur when speciation of information
+norms is impaired. Both may occur when the speciation of information
 around which individual norms would be formed becomes too complex:
 that is, the nature of each individual's experiences are so distinct
 that there aren't enough common traits or patterns of experience upon
@@ -233,14 +297,18 @@ objectively by promoting correspondance in perceived epistemic
 strucutures. In settings where the consequences of actions may induce
 turbulence that results wide ranging or negative impacts to economic,
 political and other realms, entites seek normative approaches to
-promote harmony. Though when the status quo imposes disadvantageous or
-disastrous implications for entities and thus, they are incentivized
-to disrupt the status quo. They do so by leveraging the degree of
-consensus and epistemic correspondance. This vastly coalesces
-certainty and confidence in statistical models, reducing the spatial
-and temporal complexity of games.
+promote harmony. (Though when the status quo imposes disadvantageous
+or disastrous implications for entities) and thus, they are
+incentivized to disrupt the status quo. They do so by leveraging the
+degree of consensus and epistemic correspondance. This vastly
+coalesces certainty and confidence in statistical models, reducing the
+spatial and temporal complexity of games.
 
-# Consensus in Legal Norms
+
+
+<a name="consensus-in-legal-norms" />
+
+# [Consensus in Legal Norms](#consensus-in-legal-norms)
 
 The process of consensus in legal norms provides a simplified approach
 to understanding a unified model of norms as structures of
@@ -280,6 +348,15 @@ will make determinations. It can be said that decisions or suggestions
 in legal strategy are *correct or incorrect, in a definitive manner*.
 Such issues may also be undecidable, but this objectivity is scarce
 for social norms.
+
+- how existing statutes, precedents and decisions in common law tort
+  cases affect the outlining of legal strategy.
+  - whether the establishment of "customs" in medical procedures
+    occurs incidentally, as a consequence of various patient
+    conditions, as a development of administrative procedure or
+    otherwise is critical to strategizing in malpractice lawsuits.
+    - for each of the aforementioned types of cause for a norm related
+      to a medical procedure...
 
 In common law, establishing precedent systematically affects future
 judicial decisions and it is hereby that actors in common law systems
@@ -333,8 +410,9 @@ Clausewitz (chapter one, section 15, on polarity)
 - this section’s definition of polarity in sociophysical systems
   (perhaps quantified by some data science component) holds when
   Brouwer’s fixpoint theorem holds. When a Brouwer translation is
-  necessary, the principle of polarity breaks down. This is
-  essentially equivalent to the last sentence of section 15.
+  necessary, the principle of polarity breaks down in systems of
+  vector spaces. This is essentially equivalent to the last sentence
+  of section 15.
 
 - TODO: how will disnormalization affect international relations?
   - impacts to sociocultural & domestic political norms will tend to
@@ -358,6 +436,74 @@ Clausewitz (chapter one, section 15, on polarity)
 
 ======
 
+
+### [Chaos In Systems With Normative Mechanics](#chaos-in-systems-with-normative-mechanics)
+
+A system with normative informational mechanics may be said to be in a
+disnormatized state if various components of the informational state
+that define recurrence are no longer guaranteed. The degree by which
+it is disnormalized pares with the degree by which informational
+mechanics.
+
+#### A [Recurrence Plot](https://en.wikipedia.org/wiki/Recurrence_plot) for Normative Systems
+
+> (From Wikipedia) - "Typical examples of recurrence plots (top row:
+> time series (plotted over time); bottom row: corresponding
+> recurrence plots). From left to right: uncorrelated stochastic data
+> (white noise), harmonic oscillation with two frequencies, chaotic
+> data with linear trend (logistic map) and data from an
+> auto-regressive process."
+
+![Evolution of Norms](/img/posts/2019-03-05-disnormalization/recurrence-plot.gif)
+
+  - A chaotic or nonlinear system may undergo strongly disruptive
+    phase changes and reach new states where the the system reaches a
+    new equilbrium that is strongly disconnected from previous
+    equilibriums. From a systems theory perspective, this occurs in
+    systems where positive feedback loops create strongly
+    destabalizing dynamics.
+
+    - To help illustrate these dynamics for chaotic or non-linear
+      systems, consider the example of a cytokine storm from
+      immunology. If someone undergoes a cytokine storm, but then
+      recovers and their body reaches a new state of homeostasis, then
+      their physiology, if modeled as a non-linear biophysical system,
+      can be said to have reached a state of recurrence.
+    - However, perhaps during the patient's cytokine storm something
+      went wrong: an unlikely event occured during a period of high
+      antibody production and their body now generates antibodies to
+      target the
+      [nAChR](https://en.wikipedia.org/wiki/Nicotinic_acetylcholine_receptor)
+      receptor. The patient's body reaches homeostasis, but now has
+      [Myasthenia
+      Gravis](https://en.wikipedia.org/wiki/Myasthenia_gravis).
+      - Thus, the patient's body has again reached homeostasis and
+        thus a recurrence state. However, not all of the body's
+        biophystical state is as it should be in normal homeostasis.
+        There is some informational overlap in the biophysical state
+        that defines the patient's normal state of homeostasis after a
+        cytokine storm and their new state of homeostasis with
+        Myasthenia Gravis. The difference in this biophysical state
+        results from the dysregulative potential of unconstrained
+        physiological positive feedback loops.
+
+### Three Factors Guarantee Partial Recurrence in Sociophysical Systems
+
+Throughout history, why is it that one religion's social operating
+system replaces another, often to the extent of extinguishing the old
+order with the fiery pheonix of another?
+
+Does a state of disnormalization necessarily guarantee a path back to
+normalization?
+
+#### The universiality of the human condition (or the common informational mechanics in non-human social systems)
+
+#### The phenomena of replication, mutation and evolotion in the informational mechanics of sociological systems
+
+#### The need for social entities to develop shared consensus that balances and constrains informational complexity
+
+
+
 - add sections from "process theology" article on: sociological
   phenomena that results in the greatest spiritual revitalization
   humanity has seen. (There will be a rebirth of the Jungian old God),
@@ -372,6 +518,20 @@ Clausewitz (chapter one, section 15, on polarity)
     the urgent need for and indeed the very possibility of this deluge
     back towards God and spirituality.
   - there are other aspects of society that can become disnormalized.
+
+=======
+
+The lines of various hexagrams of the I Ching seem to
+document these trends of social consensus playing out in the Chinese
+Bronze Age.
+
+- Treading (10)?
+  - which hexagram is it that describes maintaining order until a
+    tyrant can be overthrown
+- Revolution [Molting] (49)
+  - this hexagram discusses what is required to justify the cost of
+    change necessary to dispossess, overtake and replace an existing
+    order.
 
 =======
 
@@ -465,13 +625,14 @@ TODO: sort imported content from notes
 Modesty: discuss any deviation from norm as potential for meaning in
 non-verbal communication
 
-- a social norm is a belief about a multivariate distributions’
+- a social norm is a belief about a multivariate distribution's
   characteristics: what are the perceived average or reasonable values
-  for those variables. a norm is not necessarily a distribution in
-  itself, but at least an informal belief about a distribution. to
-  study norms, formalizing them into data-driven definitions helps,
-  but also is not necessarily capable of capturing the ephemeral or
-  sporadic structures that people may use to reason about them.
+  for those variables. a norm is a distribution in itself, but cannot
+  be perceived as such in society. instead, individuals form informal
+  belief about a distribution. to study norms, formalizing them into
+  data-driven definitions helps, but also is not necessarily capable
+  of capturing the ephemeral or sporadic structures that people may
+  use to reason about them.
 - disnormalization pares with a state of perceived uncertainty
   regarding the state of norms, though perhaps unconcious
 - normalization as a social process is similar to normalization of
@@ -972,7 +1133,7 @@ consequences on disregulation of communication?
 In our descent towards the Singularity, humanity will see
 disnormalization at a scale never seen in history.
 
-  - explain the sociocultural phenomena of disnormatization as a
+  - explain the sociocultural phenomena of disnormalization as a
     metaphor to breaking the speed of sound.
     - as we approach the singularity, technology and culture evolve
       faster than norms can be established and diffused. Since the
