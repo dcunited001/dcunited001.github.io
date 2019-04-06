@@ -15,7 +15,7 @@ Leibniz.
 
 ![](/img/posts/2018-12-10-the-analytic-i-ching/bagua.gif)
 
-![](/img/posts/2018-12-10-the-analytic-i-ching/monkwater.jpg)
+
 
 ![](/img/posts/2018-12-10-the-analytic-i-ching/cauldron.jpg)
 
@@ -57,19 +57,23 @@ Leibniz.
 
 ## [What Is A Hexagram, Analytically?](#what-is-a-hexagram-analytically)
 
-#### &#19967; &#9775; [Hexagram 5 Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
+#### &#19967; &#9775; [**Hexagram 5** Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
 
 #### &#19966; &#9775; [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
 
-### [The Highest Man As Lawgiver of the Future](#the-highest-man-as-lawgiver-of-the-future)
+#### &#19967; &#9775; [The Highest Man As Lawgiver of the Future](#the-highest-man-as-lawgiver-of-the-future)
 
-#### &#19967; &#9775; [Hexagram 12 Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
+#### &#19966; &#9775; ["More Precisely, We Are Never Understood -- Hence Our Authority"](#more-precisely-we-are-never-understood-hence-our-authority)
 
-#### &#19966; &#9775; [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
+#### &#19967; &#9775; [**Hexagram 12** Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
 
-#### &#19967; &#9775; [The Algebraic Topology of Hyperplanes ... Donuts My Mind May Never Digest](#the-algebraic-topology-of-hyperplanes)
+#### &#19966; &#9775; [Sociophilosophical Churn for Great Pragma](#sociophilosophical-churn-for-great-pragma)
 
-#### &#19966; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
+#### &#19967; &#9775; [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
+
+#### &#19966; &#9775; [The Algebraic Topology of Hyperplanes ... Donuts My Mind May Never Digest](#the-algebraic-topology-of-hyperplanes)
+
+#### &#19967; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
 
 <a name="the-essence-of-things" />
 
@@ -456,16 +460,16 @@ the mechanics and dynamics of this genetic socioepistemological
 process.
 
 The difference between the moment before and after some phenomenon's
-maximal extent is infinitessimal. This is the task left to the fox
-crossing the ice in hexagrams 63 & 64. When the energies reinforcing
-systems of norms are resonant, this ice representing the forms of the
-existing order may reinforce itself. To benefit from the apparent
-certainty of the existing order is expedient; to exude confidence in
-the overgrown shadow of creeping tail risk is foolish. That said, no
-one actually respects an obsequious sycophant. As useful as they may
-be, if their values are baseless, their lack of ethical fortitude will
-eventually render moot any potential gain their servile calculations
-may appear to offer.
+maximal extent is infinitessimal. Discerning this is the task left to
+the fox crossing the ice in hexagrams 63 and 64. When the energies
+reinforcing systems of norms are resonant, this ice representing the
+forms of the existing order may reinforce itself. To benefit from the
+apparent certainty of the existing order is expedient; to exude
+confidence in the overgrown shadow of creeping tail risk is
+foolish. That said, no one actually respects an obsequious
+sycophant. As useful as they may be, if their values are baseless,
+their lack of ethical fortitude will eventually render moot any
+potential gain their servile calculations may appear to offer.
 
   - the receptive: for the waves rolling in, the receptive are the
     forces (of the shore) acting on each to deconstruct their form and
@@ -693,9 +697,10 @@ imagined as another point in along that hyperplane, then the true
 value of divination is found by evaluating all the possible paths that
 connect those two points.
 
-TODO: See [below](#below) for a better explanation of (...) In my
-opinion, there is little value in accepting the random point the I
-Ching yields to the querent as a definitively true message. It is
+TODO: See [below](#below) for a better explanation of (...)
+
+In my opinion, there is little value in accepting the random point the
+I Ching yields to the querent as a definitively true message. It is
 instead the dissonance between the querent's perception of their
 situation and the I Ching's projection perception of the same
 situtation: these are the two points and their dissonance is evaluated
@@ -749,6 +754,7 @@ a space. One's motion in the social situation can be plotted as a path
 in this analytic hyperplane.
 
 - TODO: assemble!
+
 
 ![Pictures of notes from Hexagram 5]()
 
@@ -846,27 +852,149 @@ posed by Boltzmann’s revelations.
 
 ### [The Highest Man As Lawgiver of the Future](#the-highest-man-as-lawgiver-of-the-future)
 
-- That philosophy can never move forwards in an authentic direction is
-  a product of insurmountable complexity combined with Neitzsche's
-  Danger of Dangers.
-  - the required complexity renders it exceedingly unlikely that
-    anyone could ever deconstruct existing ideas to reconstruct them
-    into some truly novel basis. Existing moral systems are frightened
-    by the prospect of any such authentic move forwards in philosophy,
-    if it is to be significant -- but never in human history have the
-    stakes been higher.
-  - reference will to power (976): "The Highest Man as Lawgiver of the
-    Future"
+That philosophy can never move forwards in an authentic direction is a
+product of insurmountable complexity combined with Neitzsche's Danger
+of Dangers. The required complexity renders it exceedingly unlikely
+that anyone could ever deconstruct existing ideas to reconstruct them
+into some truly novel basis. Existing moral systems are frightened by
+the prospect of any such authentic move forwards in philosophy, if it
+is to be significant -- but never in human history have the stakes
+been higher.
+
+#### In Will to Power (976), Nietzsche [post-humously] writes:
+
+> The reason why philosophers are mostly failures. Because among the
+> conditions which determine them there are qualities which generally
+> ruin other men:—
+>
+> (1) *A philosopher must have an enormous multiplicity of qualities;*
+> he must be a sort of abbreviation of man and have all man's high and
+> base desires: the danger of the contrast within him, and of the
+> possibility of his loathing himself;
+>
+> (2) He must be inquisitive in an extraordinary number of ways: *the
+> danger of versatility;*
+>
+> (3) He must be *just and honest* in the highest sense, *but profound
+> both in love and hate (and in injustice);*
+>
+> (4) He must not only be a **spectator** but a lawgiver: *a judge and
+> defendant* (in so far as he is an abbreviation of the world);
+>
+> (5) He must be *extremely multiform* and yet *firm and hard*. He
+> must be supple.
+
+Why would a man with so many skills be employable, yet writing? And
+about how to think, of all things -- who needs another Plato? If he is
+useful, put him to work. If he's dangerous, where does he work? If he
+resonates with the times, why does he find himself so superfluous?
+
+The linguistic implications of Neitzsches choice of
+[überflüssig](https://en.wiktionary.org/wiki/überflüssig) (from latin,
+[superfluus](https://en.wiktionary.org/wiki/superfluus)) are
+contradicatory: both who he who is overflowing or he who is
+unneeded. Both phrases "Überflüssig" and “Das Lied des Notwendigen”
+seem to be translated without granularity into english, but both are
+critical to a proper reading of Neitzsche, whose work decompresses
+with paradoxical implications abound. Nothing satisfies, with
+Nietzsche. Nothing ever will. It is this blind lust to strive forward
+while overcoming every stumbling block, lilliputian and pleasant
+sidestreet that transforms humanity.
+
+![Monk Carrying Water](/img/posts/2018-12-10-the-analytic-i-ching/monkwater.jpg)
+
+In his masterpiece Zarasthustra, Nietzsche is essentially saying the
+überflüssig are those outside of or without leverage over channels of
+influence who are unnecessary or dispensable to those who have access
+to such channels/influence. Instead these dispensable people are
+unneeded by those who control their circumstances, but instead develop
+a need to become needed by those above them -- particularly in the
+context of the State in “The New Idol”. i.e. No one needs them, but as
+they are unable to fulfill their needs independently, develop a
+dependent relationship to the more powerful, to whom they are
+dispensable. It is those above such überflüssig people who define how
+and whether their needs will be met. Such a system caps its
+evolutionary potential because the weak exist to serve the powerful
+who feed themselves and weed out what is threatening or isn’t useful.
+
+<a name="more-precisely-we-are-never-understood-hence-our-authority" />
+
+### ["More Precisely, We Are Never Understood -- Hence Our Authority"](#more-precisely-we-are-never-understood-hence-our-authority)
+
+In the context of the New Idol, “Das Lied des Notwendigen” refers to
+those who are independent; their needs are not defined by others and
+thus neither are the goals/objectives they seek to attain to meet such
+needs. Since their needs, desires, and objectified behaviors are
+neither typical nor are they so externally defined, the evolutionary
+potential of such individuals is much greater.
+
+When people choose to define their own will independently of the
+existing power, seek the cultivation of a will to power for
+self-actualization, enable others to pursue such transformation, then
+the society as a whole and mankind become collectively stronger.
+Moreover, those who independently determine their needs, desires and
+crucially the means whereby such are attained cannot be predicted or
+understood. It is so unlikely for an individual to possess all of the
+characteristics outlined in Will to Power (976) -- while also pushing
+ever forward towards true progress in philosophy -- without having
+their energy coopted by societal power structures.
+
+When the conduits of influence in large societies constrain
+independent will, prune away the nontypical and consume the
+dispensable, then agents within such a system will behave with more
+singular will. This enables greater accomplishment towards the goals
+of the higher social echelons of that group, but paradoxically
+strongly limits the long-term evolutionary trajectory of that social
+group. If such concerns are not augmented by artificial initiatives to
+balance singular oneness with the diversity of experience that
+advances the goal beyond competition and externalities, then any state
+or social group will crash like a wave whose crest has fallen. The
+strength of the maximum tidal Flow of a group merely determines the
+strength of the diverging riptides that pull it apart into a vacuously
+minimal Ebb, awaiting the next such social tsunami. These social
+dynamics are not unlike the financial dynamics leading to the
+as-yet-aeternal business cycle of boom and bust. However, it is
+possible to attain such singular oneness while accelerating
+evolutionary mechanisms.
+
+New generalizations generally provide anew or expand a dual basis for
+existing concepts, which enables orthogonal approaches to thought.
+For those operating systems in society, this means their existing
+mechinations can be co-opted, reverse engineered or turned against
+their creators. The potential for and uncertainty of collateral damage
+is coupled to the degree of unexpected progress. The rate of
+advancement due to the hyperconnected nature of a pre-Singularity
+society implies these disruptive advancements will occur more
+rapidly. Stalling the rollout of progress perhaps enables the elite to
+capitalize on advancement in thought at the cost of potentially
+setting systems up for Black Swan events of rapid epistemic expansion
+and distribution.
+
+<a name="accademia-will-not-hesitate-to-neuter-philosophy-by-translation" />
+
+### [Accademia Will Not Hesitate to Neuter Philosophy By Translation](#accademia-will-not-hesitate-to-neuter-philosophy-by-translation)
+
+When I've read Plato's Republic, Tao Te Ching and other works in the
+past, I've spent a significant amount of time finding a satisfactory
+translation. With both of these works, the translation I settled on
+were tough, but the granularity was well worth it. Why did it seem the
+works were easy to read but so dull in other translations?
 
 Disruption is dangerous to the powers that be. "They" want a gradual
 rollout of innovation, whereby the stability of economic paradigms
-that benefit them can be guaranteed. What will be known in the near
-future is almost always already known by a handful of people, who
-exploit their control over scarce knowledge for financial
-advantage. This gradual rollout is simply not practical in the 21st
-century and I fart in your general direction, good sir.[^elderberries]
+benefitting them are guaranteed. Disruptions to sociohierarchical
+systems may be disastrous for the common person, so the self-interest
+for these powers *may be* incidentally justified. That was, after all,
+The Enlightenment, was it not? What will be known in the near future
+is almost always already known by a handful of people, who exploit
+their control over scarce knowledge for financial advantage. What
+ethically validates the will to power?
 
-#### Sorry, I'm not playing Accademia's game... It's rigged against me.
+... Regrettably as it may seem to be now that I know what I know, this
+gradual rollout is simply not practical in the 21st century and I fart
+in your general direction, good sir.[^elderberries]
+
+#### Sorry, I'm not playing [Accademia's game](http://www.accademiadavinci.it)... It's rigged against me.
 
 ![Fart in your General Direction](/img/posts/2018-12-10-the-analytic-i-ching/fart-in-your-general-direction.jpg)
 
@@ -936,6 +1064,10 @@ of the epistemic mulberry bush. When the bush groups back, it will
 have a stronger base, but sociologicially fixing the structure of
 shared knowledge is also expensive.
 
+<a name="sociophilosophical-churn-for-great-pragma" />
+
+### [Sociophilosophical Churn for Great Pragma](#sociophilosophical-churn-for-great-pragma)
+
 You can thank Aristotle and the Greeks for creating such a system to
 counter the East: when physical travel limited the spread of
 information, the West was always at an geoinformational
@@ -947,7 +1079,7 @@ trade between the East and West. From the churn of empires contending
 to displace one another in the Near East emerged the need to control
 *sociophilosophical churn*. Despite every empire's tendency to project
 an illusion of unquestionable eternity, every architect of empire
-knows it is a pyramid scheme of power. Controlling the potential for
+knows it is a pyramid scheme of power. Expanding future potential for
 systems of thought to normalize back and forth between material and
 immaterial conceptions of metaphysics conferred advantages: for those
 empires whose regional power was secured in foreseeable generations
