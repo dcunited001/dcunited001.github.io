@@ -13,10 +13,6 @@ Leibniz.
 
 ![](/img/posts/2018-12-10-the-analytic-i-ching/leibniz-iching.jpg)
 
-![](/img/posts/2018-12-10-the-analytic-i-ching/bagua.gif)
-
-
-
 ![](/img/posts/2018-12-10-the-analytic-i-ching/cauldron.jpg)
 
 ![Yin-Yang Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
@@ -25,7 +21,68 @@ Leibniz.
 
 > Perhaps it should be quaternary to be all-encompassing...
 >
-> ... or trinary with a complementary void.
+> ... or
+> [trinary](https://en.wikipedia.org/wiki/Three-valued_logic#SQL) with
+> a [complementary
+> void](https://en.wikipedia.org/wiki/Wuji_(philosophy)).
+
+
+<a name="the-essence-of-things" />
+
+# [The Essence of Things](#the-essence-of-things)
+
+What is change, without state? What is the meaning of state, without
+change? What is the meaning of either, as time dissolves away?  What
+phenomena can be seen as constant without the possibility of change?
+Without the possibility of time or sequence? To this end, change
+provides perspective, but neither change nor state are sufficient to
+understand the essence of a phenomenon.
+
+Is there an infinite web of metatypes descending from root archetypes
+that outlines the structure of some all-encompassing ontology? Such a
+can be conceived with algebraic graph theory and category theory, but
+its parts must seemlessly reinforce a complete tautology while
+preserving symmetries amongst its archetypical metaphysical
+forms. Like the keystone in a Roman arch, in the cosmology of the
+Taiji, the ridgepole is the fundamental and final piece balancing the
+needs of its ontology. This conception of metaphysics almost mirrors
+that of Spinoza and Leibniz. Any such metaphysical ontology, if it is
+truly universal, must tautologically reinforce itself like the Roman
+arch balances out the distribution of its stress and tension.
+
+Forms are perfracted from such an all-encompassing ontology onto any
+simulation with chaos. Given enough running time, forms emerge within
+the units of chaos. Whether they are numbers in pi or particles in a
+physics simulation, none of these units can be said to stand apart
+from another. Hence, the panpsychism of Spinoza and Leibniz. By
+perfraction, I mean that the metaphysical forms composed of
+intermeshed metatypes in the ontology begin precipitating themselves
+into the simulation, without a necessary dependence on spatial
+interrelationships of the units. The only dependency for complexity of
+form emerging as interwoven strata of order within the chaos is
+running time, though perhaps the available units within totality of
+the simulation have relativistic limits on emergent order -- i.e.
+limitations depending on the potential scope of local interactions
+permitted by the units spatial arrangement.
+
+While outside of the scope of the article, challenges in quantum
+gravity arise from determining whether, when and in which order events
+are "perceived" by particles in our universe. And any panpsychic
+philosophy describing the totality of our universe -- if it is to
+describe the convolutions of causality and emergent order including
+the awareness of causal implications of particle interactions -- must
+be capable of deducing whether and how such interactions occur. If a
+tree falls in a forest in some far off world, but the light never
+reaches us, it can't be said to causally affect orders of awareness on
+earth. If some phenomenon of experience or some form emerges in a
+galaxy far, far away, does it affect us if the overarching ontology
+and perfraction of form is not also guaranteed to manifest on Earth?
+
+Perhaps preserving a tautological wrapping of causal implications of
+particle and energetic interactions throughout time is necessary to
+understanding quantum gravity. In the 20th century, mankind challenged
+to rise to the stars and overcome limitations of outer space. In this
+century, our challenge is to turn inwards and fulfill inner space.
 
 # [The Essence of Things](#the-essence-of-things)
 
@@ -75,16 +132,6 @@ Leibniz.
 
 #### &#19967; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
 
-<a name="the-essence-of-things" />
-
-# [The Essence of Things](#the-essence-of-things)
-
-What is change, without state? What is the meaning of state, without
-change? What is the meaning of either, without time? What phenomena
-can be seen as constant without the possibility of change? Without the
-possibility of time or sequence? To this end, change provides
-perspective.
-
 <a name="the-three-yi" />
 
 ### [三易: The Three Yi](#the-three-yi)
@@ -94,9 +141,7 @@ according to the following lecture. Each period corresponds to a
 different means of interpreting the I Ching: in terms of state, change
 and essence.
 
-- TODO: link lecture that this was obtained from. note that I can't
-  find much info on this (even in chinese searches)
-- TODO: correct
+> 孔子曰易者易也變易也不易也
 
 #### &#9312; State 簡易 jiǎnyì かんい 간이
 
@@ -104,12 +149,9 @@ and essence.
 
 #### &#9314; Essence: 不易 bùyì ふい 부이
 
-> The above phonetic translations into Korean and Japanese may need
-> correction comes from
-
-Within the three yi lays the definition of the differential operator;
-in simpler terms: the derivative. This much is made plain, yet
-furthermore, given some familiarity with linear operators, you may
+(Within the three yi) lays the definition of the differential
+operator; in simpler terms: the derivative. This much is made plain,
+yet furthermore, given some familiarity with linear operators, you may
 find that between the preservation of state and change, the
 differential operator hides the essence of linear systems: the fourier
 operator is also linear.
@@ -126,7 +168,7 @@ describe *profound* preservation of equilibrium, where the *essence*
 is found in all the relationships between `d(.)`, `F(x)`, `FFT(.)` and
 most critically `=`.
 
-Thence, I posit that the Three Yi's philosophies of state, change and
+Thence, (I posit that the Three Yi's philosophies) of state, change and
 essence encode not simply the differential operator, but also it's
 linear interchange with that of the fourier operator. All linear
 systems must also be considered spectrally, but in doing so, one finds
@@ -147,6 +189,8 @@ discrete spectralization. The process of convolution, applied to
 spectral data of increasing resolution, does not stand alone as its
 own class, but should be considered a tool within the Yi realm of
 essence.
+
+<a name="what-is-knowledge-of-dependent-origination-without-applied-awareness-of-phenomena" />
 
 ### [What Is Knowledge of Dependent Origination Without Applied Awareness of Phenomena?](#what-is-knowledge-of-dependent-origination-without-applied-awareness-of-phenomena)
 
@@ -188,7 +232,7 @@ my mind has considered. It's the combinatorial exploration of
 noo-space, presenting my mind with random permutations of narrative
 metatypes, parameterized by random images. Each hexagram's lines can
 be reinterpreted analytically, in terms of physics and math metaphors,
-to eloquent explain what the wisest among humanity has always known
+to eloquently explain what the wisest among humanity has always known
 known in terms the rationalists of modernity can only know with
 confidence in our era.
 
@@ -412,6 +456,13 @@ shoreline, noisily frothing to their maximal extent. This is a
 situation where there is minimal impact of unseen undertow, which
 deconstructs the kinetic energy of waves into turbulence.
 
+- TODO: comment on imagery/symbolism of "fording the river" and it's
+  importance to maintaining peace. how does increased/decreased
+  flooding impact trade in Bronze Age river systems? how do seasonal
+  changes affect trade and the diffusion of resources in the bronze
+  age? why does this matter to the constructive interference patterns
+  and resonance required to sustaining peace through commerce?
+
 One may conceptualize Hexagram 12 as the deconstructive effect the
 turbulence of undertow has on incoming waves.
 [Stagnation](https://ichingfortune.com/hexagrams/12.php) creates a
@@ -436,6 +487,8 @@ precarious situation, where change is soon to wash over.
 
 The hexagrams 1, 2, 11 and 12 form a microcosm within the I Ching by
 mirroring the four images of [四象 (Sì Xiàng)](https://en.wikipedia.org/wiki/Four_Symbols)
+
+![Bagua](/img/posts/2018-12-10-the-analytic-i-ching/bagua.gif)
 
 #### &#9775; Hexagram 63: [After Completion](https://ichingfortune.com/hexagrams/63.php)
 
@@ -470,13 +523,6 @@ foolish. That said, no one actually respects an obsequious
 sycophant. As useful as they may be, if their values are baseless,
 their lack of ethical fortitude will eventually render moot any
 potential gain their servile calculations may appear to offer.
-
-  - the receptive: for the waves rolling in, the receptive are the
-    forces (of the shore) acting on each to deconstruct their form and
-    to eventually pull them back out to sea.
-
-Hexagrams 1, 2, 11, and 12 are located in the four corners of
-the grid.
 
 <a name="rationalize-your-exegesis" />
 
@@ -562,7 +608,7 @@ proto-Rationalists in the Renaissance. It is math by intuition. Also,
 the mind is an analytical computer and, if the most efficient way for
 the mind to make physical predictions is by converging its own
 analytical models to their numerical complements, then why can't the
-mind bridge the gap from analytical to numerical simply by sseking the
+mind bridge the gap from analytical to numerical simply by seeking the
 most efficient solutions?
 
 > In other words, is the secret behind the video of Bruce Lee lighting
@@ -575,7 +621,9 @@ when its analytical models of physics approach near consensus with
 symbolic/numerical physical laws? And, furthermore, can it then apply
 such physical emulation monadically in concert with other
 functionality in the mind?  Wouldn't this be far more efficient than
-anything the conscious mind could produce?
+anything the conscious mind could produce? Representational and
+computational efficiency, in our biophysical wetware, translate into
+efficient physical energy consumption.
 
 #### Bruce Lee seems to embody my neuro-analytical understanding of the human mind
 
@@ -1821,6 +1869,10 @@ combinatorially determine the convexity and concavity of surfaces.
 Doing so quickly becomes intractible, so the energy you invest thereto
 must be channeled wisely, otherwise it is wasted. In sociophysical
 systems, even before the validity the tractibility of problems
+
+
+
+- TODO: end by summarizing the fear/love reading from youtube?
 
 [^neuro-social-media]: The constant juxtaposition of the objects
     mental focus has disastrous long-term effects, psychologically and

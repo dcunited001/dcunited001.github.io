@@ -2897,6 +2897,19 @@ incredibly powerful beings tormented by experimentation & never
 released. Limbs, hands and fingers are metaphors for sociohierachical
 structures over which you exert significant influence.
 
+If you understand that and the Gustav Klimpt painting from Elfen Lied
+intro, itself from the Symbolist painting movement, then it unlocks a
+particularly deep interpretation of the anime.
+
+The Alexander Technique is a method to practice maintaining balance of
+movement through your limbs by alternating how you focus your energy
+through them. it is intended to prevent patterns of strain from
+accumulating in your body that affect one side or another. however,
+the metaphor is that if you project energy through people as though
+they are your limbs, hands or "fingers" that the same kinds of stress
+patterns can negatively affect your ability to project influence
+through the networks of your "social body".
+
 ### メードのデートスル
 
 ![Roberta (Black Lagoon)](/img/posts/2018-01-22-semioteleological-revolution/black-lagoon-maid.jpg)

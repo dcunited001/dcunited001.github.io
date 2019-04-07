@@ -188,7 +188,8 @@ symbolized by the lone tower, amidst a grove surrounded by wood. When
 Yumeko opens her door at the end of episode 9, she is blasted by wind
 as she stands at the top of the tower. She looks outwards, staring
 down at the earth, which is contextually relevant to the episode's
-plot. This hexagram is meaningful to Yumeko's motivation for opening
+plot. This hexagram is meaningful to Yumeko's
+motivation for opening
 the door: the view from the tower is symbolic to the impact on one's
 perspective that contemplation yields.
 
@@ -204,6 +205,29 @@ imply the existance of a code and that because Yumeko opened Door #2
 
 The flowers in the episode are white lilies (白百合)
 
+# Literature References
+
+## Arthur Machen's "The Shining Pyramid"
+
+Was It Influenced by I Ching's Decay (18) and Army (7)
+
+In this story, I found more connections than usual. The connections
+seem to be intentional on the part of the author, who wrote this story
+around the time that Legg's translation would have enjoyed popularity
+in Britain. The I Ching would have been new at that time. The mean
+reasonings I have:
+
+- The character's references to elemental imagery in descriptions of
+  the landscape, which alludes to the usage of natural philosophy.
+- The constant allusions to "writhing in a bowl" (esp. towards the
+  end) which is a connection I make given Wilhelm's explanation behind
+  the character used for I Ching Hexagram 18: 蠱. However, I do not
+  know if the wording that Machen used is similar enough to that in
+  Legg's translation. If it is not, then this is pure coincidence most
+  likely.
+- The frequent references to semiotic images. These seem to be out of
+  place at times, though not necessarily stilted. The use of semiotics
+  here may be motivated moreso by the occult themes.
 
 # make this a machine-learning post
 
