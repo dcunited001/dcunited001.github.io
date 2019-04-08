@@ -11,8 +11,6 @@ excerpt: ""
 Pictured above are the famous notes on I Ching gifted to Gottfried
 Leibniz.
 
-![](/img/posts/2018-12-10-the-analytic-i-ching/leibniz-iching.jpg)
-
 ![](/img/posts/2018-12-10-the-analytic-i-ching/cauldron.jpg)
 
 ![Yin-Yang Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
@@ -25,7 +23,6 @@ Leibniz.
 > [trinary](https://en.wikipedia.org/wiki/Three-valued_logic#SQL) with
 > a [complementary
 > void](https://en.wikipedia.org/wiki/Wuji_(philosophy)).
-
 
 <a name="the-essence-of-things" />
 
@@ -77,16 +74,52 @@ reaches us, it can't be said to causally affect orders of awareness on
 earth. If some phenomenon of experience or some form emerges in a
 galaxy far, far away, does it affect us if the overarching ontology
 and perfraction of form is not also guaranteed to manifest on Earth?
-
 Perhaps preserving a tautological wrapping of causal implications of
 particle and energetic interactions throughout time is necessary to
-understanding quantum gravity. In the 20th century, mankind challenged
-to rise to the stars and overcome limitations of outer space. In this
-century, our challenge is to turn inwards and fulfill inner space.
+understanding quantum gravity.
 
-# [The Essence of Things](#the-essence-of-things)
+In the 20th century, mankind's challenge overcome limitations of outer
+space and we rose to the stars. In this century, our challenge is to
+turn inwards to illuminate the adumbrations inner space. Unlike the
+cold desert of the moon, our generation will discover that we are not
+alone in inner space. To the contrary, we will find that the cogs of
+fate were set in motion long ago in our collective inner space. Our
+destiny is overcome what has been pre-ordained by previous explorers
+of the metaphysical that our time denies. The enemy is entropy and
+our actions have always carried consequences we must understand.
 
-#### &#19904; &#9775; [The Three Yi](#the-three-yi)
+> "The greats who came before us, though we may seem greater, were
+> truly the greatest."
+
+[Alpha and
+Omega](/img/posts/2018-12-10-the-analytic-i-ching/apollo-doodle.jpg)
+are in truth inverted, mimicking the struggle of free will in a world
+built by preceding generations who wanted you to be ignorant of their
+mistakes, their successes and, most of all, their plans for you... In
+this panpsychist conception, there can be no [prime
+mover](https://en.wikipedia.org/wiki/Unmoved_mover) that is the
+beginning, the Alpha, without itself also being the ending, the
+Omega. In his dialectic of reason, Kant reduces through discourse the
+effects that our supposed freedom has our capacity for causal
+influence by contrasting our free will with the forces which constrain
+our freedom. Yet, if regardless of the course of history,
+overpopulation results in hypernetworked mankind whose Piagetian
+socioepisteimological evolution inevitably results in the emergence of
+phenomena from the all-encompassing ontology, then especially if
+ancient peoples were aware of this inevitability and perpetuated their
+understanding through occult semioteleological social programs, then
+the past's conception of the future controls the future with more
+capacity than we in the future have the ability to control our
+circumstances. Their programs, the knowledge of which has been
+suppressed, latch onto metaphysical constructs the outlines of which
+form our teleological understanding of the world. The impact of the
+epistemic structures is the same as perturbation and perfraction: they
+are like leylines that channel social energy to normalize the results
+of drift in social stochastic differential processes.
+
+## [Spectral Convolution is Essence](#spectral-convolution-is-essence)
+
+#### [What Is Knowledge of Dependent Origination Without Applied Awareness of Phenomena?](#what-is-knowledge-of-dependent-origination-without-applied-awareness-of-phenomena)
 
 ## [The Analytic I Ching](#the-analytic-i-ching)
 
@@ -132,16 +165,22 @@ century, our challenge is to turn inwards and fulfill inner space.
 
 #### &#19967; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
 
-<a name="the-three-yi" />
+<a name="spectral-convolution-is-essence" />
 
-### [三易: The Three Yi](#the-three-yi)
+# [Spectral Convolution is Essence](#spectral-convolution-is-essence)
 
-The I Ching went through three major period of reinterpretation,
-according to the following lecture. Each period corresponds to a
-different means of interpreting the I Ching: in terms of state, change
-and essence.
+In the Qian Zuo Du, Confucius comments:
 
-> 孔子曰易者易也變易也不易也
+> "孔子曰易者易也變易也不易也"
+
+Bent Neilson translates this as: "Confucius said: Yi 易 means easy (易),
+change (變易), and constancy (不易)." In the Analytic I Ching, I
+propose that 易 or 簡易 (jiǎnyì) means the simple state of things as
+they are, that 變易 (biànyì) means the nature that is discerned by
+understanding the constancy of things as they change and that 不易
+(bùyì) -- literally, the unchanging -- is discerned by coming to
+understand the spectral components of information from observing
+phenonena in both their state and change.
 
 #### &#9312; State 簡易 jiǎnyì かんい 간이
 
@@ -149,12 +188,13 @@ and essence.
 
 #### &#9314; Essence: 不易 bùyì ふい 부이
 
-(Within the three yi) lays the definition of the differential
+Assuming the definitions above, then within the definition of these
+three yi from the Qian Zuo Du lays the definition of the differential
 operator; in simpler terms: the derivative. This much is made plain,
 yet furthermore, given some familiarity with linear operators, you may
 find that between the preservation of state and change, the
-differential operator hides the essence of linear systems: the fourier
-operator is also linear.
+differential operator hides the *essence* of linear systems: the
+fourier operator is also linear.
 
 `d(F(x)) = F(d(x))` -- this equality *must* hold for linear equations;
 this is essentially the definition of the differential operator, a
@@ -168,19 +208,22 @@ describe *profound* preservation of equilibrium, where the *essence*
 is found in all the relationships between `d(.)`, `F(x)`, `FFT(.)` and
 most critically `=`.
 
-Thence, (I posit that the Three Yi's philosophies) of state, change and
-essence encode not simply the differential operator, but also it's
-linear interchange with that of the fourier operator. All linear
-systems must also be considered spectrally, but in doing so, one finds
-that any spectral valuation of linear equations must also preserve
-connections to the differential spectral valuations. Mathematically,
-this is a symbolically derived definition of essence.
+Thence, I posit that Confucius's definition of state (簡易), change
+(變易) and essence (不易) encode not simply the differential operator,
+but also it's linear interchange with that of the fourier
+operator. All linear systems must also be considered spectrally, but
+in doing so, one finds that any spectral valuation of linear equations
+must also preserve connections to the differential spectral
+valuations. Mathematically, this is a symbolically derived definition
+of essence. Though technically, this essence given by the spectral
+components of systems may change, it provides recognition of and
+insight into phenomena that emerge in a system.
 
-#### The [Spectral] Convolution Theorum:
+#### The Spectral Convolution Theorum:
 
 ![The Spectral Convolution Theorum](/img/posts/2018-12-10-the-analytic-i-ching/spectral-convolution-theorum.jpg)
 
-If state, change and [spectral] essence are three classes of analysis
+If state, change and spectral essence are three classes of analysis
 methods for studying a system's mechanics and dynamics, then a
 suitable next step is the [convolution
 theorum](https://en.wikipedia.org/wiki/Convolution_theorem), which
@@ -189,6 +232,16 @@ discrete spectralization. The process of convolution, applied to
 spectral data of increasing resolution, does not stand alone as its
 own class, but should be considered a tool within the Yi realm of
 essence.
+
+The Shazam app can *efficiently* recognize songs, even from a noisy
+club, because it recognizes patterns in the spectral components of
+audio[^shazam-app]. The app works by identifying audio fingerprints by
+matching audio samples to spectral data in a database. The same
+technique can applied to analytical techniques of machine learning to
+enable us to recognize mechanics, dynamics and the emergence of
+phenomena in systems without having a precise definition of these. We
+only need to recognize patterns of spectral fluctuation in timeseries
+or sociophysical data.
 
 <a name="what-is-knowledge-of-dependent-origination-without-applied-awareness-of-phenomena" />
 
@@ -347,8 +400,7 @@ intuition for physical systems. Even though our minds have no
 numerical/algebriac encoding of the laws of physics, it is conditioned
 early on to be capable of analytically emulating the laws. By engaging
 in physically strenuous activities -- e.g. [martial arts with weapons
-or
-skateboarding](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
+or skateboarding](/posts/2015-08-26-epistemology-cognition-and-category-theory-part-three.html)
 -- our minds can be trained to more effectively internalize these
 physical models.
 
@@ -363,7 +415,7 @@ The progenitors and authors of I Ching *assumed* that sociophysical
 mechanics and dynamics mimicked those found in the natural world. This
 coupling that bounds social phenomena to reflect physical phenomena is
 how the child, whose mind has been attuned to the accurate perception
-of natural and social phenomena, can see that the emporer of Hans
+of natural and social phenomena, can see that the emperor of Hans
 Christian Andersen's wears no clothes: the near-equilibrium of social
 physics is starkly violated. As a work of natural philosophy, the I
 Ching informed ancient China of social physics by generating random
@@ -463,6 +515,15 @@ deconstructs the kinetic energy of waves into turbulence.
   age? why does this matter to the constructive interference patterns
   and resonance required to sustaining peace through commerce?
 
+#### Stagnation in Ocean Waves
+
+> Conceptualized as the dissipation of energy via turbulence in a
+> vector field, stagnation of the motion of water has set the stage
+> for the next powerful wave to influence the system so much that it
+> rips the sand from the ocean floor.
+
+![Waves Stagnation](/img/posts/2018-12-10-the-analytic-i-ching/waves-stagnation.jpg)
+
 One may conceptualize Hexagram 12 as the deconstructive effect the
 turbulence of undertow has on incoming waves.
 [Stagnation](https://ichingfortune.com/hexagrams/12.php) creates a
@@ -475,15 +536,6 @@ sociopolitcal terms, this is signified by a group of social
 institutions that have unwisely waste their energy. Perhaps this is
 fate and perhaps it is mismanagement. Regardless, it forebodes a
 precarious situation, where change is soon to wash over.
-
-#### Stagnation in Ocean Waves
-
-> Conceptualized above as the dissipation of turbulence in a vector
-> field, stagnation of the motion of water has set the stage for the
-> next powerful wave to influence the system so much that it rips the
-> sand from the ocean floor.
-
-![Waves Stagnation](/img/posts/2018-12-10-the-analytic-i-ching/waves-stagnation.jpg)
 
 The hexagrams 1, 2, 11 and 12 form a microcosm within the I Ching by
 mirroring the four images of [四象 (Sì Xiàng)](https://en.wikipedia.org/wiki/Four_Symbols)
@@ -839,7 +891,9 @@ information about how to escape your local minima.
 
 Imagining higher dimensions is easier if you imagine the space in
 radial terms, not simply cartesian terms... In this 4D or 5D space,
-rotate your perspective. What's different?
+rotate your perspective. What's different? There are more angles by
+which to orient your motion -- more degrees of freedom, a term with
+specific implications for classical mechanics and quantum mechanics.
 
 The final message in "Waiting" is that by leveraging the experience of
 other people -- each mind is its own social process in a massive
@@ -936,6 +990,8 @@ Why would a man with so many skills be employable, yet writing? And
 about how to think, of all things -- who needs another Plato? If he is
 useful, put him to work. If he's dangerous, where does he work? If he
 resonates with the times, why does he find himself so superfluous?
+
+- TODO: clarify independence/power
 
 The linguistic implications of Neitzsches choice of
 [überflüssig](https://en.wiktionary.org/wiki/überflüssig) (from latin,
@@ -1123,17 +1179,42 @@ disadvantage. Further, that the most significant economically
 strategic chokepoints along the Silk Road were dominated by the East
 implies that until the past millinium, the West constantly bled
 liquidity to middlemen in the Near East, who stood to benefit from all
-trade between the East and West. From the churn of empires contending
-to displace one another in the Near East emerged the need to control
-*sociophilosophical churn*. Despite every empire's tendency to project
-an illusion of unquestionable eternity, every architect of empire
-knows it is a pyramid scheme of power. Expanding future potential for
-systems of thought to normalize back and forth between material and
-immaterial conceptions of metaphysics conferred advantages: for those
-empires whose regional power was secured in foreseeable generations
-needed to secure the potential to regain power in future generations;
-likewise, those regions dominated by the empire of their times needed
-popular adoption of systems of thought to counter the existing powers.
+trade between the East and West.
+
+Having your civilization occupy territory along Silk Road was a
+blessing and a curse: your leaders needed to be capable of intuitively
+reading the economic and political zeitgeist. Which way was the wind
+blowing and what was the spirit of the times? How was wealth
+*drifting* along the silk road and did this benefit your generation?
+Would the drift result in a phase change? Was your population or
+economic growth potential capped by agricultural bounds or economic
+bounds? In subsequent generations would nearby civilizations transcend
+the limitations on your economic or political growth? This is the
+calculus of empires, of rising and falling stars. It is necessary for
+belief systems and normative systems to lend themselves to the
+antifragility of sociopolitical and socioeconomic systems. Therefore,
+belief systems must be flexible and fixedly rooting the normalized
+majority belief system in either materialism or idealism, without
+enabling the change, is the problem left to theologians. Yet, it does
+not aid the pragmatic -- unless for some reason your idealism tends to
+create pragmatic benefits by dissolving away uncertainty, via
+[perturbation and
+percolation](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-rationalizing-irrationality)
+to etch away the possibility space. The task left to financial
+engineers is to design machines that are dynamos powered by
+volatility, whose mechanics are structures of correlation.
+
+From the churn of empires contending to displace one another in the
+Near East emerged the need to control *sociophilosophical
+churn*. Despite every empire's tendency to project an illusion of
+unquestionable eternity, every architect of empire knows it is a
+pyramid scheme of power. Expanding future potential for systems of
+thought to normalize back and forth between material and immaterial
+conceptions of metaphysics conferred advantages: for those empires
+whose regional power was secured in foreseeable generations needed to
+secure the potential to regain power in future generations; likewise,
+those regions dominated by the empire of their times needed popular
+adoption of systems of thought to counter the existing powers.
 
 This idea that philosophical traditions in the West and Near East
 would churn between being immaterially and materially oriented based
@@ -1674,6 +1755,8 @@ Wave Based Method.[^wave-based-method-2]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- TODO: find link for representational learning
+
 #### Representational Learning
 
 [Representational
@@ -2004,3 +2087,8 @@ systems, even before the validity the tractibility of problems
 
 [^pilot-wave-theory]: [Famous Experiment Dooms Alternative to Quantum
     Weirdness](https://www.quantamagazine.org/famous-experiment-dooms-pilot-wave-alternative-to-quantum-weirdness-20181011/)
+
+[^shazam-app]: Watch [this amazing
+    presentation](https://www.youtube.com/watch?v=WhXgpkQ8E-Q) for a
+    great overview on how the Shazam app can recognize audio
+    fingerprints of songs even with a significant amount of noise.

@@ -64,6 +64,24 @@ significant returns on technology.[^caelis-ruissant]
 
 ![Cliques and Edges](/img/posts/2019-03-23-a-spectral-theory-of-information/complete-graph-cycls.gif)
 
+TODO: restructure the following
+
+that japanese culture has excelled in the following three things blows
+my mind:
+
+(1) constructing/diffusing/perpetuating normalization of values,
+
+(2) while intuitively understanding metaphysics & idealism to the
+point of seemingly influencing the evolution of their language around
+these philosophical primitives
+
+(3) while also embracing the philosophy behind the Kanban method
+(which inspired the agile design philosophy)
+
+... this blows my mind because it means they have flexible, but
+unified culture. they retain control and unity, while bending and
+adapting.
+
 <a name="acknowldgement-of-the-spectral-in-eastern-languages" />
 
 ### [調: Acknowledgement of the Spectral in Eastern Languages](#acknowldgement-of-the-spectral-in-eastern-languages)
@@ -269,6 +287,152 @@ language and especially philosophic thought will never be erased.
 - (index card on teaching/norms)
 - implications of information replication to the spectral content of
   epistemic structures, norms and the dynamics thereof.
+
+=========
+
+
+- idea upon reading "Dictionary of Untranslatables"
+  - TODO: i really need good pictures for this section because it's
+    very difficult to understand without a visual conception of NLP,
+    word vectors, semantic networks, n-grams, and other tools of
+    computational linguistics
+  - "semantic triangulation" of difficult-to-translate words b/w
+    language pairs, language triples, etc
+  - these untranslatables provide a metric for semantic parity b/w
+    languages.
+    - (1) languages descending form common roots diverge further over
+      time.
+      - this causes them to accrue generally more
+        "untranslatables". furthermore, there are energy/entropy
+        dynamics at play governing large-scale evolution of
+        morpheme-to-sememe mappings and semantic networks
+      - that is, evolution of morphemes-to-sememes over time causes
+        sememes and morphemes to "repel" each other in semantic space
+        - ...
+    - (2) langauges experiencing coevolutionary dynamics by being
+      geographically close.
+      - these langauges usually share common language roots, but not
+        always.
+      - for languages occupying regions that are close, new concepts
+        are introduced at similar times via trade and political
+        influences. new ideas are introduced, but the speakers of each
+        language must unconsciously decide how to map new morphemes to
+        new ideas.
+  - for both of these types of sufficiently similar languages, they
+    have similar semantic networks than "less similar" languages.
+    - and particularly, their evolutionary dynamics over decades of
+      time should exhibit more similarity than other less similar
+      languages.
+    - however, measuring these languages requires vast volumes of
+      literature whose authorship can't be too centralized and can't
+      be too decentralized. this is a common problem with data in
+      computational linguistics: there aren't very many languages with
+      enough data to measure semantic networks or evolutionary
+      dynamics with confidence.
+      - the period of european literature from c. 1500-1900 is ideal
+
+  - for both of these cases, "semantic triangulation" of
+    untranslatabes provides a semantic signature that should be
+    characteristically preserved *or* deformed over time in ways that
+    are idiosyncratic when compared to "more translatable" words.
+    - identifying these untranslatables among language tuples and
+      processing them with computational lingustic techniques into
+      digitized data for semantic analysis enables their idiosyncratic
+      semantic translation signatures to be used as the semantic
+      equivalent of how any position in the universe can be determined
+      by comparing the stars in the sky to a map of known pulsars
+    - pulsars are incredibly rare stars with idiosyncratic qualities
+      that very along their plane of rotation. the set of visible
+      pulsars allows you to resolve your position in the physical
+      universe very quickly by determining how frequently the visible
+      pulsars are rotating and along which plane they rotate.
+      - every other star looks fairly similar, but pulsars are so rare
+        and idiosyncratic that the likelyhood that there are two
+        points in the universe that share a similar view of pulsars is
+        beyond infinitesimal.
+    - how do maps of pulsars as used for the ascertainment of position
+      in the universe relate to the concept of [orthonormal
+      basis](https://en.wikipedia.org/wiki/Orthonormal_basis)
+      - what kind of "basis" enables this resolution?
+
+  - define as "semantic pulsars"?
+
+  - these idiosyncratic "untranslatables" function similarly to
+    pulsars in navigating semantic networks, the convolution of which
+    should lead us to becoming capable of mapping the metaphysical.
+    - there are almost certainly problems of intractibility related to
+      this process of epistemic convolution towards a map/basis for a
+      universal semantic network
+    - however, this universal semantic network probably corresponds to
+      mathematic structures and would provide the optimal basis for
+      Leipniz's [Characteristica
+      Universalis](https://en.wikipedia.org/wiki/Characteristica_universalis)
+      - connect to [Kleene
+        Star](https://en.wikipedia.org/wiki/Kleene_star)
+        - how does the concept of kleene star connect combinatorics
+          and language?
+
+### How are such Untranslatable Semantic Pulsars
+
+  - how are such "Untranslatable" signatures useful for NLP or
+    computational linguistics?
+    - (1) this construct provides another tool to assess the parity of
+      translations. that this works for humans is apparent in the
+      "Dictionary of Untranslatables" where the authors discuss common
+      traps of translation and common concepts/words to identify to
+      quickly gauge the translator's sentiment/antipathy towards the
+      work they're translating, even if the concept at hand is
+      seemingly minor.
+      - example of a common trap: translations of the concept of
+        agency b/w french/english works of philosophy. it is
+        difficult/confusing to translate. understanding how the
+        translator chooses to handle sujet & agency in works that
+        cover those topics have implications for the parity of the
+        translation.
+        - the french/english translation problem for agent & agency is
+          also a great example of a translation that has grammatical
+          implications and, as such, is a particular difficult problem
+          that must be overcome in NLP and computational linguistic
+          analysis. so, in particular situations, there are no
+          satisfactory "substitutions" for agent/sujet
+    - (2) observing the distance between morphemes and their
+      idiosyncratic sememes over time to quantify dynamics in
+      linguistic evolution
+      - these idiosyncratic untranslatable sememes then become a kind
+        of "standard candle". the complex distance between these
+        standard candles over time is very important.
+      - however, more critical to the study of dynamics in linguistic
+        evolution is observing how this distance from *other* concepts
+        (sememes and morphemes) as they relate to the semantic
+        "standard candles"
+        - especially if it's possible to begin measure entropy and
+          distribution of sememes in semantic networks and the
+          morphemic pointers mapped to them in particular languages.
+        - because (energy dynamics) apply (in complicated perhaps
+          unquantifyable fashion) to semantic networks
+          - for regions of semantic networks where there are too many
+            morphemes mapping to sememes, those morphemes will
+            gradually repel each other.
+          - however, morphemes don't simply map to singular
+            sememes. they map in complicated fashion. and occasionaly,
+            very artificial dynamics begin to emerge based on
+            psycholingustic implications of the phonology of morphemes
+            as the relates to other morphemes (e.g. puns and homonyms)
+          - whenever these artificial dynamics occur, they defy the
+            common energetic dynamics that govern natural evolution of
+            semantic networks.
+        - this is where you begin to see the "invisible hand" of the
+          illuminati's control over langauge and linguistic
+          evolution. eventually, it will be demonstrated in an
+          undeniable manner by computational linguistics.
+
+
+#### Not-e, Nati Zut
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/e0A5vzGMQr8" frameborder="0"
+allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 =========
 
