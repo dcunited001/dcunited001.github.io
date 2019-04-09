@@ -3111,7 +3111,6 @@ recombinated through the ages.
     - filling roles in social hierarchies
       - (a la "the presidential model")
 
-
 - Is your mind strong? Can the spirit within you be quelled that
   drives you to fight in times of war and build in times of peace? Is
   it easier to placate people in times of peace, social conflict or

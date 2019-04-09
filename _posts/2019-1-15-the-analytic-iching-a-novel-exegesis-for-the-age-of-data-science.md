@@ -117,6 +117,10 @@ epistemic structures is the same as perturbation and perfraction: they
 are like leylines that channel social energy to normalize the results
 of drift in social stochastic differential processes.
 
+> If you don't know what Piagetian genetic epistemology is, you need
+> to watch [this lecture from Jordan
+> Peterson](https://www.youtube.com/watch?v=BQ4VSRg4e8w).
+
 ## [Spectral Convolution is Essence](#spectral-convolution-is-essence)
 
 #### [What Is Knowledge of Dependent Origination Without Applied Awareness of Phenomena?](#what-is-knowledge-of-dependent-origination-without-applied-awareness-of-phenomena)
@@ -155,6 +159,8 @@ of drift in social stochastic differential processes.
 
 #### &#19966; &#9775; ["More Precisely, We Are Never Understood -- Hence Our Authority"](#more-precisely-we-are-never-understood-hence-our-authority)
 
+#### [Accademia Will Not Hesitate to Neuter Philosophy By Translation](#accademia-will-not-hesitate-to-neuter-philosophy-by-translation)
+
 #### &#19967; &#9775; [**Hexagram 12** Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
 
 #### &#19966; &#9775; [Sociophilosophical Churn for Great Pragma](#sociophilosophical-churn-for-great-pragma)
@@ -164,6 +170,12 @@ of drift in social stochastic differential processes.
 #### &#19966; &#9775; [The Algebraic Topology of Hyperplanes ... Donuts My Mind May Never Digest](#the-algebraic-topology-of-hyperplanes)
 
 #### &#19967; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
+
+#### [Wherefore A Rough Diamond Lies Herein](#wherefore-a-rough-diamond-lies-herein)
+
+### [Hexagram 1 and 2: Of Analytical Machines and Perfraction of Metaphysical Form](#hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form)
+
+### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
 <a name="spectral-convolution-is-essence" />
 
@@ -793,7 +805,7 @@ divinatory vehicle that I believe the I Ching was intended to be.
 
 If one's perception of a situation is imagined as a point in an
 analytic hyperplane, and the I Ching's explanation of a query is
-imagined as another point in along that hyperplane, then the true
+imagined as another point in along that hyperspace, then the true
 value of divination is found by evaluating all the possible paths that
 connect those two points.
 
@@ -855,7 +867,6 @@ in this analytic hyperplane.
 
 - TODO: assemble!
 
-
 ![Pictures of notes from Hexagram 5]()
 
 There is a taxonomy of local minima that describes ALL of the species
@@ -898,15 +909,13 @@ specific implications for classical mechanics and quantum mechanics.
 The final message in "Waiting" is that by leveraging the experience of
 other people -- each mind is its own social process in a massive
 [Boltzmann Machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
--- we can more efficiently come to know the collective contours of
-society's collective analytical hyperplane. Though you've known your
-own descent and can chart the depths you know, there are others who
-have been deeper and carry with them knowledge they've gained while
-navigating the depths. You will not know from whom to expect this
-re-orientation but you must expect it to inquire about these three
-guests' journey when you do meet them.
-
-- TODO: content on boltzman suicide from notes
+-- then we can more efficiently come to know the collective contours
+of society's collective analytical hyperplane. Though you've known
+your own descent and can chart the depths you know, there are others
+who have been deeper and carry with them knowledge they've gained
+while navigating the depths. You will not know from whom to expect
+this re-orientation but you must expect it to inquire about these
+three guests' journey when you do meet them.
 
 #### From the paper, Dynamic Boltzmann Machines
 
@@ -991,19 +1000,17 @@ about how to think, of all things -- who needs another Plato? If he is
 useful, put him to work. If he's dangerous, where does he work? If he
 resonates with the times, why does he find himself so superfluous?
 
-- TODO: clarify independence/power
-
 The linguistic implications of Neitzsches choice of
 [überflüssig](https://en.wiktionary.org/wiki/überflüssig) (from latin,
 [superfluus](https://en.wiktionary.org/wiki/superfluus)) are
-contradicatory: both who he who is overflowing or he who is
+contradicatory: both who he who is overflowing and he who is
 unneeded. Both phrases "Überflüssig" and “Das Lied des Notwendigen”
 seem to be translated without granularity into english, but both are
 critical to a proper reading of Neitzsche, whose work decompresses
 with paradoxical implications abound. Nothing satisfies, with
 Nietzsche. Nothing ever will. It is this blind lust to strive forward
-while overcoming every stumbling block, lilliputian and pleasant
-sidestreet that transforms humanity.
+-- while overcoming every stumbling block, lilliputian and pleasant
+sidestreet -- that transforms humanity.
 
 ![Monk Carrying Water](/img/posts/2018-12-10-the-analytic-i-ching/monkwater.jpg)
 
@@ -1013,13 +1020,51 @@ influence who are unnecessary or dispensable to those who have access
 to such channels/influence. Instead these dispensable people are
 unneeded by those who control their circumstances, but instead develop
 a need to become needed by those above them -- particularly in the
-context of the State in “The New Idol”. i.e. No one needs them, but as
-they are unable to fulfill their needs independently, develop a
-dependent relationship to the more powerful, to whom they are
-dispensable. It is those above such überflüssig people who define how
-and whether their needs will be met. Such a system caps its
+context of the State in “The New Idol”. i.e. No one needs them except
+to use them, but as they are unable to fulfill their needs
+independently, the superfluous develop a dependent relationship to the
+more powerful, to whom they are dispensable. It is those above such
+überflüssig people who define how and whether their needs will be met:
+they are dispensible to those in power. Such a system caps its
 evolutionary potential because the weak exist to serve the powerful
-who feed themselves and weed out what is threatening or isn’t useful.
+who feed themselves and weed out what is threatening or isn’t
+useful.
+
+*Unless specifically addressed through the architecture of the
+culture* -- which is among the sociocultural implications of
+Nietzsche's work -- then such a system sacrifices advancement of the
+collective for the supposed benefit of the collective. In "The New
+Idol", Nietzsche seems to imply both that the state was designed for
+the überflüssig, the superfluous, and designed to produce them for its
+purposes. He writes that the state speaks in a kind of meta-language
+of values, the true comprehension of which escapes its neighbors. This
+is implicit language of action and effect of action and the state
+which feeds itself does so by deceiving its citizens and its neighbors
+-- they are fooled by its system of values and the explicit language a
+state uses to justify its actions.
+
+To prevent the state from extinguishing its own fire through
+stagnation, it must architect social systems that encourage both a
+healthy level of conflict and a healthy response to conflict. Similar
+to the notion of how financial engineers architect systems to benefit
+from a healthy level of economic volatility, to promote evolution of
+the collective, a state or culture must devices means of capturing the
+energy from the dissonance of sociocultural conflict at the individual
+level, converting it into a means to allow its individuals to evolve
+and become stronger. Nassim Taleb would say "Don't be so neurotic", so
+live to learn and learn to thrive. Be antifragile and orient yourself
+to grow stronger from every hit you take.
+
+> Just hope that people around you don't walk on eggshells or
+> systematically dampen information or place you in a perpetual
+> informationally assymetric disadvantage. You can't grow from
+> information you don't have or can't obtain.
+
+The passive aggressive tactics of the far left -- e.g. short circuit
+mild conflict through isolation and obfuscation, while leveraging
+intersectionalism to disempower specific social groups -- are toxic in
+the long run. See the footnote for a complete
+explanation.[^guerilla-theatre]
 
 <a name="more-precisely-we-are-never-understood-hence-our-authority" />
 
@@ -1078,10 +1123,14 @@ and distribution.
 
 ### [Accademia Will Not Hesitate to Neuter Philosophy By Translation](#accademia-will-not-hesitate-to-neuter-philosophy-by-translation)
 
+You cannot speed-read major works in philosophy. Your eyes must rest
+on the words, so that its expression, context, and inspiration can
+have time to seep fully into your mind.
+
 When I've read Plato's Republic, Tao Te Ching and other works in the
 past, I've spent a significant amount of time finding a satisfactory
 translation. With both of these works, the translation I settled on
-were tough, but the granularity was well worth it. Why did it seem the
+was tough, but the granularity was well worth it. Why did it seem the
 works were easy to read but so dull in other translations?
 
 Disruption is dangerous to the powers that be. "They" want a gradual
@@ -2092,3 +2141,28 @@ systems, even before the validity the tractibility of problems
     presentation](https://www.youtube.com/watch?v=WhXgpkQ8E-Q) for a
     great overview on how the Shazam app can recognize audio
     fingerprints of songs even with a significant amount of noise.
+
+[^guerilla-theater]: Being a victim of street theatre combined with
+    hypnosis and NLP, let me tell you: [guerrilla
+    theatre](https://en.wikipedia.org/wiki/Guerrilla_theatre) is a
+    disease. It deprives people of the chance to respond and
+    encourages cognitive bias amongst its members and "audience", all
+    while fostering toxic long-term tail risks. Information is
+    good. Deception in the form of guerilla theatre manufactures bad
+    information and leads to bad decisions. The far-leftist tactic of
+    guerilla theatre intends to leverage cognitive bias in the minds
+    of the movements' less radical members, to create the monster it
+    wishes they believed existed. To engage in this is to promote the
+    artificial creation of that which your espoused values system
+    implies you detest. For far-leftists, it provides a useful means
+    of "hazing" members and stratifying its members for willingness to
+    "engage" the enemy. But to me, these tactics invalidate your
+    supposed credibility. The dissonance between your intent and your
+    portrayal of intent is disgusting, not to mention *that the actual
+    outcomes you are creating could be the exact opposite of what your
+    values system claims is paramount*. You are not ridding the world
+    of racism, you are empowering it and enabling intersectionalist
+    conflict to justify radical action. If you cannot accurately
+    understand the actual outcomes you are creating or must deceive
+    your members into creating adverse outcomes, what justification do
+    you have for gaining power for social engineering?
