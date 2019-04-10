@@ -40,12 +40,17 @@ that outlines the structure of some all-encompassing ontology? Such a
 can be conceived with algebraic graph theory and category theory, but
 its parts must seemlessly reinforce a complete tautology while
 preserving symmetries amongst its archetypical metaphysical
-forms. Like the keystone in a Roman arch, in the cosmology of the
-Taiji, the ridgepole is the fundamental and final piece balancing the
-needs of its ontology. This conception of metaphysics almost mirrors
-that of Spinoza and Leibniz. Any such metaphysical ontology, if it is
-truly universal, must tautologically reinforce itself like the Roman
-arch balances out the distribution of its stress and tension.
+forms. Like the keystone in a Roman arch, the ridgepole in the
+cosmology of the Taiji is the fundamental, but final piece balancing
+the needs of its ontology. This conception of metaphysics almost
+mirrors that of Spinoza and Leibniz. Any such metaphysical ontology,
+if it is truly universal, must tautologically reinforce itself like
+the Roman arch or dome balances out the distribution of its stress and
+tension.
+
+#### The Dome in the Pantheon
+
+![Roman Pantheon](/img/posts/2018-12-10-the-analytic-i-ching/roman-pantheon.jpg)
 
 Forms are perfracted from such an all-encompassing ontology onto any
 simulation with chaos. Given enough running time, forms emerge within
@@ -93,10 +98,10 @@ our actions have always carried consequences we must understand.
 
 [Alpha and
 Omega](/img/posts/2018-12-10-the-analytic-i-ching/apollo-doodle.jpg)
-are in truth inverted, mimicking the struggle of free will in a world
-built by preceding generations who wanted you to be ignorant of their
-mistakes, their successes and, most of all, their plans for you... In
-this panpsychist conception, there can be no [prime
+are in truth inverted, mirroring your struggle for free will in a
+world built by preceding generations who wanted you to be ignorant of
+their mistakes, their successes and, most of all, their plans for
+you... In this panpsychist conception, there can be no [prime
 mover](https://en.wikipedia.org/wiki/Unmoved_mover) that is the
 beginning, the Alpha, without itself also being the ending, the
 Omega. In his dialectic of reason, Kant reduces through discourse the
@@ -109,17 +114,22 @@ phenomena from the all-encompassing ontology, then especially if
 ancient peoples were aware of this inevitability and perpetuated their
 understanding through occult semioteleological social programs, then
 the past's conception of the future controls the future with more
-capacity than we in the future have the ability to control our
-circumstances. Their programs, the knowledge of which has been
-suppressed, latch onto metaphysical constructs the outlines of which
-form our teleological understanding of the world. The impact of the
-epistemic structures is the same as perturbation and perfraction: they
-are like leylines that channel social energy to normalize the results
-of drift in social stochastic differential processes.
+capacity than we in this future have the ability to control our
+circumstances. The programs of the ancients -- implemented as
+language, mythos, religion and philosophy, whereof much knowledge has
+been suppressed or relegated to the esoteric -- latch onto
+metaphysical constructs, the outlines of which form our teleological
+understanding of the world. The impact of those ancient epistemic
+structures is the same as perturbation and perfraction: they are like
+leylines that channel social energy to normalize the results of drift
+in social stochastic differential processes.
 
 > If you don't know what Piagetian genetic epistemology is, you need
 > to watch [this lecture from Jordan
-> Peterson](https://www.youtube.com/watch?v=BQ4VSRg4e8w).
+> Peterson](https://www.youtube.com/watch?v=BQ4VSRg4e8w). Piaget's
+> ideas are like [genetic
+> programming](https://en.wikipedia.org/wiki/Genetic_programming) as a
+> social process for epistemology.
 
 ## [Spectral Convolution is Essence](#spectral-convolution-is-essence)
 
@@ -173,26 +183,26 @@ of drift in social stochastic differential processes.
 
 #### [Wherefore A Rough Diamond Lies Herein](#wherefore-a-rough-diamond-lies-herein)
 
-### [Hexagram 1 and 2: Of Analytical Machines and Perfraction of Metaphysical Form](#hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form)
+#### [**Hexagram 1 and 2**: Of Analytical Machines and Perfraction of Metaphysical Form](#hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form)
 
-### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
+#### [**Hexagram 13** is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
 <a name="spectral-convolution-is-essence" />
 
 # [Spectral Convolution is Essence](#spectral-convolution-is-essence)
 
-In the Qian Zuo Du, Confucius comments:
+In the Qian Zuo Du, *Confucius comments*:
 
-> "孔子曰易者易也變易也不易也"
+> "**孔子曰**易者易也變易也不易也"
 
 Bent Neilson translates this as: "Confucius said: Yi 易 means easy (易),
 change (變易), and constancy (不易)." In the Analytic I Ching, I
 propose that 易 or 簡易 (jiǎnyì) means the simple state of things as
 they are, that 變易 (biànyì) means the nature that is discerned by
-understanding the constancy of things as they change and that 不易
-(bùyì) -- literally, the unchanging -- is discerned by coming to
-understand the spectral components of information from observing
-phenonena in both their state and change.
+understanding the constancy of change in things and that 不易 (bùyì)
+-- literally, the unchanging -- is discerned by coming to understand
+the spectral components of information from observing phenonena in
+both their state and change.
 
 #### &#9312; State 簡易 jiǎnyì かんい 간이
 
@@ -220,8 +230,8 @@ describe *profound* preservation of equilibrium, where the *essence*
 is found in all the relationships between `d(.)`, `F(x)`, `FFT(.)` and
 most critically `=`.
 
-Thence, I posit that Confucius's definition of state (簡易), change
-(變易) and essence (不易) encode not simply the differential operator,
+Thence, I posit that Confucius's definition of **state** 簡易, **change**
+變易 and **essence** 不易 encode not simply the differential operator,
 but also it's linear interchange with that of the fourier
 operator. All linear systems must also be considered spectrally, but
 in doing so, one finds that any spectral valuation of linear equations
@@ -238,16 +248,18 @@ insight into phenomena that emerge in a system.
 If state, change and spectral essence are three classes of analysis
 methods for studying a system's mechanics and dynamics, then a
 suitable next step is the [convolution
-theorum](https://en.wikipedia.org/wiki/Convolution_theorem), which
-extracts resolution from systems by recursively evaluating their
-discrete spectralization. The process of convolution, applied to
-spectral data of increasing resolution, does not stand alone as its
+theorum](https://en.wikipedia.org/wiki/Convolution_theorem). This is a
+spectral tensor decomposition which can be applied to systems. In
+discrete optimization methods, it can expedite further extraction of
+resolution from systems via recursive evaluation of their discrete
+spectralizations and convolutions. The process of convolution, applied
+to spectral data of increasing resolution, does not stand alone as its
 own class, but should be considered a tool within the Yi realm of
 essence.
 
 The Shazam app can *efficiently* recognize songs, even from a noisy
 club, because it recognizes patterns in the spectral components of
-audio[^shazam-app]. The app works by identifying audio fingerprints by
+audio.[^shazam-app] The app works by identifying audio fingerprints by
 matching audio samples to spectral data in a database. The same
 technique can applied to analytical techniques of machine learning to
 enable us to recognize mechanics, dynamics and the emergence of
@@ -267,11 +279,12 @@ mechanics and interacting dynamics. Instead these analytic tools allow
 for introspection of phenomena in a manner completely disconnected
 from their mechanics. Understanding this is equivalent to
 understanding *why* simple machine learning algorithms work in the way
-they do, usually without requiring any knowledge of the systems they
-analyze and predict. An algorithm to classify handwritten digits does
-not necessarily require any knowledge of handwritten digits.
+they do, usually without requiring any a priori knowledge of the
+systems they analyze and predict. An algorithm to classify handwritten
+digits does not necessarily require any knowledge of handwritten
+digits.
 
-Phenomenologically, to what does [dependent
+Phenomenologically, what does [dependent
 origination](https://en.wikipedia.org/wiki/Pratītyasamutpāda) depend
 upon? As a chemical oracle once *experienced* unto me at the climax of
 a Lotus show, dependent origination is dependent upon itself; all
@@ -307,11 +320,22 @@ confidence in our era.
 
 The I Ching is a Bronze Age compendium of *social physics* in terms of
 natural philosophy. Through this lens, one can see what I call the
-Analytic I Ching: each hexagram captures a method of analyzing a
-situation. Such methods can be symbolized and logically proven with
-rigor acceptable to rationalists, yes. This is what western thought
-has given us with logic, science and math. But further, these same
-concepts can be felt via exploration of purely natural phenomena.
+Analytic I Ching: each hexagram can be conceived as illustrating a
+tool of mathematics or analytics, capturing a method of analyzing a
+system. To the Bronze Age chinese, the hexagrams provided metaphors
+using natural philosophy to analyze sociophysical systems -- they used
+it to analyze communication, hierarchy, turnover, energetic
+accumulation and energtic diffusion. Such methods can be symbolized
+and logically proven with rigor acceptable to rationalists, yes. This
+is what western thought has given us with logic, science and math. But
+further, these same concepts can be felt via exploration of purely
+natural phenomena. By natural philosophy, then, every stream, burst of
+pollen or cup of tea becomes a demonstration of a natural
+computational method, although applying these in practice required
+numerous kinds of imagination, among which include Jung's active
+imagination that we know today. The human mind is an analytical
+machine and one that the ancients reverse engineered, to be explained
+later in this piece.
 
 <a name="why-couldnt-vector-calculus-be-more-relatable" />
 
@@ -397,13 +421,16 @@ defies the human intuition for natural philosophy.
 We do not need advanced symbolic manipulation of maths and logic to
 understand that this photo is fake. A visual representation of
 phenomena, whether artistic or photographic, in its depiction of
-natural phenomena, must reflect the preservation of equilibrium.
-Otherwise it *looks* fake. This is the difference between bad lighting
-and good lighting in paintings. When visual phenomena deviate from our
-neurologically encoded physical models, our analytical emulation of
-physics can not only distinguish the qualitative differences at a
-subconscious level, but also direct the mind's attention to areas in
-the depiction's local space that seem *most fake*.
+natural phenomena, must reflect the preservation of
+equilibrium. Otherwise, to the human mind, it *looks* fake. This is
+the difference between bad lighting and good lighting in
+paintings. When visual phenomena deviate from our neurologically
+encoded physical models, our analytical emulation of physics can not
+only distinguish the qualitative differences at a subconscious level,
+but also direct the mind's attention to areas in the depiction's local
+space that seem *most fake*. We see this all the time in Hollywood
+special effects: the explosions we accept as being realistically
+depicted subconsciously confuse our mind.
 
 Via our experience of physical phenomena via sensory stimuli, our
 brain develops analytical models of physics that effectively
@@ -428,10 +455,10 @@ mechanics and dynamics mimicked those found in the natural world. This
 coupling that bounds social phenomena to reflect physical phenomena is
 how the child, whose mind has been attuned to the accurate perception
 of natural and social phenomena, can see that the emperor of Hans
-Christian Andersen's wears no clothes: the near-equilibrium of social
-physics is starkly violated. As a work of natural philosophy, the I
-Ching informed ancient China of social physics by generating random
-images of metaphor to natural phenomena.
+Christian Andersen's wears no clothes when the near-equilibrium of
+social physics is starkly violated. As a work of natural philosophy,
+the I Ching informed ancient China of social physics by generating
+random images of metaphor to natural phenomena.
 
 #### A Spherical Arrangement of the I Ching's Hexagrams
 
@@ -466,16 +493,24 @@ the final human condition. And why would we take this from ourselves?
 
 As it does after the most vivid dreams, the nerves in my nose were
 tingling electrically for those five minutes. These dreams usually
-involve transportation at some point. I've only ever experienced this
-in the past few years of my life. Here I have the most clear thoughts,
-though not necessarily connected to my dreams, and it is here where I
-feel like I know my mind, as it is truly meant to be. Perhaps it is
-artificially constrained and maybe it's natural.[^metacognition]
+involve transportation at some point: roadways, vehicles, transit and
+navigation. There is often some schism that results and transit is
+disrupted, a metaphor I believe my dreams are using to relevate some
+neurological flaw in my brain. I've only ever experienced this sudden
+waking clarity in the past few years of my life. Here I have the most
+clear thoughts, though not necessarily connected to my dreams, and it
+is here where I feel like I know my mind, as it is truly meant to
+be. Perhaps it is artificially constrained and maybe it's
+natural.[^metacognition]
 
 The sudden insight: the social and phenomenological dynamics
 symbolized following hexagrams can all be summed up by analogies to
 waves on a beach. Describing six fundamental hexagrams within a
-pattern language of waves yields an *au naturale* basis for dialectic.
+pattern language of waves yields an *au naturale* basis for dialectic
+that is critical for examining the ebb and flow within the **time** of
+all the hexagrams. This notion of time in the image and lines of the
+hexagram is just like that which painters use to capture motion,
+sequence or narrative within a single image.
 
 #### Phenomenology of Ocean Waves
 
@@ -491,13 +526,14 @@ pattern language of waves yields an *au naturale* basis for dialectic.
 
 #### &#9775; Hexagram 2: [The Receptive](https://ichingfortune.com/hexagrams/2.php)
 
-Hexagram 1 corresponds to the action of kinetic energy on the system
+Hexagram 1 corresponds to the action of kinetic energy in the system
 that creates the forms we recognize as waves. Hexagram 2 represents
 the action of the beach & seafloor shaping the dispersion of kinetic
 energy. The shaping influence that the seafloor exerts corresponds to
 the female aspect of the phenomenology here. The influence that the
 forces and momentums exert on the water as a fluid-dynamical system
-correspond to the male aspects.
+correspond to the male aspects. The Creative requires the Receptive to
+manifest forms.
 
 #### Ripcurrents
 
@@ -520,12 +556,62 @@ shoreline, noisily frothing to their maximal extent. This is a
 situation where there is minimal impact of unseen undertow, which
 deconstructs the kinetic energy of waves into turbulence.
 
-- TODO: comment on imagery/symbolism of "fording the river" and it's
-  importance to maintaining peace. how does increased/decreased
-  flooding impact trade in Bronze Age river systems? how do seasonal
-  changes affect trade and the diffusion of resources in the bronze
-  age? why does this matter to the constructive interference patterns
-  and resonance required to sustaining peace through commerce?
+Peace is sustained by prosperity, stability and resilience to
+disruption. To prolong periods of prosperous Peace, one must
+acknowledge the forms manifesting in sociopolitical and socioeconomic
+realms which contribute to constructive interference patterns and
+resonance. The more predictive that rulers and common people can be
+when reasoning about the ebb and flow of phenomena that yield
+beneficial constructive interference, the more they can consciously
+tune their activities to not only benefit from peace and prosperity,
+but they more collaborate to ensure the true roots of prosperity have
+been watered. The predictable flooding patterns of the Nile led to the
+inevitable establishment of Egyptian civilization. Whether Egyptian
+culture manifesting along the predictable flows of the Nile is what
+David Chalmers calls a strongly emergent phenomnea is up to
+sociophysical simulations to decide. Obviously, it requires the
+conscious acquiescence of the utility of predictable flooding to
+irrigation systems.
+
+> Nine in the second place means:
+>
+> Bearing with the uncultured in gentleness,
+>
+> Fording the river with resolution,
+>
+> Not neglecting what is distant,
+>
+> Not regarding one's companions:
+>
+> Thus, one may manage to walk in the middle.
+
+In Hexagram 11, the second line evokes the imagery of fording the
+river -- and yes, this is an allusion to crossing the great water --
+but imagine what this means to trade in the bronze age. Viable river
+crossings in the further tributaries are easier to pass with wagons,
+but when trading across regions in the Yangtze River watershed, it is
+more efficient to pass deeper river regions. This is where the
+collective economic trade of the region is funneled. Yet, there must
+be a bridge across the deeper regions.
+
+More figuratively, rather than interpreting simply river crossings,
+the second line is about balancing energies channeled via paths
+through the social network. In ancient China, the social connections
+generated by social flux could be assumed to be rooted to economic
+flux along the river system. Today, one must decide how projecting
+energy through hierarchical trees in the social network affects the
+health of the overall system. It is unwise to constantly project
+energy downwards through singular segments of your social network: you
+must alternate routes of energy projection. This avoids
+overconcentrating energy in some social neighborhoods and, for the
+influential in society, allows the system as a whole to benefit from
+your projection of energy. In the Bronze Age, the routes of travel
+your subordinates would take to conduct your affairs also strongly
+affected the influx of information traveling in the reverse
+direction. To cultivate redundant methods of staying apprised of the
+state of affairs in various river regions, you would ensure
+randomization of routes of commerce for your subordinates -- *Not
+neglecting what is distant.*
 
 #### Stagnation in Ocean Waves
 
@@ -544,13 +630,45 @@ scale of less than a dozen waves, protracted Stagnation creates an
 opportunity for the next big wave to blow past the stagnant
 water). The existing order is to be annihilated by the next large
 burst of energy, whether from the interior or exterior. In
-sociopolitcal terms, this is signified by a group of social
+sociopolitical terms, this is signified by a group of social
 institutions that have unwisely waste their energy. Perhaps this is
 fate and perhaps it is mismanagement. Regardless, it forebodes a
 precarious situation, where change is soon to wash over.
 
-The hexagrams 1, 2, 11 and 12 form a microcosm within the I Ching by
-mirroring the four images of [四象 (Sì Xiàng)](https://en.wikipedia.org/wiki/Four_Symbols)
+#### Fate is not kind to those in charge
+
+> Nine in the fourth place means:
+>
+> He who acts at the command of the highest
+>
+> Remains without blame.
+>
+> Those of like mind partake of the blessing.
+
+The answer to the riddle of Stagnation lies in Peace: identify and
+realign those constructive interference patterns, if possible. With
+unity, anything is possible. Creating unity requires flux of wealth
+that incentivizes your population to cooperate. If you are *the*
+leader, your subordinates and their beneficiaries expect the buck to
+stop at you. Your subordinates can benefit from trying their damnedest
+to overturn fate. In times of Stagnation, what is seen is that those
+near the top tiers of the existing social order continue to benefit
+from attempting to perpetuate it, but their efforts are wasted without
+proper leadership. To overturn Stagnation, your need a visionary who
+can relevate their strategy to subordinates who may need to act
+against their own self interests. The danger is that those who feed
+off of the wealth and power disseminated from the top continue to do
+without believing that the system is in crisis. If you are surrounded
+by sycophants, when they see that the ship is sinking, they may decide
+to seek their self-preservation over the preservation of the system.
+
+
+> The hexagrams 1, 2, 11 and 12 form a microcosm within the I Ching by
+> mirroring the four images of [四象 (Sì
+> Xiàng)](https://en.wikipedia.org/wiki/Four_Symbols). Each Sì Xiàng
+> is depicted as a bigram below, along with the Yin and Yang, the
+> eight trigrams, the Tai Ji and the Wuji, the last of which is the
+> void.
 
 ![Bagua](/img/posts/2018-12-10-the-analytic-i-ching/bagua.gif)
 
@@ -559,22 +677,47 @@ mirroring the four images of [四象 (Sì Xiàng)](https://en.wikipedia.org/wiki
 #### &#9775; Hexagram 64: [Before Completion](https://ichingfortune.com/hexagrams/64.php)
 
 Regardless of how strongly resonant normative forces seem to secure
-the certainty of an era or empire's social order, that group's social
-order will break like the crest of a wave to reach its furthest extent
-on the shore. This is the crux highlighted by the infinitessimal
-difference between the hexagrams Before Completion (64) and After
-Completion (63). The energies in flux that reinforce one social
-hierarchy's sociopolitical norms are essentially generated by socially
-distributed beliefs. As the socioeconomic situation changes
-incentization of entities projecting agency through a system, socially
-distributed belief changes to suit the needs of individuals and
-groups. Network effects intrinsic to sociophysical networks create
-tail risks. The socioepistemological churn between idealism and
-materialism is a socially distributed process of genetic
-epistemology. To be demonstrated later, the methods of marxist and
-hegelian dialectic are tools for individuals and groups to influence
-the mechanics and dynamics of this genetic socioepistemological
-process.
+the certainty of an era or an empire's social order, that group's
+social order will break like the crest of a wave to reach its furthest
+extent on the shore. This is the crux highlighted by the
+infinitessimal difference between the hexagrams Before Completion (64)
+and After Completion (63).
+
+#### From Hunter S. Thompson's "Fear and Loathing in Las Vegas"
+
+> Strange memories on this nervous night in Las Vegas. Has it been
+> five years, six? It seems like a lifetime, the kind of peak that
+> never comes again. San Francisco in the middle of '60 was a very
+> special time and place to be a part of. But no explanation, no mix
+> of words or music or memories could touch that sense of knowing that
+> you were there and alive, in that corner of time in the world,
+> whatever it meant.
+>
+> There was madness in any direction, at any hour, you could strike
+> sparks anywhere. There was a fantastic universal sense that whatever
+> we were doing was right, that we were winning.
+>
+> And that, I think, was the handle. That sense of inevitable victory
+> over the forces of Old and Evil. Not in any mean or military sense,
+> we didn't need that. Our energy would simply prevail. We had all the
+> momentum, we were riding the crest of a high and beautiful wave.
+>
+> So, now, less than five years later, you can go on a steep hill in
+> Las Vegas and look west. *And with the right kind of eyes you can
+> almost see **the High Water Mark**. That place where the wave
+> finally broke and rolled back.*
+
+The energies in flux that reinforce one social hierarchy's
+sociopolitical norms are essentially generated by socially distributed
+beliefs. As the socioeconomic situation changes incentivization of
+entities projecting agency through a system, socially distributed
+belief changes to suit the needs of individuals and groups. Network
+effects intrinsic to sociophysical networks create tail risks. The
+socioepistemological churn between idealism and materialism is a
+socially distributed process of genetic epistemology. To be
+demonstrated later, the methods of marxist and hegelian dialectic are
+tools for individuals and groups to influence the mechanics and
+dynamics of this genetic socioepistemological process.
 
 The difference between the moment before and after some phenomenon's
 maximal extent is infinitessimal. Discerning this is the task left to
@@ -597,9 +740,7 @@ inductive combinations of potential narratives implied by
 semiotics. The exegesis -- the motivation and modus operandi of
 interpretation -- further reduces the induced possibilities by
 constraining interpretation with Wilhelm's interpretation of the text,
-in most areas. There are some lines where I feel that Wilhelm skipped
-over the proper interpretation, but as of yet, I am not operating with
-his same level of comprehension of Chinese culture.
+in most areas.
 
 <a name="timeless-writing-assumes-all-possible-integrpretations" />
 
@@ -610,11 +751,11 @@ is most effectively preserved by encoding it semiotically into images,
 whose relevance and persistence is intended to be re-emulated in the
 future, not by the ephemeral meaning of words, but by the implicit
 relevance of the images those words inspire in the reader. It is only
-after meditating on a Hexagram for a day or so that I feel that I
-arrive at the proper intent. When interpreting such monumental works
-of religion -- or when writing your own great work of literature -- it
-is critical to understand the motivation behind transcending
-limitations of language in this way.
+after meditating on a Hexagram for a day or so that I feel I arrive at
+the proper intent. When interpreting such monumental works of religion
+-- or when writing your own great work of literature -- it is critical
+to understand the motivation behind transcending limitations of
+language in this way.
 
 <a name="the-i-ching-stands-alone" />
 
@@ -633,52 +774,58 @@ cool](https://www.salon.com/2012/12/01/nassim_nicholas_taleb_the_future_will_not
 and one will realize: to captivate meaning and to capture
 timelessness, one relies on timeless symbols:
 
-> The food will be prepared using a very archaic technology (fire),
+> The food will be prepared using a very archaic technology *(fire)*,
 > with the aid of kitchen tools and implements that have not changed
-> since the Romans (except in the quality of some of the metals
-> used). I will be sitting on an (at least) three-thousand-year-old
-> device commonly known as the chair (which will be, if anything, less
-> ornate that its majestic Egyptian ancestor). And I will be not be
+> since the Romans *(except in the quality of some of the metals
+> used)*. I will be sitting on an *(at least)* three-thousand-year-old
+> device commonly known as the chair *(which will be, if anything, less
+> ornate that its majestic Egyptian ancestor)*. And I will be not be
 > repairing to the restaurant with the aid of a flying motorcycle. I
 > will be walking or, if late, using a cab from a century-old
 > technology, driven by an immigrant—immigrants were driving cabs in
-> Paris a century ago (Russian aristocrats), same as in Berlin and
-> Stockholm (Iraqis and Kurdish refugees), Washington, D.C. (Ethiopian
-> postdoc students), Los Angeles (musically oriented Armenians), and
-> New York (multinationals) today.
+> Paris a century ago *(Russian aristocrats)*, same as in Berlin and
+> Stockholm *(Iraqis and Kurdish refugees)*, Washington, D.C. *(Ethiopian
+> postdoc students)*, Los Angeles *(musically oriented Armenians)*, and
+> New York *(multinationals)* today.
 
 The most effective writing assumes all interpretations are valid and,
 line by line, nails constraints onto the space of interpretations,
 constricting the flexibility of interpretation. This is a
-combinatorial search method that scores on informational coherence,
-but also has "look ahead & collapse backwards" used by Bell's Theorum
--- i.e. assume all possibilities, use deduction wherever possible (it
-is efficient), use combinatorial induction to scan forwards, then use
-deduction to collapse backwards. By limiting the set of symbols and
-morphemes employed, this guarantees that the proper interpretation
+combinatorial search method prioritizes interpretations on
+informational coherence, but also has the "look ahead & collapse
+backwards" used by Bell's Theorum -- i.e. assume all possibilities in
+the space of interpretations, use deduction wherever possible (it is
+efficient), use combinatorial induction to scan forwards, then use
+deduction again to collapse backwards. By limiting the set of symbols
+and morphemes employed, this guarantees that the proper interpretation
 will be reinforced by the apparent spectral harmony of a subset of
-semantic interpretations made manifest to the well-attuned reader. In
-the informational context, spectral harmony defines "informational
-coherence". However, I believe that *there is still absolute truth* --
-which is an all encompassing ontological lattice into which all
-information can fit.
+semantic interpretations made manifest to the reader well-attuned to
+universiality. In the informational context, spectral harmony defines
+"informational coherence".
 
-I realize that Chinese authors of the I Ching -- and indeed the
-authors of whatever body of divinatory work preceeded the I Ching --
-did not have the modern era's profiency with symbolic manipulation of
-math and physics. However, I truly believe they found much the same
-form and order in nature to be rediscovered by the West's
-proto-Rationalists in the Renaissance. It is math by intuition. Also,
-the mind is an analytical computer and, if the most efficient way for
-the mind to make physical predictions is by converging its own
-analytical models to their numerical complements, then why can't the
-mind bridge the gap from analytical to numerical simply by seeking the
-most efficient solutions?
+#### The 三易 (sanyì) were three ancient versions of the I Ching -- the 連山, the 歸藏 and the 周易
 
-> In other words, is the secret behind the video of Bruce Lee lighting
-> matchsticks with nunchukus to internalize analytical representations
-> of physical models that account for infinitessimals and the fluid
-> dynamics of air?
+> [大卜]掌三易之法一曰**連山**二曰**歸藏**三曰**周易**其經卦皆八其别皆
+> 六十有四
+
+The progenitors of the divinatory work transitioning into the Han
+dynasty's I Ching did not have the modern era's profiency with
+symbolic manipulation of math and physics. However, I truly believe
+they found much the same form and order in nature to be rediscovered
+by the West's proto-Rationalists in the Renaissance. It is math by
+intuition. Also, the mind is an analytical computer and, if the most
+efficient way for the mind to make physical predictions is by
+converging its own analytical models to their numerical complements,
+then why can't the mind bridge the gap *from analytical to numerical*
+simply by seeking the most efficient solutions?
+
+> In other words, the secret behind the video of Bruce Lee lighting
+> matchsticks with nunchukus: is it the internalization of analytical
+> representations of physical models capable of accounting for
+> infinitessimals and the fluid dynamics of air? Is the apparent
+> complexity of emulation of physical systems to such detail an
+> illusion, dissolved away by a mind capable of bridging the
+> analytical-numerical divide?
 
 How is this possible? How much more efficiently can the mind operate
 when its analytical models of physics approach near consensus with
@@ -697,14 +844,36 @@ efficient physical energy consumption.
 
 # [The Epitomization of Design Imperatives Motivating the Shaman's Method](#the-epitomization-of-design-imperatives-motivating-the-shamans-method)
 
-With the Analytic I Ching, there are two objectives whose (solution) I
-hope to intertwine. First, I wish to reinterpret the I Ching in the
-image of moreso modern analytic tools. Second, I hope this results in
-divination readings that are profound convolutions of these analytic
-tools, providing value to both the average person looking for a more
-rigorous set of abstractions by which to examine their query to the
-Iching *and* as a comprehensive set of analytic tools useful data
-scientists.
+With the Analytic I Ching, there are two objectives whose elucidation
+I hope to begin to bring to light with the rest of this piece. First,
+I wish to reinterpret the I Ching in the image of moreso modern
+analytic tools. Second, I hope this results in divination readings
+that are profound convolutions of these analytic tools, providing
+value to both the average person looking for a more rigorous set of
+abstractions by which to examine their query to the I Ching *and* to
+data scientists looking for an enumerated basis of the most useful
+analytic tools. From this basis, given a reading of the I Ching, more
+complicated methods would convolute these analytic methods into
+starting point for an algorithmic. The ultimate goal would be a
+companion program to generate at least the specification for a machine
+learning algorithm simply from a hexagram reading. This would be
+intended to facilitate a process of active imagination for data
+scientists to weigh the pros and cons of attacking machine learning
+problems from unexpected angles.
+
+> To the end of producing a compendium of 64 analytical techniques
+> matched to the 64 hexagrams, Oliver Knill's [Some Fundamental
+> Theorums in Mathematics](https://arxiv.org/abs/1807.08416) and this
+> textbook expounding on the analytic differential forms (the big D)
+> of [Exterior
+> Analysis](https://www.amazon.com/Exterior-Analysis-Using-Applications-Differential/dp/0124159028)
+> would no doubt be indispensible starting points.
+
+What would be even more helpful is *not living in a virtual reality
+full of lying knaves out to deceive me into complacent poverty.*
+Apparently, being visionary is not as lauded as the biopic [JOBS
+(2013)](https://www.imdb.com/title/tt2357129/) made it out to be. My
+life is more like "No Such Citizen, Kaned."
 
 <a name="a-book-pitch-no-earthly-publishers-would-entertain" />
 
@@ -747,7 +916,7 @@ evolution.
 
 This leaves me with *nothing* and certainly without the respect I
 deserve. Perhaps I don't deserve much. I'm not asking for much, but
-`-$0.61` in the bank is ludicrous.
+`-$0.61` in the bank is ludicrous. *JOBS!* HAH!
 
 #### But, as Nietzche [posthumously] published:
 
@@ -768,8 +937,8 @@ informational phenomena. To apprehend the true nature of these
 metaphysical forms as they appear to influence causal flow of events
 is to be in tune with the spiritual. If various methods of shamanism
 can repeatedly evoke visceral experiences to bring you closer to
-understanding of these forms as they influence the world around
-you, then there is no need for a supernatural connection. Instead, the
+understanding of these forms as they influence the world around you,
+then there is no need for a supernatural connection. Instead, the
 spiritual experience can be explained as purely the mind's experience
 of purely informational mechanics within itself -- which can include
 the experience of information that, while the mind's analytic systems
@@ -777,14 +946,14 @@ are never capable of fully ingesting, still result in transformative
 structural changes to the psyche. These purely informational mechanics
 are mapped to the aforementioned noumena-like forms, which are not
 only eternally unchanging, but universal throughout space and
-time. while they are composed of ineffable "monadic substances", the
+time. While they are composed of ineffable "monadic substances", the
 same eternal forms can be tapped into by *any consciousness* and *any
 information-processing entity*, without any need for supernatural
 mechanics -- whether or not those exist is perhaps another
-question. this is essentially no different than the Tao or
-Leibniz's Monad. to me, the shaman's trance and spiritual experiences
-are visceral experiences in the minds of those who are intimately in
-tune with the nature of the eternal. it is projected to the mind as a
+question. This is essentially no different than the Tao or Leibniz's
+Monad. To me, the shaman's trance and spiritual experiences are
+visceral experiences in the minds of those who are intimately in tune
+with the nature of the eternal. It is projected to the mind as a
 visceral experience where archetypes of the eternal are witnessed by
 the shaman, who must then make sense of what was seen.
 
@@ -800,8 +969,24 @@ philosophy provide random points of reference that the I Ching
 personified posits as explanation for the situation described by the
 *querent*. If one simply substitutes these images from natural
 philosophy with the interpreted analytic tools I believe the hexagrams
-represent, then one arrives at a more modern revision of the
-divinatory vehicle that I believe the I Ching was intended to be.
+represent for sociophysical dynamics, then one arrives at a more
+modern revision of the divinatory vehicle.
+
+There is little value in accepting the random point the I Ching yields
+to the querent as a definitively true message. It is instead the
+dissonance between the querent's perception of their situation and the
+I Ching's projection perception of the same situtation: these are the
+two points and their dissonance is evaluated by constructing paths to
+explain the difference between them. Since the points returned by the
+I Ching or some other divinatory system are effectively random, then
+they are completely disconnected from all the inherent biases that
+humans have. This deshrouds a person from their biases and thereby
+divination may disrupt the hold that the unconscious or illusion have
+over a person.
+
+<a name="your-task-complete-the-circumstantial-circuits-of-explanation" />
+
+### [Your Task: Complete The Circumstantial Circuit(s) Of Explanation](#your-task-complete-the-circumstantial-circuits-of-explanation)
 
 If one's perception of a situation is imagined as a point in an
 analytic hyperplane, and the I Ching's explanation of a query is
@@ -809,28 +994,10 @@ imagined as another point in along that hyperspace, then the true
 value of divination is found by evaluating all the possible paths that
 connect those two points.
 
-TODO: See [below](#below) for a better explanation of (...)
-
-In my opinion, there is little value in accepting the random point the
-I Ching yields to the querent as a definitively true message. It is
-instead the dissonance between the querent's perception of their
-situation and the I Ching's projection perception of the same
-situtation: these are the two points and their dissonance is evaluated
-by constructing paths to explain the difference between them. Since
-the points returned by the I Ching or some other divinatory system are
-effectively random, then they are completely disconnected from all the
-inherent biases that humans have. This deshrouds a person from their
-biases and thereby divination may disrupt the hold that the
-unconscious or illusion have over a person.
-
-<a name="your-task-complete-the-circumstantial-circuits-of-explanation" />
-
-### [Your Task: Complete The Circumstantial Circuit(s) Of Explanation](#your-task-complete-the-circumstantial-circuits-of-explanation)
-
 In this way, the I Ching is tooling for toying with the
 hyper-parameters of the mind's neural network learning systems; it
 presents the mind with an unconsciously arranged smattering of images
-and archtypes. Hereby, the I Ching provides random fodder to expand
+and archtypes. Hereby the I Ching provides random fodder to expand
 with combinatorially inductive reasoning, to be reduced by abductive
 and deductive methods. If such fodder corresponds to a truly universal
 mapping of the phenomena and the dynamics of human experience, then
@@ -843,7 +1010,9 @@ mechanics of the I Ching is paramount. It's yarrow sticks method for
 sampling a true uniform distribution of random numbers. If this
 corresponds to a truly uniform covering of phenomena and dynamics,
 then it truly acts as a set of keys to unlock any and every potential
-circumstance of social captivity.
+circumstance of social captivity. The specifics of this universal
+semioteleological covering of human experience is the subject of
+another piece on I Ching.
 
 <a name="what-is-a-hexagram-analytically" />
 
@@ -865,26 +1034,38 @@ solution-space used in machine learning algorithms forms the basis of
 a space. One's motion in the social situation can be plotted as a path
 in this analytic hyperplane.
 
-- TODO: assemble!
+There is a taxonomy of local minima that describes all of the species
+of minima that can be encountered, including saddle points. Such a
+taxonomy becomes vastly more complicated in higher dimensions, as
+combinations of local convexity and concavity cause profound
+variations in the patterns that can arise in the neighborhood of any
+arbitrary point. For each configuration of dimensions (e.g. in 3D, 4D,
+5D, etc), there are a limited number of patterns of local convexity
+and concavity that can arise.
 
-![Pictures of notes from Hexagram 5]()
-
-There is a taxonomy of local minima that describes ALL of the species
-of minima that can be encountered: the first five lines of Hexagram 5
-enumerates ALL of these minima types. The Theorema Egregum... There is
-the meadow, a flat space, which is a symbol that recurs again and
-again in the I Ching. This is a space of comfort; nothing is to be
-challenged, but "crossing the great water" requires moving oneself out
-of a comfort zone, where perhaps one encounters more disadvantaged
-situations. There is the pit in the fourth line, a relatively global
-minima. There is the place of "meat and drink" in the fifth line,
-which describes a higher local minima encountered after climbing out
-of the Pit. Finally, in the sixth line, how does one escape all of
-these traps? It is by encountering three guests who are traversing the
-same space: this is analogous to parallelized methods for accelerating
-training of machine-learning algorithms. These three guests have
-explored the contours of the adjacent hyperplane: the bring to you
-information about how to escape your local minima.
+The series of images provided by the procession of lines in Hexagram 5
+describes the task of *crossing the great water*. The first five lines
+of Hexagram 5 seems to enumerate all of these types for surfaces in
+three dimensions. There is the *meadow*, a flat space devoid of
+significant local minima, which is a symbol that recurs again and
+again in the I Ching. This is a space of comfort with little impact on
+your mobility; nothing is to be challenged, but *crossing the great
+water* requires moving oneself out of a comfort zone, where perhaps
+one encounters more disadvantaged situations. The *sand* of the second
+line seems to correspond to a local minima in a space or a local
+convexity in a vector field. The *mud* from the third line describes a
+place close to danger, where your movement may become defined by
+forces over which you exert restricted control. There is *the pit* in
+the fourth line, a relatively global minima. There is the place of
+*meat and drink* in the fifth line, which describes a higher local
+minima encountered after climbing out of the Pit. Finally, in the
+sixth line, how does one escape all of these traps? It is by
+encountering *three guests* who are traversing the same space: this is
+analogous to parallelized methods for accelerating training of
+machine-learning algorithms. These *three guests* have explored the
+contours of the adjacent hyperplane: they bring to you information
+about how to avoid other nearby pitfalls or to escape this deep minima
+entirely.
 
 #### A Low-Dimensional Representation of an Analytic Hyperplane
 
@@ -901,10 +1082,35 @@ information about how to escape your local minima.
 ### [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
 
 Imagining higher dimensions is easier if you imagine the space in
-radial terms, not simply cartesian terms... In this 4D or 5D space,
+radial terms, not simply cartesian terms. In this 4D or 5D space,
 rotate your perspective. What's different? There are more angles by
 which to orient your motion -- more degrees of freedom, a term with
-specific implications for classical mechanics and quantum mechanics.
+specific implications for classical mechanics and quantum
+mechanics. Another visualization exercise for reasoning about the
+fourth dimension to imagine folding a 3D cube into 4D shapes, like one
+would place folds in a 2D paper to form origami. Start with simple
+folds and imagine the infinitesimal transition from an object with
+points in X, Y, and Z to one that has points in the W-axis. 4D origami
+requires preserving the volumes and surface areas of planes, whereas
+3D origami only requires preserving the latter. A cube is a good
+starting point because of its symmetries. If you can imagine a
+hypercube, another good visualization exercise is to bisect all the
+hypercube's edges and produce a (2 x 2 x 2 x 2) grid in four
+dimensions. This are critical exercises for activating your mind's
+eye, which should not be limited to its subjective experience.
+
+#### Magic Eye Hypercube
+
+> Experientially activate your mind's ability to perceive what it
+> cannot in its limited three-dimensional reality. The brain as an
+> analytical machine is capable of processing this information, but is
+> never presented situations in life that activate its ability to do
+> so. This hypercube stereogram is insufficient, but your imagination
+> is all you need. When you are meditating and your mind's eye pieces
+> through the noise, it feels like your mind snaps an image into
+> resolution.
+
+![Magic Eye Hypercube](/img/posts/2018-12-10-the-analytic-i-ching/magic-eye-hypercube.jpg)
 
 The final message in "Waiting" is that by leveraging the experience of
 other people -- each mind is its own social process in a massive
@@ -917,16 +1123,17 @@ while navigating the depths. You will not know from whom to expect
 this re-orientation but you must expect it to inquire about these
 three guests' journey when you do meet them.
 
-#### From the paper, Dynamic Boltzmann Machines
+#### Image from Takayuki's Research on [Dynamic Boltzmann Machines](https://groups.oist.jp/ja/ncu/event/dynamic-boltzmann-machines-takayuki-osogami)
 
-![Dynamic Boltzmann Machines](/img/posts/2018-12-10-the-analytic-i-ching/boltzmann-evolution.jpg)
+![Dynamic Boltzmann
+Machines](/img/posts/2018-12-10-the-analytic-i-ching/boltzmann-evolution.jpg)
 
 [I've written
-before](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html#boltzmanns-distribution-a-generalized-heat-equation),
-the Boltzmann Machine's profoundly generalized conception of
-energy. Understanding the concept of Physical Energy, generalized to
-abstract scenarios, is something that would benefit every Western
-Rationalist to understand. In machine learning, there are
+before](/posts/2018-03-04-to-catch-a-butterfly-epistemic-miracles-of-serendipity.html#boltzmanns-distribution-a-generalized-heat-equation)
+on the Boltzmann Machine's profoundly generalized conception of
+energy. Understanding the concept of physical energy, as generalized
+to abstract scenarios, is something every Western rationalist would
+benefit from understanding. In machine learning, there are
 generalizable methods for convex/concave optimization wherein many
 process explore a space in parallel. In a Boltzman Machine, each
 process has its own theta-weights and, as iterations of the algorithm
@@ -935,14 +1142,34 @@ the space with more concavities. Many of the same approaches involving
 energy and entropy that Boltzmann introduced to model thermodynamics
 are applied to higher-order energy types. For my own purposes in
 distinguishing this from physical energy: these I have named energies,
-plural. The concept of "Energies" is employed repeatedly in biophysics
-and social physics. Any and every quantity that is statistically
-distributed over a space can be conceptualized as a higher-order
-energy, which can be braided together with the concept of Dirichlet
-energy.
+plural. The concept of "energies" is employed repeatedly in biophysics
+and social physics.
+
+Any and every quantity that is statistically distributed over a space
+can be conceptualized as a higher-order energy, which can be braided
+together with the concept of Dirichlet energy -- which is truly a
+mathematical tool whose generalized applications upgrade your
+brain. Inventing the bubble integral to handle problems related to
+determining whether harmonic maps are possible in arbitrary scenarios
+[recently earned Karen Uhlenbeck the Abel
+Prize](https://www.quantamagazine.org/karen-uhlenbeck-uniter-of-geometry-and-analysis-wins-abel-prize-20190319/)
+and it involves Dirichlet energy. A potential usage of Dirichlet
+energy as a measure of what is lacking is to create a mapping
+connecting the epistemological density of ideas and topics, correlated
+to the volume of searches on Google and Youtube, to the quantity of
+existing blogs and youtube videos. This would help one gravitate
+towards regions of high-Dirichlet dissonance in the mapping, to
+identify both what blogs/videos are in demand and which have been
+overdone. Of course, there is no such simple epistemological space
+upon which this mapping could be based. SEO instead loses parity by
+basing its calculations for supply/demand on a lingustic basis. A
+former secret to success in SEO *was* providing what would be looking
+for that did not yet exist. Wherever there is an imperfect
+distribution or function, Dirichlet energy is applicable and can be
+used to reason about dissonance, *spatially.*
 
 > Boltzmann killed himself at a depressingly early age because his
-> work was derided and labelled insignificant, at best. In reality,
+> work was derided and labeled insignificant, at best. In reality,
 > Boltzmann's work challenged the conventional understanding of
 > thermodynamics, chemistry and physics at the time, which seems to
 > have threatened to overturn the esoteric grasp that existing powers
@@ -959,152 +1186,7 @@ millennia. If you understand how this revolutionized the steel and
 chemical industries, then you must understand the threat of disruption
 posed by Boltzmann’s revelations.
 
-<a name="the-highest-man-as-lawgiver-of-the-future" />
-
-### [The Highest Man As Lawgiver of the Future](#the-highest-man-as-lawgiver-of-the-future)
-
-That philosophy can never move forwards in an authentic direction is a
-product of insurmountable complexity combined with Neitzsche's Danger
-of Dangers. The required complexity renders it exceedingly unlikely
-that anyone could ever deconstruct existing ideas to reconstruct them
-into some truly novel basis. Existing moral systems are frightened by
-the prospect of any such authentic move forwards in philosophy, if it
-is to be significant -- but never in human history have the stakes
-been higher.
-
-#### In Will to Power (976), Nietzsche [post-humously] writes:
-
-> The reason why philosophers are mostly failures. Because among the
-> conditions which determine them there are qualities which generally
-> ruin other men:—
->
-> (1) *A philosopher must have an enormous multiplicity of qualities;*
-> he must be a sort of abbreviation of man and have all man's high and
-> base desires: the danger of the contrast within him, and of the
-> possibility of his loathing himself;
->
-> (2) He must be inquisitive in an extraordinary number of ways: *the
-> danger of versatility;*
->
-> (3) He must be *just and honest* in the highest sense, *but profound
-> both in love and hate (and in injustice);*
->
-> (4) He must not only be a **spectator** but a lawgiver: *a judge and
-> defendant* (in so far as he is an abbreviation of the world);
->
-> (5) He must be *extremely multiform* and yet *firm and hard*. He
-> must be supple.
-
-Why would a man with so many skills be employable, yet writing? And
-about how to think, of all things -- who needs another Plato? If he is
-useful, put him to work. If he's dangerous, where does he work? If he
-resonates with the times, why does he find himself so superfluous?
-
-The linguistic implications of Neitzsches choice of
-[überflüssig](https://en.wiktionary.org/wiki/überflüssig) (from latin,
-[superfluus](https://en.wiktionary.org/wiki/superfluus)) are
-contradicatory: both who he who is overflowing and he who is
-unneeded. Both phrases "Überflüssig" and “Das Lied des Notwendigen”
-seem to be translated without granularity into english, but both are
-critical to a proper reading of Neitzsche, whose work decompresses
-with paradoxical implications abound. Nothing satisfies, with
-Nietzsche. Nothing ever will. It is this blind lust to strive forward
--- while overcoming every stumbling block, lilliputian and pleasant
-sidestreet -- that transforms humanity.
-
 ![Monk Carrying Water](/img/posts/2018-12-10-the-analytic-i-ching/monkwater.jpg)
-
-In his masterpiece Zarasthustra, Nietzsche is essentially saying the
-überflüssig are those outside of or without leverage over channels of
-influence who are unnecessary or dispensable to those who have access
-to such channels/influence. Instead these dispensable people are
-unneeded by those who control their circumstances, but instead develop
-a need to become needed by those above them -- particularly in the
-context of the State in “The New Idol”. i.e. No one needs them except
-to use them, but as they are unable to fulfill their needs
-independently, the superfluous develop a dependent relationship to the
-more powerful, to whom they are dispensable. It is those above such
-überflüssig people who define how and whether their needs will be met:
-they are dispensible to those in power. Such a system caps its
-evolutionary potential because the weak exist to serve the powerful
-who feed themselves and weed out what is threatening or isn’t
-useful.
-
-*Unless specifically addressed through the architecture of the
-culture* -- which is among the sociocultural implications of
-Nietzsche's work -- then such a system sacrifices advancement of the
-collective for the supposed benefit of the collective. In "The New
-Idol", Nietzsche seems to imply both that the state was designed for
-the überflüssig, the superfluous, and designed to produce them for its
-purposes. He writes that the state speaks in a kind of meta-language
-of values, the true comprehension of which escapes its neighbors. This
-is implicit language of action and effect of action and the state
-which feeds itself does so by deceiving its citizens and its neighbors
--- they are fooled by its system of values and the explicit language a
-state uses to justify its actions.
-
-To prevent the state from extinguishing its own fire through
-stagnation, it must architect social systems that encourage both a
-healthy level of conflict and a healthy response to conflict. Similar
-to the notion of how financial engineers architect systems to benefit
-from a healthy level of economic volatility, to promote evolution of
-the collective, a state or culture must devices means of capturing the
-energy from the dissonance of sociocultural conflict at the individual
-level, converting it into a means to allow its individuals to evolve
-and become stronger. Nassim Taleb would say "Don't be so neurotic", so
-live to learn and learn to thrive. Be antifragile and orient yourself
-to grow stronger from every hit you take.
-
-> Just hope that people around you don't walk on eggshells or
-> systematically dampen information or place you in a perpetual
-> informationally assymetric disadvantage. You can't grow from
-> information you don't have or can't obtain.
-
-The passive aggressive tactics of the far left -- e.g. short circuit
-mild conflict through isolation and obfuscation, while leveraging
-intersectionalism to disempower specific social groups -- are toxic in
-the long run. See the footnote for a complete
-explanation.[^guerilla-theatre]
-
-<a name="more-precisely-we-are-never-understood-hence-our-authority" />
-
-### ["More Precisely, We Are Never Understood -- Hence Our Authority"](#more-precisely-we-are-never-understood-hence-our-authority)
-
-In the context of the New Idol, “Das Lied des Notwendigen” refers to
-those who are independent; their needs are not defined by others and
-thus neither are the goals/objectives they seek to attain to meet such
-needs. Since their needs, desires, and objectified behaviors are
-neither typical nor are they so externally defined, the evolutionary
-potential of such individuals is much greater.
-
-When people choose to define their own will independently of the
-existing power, seek the cultivation of a will to power for
-self-actualization, enable others to pursue such transformation, then
-the society as a whole and mankind become collectively stronger.
-Moreover, those who independently determine their needs, desires and
-crucially the means whereby such are attained cannot be predicted or
-understood. It is so unlikely for an individual to possess all of the
-characteristics outlined in Will to Power (976) -- while also pushing
-ever forward towards true progress in philosophy -- without having
-their energy coopted by societal power structures.
-
-When the conduits of influence in large societies constrain
-independent will, prune away the nontypical and consume the
-dispensable, then agents within such a system will behave with more
-singular will. This enables greater accomplishment towards the goals
-of the higher social echelons of that group, but paradoxically
-strongly limits the long-term evolutionary trajectory of that social
-group. If such concerns are not augmented by artificial initiatives to
-balance singular oneness with the diversity of experience that
-advances the goal beyond competition and externalities, then any state
-or social group will crash like a wave whose crest has fallen. The
-strength of the maximum tidal Flow of a group merely determines the
-strength of the diverging riptides that pull it apart into a vacuously
-minimal Ebb, awaiting the next such social tsunami. These social
-dynamics are not unlike the financial dynamics leading to the
-as-yet-aeternal business cycle of boom and bust. However, it is
-possible to attain such singular oneness while accelerating
-evolutionary mechanisms.
 
 New generalizations generally provide anew or expand a dual basis for
 existing concepts, which enables orthogonal approaches to thought.
@@ -1395,7 +1477,7 @@ unfolding change and essence through our inference of sociophysical
 ensemble's nature. An ensemble, in physics is the a collection of
 potential statistical mechanical distributions, delineating upon some
 parameters. Sociophysical ensembles yield distributions of social
-particles and social dyanmics that are not the composition of
+particles and social dynamics that are not the composition of
 dilineated physical attributes, but instead are ensembles whose
 distributions are arranged along ontological space in terms of each
 distribution's ontological metatypes.
@@ -2141,28 +2223,3 @@ systems, even before the validity the tractibility of problems
     presentation](https://www.youtube.com/watch?v=WhXgpkQ8E-Q) for a
     great overview on how the Shazam app can recognize audio
     fingerprints of songs even with a significant amount of noise.
-
-[^guerilla-theater]: Being a victim of street theatre combined with
-    hypnosis and NLP, let me tell you: [guerrilla
-    theatre](https://en.wikipedia.org/wiki/Guerrilla_theatre) is a
-    disease. It deprives people of the chance to respond and
-    encourages cognitive bias amongst its members and "audience", all
-    while fostering toxic long-term tail risks. Information is
-    good. Deception in the form of guerilla theatre manufactures bad
-    information and leads to bad decisions. The far-leftist tactic of
-    guerilla theatre intends to leverage cognitive bias in the minds
-    of the movements' less radical members, to create the monster it
-    wishes they believed existed. To engage in this is to promote the
-    artificial creation of that which your espoused values system
-    implies you detest. For far-leftists, it provides a useful means
-    of "hazing" members and stratifying its members for willingness to
-    "engage" the enemy. But to me, these tactics invalidate your
-    supposed credibility. The dissonance between your intent and your
-    portrayal of intent is disgusting, not to mention *that the actual
-    outcomes you are creating could be the exact opposite of what your
-    values system claims is paramount*. You are not ridding the world
-    of racism, you are empowering it and enabling intersectionalist
-    conflict to justify radical action. If you cannot accurately
-    understand the actual outcomes you are creating or must deceive
-    your members into creating adverse outcomes, what justification do
-    you have for gaining power for social engineering?
