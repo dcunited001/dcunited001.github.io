@@ -2162,8 +2162,12 @@ and context. The representations that encode instructions for proper
 grammatical interpretation are much more brittle. Thus, due to Occam's
 Razor, additional social stability and harmonic context would be
 required to fully develop grammatical representations, if they were
-expected to propagate and be sustained by subsequent
-generations.
+expected to propagate and be sustained by subsequent generations. The
+specific morphemes, chosen randomly before and after the beginning of
+the Holocen conferred themselves a representational advantage when
+there was some unconscious connection to the environment, onto which
+each morpheme would semiotically latch themselves as humans
+experimented with semiotic signs to convey meaning without grammar.
 
 Because of the delicate nature of socially perpetuating these
 representations in the Ice Age, where humans would band together in
