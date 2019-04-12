@@ -193,9 +193,11 @@ in social stochastic differential processes.
 
 #### &#19967; &#9775; [The Philosophical Keystone To Your Information Geometry](#the-philosophical-keystone-to-your-information-geometry)
 
-#### &#19966; &#9775; [Occam's Razor And The Social Mechanics of Artificial Entities](#occams-razor-and-the-social-mechanics-of-artificial-entities)
+#### &#19966; &#9775; [Language Distinguishes Man From Animal](#language-distinguishes-man-from-animal)
 
-#### &#19967; &#9775; [**Hexagram 13** is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
+#### &#19967; &#9775; [Occam's Razor And The Social Mechanics of Artificial Entities](#occams-razor-and-the-social-mechanics-of-artificial-entities)
+
+#### &#19966; &#9775; [**Hexagram 13** is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
 <a name="spectral-convolution-is-essence" />
 
