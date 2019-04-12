@@ -19,8 +19,6 @@ places to look for relevant information, it tells you everything you
 need to know ... that you don't already know."
 ---
 
-![Yin-Yang Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
-
 #### &#9775; &#x9775; The Heavenly Colors To Your Terrestrial Canvas &#x9775; &#9775;
 
 > Perhaps it should be quaternary to be all-encompassing...
@@ -29,6 +27,8 @@ need to know ... that you don't already know."
 > [trinary](https://en.wikipedia.org/wiki/Three-valued_logic#SQL) with
 > a [complementary
 > void](https://en.wikipedia.org/wiki/Wuji_(philosophy)).
+
+![Yin-Yang Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
 
 <a name="the-essence-of-things" />
 
@@ -752,7 +752,7 @@ interpretation -- further reduces the induced possibilities by
 constraining interpretation with Wilhelm's interpretation of the text,
 in most areas.
 
-<a name="timeless-writing-assumes-all-possible-integrpretations" />
+<a name="timeless-writing-assumes-all-possible-interpretations" />
 
 ### [Timeless Writing Assumes All Possible Interpretations](#timeless-writing-assumes-all-possible-interpretations)
 
@@ -1060,6 +1060,8 @@ another piece on I Ching.
 > Note: some creativity may be required to assemble the parts
 > included. Referring to the Wilhelm-Baynes text should complete the
 > circuit, if one finds pieces missing.
+
+<a name="hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting" />
 
 ### [Hexagram 5 Delineates a Taxonomy of Local Minima, Not Simply "Waiting"](#hexagram-5-dilineates-a-taxonomy-of-local-minima-not-simply-waiting)
 
@@ -1846,6 +1848,8 @@ becomes relevant. Fortunately, an analytic interpretation of the I
 Ching is implicitly dependent on natural philosophy and on metaphors
 to natural phenomena. There is no purely abstract math.
 
+<a name="hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form" />
+
 ### [Hexagram 1 and 2: Of Analytical Machines and Perfraction of Metaphysical Form](#hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form)
 
 Our minds are like vessels, entities of Receptive to complement the
@@ -2127,6 +2131,48 @@ information, although there are likely surprises in store with
 consciousness in quantum mechanical and biological systems that don't
 occur in analytical entities running on deterministic hardware.
 
+<a name="language-distinguishes-man-from-animal" />
+
+### [Language Distinguishes Man From Animal](#language-distinguishes-man-from-animal)
+
+What distinguishes man from the animals is language. The genetic
+stabalization of anatomic features in humans ability to produce
+morphemes, coupled with epigenetic racheting up of neurological
+capabilities freed our minds as analytical machines from a
+epistemological schism of operating in with representations
+isolation. Language is the basis of networking and this anatomic
+stabalization enabled us to harmonize and perpetuate our abstractions
+through it. This accelerated the development of knowledge and the need
+to distinguish one's epigenetic lineage to be fit enough to survive
+amongst species of recently lingual humans. In its ad hoc application,
+language also served as a basis for disentangling representations of
+abstractions through convergence of abstraction amongst members of
+one's tribe.
+
+It is likely that the shared morphemic lineage of proto-indoeuropean
+language families is partially an illusion. The morphemes of language
+started as phonemic onomatoopoeia to immitate sounds with an semiotic
+meaning, interpreted by other members of the tribe and species
+implicitly, then propagating with the dynamcs of Dawkins memes. Only
+later would grammar seem to become necessary to deal with
+communication of ideas & abstractions that changed in response to time
+and context. The representations that encode instructions for proper
+grammatical interpretation are much more brittle. Thus, due to Occam's
+Razor, additional social stability and harmonic context would be
+required to fully develop grammatical representations, if they were
+expected to propagate and be sustained by subsequent
+generations.
+
+Because of the delicate nature of socially perpetuating these
+representations in the Ice Age, where humans would band together in
+small social tribes, isolated by dozens or hundreds of miles for long
+periods of time, language and representational encodings probably
+evolved repeated to collapse again and ... until the ice melted. Only
+then could the individual isolated laboratories of innovation --
+tending to influence only neighboring communities during the before
+the Holocene -- be expected to converge across the species to achieve
+stable replication, harmonization and convergence.
+
 <!--
   - the distinctions herein between Kant's epistemological analytic
     and synthetic terminology ... and the usage of analytic as it
@@ -2172,6 +2218,13 @@ their own kind. This is basically what Nassim Taleb is writing more
 eloquently in the *Antifragile* section on "How Fat Tony Got Rich
 ... And Fat".
 
+Occams Razor dictates that first, second and third order effects can
+only be anticipated as conditional probabilites, where the lower order
+effects must be attained and become stable in order for higher order
+strategic calculations to become signficant. Because of this, even
+artificial entities need to keep it simple, with exceptions where
+racheting up sophistication results in unparalleled advantage.
+
 It is this asymmetry in the computing power and available information
 to artificial entities that makes their social mechanics and the
 dynamics of their multiplicity so intriguing. Will AI's prefer to join
@@ -2198,6 +2251,8 @@ it.](/posts/2017-10-12-treatise-on-entity-and-agency.html)
 #### Schala and Magus
 
 ![Magus and Schala](/img/posts/2018-12-10-the-analytic-i-ching/schala-and-magus.jpg)
+
+<a name="hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men" />
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
