@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 That philosophy can never move forwards in an authentic direction is a
 product of insurmountable complexity combined with Neitzsche's [Danger
 of Dangers](https://www.youtube.com/watch?v=tE67Ye91Ii0q). The
@@ -20,21 +19,23 @@ significant -- but never in human history have the stakes been higher.
 
 ## [Das Lied des Notwendigen](#das-lied-des-notwendigen)
 
-#### [Nietzsche's Sociocultural Dynamo to Transform Volatility For Great Übermenschen](#nietzsches-sociocultural-dynamo-to-transform-volatility-for-great-ubermenschen)
+#### &#8383; [Nietzsche's Sociocultural Dynamo to Transform Volatility For Great Übermenschen](#nietzsches-sociocultural-dynamo-to-transform-volatility-for-great-ubermenschen)
 
-#### ["More Precisely, We Are Never Understood -- Hence Our Authority"](#more-precisely-we-are-never-understood-hence-our-authority)
+#### &#8383; [But The State Lieth In All Languages Of Good And Evil](#but-the-state-lieth-in-all-languages-of-good-and-evil)
 
-#### [The Siren Song of Cultural Marxism](#the-siren-song-of-cultural-marxism)
+#### &#8383; ["More Precisely, We Are Never Understood -- Hence Our Authority"](#more-precisely-we-are-never-understood-hence-our-authority)
 
-#### [Neo-Leninists Care Not About Your Economy Nor Your Social Issues](#neo-leninists-care-not-about-your-economy-nor-your-social-issues)
+#### &#8383; [The Siren Song of Cultural Marxism](#the-siren-song-of-cultural-marxism)
+
+#### &#8383; [Neo-Leninists Care Not About Your Economy Nor Your Social Issues](#neo-leninists-care-not-about-your-economy-nor-your-social-issues)
 
 ## [Architect A Strong Society From The Bottom Up](#architect-a-strong-society-from-the-bottom-up)
 
-#### [Define Yourself](#define-yourself)
+#### &#8383; [Define Yourself](#define-yourself)
 
-#### [What Adam Smith Would Write Today: Capitalism Is Emergent Machine Learning](#what-adam-smith-would-write-today-capitalism-is-emergent-machine-learning)
+#### &#8383; [What Adam Smith Would Write Today: Capitalism Is Emergent Machine Learning](#what-adam-smith-would-write-today-capitalism-is-emergent-machine-learning)
 
-### #[Processes of Social Change Are Subject To The Boom and Bust Cycle](#processes-of-social-change-are-subject-to-the-boom-and-bust-cycle)
+#### &#8383; [Processes of Social Change Are Subject To The Boom and Bust Cycle](#processes-of-social-change-are-subject-to-the-boom-and-bust-cycle)
 
 #### Let Me Show You The Truth: There Are No Simple Answers To Your Problems
 
@@ -45,6 +46,11 @@ significant -- but never in human history have the stakes been higher.
 > penalizing your income stipend.
 
 ![Plato's Cave](/img/posts/2019-04-10-the-highest-man-as-the-lawgiver-of-the-future/platos-cave.jpg)
+
+Why would a man with so many skills be employable, yet writing? And
+about how to think, of all things -- who needs another Plato? If he is
+useful, put him to work. If he's dangerous, where does he work? If he
+resonates with the times, why does he find himself so superfluous?
 
 #### In Will to Power (976), Nietzsche [post-humously] writes:
 
@@ -69,11 +75,6 @@ significant -- but never in human history have the stakes been higher.
 > (5) He must be *extremely multiform* and yet *firm and hard*. He
 > must be supple.
 
-Why would a man with so many skills be employable, yet writing? And
-about how to think, of all things -- who needs another Plato? If he is
-useful, put him to work. If he's dangerous, where does he work? If he
-resonates with the times, why does he find himself so superfluous?
-
 #### The Highest Man, Who Prefers to Remain Anonymous.
 
 > This is "not Scumbag Steve."
@@ -82,7 +83,7 @@ resonates with the times, why does he find himself so superfluous?
 
 <a name="das-lied-des-notwendigen" />
 
-### [Das Lied des Notwendigen](#das-lied-des-notwendigen)
+# [Das Lied des Notwendigen](#das-lied-des-notwendigen)
 
 The linguistic implications of Neitzsches choice of
 [überflüssig](https://en.wiktionary.org/wiki/überflüssig) (from latin,
@@ -118,6 +119,10 @@ evolutionary potential because the weak exist to serve the powerful
 who feed themselves and weed out what is threatening or isn’t
 useful.
 
+<a name="but-the-state-lieth-in-all-languages-of-good-and-evil" />
+
+### [But The State Lieth In All Languages Of Good And Evil](#but-the-state-lieth-in-all-languages-of-good-and-evil)
+
 #### From Thus Spoke Zarasthustra, The New Idol
 
 > "This sign I give unto you: every people speaketh its language of
@@ -133,13 +138,7 @@ Nietzsche's work -- then such a system sacrifices advancement of the
 collective for the supposed benefit of the collective. In "The New
 Idol", Nietzsche seems to imply both that the state was designed for
 the überflüssig, the superfluous, and designed to produce them for its
-purposes. He writes that the state speaks in a kind of one-sided
-meta-language of values, the true comprehension of which escapes its
-neighbors. This is implicit language of action and effect of action
-and the state which feeds itself does so by deceiving its citizens and
-its neighbors: they are fooled by its system of values and the
-explicit language a state uses to justify its actions -- i.e. the
-language of its laws and customs.
+purposes.
 
 #### From Thus Spoke Zarasthustra, The New Idol
 
@@ -147,16 +146,24 @@ language of its laws and customs.
 > as the sign of the state. Verily, the will to death, indicateth this
 > sign!"
 
-Social justice warrior "trials" by guerilla theatre and [gossip
-protocol](https://en.wikipedia.org/wiki/Gossip_protocol) ... The
-verdict? Results inconclusive. Try, "try" again!
+He writes that the state speaks in a kind of one-sided meta-language
+of values, the true comprehension of which escapes its neighbors. This
+is implicit language of action and effect of action -- the state which
+feeds itself does so by deceiving its citizens and its neighbors: they
+are fooled by its system of values and the explicit language a state
+uses to justify its actions -- i.e. the language of its laws and
+customs.
 
-> Or is it national security theatre? Who knows... I'm sure customer
-> service will give us an answer.
+> Social justice warrior "trials" by guerilla theatre and [gossip
+> protocol](https://en.wikipedia.org/wiki/Gossip_protocol) ... The
+> verdict? Results inconclusive. Try, "try" again!
 
 ![The Rainmaker](/img/posts/2019-04-10-the-highest-man-as-the-lawgiver-of-the-future/rainmaker.jpg)
 
-Bonus round: new president!
+Or is it national security theatre? Who knows... I'm sure customer
+service will give us an answer.
+
+> Bonus round: new president!
 
 <a name="nietzsches-sociocultural-dynamo-to-transform-volatility-for-great-ubermenschen" />
 
@@ -351,6 +358,15 @@ not unlike the financial dynamics leading to the as-yet-aeternal
 business cycle of boom and bust. However, it is possible to attain
 such singular oneness while accelerating evolutionary mechanisms. And
 I believe that is what Nietzsche was writing about.
+
+#### Lilliputians Find Themselves So Easily Controlled.
+
+> Wow, look how effective that is for insects!
+>
+> The metaphorical methods to "invisible fence" people with
+> disinformation are fascinating, but ultimately facile.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DcPHP24zxOw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [^guerilla-theater]: Being a victim of street theatre combined with
     hypnosis and NLP, let me tell you: [guerrilla

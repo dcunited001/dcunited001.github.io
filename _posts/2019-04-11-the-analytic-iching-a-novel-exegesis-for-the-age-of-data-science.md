@@ -889,6 +889,35 @@ the altered consciousness of trance-states allow the shaman to extract
 an immense amount of utility by leveraging intuition of the mind and
 of phenomena in tandem with exploratory divination.
 
+Think of it like this: you are a shaman with expertise in invoking
+trance-like states of mind, however you choose to do so. The trance
+state can be thought of as software you have skill "playing" on the
+hardware of your brain, like plugging an RPG into the game console of
+your analytical mind. The characters and plot developments involve
+familiar archetypes and narrative structures, which the shaman
+believes represent the emissions of some spiritual world. The setting
+of the world, which is the software running in the mind, through
+mantra-like evokations of thought, piecing together the elements of
+the world. The shaman is reverse-engineering the mind's ability to
+reflect on its experience as it is occuring in a trance state. As a
+video game in this virtual trance world which exposes your ideas to
+yourself experientially, the quest is to seek an answer to your
+query. The article above details how this explanation of the shamanic
+trance method hooks into the analytical mechanics of the human
+mind. The shaman is repurposing the subconscious system-calls of the
+mind to explore the unconscious and resolve some quest with an unknown
+meaning to be reflected on at a later point. This is not easy and the
+results are extremely subjective. For the pre-modern shaman, the
+trance state provided a visceral experience thought to take place
+within or emaninate from an authentic spritual world.
+
+Fortunately, there are more sober methods to bring about similar
+results: active imagination using divination, harnessing or emulating
+intuition, and "backgrounding" processes to the subconscious to be
+revealed in an *AHA!* moment of eureka later on. If you develop skill
+in harnessing these facets of the mind intentionally, you unlock power
+that lays dorment in the human mind.
+
 Here are three or four books I'd love to publish:
 
 #### &#9312; The Speed of Thought
@@ -2081,12 +2110,10 @@ you measure the surfaces in the space of your shared journey? In high
 dimensions, especially with analytical or exterior methods, one may
 combinatorially determine the convexity and concavity of surfaces.
 Doing so quickly becomes intractible, so the energy you invest thereto
-must be channeled wisely, otherwise it is wasted. In sociophysical
-systems, even before the validity the tractibility of problems
+must be channeled wisely, otherwise it is wasted.
 
-
-
-- TODO: end by summarizing the fear/love reading from youtube?
+In sociophysical systems, even before the validity the tractibility of
+problems...
 
 [^neuro-social-media]: The constant juxtaposition of the objects
     mental focus has disastrous long-term effects, psychologically and
