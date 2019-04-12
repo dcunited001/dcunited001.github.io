@@ -5,7 +5,18 @@ tags: "sociology philosophy"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+When people choose to define their own will independently of the
+existing power, seek the cultivation of a will to power for
+self-actualization, enable others to pursue such transformation, then
+the society as a whole and mankind become collectively stronger.
+Moreover, those who independently determine their needs, desires and
+crucially the means whereby such are attained cannot be predicted or
+understood. It is so unlikely for an individual to possess all of the
+characteristics outlined in Will to Power (976) - while also pushing
+ever forward towards true progress in philosophy - without having
+their energy coopted by societal power structures.
+"
 ---
 
 That philosophy can never move forwards in an authentic direction is a
@@ -146,13 +157,13 @@ purposes.
 > as the sign of the state. Verily, the will to death, indicateth this
 > sign!"
 
-He writes that the state speaks in a kind of one-sided meta-language
-of values, the true comprehension of which escapes its neighbors. This
-is implicit language of action and effect of action -- the state which
-feeds itself does so by deceiving its citizens and its neighbors: they
-are fooled by its system of values and the explicit language a state
-uses to justify its actions -- i.e. the language of its laws and
-customs.
+Nietzsche writes that the state speaks in a kind of one-sided
+meta-language of values, the true comprehension of which escapes its
+neighbors. This is implicit language of action and effect of action --
+the state which feeds itself does so by deceiving its citizens and its
+neighbors: they are fooled by its system of values and the explicit
+language a state uses to justify its actions -- i.e. the language of
+its laws and customs.
 
 > Social justice warrior "trials" by guerilla theatre and [gossip
 > protocol](https://en.wikipedia.org/wiki/Gossip_protocol) ... The

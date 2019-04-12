@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Fear Is The Mind Killer"
 categories: "blog"
 tags: "sociology philosophy"
 headline: ""
@@ -161,8 +161,34 @@ for feedback to inform their next actions. This, unexpectedly, gives
 you power over them (but can also backfire).
 
 
+Using fear is like tricking someone into not using half their chess pieces.
+- Controlling a situation by focusing the mind of the adversary or
+  victim towards the potential losses from mistakes and away from
+  accurately evaluating the probabilities. This doesn’t work on
+  someone if they are prepared, informed, strong, values-oriented or
+  stupid. Like all other circumstances with risk, you have to
+  disconnect yourself from the potential losses. Otherwise, you will
+  develop a skewed perspective or attitude. Someone cognizantly using
+  fear will try to skew the distribution of your potential
+  responses. This makes all paths of action/reactions from the current
+  state much more predictable. It’s like imagining potential enemy
+  positions in an FPS map after shrinking the map in half, which makes
+  strategy far more computable. Controlling outcomes for the better by
+  making them more predictable can justify the use of fear.
+
+
+- If social engineers leverage the fields of love/fear to modulate
+  attention sociophysically, a potential systemic tail risk arises
+  when the force of fear tends to expand the space of the unknown. We
+  fear what we don’t understand, but if there is systematic aversion
+  of attention away from what we fear, the frequency of doxastic
+  updates slows to a crawl. That is, when it changes for better or
+  worse, people don’t stay apprised of whether a threat that should be
+  feared has quickly grown stronger.
 
 
 
+
+# I Ching Query
 
 ### To Further Justice and strengthen Altruism, how should we balance Love and Fear?"

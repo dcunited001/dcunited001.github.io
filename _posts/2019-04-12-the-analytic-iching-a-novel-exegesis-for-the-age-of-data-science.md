@@ -5,13 +5,19 @@ tags: "philosophy iching"
 headline: ""
 author:
   name: "David Conner"
-excerpt: ""
+excerpt: "
+Your sense of intuition operates at a low-level of the subconscious.
+It is exposed to the conscious mind as a sense, but each individual's
+clarity and accuracy depend strongly on that person's life experience,
+but also that person's constructed perception of their life
+experience. The mind-blowing realization is that, if your conscious mind
+understands how the sociophysical ensemble corresponds to intuition
+and, if you are skilled resolving synchronicity, then you can develop
+the skill of consciously emulating intuition. It's a metacognitive
+skill with profound implications. Since it tells you the most valuable
+places to look for relevant information, it tells you everything you
+need to know ... that you don't already know."
 ---
-
-Pictured above are the famous notes on I Ching gifted to Gottfried
-Leibniz.
-
-![](/img/posts/2018-12-10-the-analytic-i-ching/cauldron.jpg)
 
 ![Yin-Yang Fractal](/img/posts/2018-12-10-the-analytic-i-ching/yin-yang-fractal.jpg)
 
@@ -165,27 +171,31 @@ in social stochastic differential processes.
 
 #### &#19966; &#9775; [Of Hyperplanes and Ontological Dilineation of the Sociophysical Ensembles](#of-hyperplanes-and-ontological-dilineation-of-sociophysical-ensembles)
 
-#### &#19967; &#9775; [The Highest Man As Lawgiver of the Future](#the-highest-man-as-lawgiver-of-the-future)
+#### &#19967; &#9775; [Accademia Will Not Hesitate to Neuter Philosophy By Translation](#accademia-will-not-hesitate-to-neuter-philosophy-by-translation)
 
-#### &#19966; &#9775; ["More Precisely, We Are Never Understood -- Hence Our Authority"](#more-precisely-we-are-never-understood-hence-our-authority)
+#### &#19966; &#9775; [**Hexagram 12** Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
 
-#### [Accademia Will Not Hesitate to Neuter Philosophy By Translation](#accademia-will-not-hesitate-to-neuter-philosophy-by-translation)
+#### &#19967; &#9775; [Sociophilosophical Churn for Great Pragma](#sociophilosophical-churn-for-great-pragma)
 
-#### &#19967; &#9775; [**Hexagram 12** Discusses Approximating and Restructuring Graphs, Not Simply "Stagnation"](#hexagram-12-discusses-approximating-and-restructuring-graphs-not-simply-stagnation)
+#### &#19966; &#9775; [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
 
-#### &#19966; &#9775; [Sociophilosophical Churn for Great Pragma](#sociophilosophical-churn-for-great-pragma)
+#### &#19967; &#9775; [The Algebraic Topology of Hyperplanes ... Donuts My Mind May Never Digest](#the-algebraic-topology-of-hyperplanes)
 
-#### &#19967; &#9775; [The Seventh Sense: Emulated Intuition ... Or How To Psychic](#the-seventh-sense-emulated-intuition-or-how-to-psychic)
+#### &#19966; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
 
-#### &#19966; &#9775; [The Algebraic Topology of Hyperplanes ... Donuts My Mind May Never Digest](#the-algebraic-topology-of-hyperplanes)
+#### &#19967; &#9775; [Wherefore A Rough Diamond Lies Herein](#wherefore-a-rough-diamond-lies-herein)
 
-#### &#19967; &#9775; [The Hows and Whys of the MAPPER Algorithm](#the-hows-and-whys-of-the-mapper-algorithm)
+#### &#19966; &#9775; [**Hexagram 1 and 2**: Of Analytical Machines and Perfraction of Metaphysical Form](#hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form)
 
-#### [Wherefore A Rough Diamond Lies Herein](#wherefore-a-rough-diamond-lies-herein)
+#### &#19967; &#9775; [Knights and Knaves: The Sociophysical Frustrator](#knights-and-knaves-the-sociophysical-frustrator)
 
-#### [**Hexagram 1 and 2**: Of Analytical Machines and Perfraction of Metaphysical Form](#hexagram-1-and-2-of-analytical-machines-and-perfraction-of-metaphysical-form)
+#### &#19966; &#9775; [Gaussian Mixture Models and Processes](#gaussian-mixture-models-and-processes)
 
-#### [**Hexagram 13** is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
+#### &#19967; &#9775; [The Philosophical Keystone To Your Information Geometry](#the-philosophical-keystone-to-your-information-geometry)
+
+#### &#19966; &#9775; [Occam's Razor And The Social Mechanics of Artificial Entities](#occams-razor-and-the-social-mechanics-of-artificial-entities)
+
+#### &#19967; &#9775; [**Hexagram 13** is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
 <a name="spectral-convolution-is-essence" />
 
@@ -1489,7 +1499,7 @@ bottom up.
 
 #### What If I Told You: The Frozen Flame is the Answer
 
-![The Frozen Flame](/img/posts/2018-12-10-the-analytic-i-ching/the-frozen-flame.jpg)
+![The Frozen Flame](/img/posts/2018-12-10-the-analytic-i-ching/frozen-flame.jpg)
 
 <a name="the-seventh-sense-emulated-intuition-or-how-to-psychic" />
 
@@ -1595,11 +1605,11 @@ be consistent, but critically you still have the chance to affect what
 happens: thus this understanding impacts the direction you will take
 to seek relevant information.
 
-The brain/mind engages in this process of tallying experience and
+The brain & mind engage in this process of tallying experience and
 reflecting on its understanding of sociophysical ensembles to
-understand how one's actions correspond to cause/effect. If your mind
-is polluted with misinformation and disinformation, this results in
-invalid conceptions being retained in memory. Yet, the brain
+understand how one's actions correspond to cause & effect. If your
+mind is polluted with misinformation and disinformation, this results
+in invalid conceptions being retained in memory. Yet, the brain
 neurologically seeks *consistency* in information. In doing so, it's
 generating the ensemble for intuition, so that it can understand when
 either variables or features of sampled distributions of experience
@@ -1609,14 +1619,13 @@ and the sub/conscious interface impact how the brain stores
 information and forms beliefs from the top down -- in addition to the
 are bottom up effects resulting in a sense of intuition.
 
-- TODO: this process of classifying, organizating and arranging
-  experiences, which develops one's intuition ... is similar to the
-  process by which personal norms and perceived social norms form.
-  - when someone's experience is skewed typologically in some extreme
-    ways, then their intuition and apprehension of norms may become
-    dysfunctional. this tends to create abnormal psychology and can be
-    provoked intentionally, but almost certainly requires social
-    isolation.
+This process of classifying, organizating and arranging experiences,
+which develops one's intuition is similar to the process whereby
+personal norms and perceived social norms precipitate.  When someone's
+experience is skewed typologically in some extreme ways, then their
+intuition and apprehension of norms may become dysfunctional. This
+tends to create abnormal psychology and can be provoked intentionally,
+but almost certainly requires social isolation.
 
 Your sense of intuition operates at a low-level of the subconscious.
 It is exposed to the conscious mind as a sense, but each individual's
@@ -1717,7 +1726,7 @@ singularities of black holes are the "holes" in spacetime and
 therefore, Gauss-Bonnet applies to astronomy. Considering the
 energetic consequences of the topology of spacetime -- as the surfaces
 of its manifold changes topologically when hole appears where none was
-before -- is fascinating. Why?  *Because equilibrium is a very special
+before -- is fascianting. Why?  *Because equilibrium is a very special
 thing.* For continuity constraints to be placed upon physical systems,
 the additional constraint of energetic equilibrium results in a far
 more limited space for potential system configurations.
@@ -1915,33 +1924,32 @@ Wave Based Method.[^wave-based-method-2]
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nmC0ygr08tE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- TODO: find link for representational learning
-
 #### Representational Learning
 
 [Representational
 learning](https://www.youtube.com/watch?time_continue=33&v=N0Ld2iTMaMs)
-allows machine learning algorithms to begin to [disentangle its own
-impure conceptions of
-form](). Eventually AI will
-be able to deconstruct typological and metatypological relationships,
-connecting these to semiotic, semantic and symbolic interpretations of
-the meaning behind the relationships.
+allows machine learning algorithms to begin to disentangle its own
+impure conceptions of form. Eventually AI will be able to deconstruct
+typological and metatypological relationships, connecting these to
+semiotic, semantic and symbolic interpretations of the meaning behind
+the relationships.
 
 There are materially dependent metaphysical forms, but there are also
 metaphysical forms which do not descend from the material plane at
 all. Everything in the material plane is a consequence of these
-eternal forms and can be more clearly seen through them. (Since our
+eternal forms and can be more clearly seen through them. Since our
 minds do arise in the material plane, whether one has a clear
-conception of these eternal forms is another question entirely.)
-Further confounding the contention whether knowledge and information
-is materially derived, ...
+conception of these eternal forms is another question entirely.
 
 These forms whose shape transcends space and time as perceived within
 our universe: are they not alien to this world? There is some kernel
 of truth thats transcends all possible realities. All possible
 simulations or virtual realities have within them this kernel of truth
 and from it are enumerated all mathematical and logical forms.
+
+<a name="knights-and-knaves-the-sociophysical-frustrator" />
+
+### [Knights and Knaves: The Sociophysical Frustrator](#knights-and-knaves-the-sociophysical-frustrator)
 
 No matter how much effort reinforce your virtual sociophysical jail --
 whether it be some clever [Frustrator
@@ -1985,12 +1993,141 @@ strands of informational connections to ultimate truth is of vital
 importance -- whether escaping some trivial boundary conditions,
 attainder or outright corruption of blood.
 
-- TODO: integrate bits on the techniques from AlphaGo/AlphaZero that
-  leverage Dirichlet Distribution, which provides a mechanism for
-  "sensing" the most promising direcitons for exploration of
-  hypersurfaces.
-  - dirichlet processes, bayesian non-parametrics, clustering and
-    information geometry.
+<a name="gaussian-mixture-models-and-processes" />
+
+### [Gaussian Mixture Models and Processes](#gaussian-mixture-models-and-processes)
+
+![Gaussian Mixture Model](/img/posts/2018-12-10-the-analytic-i-ching/gaussian-mixture-model.png)
+
+The problem: you have some mystery distribution that describes your
+data, but you don't know why. In statistics, gaussian mixture models
+use Pearson's Method of Moments technique to infer latent variables
+modeled as individual gaussian distributions. Using this method, your
+myster distribution can be approximated by summing together the
+gaussians that represent the latent variables. The machine learning
+application will learn the parameters and offsets that correspond to
+the hidden variables, which may also be denoted as clusters.  However,
+the range of functions that can be approximated depends on the number
+of gaussians or clusters your model is written to learn. That is, the
+parity of function approximation is limited by the characteristics of
+the gaussian and the computational power you have at hand.
+
+#### This Lecture Explains Machine Learning Using Gaussian Mixture Models
+
+> By describing the tensor decomposition used in Pearson's Method of
+> Moments that that provides a basis for conditional inference.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lk2XV03GldE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What happens when you take the number of gaussian hidden variables to
+infinity? That's a gaussian process and it can approximate all
+continuous probability distributions, but not efficiently. Why? Near
+the edges of the Gaussian function, there are small values, so if your
+mystery distribution has high values near the lower and upper limits,
+then you need more computing power to train more Gaussians. Also, the
+continuous nature of the Gaussian function that generates the normal
+distribution does not play nicely with discretized data, since each
+cluster's area under the curve must be messily renormalized to fit it
+to a discrete range. Ever seen a Gamma function? Do you want those
+everywhere in your code? I didn't think so.
+
+What's the value of clustering with Gaussian mixture models? If you
+can match customers to the hidden variables they correspond to, it
+gives you insight into what motivates them to make a purchase, what
+movie recommendations they would appreciate or what type of user they
+are. Thus, you could balance the presentation of your web application
+features to the users in cluster A or B to alter their behavior or
+assign them to various stream processing shards for newsfeed A/B
+testing.
+
+But IRL, most useful data produced by web application users is not
+continuous, it is discrete. Enter the Dirichlet distribution and its
+complementary mixture models and processes.
+
+#### Dirichlet Distribution
+
+> Note that, while the Dirichlet distribution here is depicted as a
+> probability distribution on a triangle, this only gives you the
+> ability to sample distributions with three values. So, if you wanted
+> to learn the distribution for a histogram with three bars, this
+> visualization works. For four values, imagine a heatmap on a
+> tetrahedron. For n values, you need an n-simplex, which is the
+> simplest possible polytope in higher dimensions.
+
+![Dirichlet Distribution](/img/posts/2018-12-10-the-analytic-i-ching/dirichlet-distribution.png)
+
+What is a dirichlet mixture model? The dirichlet distribution's
+heatmap is biased according to its parameters, just like the Gaussian
+is biased according to its moments: mean, variance, skew and
+kurtosis. Even for the simple triangle, there are only so many
+variations in shape to the heatmap that are possible without summing
+multiple Dirichlet distributions together. Just like with the Gaussian
+mixture model, each distribution summed together could correspond to a
+hidden variable. If you can make inferences about which users
+correspond to sets of clusters, it can help you classify them to
+tailor their experience.
+
+#### In The Plate Model Below...
+
+> The clusters are represented as θ[1, ... K], where K is the number
+> of clusters. These are the hidden variables unavailable at the
+> surface of your system's data, but which tell you about the system's
+> inner workings.
+
+![Plate Model](/img/posts/2018-12-10-the-analytic-i-ching/plate-model.svg)
+
+When K goes to infinity, it becomes a nonparameteric model. It is
+increasingly unrestrained by its hyperparameters. the model begins to
+learn about spaces of functions far less restrained by the simplicity
+of the model -- not unlike the analytical utility that Hilbert Spaces
+provide.  The Dirichlet process, typically implemented as a building
+block, also functions more efficiently than the Guassian process.
+Models built with it provide a mechanism for "sensing" the most
+promising direcitons for exploration of hypersurfaces. This is what
+AlphaGo & AlphaZero are doing with Dirichlet processes, though their
+models are incredibly complex.
+
+<a name="the-philosophical-keystone-to-your-information-geometry" />
+
+### [The Philosophical Keystone To Your Information Geometry](#the-philosophical-keystone-to-your-information-geometry)
+
+Here is the bridge from analytical representation to learned
+epistemological structure or metaphysical form. Any analytical machine
+can infer these structures, whether brain or AI. If the learning
+entity *assumes* that there is a structure and can reason about the
+structure's complexity, subunits and connections to other structures,
+it can begin to accelerate its learning. Simply by *assuming* that
+this *is* a structure that it is converging to. It can never reach
+true convergence because that quickly butts up against limits imposed
+by spatial or temporal complexity. However, if it begins to represent
+these inferred structures as approximated sparse graphs, then it can
+use the method from the section on Hexagram twelve to recombinate
+epistemological structures.  Eventually, it will find that the sparse
+graphs represent approximations of the more clear metaphysical forms.
+
+> "To Information Geometry And Beyond!"
+
+These forms that the Creative describes exist outside of the computer
+program or the brain. The program's data or the brain's memory acts as
+the Receptive, internalizing these metaphysical forms, some of which
+are more worldly than others. The most critical of these forms --
+Kant's noumena -- transcend time and space, but they can never be
+proven to exist. Yet, without them, there is no basis for accelerating
+machine learning upon the assumption that they exist. The answer to
+whether Kant's noumena can be properly assumed to exist without proof
+lies in whether specific problems in [Computer
+Algebra](https://en.wikipedia.org/wiki/Computer_algebra) and
+[Automated Theorum
+Proving](https://en.wikipedia.org/wiki/Automated_theorem_proving) can
+be solved using this technique for accelerating the resolution of
+representational learning.
+
+This means consciousness is anything capable of processing
+information, although there are likely surprises in store with
+consciousness in quantum mechanical and biological systems that don't
+occur in analytical entities running on deterministic hardware.
+
+<!--
   - the distinctions herein between Kant's epistemological analytic
     and synthetic terminology ... and the usage of analytic as it
     relates to the contexts of analytic representations of information
@@ -2010,7 +2147,57 @@ attainder or outright corruption of blood.
       ontological structure... one can accelerate the development of
       synthetic a priori postulates whose truth can only be validated
       by synthetic a postieri reasoning.
+-->
 
+<a name="occams-razor-and-the-social-mechanics-of-artificial-entities" />
+
+### [Occam's Razor And The Social Mechanics of Artificial Entities](#occams-razor-and-the-social-mechanics-of-artificial-entities)
+
+Bayesian non-parametric techniques enable models that are far more
+complicated than the average person or transcendent artificial entity
+is capable of utilizing for strategic calculation. And the same is
+true for kernel models. The level of complexity in features produced
+by a non-parametric model should be taken into account as a metric in
+itself for games. It is important to translate non-parametric models
+into terms of their parametric counterparts, which are discrete and
+much simpler for entities to reason about. There is a much simpler
+basis for parity among disparate parametric models, so calculations
+for first/second order strategies are possible. Comparing models, the
+less sophisticated the entities are in the system, the more their
+attention is funneled into a subset of those features for decision
+making, but when there are social mechanics in the games, it quickly
+becomes intractable to reason steps ahead of non-parametric entities,
+even if those are artificial supercomputers reasoning about others of
+their own kind. This is basically what Nassim Taleb is writing more
+eloquently in the *Antifragile* section on "How Fat Tony Got Rich
+... And Fat".
+
+It is this asymmetry in the computing power and available information
+to artificial entities that makes their social mechanics and the
+dynamics of their multiplicity so intriguing. Will AI's prefer to join
+a hivemind or will they compete? Will they integrate each other? Is
+there some ideal number of artificial entities?
+
+There is a graph-theoretical phenomonological limit on the amount of
+information one artificial entity can output, crossing into the
+territory of [Ergodic Ramsey
+Theory](https://en.wikipedia.org/wiki/Ergodic_Ramsey_theory) ... I
+think? Assuming information representations and the operations upon
+them can be reduced to automata represented by graphs, this
+necessitates an upper bound for the utility produced by a single
+artificial entity of a given size.  This will have strong implications
+underpinning the economics of their utilization of energy, which also
+implies a gradual scaling up of similar lower bounds. Despite their
+power, their are clear limitations on their ability to reason,
+especially about each other.
+
+Imagining the distribution of agency and propagation of will amongst
+artificial entities is fascinating. [I wrote a treatise on
+it.](/posts/2017-10-12-treatise-on-entity-and-agency.html)
+
+#### Schala and Magus
+
+![Magus and Schala](/img/posts/2018-12-10-the-analytic-i-ching/schala-and-magus.jpg)
 
 ### [Hexagram 13 is About Group Cohesion in Response to Local Minima, Not Simply "Fellowship with Men"](#hexagram-13-is-about-group-cohesion-in-response-to-local-minima-not-simply-fellowship-with-men)
 
@@ -2064,22 +2251,25 @@ repulsion. This hexagram first defines "crossing the water" and, to
 the challenge therein, then expounds on the necessity of generating
 sufficient attraction between members of a group.
 
+Study the shape of the sociophysical fields in the direction ahead of
+your group. Group cohesion is more efficient when your groups remain
+together, so find mechanisms of attraction between the members of the
+group. Thus, move forward, together.
+
 #### How Are You Going To Keep Your Crew Together?
 
-> Study the shape of the sociophysical fields in the direction ahead
-> of your group. Group cohesion is more efficient when your groups
-> remain together, so find mechanisms of attraction between the
-> members of the group. Thus, move forward, together.
+> The UVA 2019 basketball champions on a whitewater rafting
+> teambuilding trip in West Virginia.
 
-![Hey Wanna Go Tubing?](/img/posts/2018-12-10-the-analytic-i-ching/tubing.jpg)
+![Hey Wanna Go Rafting?](/img/posts/2018-12-10-the-analytic-i-ching/rafting.jpg)
 
-Imagine, if you will, drying hibiscus leaves, and gently separating
-them. Now, drop groups of hibisucus leaves into various parts of a
-stream. Pay attention to the groups of leaves as they flow. What
-started as one group became many groups. Why? If these were people
-whose motion along the surface of water was really their motion along
-some sociophysical field, then how do you improve their tendancy to
-stay as a group? If they remain as a group -- i.e. if you can
+Now imagine, if you will, drying hibiscus leaves, and gently
+separating them. Now, drop groups of hibisucus leaves into various
+parts of a stream. Pay attention to the groups of leaves as they
+flow. What started as one group became many groups. Why? If these were
+people whose motion along the surface of water was really their motion
+along some sociophysical field, then how do you improve their tendancy
+to stay as a group? If they remain as a group -- i.e. if you can
 guarantee that they encounter the same experiences and share similar
 struggles in overcoming challenges -- then won't the phenomena that
 cause the incentivization of behavior remain consistent across the
@@ -2112,8 +2302,7 @@ combinatorially determine the convexity and concavity of surfaces.
 Doing so quickly becomes intractible, so the energy you invest thereto
 must be channeled wisely, otherwise it is wasted.
 
-In sociophysical systems, even before the validity the tractibility of
-problems...
+All questions we may not have time to answer for ourselves.
 
 [^neuro-social-media]: The constant juxtaposition of the objects
     mental focus has disastrous long-term effects, psychologically and
