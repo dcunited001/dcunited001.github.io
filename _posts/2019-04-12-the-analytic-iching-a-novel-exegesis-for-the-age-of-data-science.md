@@ -116,19 +116,21 @@ influence by contrasting our free will with the forces which constrain
 our freedom. Yet, if regardless of the course of history,
 overpopulation results in hypernetworked mankind whose Piagetian
 socioepisteimological evolution inevitably results in the emergence of
-phenomena from the all-encompassing ontology, then especially if
+phenomena from the all-encompassing ontology, then -- especially if
 ancient peoples were aware of this inevitability and perpetuated their
-understanding through occult semioteleological social programs, then
-the past's conception of the future controls the future with more
-capacity than we in this future have the ability to control our
-circumstances. The programs of the ancients -- implemented as
-language, mythos, religion and philosophy, whereof much knowledge has
-been suppressed or relegated to the esoteric -- latch onto
-metaphysical constructs, the outlines of which form our teleological
-understanding of the world. The impact of those ancient epistemic
-structures is the same as perturbation and perfraction: they are like
-leylines that channel social energy to normalize the results of drift
-in social stochastic differential processes.
+understanding through occult semioteleological social programs -- the
+past's conception of the future controls the future with more capacity
+than we in this future have the ability to control our circumstances.
+
+The programs of the ancients -- implemented as language, mythos,
+religion and philosophy, whereof much knowledge has been suppressed or
+relegated to the esoteric -- latch onto metaphysical constructs, the
+outlines of which form our teleological understanding of the world.
+Like those who cut out underbrush to form paths that influence the
+population flows, the impact of those ancient epistemic structures is
+the same as perturbation and percolation: the structures are like
+metaphysical leylines that channel social energy to normalize the
+results of drift in social stochastic differential processes.
 
 > If you don't know what Piagetian genetic epistemology is, you need
 > to watch [this lecture from Jordan
@@ -1047,9 +1049,9 @@ my unconsciousness to various phenomena, whereby the I Ching is my
 divinatory escape from a socially imposed prison of unconsciousness!
 
 This requires a universal covering, which is why the statistical
-mechanics of the I Ching is paramount. It's yarrow sticks method for
-sampling a true uniform distribution of random numbers. If this
-corresponds to a truly uniform covering of phenomena and dynamics,
+mechanics of the I Ching is paramount. Its yarrow sticks method for
+sampling form a true uniform distribution of random numbers. If this
+*corresponds* to a truly uniform covering of phenomena and dynamics,
 then it truly acts as a set of keys to unlock any and every potential
 circumstance of social captivity. The specifics of this universal
 semioteleological covering of human experience is the subject of
@@ -1088,7 +1090,7 @@ and concavity that can arise.
 
 The series of images provided by the procession of lines in Hexagram 5
 describes the task of *crossing the great water*. The first five lines
-of Hexagram 5 seems to enumerate all of these types for surfaces in
+of Hexagram 5 seem to enumerate all of these types for surfaces in
 three dimensions. There is the *meadow*, a flat space devoid of
 significant local minima, which is a symbol that recurs again and
 again in the I Ching. This is a space of comfort with little impact on
@@ -1127,20 +1129,36 @@ entirely.
 Imagining higher dimensions is easier if you imagine the space in
 radial terms, not simply cartesian terms. In this 4D or 5D space,
 rotate your perspective. What's different? There are more angles by
-which to orient your motion -- more degrees of freedom, a term with
-specific implications for classical mechanics and quantum
-mechanics. Another visualization exercise for reasoning about the
-fourth dimension to imagine folding a 3D cube into 4D shapes, like one
-would place folds in a 2D paper to form origami. Start with simple
-folds and imagine the infinitesimal transition from an object with
-points in X, Y, and Z to one that has points in the W-axis. 4D origami
-requires preserving the volumes and surface areas of planes, whereas
-3D origami only requires preserving the latter. A cube is a good
-starting point because of its symmetries. If you can imagine a
-hypercube, another good visualization exercise is to bisect all the
-hypercube's edges and produce a (2 x 2 x 2 x 2) grid in four
-dimensions. This are critical exercises for activating your mind's
-eye, which should not be limited to its subjective experience.
+which to orient your motion -- more [degrees of
+freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_(physics_and_chemistry)),
+a term with specific implications for classical mechanics and quantum
+mechanics.
+
+Another visualization exercise for reasoning about the fourth
+dimension to imagine folding a 3D cube into 4D shapes, like one would
+place folds in a 2D paper to form origami. Start with simple folds and
+imagine the infinitesimal transition from an object with points in X,
+Y, and Z to one that has points in the W-axis. 4D origami requires
+preserving both the volumes and the surface areas of planes, whereas
+3D origami only requires preserving the latter. In 4D, if you can fold
+2D planes, volume preservation is not required and it expands the
+variety of potential shapes. A cube is a good starting point because
+of its symmetries. If you can imagine a hypercube, another good
+visualization exercise is to bisect all the hypercube's edges and
+produce a `2 x 2 x 2 x 2` grid in four dimensions. This are critical
+exercises for activating your mind's eye, which should not be limited
+to its subjective experience.
+
+Interdimensional spectral shape analysis enables exciting
+possibilities for quickly identifying interesting shapes in higher
+dimensions. If you spectrally analyze 3D shapes[^functional-maps] and
+make connections between how folds introduces affect the spectrum,
+then you can take partial components[^partial-shape-matching] of the
+spectrum from 3D to *lift* features of 3D shapes into 4D. Then you can
+identify which shapes seem unique, similar to how prime numbers are
+"interesting" because they are a set of integers with limited factors
+or the concept of linear independence. For an explanation of spectral
+analysis of shapes in 3D, see the papers in the footnotes above.
 
 #### Magic Eye Hypercube
 
@@ -1158,13 +1176,13 @@ eye, which should not be limited to its subjective experience.
 The final message in "Waiting" is that by leveraging the experience of
 other people -- each mind is its own social process in a massive
 [Boltzmann Machine](https://en.wikipedia.org/wiki/Boltzmann_machine)
--- then we can more efficiently come to know the collective contours
-of society's collective analytical hyperplane. Though you've known
-your own descent and can chart the depths you know, there are others
-who have been deeper and carry with them knowledge they've gained
-while navigating the depths. You will not know from whom to expect
-this re-orientation but you must expect it to inquire about these
-three guests' journey when you do meet them.
+-- then we can more efficiently come to know the contours of society's
+collective analytical hyperplane. Though you've known your own descent
+and can chart the depths you know, there are others who have been
+deeper and carry with them knowledge they've gained while navigating
+the depths. You will not know from whom to expect this re-orientation
+but you must expect it to inquire about these three guests' journey
+when you do meet them.
 
 #### Image from Takayuki's Research on [Dynamic Boltzmann Machines](https://groups.oist.jp/ja/ncu/event/dynamic-boltzmann-machines-takayuki-osogami)
 
@@ -1178,7 +1196,7 @@ energy. Understanding the concept of physical energy, as generalized
 to abstract scenarios, is something every Western rationalist would
 benefit from understanding. In machine learning, there are
 generalizable methods for convex/concave optimization wherein many
-process explore a space in parallel. In a Boltzman Machine, each
+processes explore a space in parallel. In a Boltzman Machine, each
 process has its own theta-weights and, as iterations of the algorithm
 runs, then subsequent iterations allocate more effort to regions of
 the space with more concavities. Many of the same approaches involving
@@ -1187,6 +1205,17 @@ are applied to higher-order energy types. For my own purposes in
 distinguishing this from physical energy: these I have named energies,
 plural. The concept of "energies" is employed repeatedly in biophysics
 and social physics.
+
+> The problem with rationalists: you think you already know quite
+> enough, so you consciously disqualify the mysterious as nonsense, at
+> best -- without inspecting it with a wide enough array of your own
+> as yet unobtained tools. Since you consciously discredit the
+> mysterious, you apply dialectal materialism fallaciously. You
+> sqluech out the flame of your imagination, never to revisit the
+> ideas your conscious mind reviles. Even worse is when your subpar IQ
+> sychophantic internet trolls abuse fallacies intentionally for
+> political gain -- all in a calculated effort to drain the time of
+> your opponents' factions.
 
 Any and every quantity that is statistically distributed over a space
 can be conceptualized as a higher-order energy, which can be braided
@@ -1242,7 +1271,11 @@ society implies these disruptive advancements will occur more
 rapidly. Stalling the rollout of progress perhaps enables the elite to
 capitalize on advancement in thought at the cost of potentially
 setting systems up for Black Swan events of rapid epistemic expansion
-and distribution.
+and distribution. Worse, it means that humanity is collectively less
+capable of responding to such inevitable tragedy. Since they won't
+understand the specific applications of how technologies such as
+facial recognition will be abused *subversively*, mankind will be
+helpless against them.
 
 <a name="accademia-will-not-hesitate-to-neuter-philosophy-by-translation" />
 
@@ -1255,8 +1288,9 @@ have time to seep fully into your mind.
 When I've read Plato's Republic, Tao Te Ching and other works in the
 past, I've spent a significant amount of time finding a satisfactory
 translation. With both of these works, the translation I settled on
-was tough, but the granularity was well worth it. Why did it seem the
-works were easy to read but so dull in other translations?
+was tough, but the granularity compared to the other translations was
+well worth it. Why did it seem the works were easy to read but so dull
+in other translations?
 
 Disruption is dangerous to the powers that be. "They" want a gradual
 rollout of innovation, whereby the stability of economic paradigms
@@ -1337,10 +1371,10 @@ knowledge to seem consistent, but have epistemic flaws. If everyone's
 drinking from the same well, so to speak, then their intellectual
 pursuits will all extrapolate similarly. If someone approaches the
 same problems naïvely, it requires a hundred times the effort and
-natural talent, but they can recalclitrate the problems near the base
-of the epistemic mulberry bush. When the bush groups back, it will
-have a stronger base, but sociologicially fixing the structure of
-shared knowledge is also expensive.
+natural talent, but they can recalcitrate the problems near the base
+of the epistemic mulberry bush. When the bush grows back, it will have
+a stronger base, but sociologicially fixing the structure of shared
+knowledge is also expensive.
 
 <a name="sociophilosophical-churn-for-great-pragma" />
 
@@ -1351,9 +1385,11 @@ counter the East: when physical travel limited the spread of
 information, the West was always at an geoinformational
 disadvantage. Further, that the most significant economically
 strategic chokepoints along the Silk Road were dominated by the East
-implies that until the past millinium, the West constantly bled
+implies that, until the past millinium, the West constantly bled
 liquidity to middlemen in the Near East, who stood to benefit from all
-trade between the East and West.
+trade between the East and West. Hence, the benefits Columbus would
+gain by finding a navigable sea route to the Far East, "whose *roads*
+were *paved* with Gold."
 
 Having your civilization occupy territory along Silk Road was a
 blessing and a curse: your leaders needed to be capable of intuitively
@@ -1367,16 +1403,17 @@ the limitations on your economic or political growth? This is the
 calculus of empires, of rising and falling stars. It is necessary for
 belief systems and normative systems to lend themselves to the
 antifragility of sociopolitical and socioeconomic systems. Therefore,
-belief systems must be flexible and fixedly rooting the normalized
+belief systems must be flexible. Fixedly rooting the normalized
 majority belief system in either materialism or idealism, without
-enabling the change, is the problem left to theologians. Yet, it does
-not aid the pragmatic -- unless for some reason your idealism tends to
+enabling the change, is the problem left to theologians. Such does not
+aid the pragmatic -- unless for some reason your idealism tends to
 create pragmatic benefits by dissolving away uncertainty, via
 [perturbation and
 percolation](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-rationalizing-irrationality)
 to etch away the possibility space. The task left to financial
 engineers is to design machines that are dynamos powered by
-volatility, whose mechanics are structures of correlation.
+volatility, whose mechanics are structures of correlation. It was the
+same for ancient social architects.
 
 From the churn of empires contending to displace one another in the
 Near East emerged the need to control *sociophilosophical
@@ -1397,11 +1434,14 @@ resonates with the Conflict Theory of Karl Marx. In times when the
 existing systems of thought economically benefit the masses, then the
 people are content with systems leaning towards immaterial metaphysics
 -- yet between generations, each region's economic imperitives
-ordained specific benefits to systems of thought, which above all else
-needed to be adaptable. This perhaps explains the rift between Plato
-and Aristotle's thought on metaphysics: Aristotle's generation had
-found the truth impractical, given the West's economic dependence on
-trade in the east.
+ordained specific benefits via systems of thought, which above all
+else needed to be adaptable. This perhaps explains the rift between
+Plato and Aristotle's thought on metaphysics: Aristotle's generation
+had found the truth impractical, given the West's economic dependence
+on trade with the east. Before the era of industrialism, globalism and
+modernism, wealth flowed from population centers with
+prosperity. These flows were tightly coupled to agriculture and the
+lower strata of industry.
 
 The contention between the Marxist and Hegelian conceptions of both
 metaphysics and dialectical argumentation can also be explained as
@@ -1410,11 +1450,11 @@ utility, in the context of sociopolitical reform, is in challenging
 and overturning an existing order or establishing a new one
 entirely. It provides a vexingly systematic means of influencing
 discourse and rhetoric by rooting argumentation in a limited set of
-terms and dissuading "constructing". The Hegelian dialectic, in its
+terms and dissuasion of "constructing". The Hegelian dialectic, in its
 social application, advantages the existing sociopolitical order,
 whether it is dominant or occult. However, this begs the question: how
-do Marxist political orders whose systems of thought become well
-established insulate themselves from disruption without eventually
+do Marxist political orders, whose systems of thought become well
+established, insulate themselves from disruption without eventually
 diluting their dialectic?
 
 Control how people conceive reality, *control the limits of how people
@@ -1423,13 +1463,13 @@ humanity.** Into which far-flung recesses of the collective
 epistemological possibility space might thinkers great and small
 direct their attention? Socially distributed systems of thought
 determine what can be considered "normal" to be within the Kantian
-Category for some individual in society -- which is itself a kind of
-[dual space](https://en.wikipedia.org/wiki/Dual_space) of reasonable
-thought or expectation about some given social phenomena or
-dynamic. Control, constrain or spectrally filter this dual space of
-the Kantian Category of reasonably expected extrapolations in social
-mechanics/dynamics and you control the collective dreams of your
-people.
+Category for some individual in society. These epistemological Kantian
+Cateries are themselves a kind of [dual
+space](https://en.wikipedia.org/wiki/Dual_space) of reasonable thought
+or expectation about upcoming social phenomena or dynamics. Control,
+constrain or spectrally filter this dual space of the Kantian Category
+of reasonably expected extrapolations in social mechanics/dynamics and
+you control the collective dreams of your people.
 
 This is the power of trapping entire cultures in a false paradigms;
 this is the danger of pure materialism. It is terrifying because it
@@ -1437,7 +1477,7 @@ means that humanity's power to dream collectively might be
 extinguished. Not a single person would be standing to pierce through
 the invisible darkness of ignorance that blankets us. Where the
 idealist conception of metaphysics is typically rooted in some set of
-perfect archetypes or froms, the materialist's conception is ideally
+perfect archetypes or forms, the materialist's conception is ideally
 rooted in a universally distributed shared epistemology of empirically
 observable facts. Hence, to the materialist, the region of epistemic
 possibility space that seems reasonable is far more constrained. This
@@ -1448,7 +1488,9 @@ socioepistemic churn and thus limits the rate of evolution.
 
 > To me, the Spiral King's usage of power symbolizes this control over
 > socioepistemic and sociophilosophical churn. If you watch the anime,
-> maybe you'll arrive at a similar interpretation.
+> maybe you'll arrive at a similar interpretation. The Goa'uld system
+> lords from Stargate exert similar control over the communication and
+> knowledge systems in their worlds.
 
 ![Lordgenome](/img/posts/2018-12-10-the-analytic-i-ching/lordgenome.jpg)
 
@@ -1481,23 +1523,23 @@ Some of Jung's ideas are derided because they cannot be proven.  This
 is similar to what is perhaps greatest riddle of Navier Stokes: what
 if something is true, but simply unprovable?  What if something exists
 beyond time and space, whose truth can never be made certain in the
-material world? Does science fail?  What if Navier Stokes is a
-neverending riddle is freakishly similar to Kant's
-noumenon. Regardless to the answer in Navier Stokes, here it's
-presented merely as food for thought -- but would this imply Gödel to
-be any less provable?
+material world? Does science fail?  What if Navier Stokes as a
+neverending riddle is freakishly similar to Kant's noumenon. It is
+perhaps unprovably unprovable.  Regardless to the answer in Navier
+Stokes, here it's presented merely as food for thought -- but would
+this imply Gödel to be any less provable?
 
 [The problem of reproducing experimental results in
 psychology](/posts/2018-12-14-what-is-the-soul-a-baseline-for-the-materialist-conception.html#the-soul-is-not-what-you-think-it-is)
 results from the near-infinite nature of the mind. Studying the mind
-and assuming you can clamp down controls one a handful of variables is
+and assuming you can clamp down controls on a handful of variables is
 foolish. The mind differs fundamentally from other subjects of
 experimental methodology by the same phenomenological measures whereby
 finite-dimensional systems are distinguished from infinite-dimensional
 systems. Psychology stands to benefit by understanding the approaches
 used in bayesian non-parametrics and infinite dimensional
 systems. Simply controlling a handful of variables is not enough to
-guaranteed consistency or reproducibility. You must approach the brain
+guarantee consistency or reproducibility. You must approach the brain
 and mind as a holistic system -- i.e. from both the top down and
 bottom up.
 
@@ -1515,13 +1557,13 @@ We are all particles in the collective potential distributions of a
 sociophysical
 [ensemble](https://en.wikipedia.org/wiki/Statistical_ensemble_(mathematical_physics))
 of potential distributions: each sociophysical particle has its own
-path unfolding, but society, collectively, relevates its state,
+path unfolding, but society collectively relevates its state,
 unfolding change and essence through our inference of sociophysical
-ensemble's nature. An ensemble, in physics is the a collection of
-potential statistical mechanical distributions, delineating upon some
+ensemble's nature. In physics, an ensemble is a collection of
+potential statistical mechanical distributions, delineated upon some
 parameters. Sociophysical ensembles yield distributions of social
 particles and social dynamics that are not the composition of
-dilineated physical attributes, but instead are ensembles whose
+dilineated physical attributes. Instead, they are ensembles whose
 distributions are arranged along ontological space in terms of each
 distribution's ontological metatypes.
 
@@ -1708,7 +1750,7 @@ is an increase, if continuity constraints are to be maintained, there
 must be corresponding decrease. However, in the study of algebraic
 topology, Gauss-Bonnet is similar, but applies to the manisfestation
 of holes in n-dimensional shapes. This theorum correlates changes in
-Euler Characteristic to necessitate compensating chagnes in the
+Euler Characteristic to necessitate compensating changes in the
 surface curvature to the need to average the values of Euler
 Characteristic when considering the surfaces of manifolds,
 differentially.
@@ -1727,13 +1769,14 @@ volume. This is perhaps more correctly considered as [2,1]-D surfaces
 in a [3,1]-D volume, three dimensions of space and one of time. This
 is why Gauss-Bonnet is relevent to cosmology and astronomy: the
 singularities of black holes are the "holes" in spacetime and
-therefore, Gauss-Bonnet applies to astronomy. Considering the
-energetic consequences of the topology of spacetime -- as the surfaces
-of its manifold changes topologically when hole appears where none was
-before -- is fascianting. Why?  *Because equilibrium is a very special
-thing.* For continuity constraints to be placed upon physical systems,
-the additional constraint of energetic equilibrium results in a far
-more limited space for potential system configurations.
+therefore, Gauss-Bonnet applies to astronomy. As the surfaces of
+spacetime's manifold change topologically when a singularity appears
+where none was before, this is fascinating, considering the energetic
+consequences of the topology changes to spacetime. Why?  *Because
+equilibrium is a very special thing.* For continuity constraints to be
+placed upon physical systems, the additional constraint of energetic
+equilibrium results in a far more limited space for potential system
+configurations.
 
 <a name="the-hows-and-whys-of-the-mapper-algorithm" />
 
@@ -1756,7 +1799,7 @@ returns are less diminishing. MAPPER also enables XAI (explainable
 artificial intelligence), since hyperplane features are imprints of
 form corresponding to the problem domain. This is why reasoning about
 the topological features of the hyperplane corresponds to
-metacognition.
+**metacognition.**
 
 #### Images from a paper on MAPPER[^mapper-algorithm]
 
@@ -1874,15 +1917,16 @@ nature of the creative and the eternal can similarly augment the human
 mind. Regardless, the forms encoded within the training data begin to
 manifest in the trained theta weights of the algorithm.
 
-Almost every machine learning methods involve combinatoric analytical
-models of some sort or another. It's the combinatorial use of
-polynomials that correspond to some tensorial algebra -- e.g. some
-model made of matrix multiplication. Further, plate models can be
-combinatorically enumerated using algebraic structures. So if we
-consider at least some algebraic structures from math as metaphysical
-noumenological structures, they give us analytical models which yield
-further emergent metaphysical structures asymptotically corresponding
-to analytic representations of epistemic structures.
+Almost every machine learning method involves numerically constructed
+combinatoric analytical models of some sort or another. It's the
+combinatorial use of polynomials that correspond to some tensorial
+algebra -- e.g. some model made of matrix multiplication. Further,
+plate models can be combinatorically enumerated using algebraic
+structures. So if we consider at least some algebraic structures from
+math as metaphysical noumenological structures, they give us
+analytical models which yield further emergent metaphysical structures
+asymptotically corresponding to analytic representations of epistemic
+structures.
 
 It's a lot simpler than it sounds. Here, the analytical model
 converges to internalize a numerical model. Often, in computation for
@@ -2131,7 +2175,10 @@ representational learning.
 This means consciousness is anything capable of processing
 information, although there are likely surprises in store with
 consciousness in quantum mechanical and biological systems that don't
-occur in analytical entities running on deterministic hardware.
+occur in analytical entities running on deterministic hardware. To be
+precise, consciousness is a metaphysical entity hosting itself in the
+physical world, operating with an imperfect apprehension of
+archetypes.
 
 <a name="language-distinguishes-man-from-animal" />
 
@@ -2500,3 +2547,15 @@ All questions we may not have time to answer for ourselves.
     presentation](https://www.youtube.com/watch?v=WhXgpkQ8E-Q) for a
     great overview on how the Shazam app can recognize audio
     fingerprints of songs even with a significant amount of noise.
+
+[^functional-maps]: Ovsjanikov, M., Ben-Chen, M., Solomon, J.,
+    Butscher, A. and Guibas, L., 2012. [Functional maps: a flexible
+    representation of maps between
+    shapes](https://dl.acm.org/citation.cfm?id=2185526). ACM
+    Transactions on Graphics (TOG), 31(4), p.30.
+
+[^partial-shape-matching]: Cosmo, L., Rodolà, E., Bronstein, M.M.,
+    Torsello, A., Cremers, D. and Sahillioglu, Y., 2016. SHREC’16:
+    [Partial matching of deformable
+    shapes](https://dl.acm.org/citation.cfm?id=3056476). Proc. 3DOR,
+    2(9), p.12.

@@ -399,9 +399,10 @@ development of hidden maths throughout history
 
 - development of sanskrit
   - devanagari is structure in a way that categorizes consonants into
-    groups based on anaotmical linquistic properties
-  -
-    https://www.quora.com/How-does-one-pronounce-the-Sanskrit-letters-%E0%A4%8B-L-%E0%A4%B2%E0%A5%83-as-in-root-word-kLp-their-dirgha-versions-as-well-as-the-nasals-%E0%A4%99-and-%E0%A4%9E-Please-look-at-the-question-details
+    groups based on anatomical linquistic properties
+    - [Sanskrit
+      anatomic-phonetics](https://www.youtube.com/watch?v=4fI7Qy1NbrI)
+  - https://www.quora.com/How-does-one-pronounce-the-Sanskrit-letters-%E0%A4%8B-L-%E0%A4%B2%E0%A5%83-as-in-root-word-kLp-their-dirgha-versions-as-well-as-the-nasals-%E0%A4%99-and-%E0%A4%9E-Please-look-at-the-question-details
 
 harrapan technology:
 
