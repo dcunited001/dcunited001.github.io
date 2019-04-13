@@ -42,7 +42,7 @@ provides perspective, but neither change nor state are sufficient to
 understand the essence of a phenomenon.
 
 Is there an infinite web of metatypes descending from root archetypes
-that outlines the structure of some all-encompassing ontology? Such a
+that outlines the structure of some all-encompassing ontology? Such
 can be conceived with algebraic graph theory and category theory, but
 its parts must seemlessly reinforce a complete tautology while
 preserving symmetries amongst its archetypical metaphysical
