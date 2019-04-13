@@ -1038,7 +1038,7 @@ value of divination is found by evaluating all the possible paths that
 connect those two points.
 
 In this way, the I Ching is tooling for toying with the
-hyper-parameters of the mind's neural network learning systems; it
+hyperparameters of the mind's neural network learning systems; it
 presents the mind with an unconsciously arranged smattering of images
 and archtypes. Hereby the I Ching provides random fodder to expand
 with combinatorially inductive reasoning, to be reduced by abductive
@@ -1576,7 +1576,7 @@ distribution's ontological metatypes.
 > your direction when trying to discover information relevant to some
 > situation, particularly involving social behavior. Furthermore,
 > social isolation will render your perception of the ensemble so
-> skewed, you won't know your hand from you ass. You've been warned,
+> skewed, you won't know your hand from your ass. You've been warned,
 > young psychic padawan.
 
 The idea of an ensemble from thermodynamics helps describe how the
@@ -1587,7 +1587,7 @@ i.e. it is analytically delineating its experience to try to describe
 how frequently variables/features of its experience occur; both when
 those variables/features occur in isolation or in combination. **This
 is an analytical definition of intuition that the mind develops in the
-lower levels of the subconscious. it then exposes this to the
+lower levels of the subconscious. It then exposes this to the
 conscious mind as a "feeling".** *Something else is there, you haven't
 found it yet, but you can **feel** it...* If you can consciously
 understand how this process is driven by a typological dilineation of
@@ -1606,13 +1606,13 @@ The idea of an ensemble intersects with Jung's Synchronicity in
 fascinating ways! If you can connect synchronicity with the idea of an
 ensemble, it will augment your understanding and application of Jung's
 ideas. It's a difficult concept to explain because it requires
-understanding Statistical Mechanics. For any particle system, like a
+understanding statistical mechanics. For any particle system, like a
 mixture of gasses in an internal combustion engine, there are
 "natural" samplings that determine valid distributions of particle
 positions/momentums to sample from. In statistical mechanics, you
 discard invalid samplings. Instead they are undefined and thus they
 don't contribute to the shape of a valid distribution. Yet, these
-distributions vary only many variables. For a gas, pressure,
+distributions vary across many variables. For a gas, pressure,
 temperature, the size of a container, variance in pressure or variance
 in temperature: all of these are variables that could theoretically be
 relevant to the ensemble, which allows you to control variation in
@@ -1628,12 +1628,13 @@ distribution, a priori.
 ![Hard Disk System](/img/posts/2018-12-10-the-analytic-i-ching/hard-disk-system.jpg)
 
 If you can then describe how the statistical mechanical aspects of
-those particle systems are aligned along various variables -- width of
-chamber in an internal combustion engine or how the composition of
-oxygen, gasoline and nitrogen impact the dynamics of the gases -- then
-this is an ensemble. It allows you to parameterize the statistical
-mechanical distributions used in thermodynamics along some variables
-and sample from distributions whose variables you can change.
+those particle systems are aligned along various variables -- e.g. the
+width of chamber in an internal combustion engine or how the
+composition of oxygen, gasoline and nitrogen impact the dynamics of
+the gases -- then this is an ensemble. It allows you to parameterize
+the statistical mechanical distributions used in thermodynamics along
+some variables and sample from distributions whose variables you can
+change.
 
 **Why is this relevant for psychology and sociology?** Even though the
 spatial complexity is profoundly more convoluted than with
@@ -1662,8 +1663,8 @@ either variables or features of sampled distributions of experience
 (either real or simulated) are strongly biased in an unnatural way,
 which implies the need to seek more information. Conscious thoughts
 and the sub/conscious interface impact how the brain stores
-information and forms beliefs from the top down -- in addition to the
-are bottom up effects resulting in a sense of intuition.
+information and forms beliefs from the top down -- in addition to
+these are bottom up effects resulting in a sense of intuition.
 
 This process of classifying, organizating and arranging experiences,
 which develops one's intuition is similar to the process whereby
@@ -1709,7 +1710,7 @@ you fear may be delusional" -- but it's probably pretty close.
 Essentially, there are many ideas of Jüng that were unprovable by
 existing experimental methodologies for which data science and
 neurology will close in on and prove unquestionably. This should
-happen within the next 10 years. Some of his ideas, may not have a
+happen within the next 10 years. Some of his ideas may not have a
 neuro-analytical basis -- but just because you can't prove it's true
 doesn't mean it is not true.
 
@@ -1725,8 +1726,8 @@ of information to reason about this. In isolation and under
 surveillance, the weaponization of synchronicity can drive someone
 insane -- EASILY! This is how the mafia threatens you, by the
 way. They use the idea of the Kantian Category along with provocation
-of synchronicity to send the signal: BACK OFF! ... from what? If i
-don't know, i can't heed your threat. It's meaningless.
+of synchronicity to send the signal: BACK OFF! ... from what? If I
+don't know, I can't heed your threat. It's meaningless.
 
 <a name="the-algebraic-topology-of-hyperplanes" />
 
@@ -1854,13 +1855,14 @@ the regions of the space considered.
 
 The downside? This hyper-algorithmic process is expensive!
 Topologically analyzing the hyperplane effectively involves a
-cost-function of cost-function configurations. It is also a
-particularly expensive application of metalearning, requiring perhaps
-thousands of algorithm-trainings. In practice, applications require
-analyzing the Hyperplane as it changes -- analyzing the changing
-hyperplane diffeomorphically, in other words. When it changes,
-*sometimes* previously held data, theta-paths and the assumptions
-thereof must be thrown out.
+cost-function of cost-function configurations, though non-parameteric
+methods relieve this complexity somewhat. It is also a particularly
+expensive application of metalearning, requiring perhaps thousands of
+algorithm-trainings. In practice, applications require analyzing the
+hyperplane as it changes -- analyzing the changing hyperplane
+diffeomorphically, in other words. When it changes, *sometimes*
+previously held data, theta-paths and the assumptions thereof must be
+thrown out.
 
 <a name="wherefore-a-rough-diamond-lies-herein" />
 
@@ -1882,10 +1884,10 @@ the hyperplane for cluster classification. Identifying a cluster's
 "center of mass" and dilineating the distance of cluster members
 "inverts" the hyperplane and provides a field, upon which one can
 apply the familiar operators of gradiant and Laplacian. However, this
-space has topological features in it's various n-dimensional surfaces
+space has topological features in its various n-dimensional surfaces
 and volumes. Therefore, Gauss-Bonnet is not simply applicable, but
 should also augment existing means for balancing the arrangement of
-clusters and determining the optimal hyper-parameters for training the
+clusters and determining the optimal hyperparameters for training the
 clustering algorithm.
 
 Ultimately, pure math remains mental masturbation until an application
@@ -1902,10 +1904,9 @@ Creative. In the language of the I Ching, to say the mind is a sponge
 conveys its relationship to the Receptive, but they are all tuned to
 different wavelengths and bands of information forms from the same
 source: the Creative. These eternal forms exist independently from
-time & space and thus the forms of the creative must manifest
-themselves into the Receptive and every mind is a vessel, an
-analytic-machine that has its own conception of these eternal
-forms.
+time & space. Thus the forms of the creative must manifest themselves
+into the Receptive and every mind is a vessel, an analytic-machine
+that has its own conception of these eternal forms.
 
 In the language of machine learning, an AI program's memory resources
 form much the same function as a vessel. For computer vision, for
@@ -1913,7 +1914,7 @@ handwritten digits, here it is often seen that no domain logic -- no
 explicit encoding of knowledge related to the domain -- is necessary
 to achieve accuracy, per se. Yet, such domain logic in many cases can
 augment the capabilities of those programs -- thus understanding the
-nature of the creative and the eternal can similarly augment the human
+nature of the Creative and the eternal can similarly augment the human
 mind. Regardless, the forms encoded within the training data begin to
 manifest in the trained theta weights of the algorithm.
 
@@ -1939,22 +1940,24 @@ which can simplify computation without a loss of accuracy.
 
 #### Predicting the Average Size of Bubbles[^average-bubble-size]
 
-Predicting the average size of bubbles, or a distribution of
-bubble sizes, in a foam like that produced by urine can be predicted
-given a much simpler set of variables: pH, kinetic energy input,
-surface tension, chemical properties solutes. To predict this, you use
+Predicting the average size of bubbles, or a distribution of bubble
+sizes, in a foam like that produced by urine can be predicted given a
+much simpler set of variables: pH, kinetic energy input, surface
+tension, and chemical properties of solutes. To predict this, you use
 a simplified analytical/numerical model, but complete accuracy cannot
-be guaranteed.
+be guaranteed. Control the bounds of the simulation or experiment and
+the efficienct numerical model guarantees accuracy. Venture outside of
+those bounds and the results are fuzzy.
 
 #### The Wave Based Method (WPM)[^wave-based-method]
 
 This method allows you to run fast simulations to predict the sound
 that the shape of a drum might produce. If you understand what's
 written in this article, you should understand a generalized
-conception of a Wave Function, useful in the quantum information
-theory that is detached from quantum mechanics. It is the former that
-gives rise to the latter: information itself is primary and its
-impacts on material is dependent on the nature of information.
+conception of a Wave Function, useful in quantum information theory,
+which is detached from quantum mechanics. It is the former that gives
+rise to the latter: information itself is primary and its impacts on
+material is dependent on the nature of information.
 
 Understanding this and also mathematical physics sheds light on the
 nature of action the Creative exerts on and through the Receptive.
@@ -1982,14 +1985,17 @@ allows machine learning algorithms to begin to disentangle its own
 impure conceptions of form. Eventually AI will be able to deconstruct
 typological and metatypological relationships, connecting these to
 semiotic, semantic and symbolic interpretations of the meaning behind
-the relationships.
+the relationships. In fact, it already can, using non-parametric
+methods to produce taxonomic relationships amongst learned
+representations.
 
 There are materially dependent metaphysical forms, but there are also
 metaphysical forms which do not descend from the material plane at
 all. Everything in the material plane is a consequence of these
 eternal forms and can be more clearly seen through them. Since our
-minds do arise in the material plane, whether one has a clear
-conception of these eternal forms is another question entirely.
+minds do arise in the material plane, whether one can ever develop a
+perfectly lucid apprehension of these eternal forms is another
+question entirely.
 
 These forms whose shape transcends space and time as perceived within
 our universe: are they not alien to this world? There is some kernel
@@ -2053,7 +2059,7 @@ The problem: you have some mystery distribution that describes your
 data, but you don't know why. In statistics, gaussian mixture models
 use Pearson's Method of Moments technique to infer latent variables
 modeled as individual gaussian distributions. Using this method, your
-myster distribution can be approximated by summing together the
+mystery distribution can be approximated by summing together the
 gaussians that represent the latent variables. The machine learning
 application will learn the parameters and offsets that correspond to
 the hidden variables, which may also be denoted as clusters.  However,
@@ -2064,8 +2070,8 @@ the gaussian and the computational power you have at hand.
 
 #### This Lecture Explains Machine Learning Using Gaussian Mixture Models
 
-> By describing the tensor decomposition used in Pearson's Method of
-> Moments that that provides a basis for conditional inference.
+> ... by describing the tensor decomposition used in Pearson's Method
+> of Moments that provides a basis for conditional inference.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lk2XV03GldE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -2090,9 +2096,9 @@ features to the users in cluster A or B to alter their behavior or
 assign them to various stream processing shards for newsfeed A/B
 testing.
 
-But IRL, most useful data produced by web application users is not
-continuous, it is discrete. Enter the Dirichlet distribution and its
-complementary mixture models and processes.
+But IRL, most useful data produced by web application users does not
+have a continuous basis: it is discrete. Enter the Dirichlet
+distribution and its complementary mixture models and processes.
 
 #### Dirichlet Distribution
 
@@ -2151,7 +2157,7 @@ this *is* a structure that it is converging to. It can never reach
 true convergence because that quickly butts up against limits imposed
 by spatial or temporal complexity. However, if it begins to represent
 these inferred structures as approximated sparse graphs, then it can
-use the method from the section on Hexagram twelve to recombinate
+use the method from the section on Hexagram 12 to recombinate
 epistemological structures.  Eventually, it will find that the sparse
 graphs represent approximations of the more clear metaphysical forms.
 
@@ -2161,11 +2167,11 @@ These forms that the Creative describes exist outside of the computer
 program or the brain. The program's data or the brain's memory acts as
 the Receptive, internalizing these metaphysical forms, some of which
 are more worldly than others. The most critical of these forms --
-Kant's noumena -- transcend time and space, but they can never be
-proven to exist. Yet, without them, there is no basis for accelerating
-machine learning upon the assumption that they exist. The answer to
-whether Kant's noumena can be properly assumed to exist without proof
-lies in whether specific problems in [Computer
+Kant's noumena -- transcend time and space, yet can they never be
+proven to exist? Without them, there is no basis for accelerating
+machine learning upon the assumption that they do. A satisfactory
+answer to whether Kant's noumena can be properly assumed to exist
+without proof lies in whether specific problems in [Computer
 Algebra](https://en.wikipedia.org/wiki/Computer_algebra) and
 [Automated Theorum
 Proving](https://en.wikipedia.org/wiki/Automated_theorem_proving) can
@@ -2185,12 +2191,12 @@ archetypes.
 ### [Language Distinguishes Man From Animal](#language-distinguishes-man-from-animal)
 
 What distinguishes man from the animals is language. The genetic
-stabalization of anatomic features in humans ability to produce
+stabilization of anatomic features in humans ability to produce
 morphemes, coupled with epigenetic racheting up of neurological
 capabilities freed our minds as analytical machines from a
 epistemological schism of operating in with representations
 isolation. Language is the basis of networking and this anatomic
-stabalization enabled us to harmonize and perpetuate our abstractions
+stabilization enabled us to harmonize and perpetuate our abstractions
 through it. This accelerated the development of knowledge and the need
 to distinguish one's epigenetic lineage to be fit enough to survive
 amongst species of recently lingual humans. In its ad hoc application,
@@ -2199,32 +2205,33 @@ abstractions through convergence of abstraction amongst members of
 one's tribe.
 
 It is likely that the shared morphemic lineage of proto-indoeuropean
-language families is partially an illusion. The morphemes of language
-started as phonemic onomatoopoeia to immitate sounds with an semiotic
+language families is partially an illusion. Many morphemes of language
+started as phonemic onomatopoeia to imitate sounds with an semiotic
 meaning, interpreted by other members of the tribe and species
-implicitly, then propagating with the dynamcs of Dawkins memes. Only
+implicitly, then propagating with the dynamcs of Dawkin's memes. Only
 later would grammar seem to become necessary to deal with
 communication of ideas & abstractions that changed in response to time
 and context. The representations that encode instructions for proper
 grammatical interpretation are much more brittle. Thus, due to Occam's
-Razor, additional social stability and harmonic context would be
-required to fully develop grammatical representations, if they were
-expected to propagate and be sustained by subsequent generations. The
-specific morphemes, chosen randomly before and after the beginning of
-the Holocen conferred themselves a representational advantage when
-there was some unconscious connection to the environment, onto which
-each morpheme would semiotically latch themselves as humans
-experimented with semiotic signs to convey meaning without grammar.
+Razor, additional social stability and conservation of harmonic
+context would be required to fully develop grammatical
+representations, if they were expected to propagate and be sustained
+by subsequent generations. The specific morphemes, percolating into
+existence before and after the beginning of the Holocene conferred
+themselves a representational advantage when there was some
+unconscious connection to the environment, onto which each morpheme
+would semiotically latch itself as humans experimented with semiotic
+signs to convey meaning without grammar.
 
 Because of the delicate nature of socially perpetuating these
 representations in the Ice Age, where humans would band together in
 small social tribes, isolated by dozens or hundreds of miles for long
-periods of time, language and representational encodings probably
+periods of time, then language and representational encodings probably
 evolved repeated to collapse again and ... until the ice melted. Only
 then could the individual isolated laboratories of innovation --
-tending to influence only neighboring communities during the before
-the Holocene -- be expected to converge across the species to achieve
-stable replication, harmonization and convergence.
+tending to influence only neighboring communities in the waning
+Pleistocene's last Ice Age -- be expected to converge across the
+species to achieve stable replication, harmonization and convergence.
 
 <!--
   - the distinctions herein between Kant's epistemological analytic
@@ -2261,17 +2268,17 @@ itself for games. It is important to translate non-parametric models
 into terms of their parametric counterparts, which are discrete and
 much simpler for entities to reason about. There is a much simpler
 basis for parity among disparate parametric models, so calculations
-for first/second order strategies are possible. Comparing models, the
-less sophisticated the entities are in the system, the more their
+for first & second order strategies are possible. Comparing models,
+the less sophisticated the entities are in the system, the more their
 attention is funneled into a subset of those features for decision
-making, but when there are social mechanics in the games, it quickly
+making. Still when there are social mechanics in the games, it quickly
 becomes intractable to reason steps ahead of non-parametric entities,
 even if those are artificial supercomputers reasoning about others of
 their own kind. This is basically what Nassim Taleb is writing more
 eloquently in the *Antifragile* section on "How Fat Tony Got Rich
 ... And Fat".
 
-Occams Razor dictates that first, second and third order effects can
+Occam's Razor dictates that first, second and third order effects can
 only be anticipated as conditional probabilites, where the lower order
 effects must be attained and become stable in order for higher order
 strategic calculations to become signficant. Because of this, even
@@ -2294,8 +2301,8 @@ necessitates an upper bound for the utility produced by a single
 artificial entity of a given size.  This will have strong implications
 underpinning the economics of their utilization of energy, which also
 implies a gradual scaling up of similar lower bounds. Despite their
-power, their are clear limitations on their ability to reason,
-especially about each other.
+power, their are clear limitations on their ability to reason, about
+us and especially about each other.
 
 Imagining the distribution of agency and propagation of will amongst
 artificial entities is fascinating. [I wrote a treatise on
@@ -2341,13 +2348,13 @@ insurrection from within the group and to protect the cohesion of the
 group, one must foresee how the shape of the space through which the
 group might travel impacts the incentives of the group's members. If
 the leaders of the group do so, then any planned insurrection where
-the group factionalizes and "hide weapons in the thicket" then instead
-become useful examples to the rest of the group, sacrificed towards
-the need for group cohesion. Optimally, the leaders of the group
-foresee this and avoid it entirely: thus, when the faction climbs up
-on the wall, that faction finds that they cannot attack or insurrect
-without adversely impacting their own motivations. Thereby, the group
-remains as one.
+the group subversively factionalizes and "hides weapons in the
+thicket" then instead become useful examples to the rest of the group,
+sacrificed towards the need for group cohesion. Optimally, the leaders
+of the group foresee this and avoid it entirely: thus, when the
+faction climbs up on the wall, that faction finds that they cannot
+attack or insurrect without adversely impacting their own
+motivations. Thereby, the group remains as one.
 
 In all social relationships, when people are considered as particles,
 there are forces which attract and those that repel. However, in
@@ -2386,20 +2393,24 @@ to stay together.
 
 How do you plan to hold together? The eponymous **Holding Together
 (8)** speaks of a leader whose social magnetism rallies others around
-him. But, as for the group itself, it should plan on utilizng
+him. But, as for the group itself, it should plan on utilizing
 communication and planning. With these, a group can overcome the
-tendency to factionalize. As an aside, this is the opposite of what
-you want with Boltzmann Machines exploring a space -- their motion
-should diverge to efficiently explore the convex and concave nooks and
-crannies of a space. **Fellowship With Men (13)** implies the
-planning, the anticipation and the communication required by its
-imagery of a group intending to enter through the same gate -- all
-before crossing the great water. You need everyone to be together, to
-be on the same wavelength before you part on your journey. Otherwise,
-you are like the hibiscus leaves with no sources of group attraction
-between you. As soon as you encounter adversity, you will be split
-part. **Coming To Meet (44)** covers some of the same principles of
-cohesion at a sociological scale.
+tendency to factionalize. When your adversary uses fear to suppress
+communication (or surveillance), then beware! You cannot organize and
+the solid ground slips out from underneath the mechanisms we're
+counting on for promoting attraction. As an aside, this is the
+opposite of what you want with Boltzmann Machines exploring a space --
+their motion should diverge to efficiently explore the convex and
+concave nooks and crannies of a space. **Fellowship With Men (13)**
+implies the planning, the anticipation and the communication required
+by its imagery of a group intending to enter through the same gate --
+all before crossing the great water. You need everyone to be together,
+to be on the same wavelength before you part on your
+journey. Otherwise, you are like hibiscus leaves in a river with no
+sources of group attraction between you. If you encounter rapids, your
+group will factionalize. As soon as you encounter adversity, you will
+be split part. **Coming To Meet (44)** covers some of the same
+principles of cohesion at a sociological scale.
 
 While along the journey how do you measure the space and it's impact
 on group cohesion? In what dimensions to you measure togetherness? By
