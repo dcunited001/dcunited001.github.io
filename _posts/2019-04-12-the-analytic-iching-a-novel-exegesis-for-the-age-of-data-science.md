@@ -2398,14 +2398,14 @@ communication and planning. With these, a group can overcome the
 tendency to factionalize. When your adversary uses fear to suppress
 communication (or surveillance), then beware! You cannot organize and
 the solid ground slips out from underneath the mechanisms we're
-counting on for promoting attraction. As an aside, this is the
-opposite of what you want with Boltzmann Machines exploring a space --
-their motion should diverge to efficiently explore the convex and
-concave nooks and crannies of a space. **Fellowship With Men (13)**
-implies the planning, the anticipation and the communication required
-by its imagery of a group intending to enter through the same gate --
-all before crossing the great water. You need everyone to be together,
-to be on the same wavelength before you part on your
+counting on for promoting attraction. As an aside, total uniformity is
+the opposite of what you want with Boltzmann Machines exploring a
+space -- their motion should diverge to efficiently explore the convex
+and concave nooks and crannies of a space. **Fellowship With Men
+(13)** implies the planning, the anticipation and the communication
+required by its imagery of a group intending to enter through the same
+gate -- all before crossing the great water. You need everyone to be
+together, to be on the same wavelength before you part on your
 journey. Otherwise, you are like hibiscus leaves in a river with no
 sources of group attraction between you. If you encounter rapids, your
 group will factionalize. As soon as you encounter adversity, you will
