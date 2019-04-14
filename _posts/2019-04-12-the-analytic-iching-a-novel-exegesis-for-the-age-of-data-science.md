@@ -287,7 +287,7 @@ or sociophysical data.
 
 By studying the I Ching, one arrives at tools and methods to
 analytically assess phenomena. Because such methods are fundamentally
-analytically, the insights and extrapolations derived thereof do not
+analytical, the insights and extrapolations derived thereof do not
 necessarily depend on the inner workings of the phenomena, their
 mechanics and interacting dynamics. Instead these analytic tools allow
 for introspection of phenomena in a manner completely disconnected
