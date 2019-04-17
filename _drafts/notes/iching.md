@@ -102,7 +102,6 @@
 
 #### Episode 4: ???
 
-
 #### Episode 5: The Army (7)
 
 - earth over abyss
@@ -188,10 +187,11 @@ symbolized by the lone tower, amidst a grove surrounded by wood. When
 Yumeko opens her door at the end of episode 9, she is blasted by wind
 as she stands at the top of the tower. She looks outwards, staring
 down at the earth, which is contextually relevant to the episode's
-plot. This hexagram is meaningful to Yumeko's
-motivation for opening
-the door: the view from the tower is symbolic to the impact on one's
-perspective that contemplation yields.
+plot. The symbolism of the tower, the wind, and an expansive view over
+the surrounding earth is not a coincidence because this hexagram is
+meaningful to Yumeko's motivation for opening the door. The view from
+the tower is symbolic to the impact on one's perspective that
+contemplation yields.
 
 Because of the strong imagery of wind, I had also considered [Hexagram
 57 (The Gentle)], which is wind over wind. The Wind trigram is also

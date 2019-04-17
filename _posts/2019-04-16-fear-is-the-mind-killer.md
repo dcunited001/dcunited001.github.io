@@ -9,6 +9,30 @@ excerpt: ""
 ---
 
 
+- TODO: digitize and import #143.a, #143.b and #145
+
+### Fear Is The Mind Killer
+
+- TODO: ensure the content in these notes have been covered.
+- how fear constricts/filters the mind’s awareness & cognitive
+  processes to those that are more immediate, both in space & time
+- how fear alters the direction/orientation of attention (i.e. causes
+  people to orient their attention/cognition towards more immediate
+  time/space/ideas)
+  - that is, when you provoke a fearful state of mind (especially
+    during the transition into that fearful state), the person
+    withdraws their dispersion of attention towards objects, places,
+    times, memories, ideas and the like that are “closer” or of higher
+    priority towards their current context.
+  - how this impacts cognitive processes, specifically with regard to
+    how the person restricts or filters their consideration of ideas
+    in the “frame/perspective” to smaller timescales
+  - focus on spatial, temporal, and “epistemological” constriction
+  - is this related to a pupil dilation or contraction (evidence of
+    the correlation of instinctual response to the inner cognitive
+    processes)
+
+
 - [fdsa](http://www.rocksandminerals.com/glossary.htm)
 
 Have you noticed how dark it is out there in the modern world? There
@@ -160,7 +184,6 @@ irrational, then when they use fear, they are probing you intensely
 for feedback to inform their next actions. This, unexpectedly, gives
 you power over them (but can also backfire).
 
-
 Using fear is like tricking someone into not using half their chess pieces.
 - Controlling a situation by focusing the mind of the adversary or
   victim towards the potential losses from mistakes and away from
@@ -176,6 +199,9 @@ Using fear is like tricking someone into not using half their chess pieces.
   strategy far more computable. Controlling outcomes for the better by
   making them more predictable can justify the use of fear.
 
+- copy notes about configuration space/entropy for chess pieces
+  - (predicting an opponents moves by reasoning about "normal" board
+    configurations for current and descendant board configurations)
 
 - If social engineers leverage the fields of love/fear to modulate
   attention sociophysically, a potential systemic tail risk arises
@@ -187,8 +213,111 @@ Using fear is like tricking someone into not using half their chess pieces.
   feared has quickly grown stronger.
 
 
+# Machiavellian Δ(Love) and Δ(Fear)
+
+### ⊗ (Power Tactics projecting force onto the fields of love & fear)
+
+- most people are unwisely averse to learning about the mechanics of
+  fear/evil or even those of power. people who build power through
+  darker means, like the projection of love/fear, necessarily must
+  operate in darkness.
+- for most people, this can delay the acquisition of the tools of
+  power. worse, since they don’t understand fear as used in power
+  tactics, their innocence has only served to butter them up as naïve
+  victims.
+- fear games our collective compulsion to seek security, typically
+  defined by those engaging in threat construction.
+
+- (1) They prefer secrecy of method/intent
+- (2) This secrecy enables manipulation of information unknown to the
+  individuals who can be most effectively controlled by power/fear
+  when they find it difficult to name or reason about the
+  threat(s). the phenomena, mechanics and dynamics are unconscious to
+  them.
+- (3) They retain the posture to lash back in many more ways than
+  their adversaries or pawns feel comfortable engaging. adverseries
+  and pawns have little confidence that they can resist without
+  suffering reprisal that yields a net loss to their interests.
+- (4) The game of fear is a pyramid scheme, levering influence over
+  third parties, the mechanics/limitations for which neither your
+  network nor your adversaries can understand/articulate/predict.
+- (5) They systemically disrupt communication. In the past, it was
+  sufficient to manipulate the geographic or physical
+  positions/containment of your threats. What one subject/pawn learns,
+  if they can’t communicate, then others cannot become conscious to
+  the tools of power. it can also make the subjects afraid to
+  innovate. this weakness to centralized, domestic power can quickly
+  turn into systemic helplessness against external powers.
+
+# 143.b ✓✓
+
+### Machiavellian Love & Fear, continued
+
+- (6) So the game of fear is like bluffing in poker: you win biggest
+  when, despite a bad hand, you drive other players to
+  miscalculate. you must understand enough about their state,
+  cognitive processes and decision making to understand how to
+  create/utilize doxastic leverage to force their hand. As long as you
+  can pay out on your threats when people call your bluffs; if not you
+  will quickly lose face and your credibility will require emotionally
+  violent action to repair — if abusing fear is critical to your
+  tactics and strategy.
+
+- (7) most critically, you must know how to create and apply your
+  leverage by systemically influencing the narratives and beliefs
+  individuals create. doing so requires “cultivating an air of fear” —
+  you must understand how to create and persist informational
+  asymmetries, which always requires social compartmentalization of
+  information — darkness. Darkness is not always benefit evil, good
+  can also be strengthened or galvanized against evil in darkness.
+
+### People Fear What They Do Not Understand
+
+- (1) if people fear what they do not understand … then why do they
+  not fear society’s abundantly lacking understanding of the tactics
+  of fear and power? they are conned into believing that in ignorance
+  and darkness, they will be safe. when the only thing to fear is fear
+  itself, then why don’t people reach for its antidotes: knowledge,
+  righteousness, justice, truth, reason, self-sacrifice, but above all
+  else *understanding applied to fear itself*
+
+- (2) because until it’s too late for action, the society drunk on the
+  influence of fear had mistaken supposed comfort or insurance against
+  constructed threats as safety. They fear what gives them power over
+  the tactics of fear. They thought they had comfort or insurance,
+  foresight or strength.
+
+- (3) such is typical because fear is intrinsically connected to
+  confusion, complexity, confidence. Why? Fear, as a generalized
+  tactic, only pays when misinformation yields invalidity and
+  miscalculation. this confidence in safety is usually misplaced
+  confidence in people, facts & circumstances. again, to abuse fear,
+  those in power must socially compartmentalize information to
+  cultivate informational asymmetries.
+
+### Fear Of The Unnamed and Of The Unnameable
+
+- (4) one does not simply fear the unnamed, nor can they fear the
+  unnameable, per se. the unnameable cannot be dissected. while people
+  have the chance to act, fear controls the range of actions they
+  consider their perception of information systems distorts the
+  apparent probabilities of consequences. because rising up requires
+  self-sacrifice (which is meaningless when it can be systemically
+  muted), they cannot accurately assess what the likelyhood of the
+  adversaries responses against them will be, especially given social
+  compartmentalization of information. thus, because they fear the
+  unnamed and especially the unnameable, those rising up are unwilling
+  to apply leverage. lack of action contributes to statistical
+  distortion of perceived probabilities of adversarial reaciton. you
+  cannot gauge an adversaries strength, against whom you refuse to
+  test engagement. therefore, they also lack experience in handling
+  the consequences, so when they finally act, they ability to
+  accurately foresee the first-order and second-order consequences of
+  their actions, whereas their adversary who exploits the
+  informational asymmetry is able to see & understand the causal
+  nature of their interactions with those whom they have subjugated.
 
 
 # I Ching Query
 
-### To Further Justice and strengthen Altruism, how should we balance Love and Fear?"
+### ["I Ching, To Further Justice and strengthen Altruism, How Should We Balance Love And Fear?"](#i-ching-to-further-justice-and-strengthen-altruism-how-should-we-balance-love-and-fear)
