@@ -178,7 +178,6 @@ some way to Yin/Yang, though not necessarily I Ching.
     of I Ching that places it above other similar methods of
     bibliomancy. Everything is fairly weighted.
 
-
 #### Episode 9 and 10
 
 These episodes seem to be oriented around [Hexagram 20

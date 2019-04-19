@@ -12,6 +12,9 @@ title: "Physiological Components of Spirituality"
 
 #### ^^^^ Love IS stored in the heart
 
+Combinatorial hopf algebra and activating mind-body awareness
+
+![Tai Chi Energy Flows](/img/posts/physiological-components-of-spirituality/tai-ji-energy-flows.jpg)
 
 ========
 

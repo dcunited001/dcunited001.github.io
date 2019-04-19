@@ -8,7 +8,6 @@ author:
 excerpt: ""
 ---
 
-
 ### [Hexagram 15 Details The Phenomena of Normification, Not Simply "Modesty"](#hexagram-15-details-the-phenomena-of-normification-not-simply-modesty)
 
 What is modesty? In social interactions? How does one know how to
