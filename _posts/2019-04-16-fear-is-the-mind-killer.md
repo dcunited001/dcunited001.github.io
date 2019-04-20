@@ -10,6 +10,74 @@ excerpt: ""
 
 - [fdsa](http://www.rocksandminerals.com/glossary.htm)
 
+
+### fear of change and fear of the future
+
+- people fear the future (especially now) because they fear change.
+  - they try to guarantee the certainty and security of their meager
+    plans in life.
+  - when faced with rational extrapolations of societal development
+    (which accelerate during the time of the singularity), they
+    consciously and unconsciously cooperate to stymie the titration of
+    that information into society to preserve things they way they are
+    at the present time. if they fear it, it is because they either
+    don't understand it or they do. if it's the latter and the
+    phenomena or it's associated social dynamics will disrupt
+    particular certainties of their livelihood or the security of
+    their future, as the visualize it, then they react by attempting
+    to slow down change.
+    - when (these rational extrapolations) are almost certain, given
+      enough time, then you can slow down the diffusion of
+      information, but you cannot stop the precipitation of these
+      phenomena. you may engage in disruption to slow down change in
+      an attempt to control things, but if you don't also determine
+      the change's inevitability and also prepare for the transition
+      from a system that fought against the change into one that must
+      accept it, (then you're a fool.)
+      - can phenomena which manifest with almost never probability
+        (but do manifest) then create consequences whose effects are
+        delayed but have almost certain probability?
+
+### fear of intelligence
+
+- people try to suppress the diffusion of difficult-to-reach
+  (logically reachable) rational implications of novel epistemological
+  developments.
+  - the degree by which these rational extrapolations are difficult to
+    reach (and hence require more intelligence) is the degree by which
+    people resist them, accounting for the apparent associated change
+    that accompanies them. if an idea is easy to reach, but implies
+    large change, then it is reasonable to assume that the idea will
+    spontaneously manifest in society at high rates. thus, attempts to
+    control the dispersion of those ideas pay off less. when an idea
+    is difficult to reach, it can be assumed that almost no one will
+    think of similar things and hence, the payoff for slowing its
+    spread will be higher. the higher the capacity for intelligence
+    that someone has and the more disruptive their applications of
+    their intelligence are, the more resistance and mob-mentality they
+    will encounter. people can easily be made to fear their ability to
+    disrupt the status quo and whether that disruption is positive or
+    negative matters very little, for the average person cannot
+    comprehend the inner workings of the highly intelligent person's
+    mind. for two intelligent people 3σ or higher, they suffer similar
+    inabilities to understand the inner workings of each others minds,
+    even if they have the same level of intelligence. they may be able
+    more easily understand the products of each other's intelligence
+    than the average person, but face similar difficulties
+    understanding the workings of each others mind.
+
+    - because people fear the unknown and because they cannot know
+      what intelligent people are thinking or may be capable of
+      thinking, they fear intelligence, especially if they are aware
+      of their own inadequacies. even if you are intelligent, there is
+      little you can do against social disconnection or extreme
+      information assymetries. but a person who may develop
+      intelligence who is constantly subjected to a state of social
+      isolation will perhaps respond by further strengthening their
+      intelligence by identify connections in social information
+      systems that other people are likely to miss. they do this to
+      survive.
+
 ### Fear Is The Mind Killer
 
 - TODO: ensure the content in these notes have been covered.
@@ -145,7 +213,6 @@ you peace or at least helps you forget.
       ... but why?
       - other more non-religious examples?
 
-
 ### fear pulls people apart, love pulls people together.
 
 - while the fields of love and fear both influence and are influenced
@@ -155,19 +222,81 @@ you peace or at least helps you forget.
   of one's attention to focus inwards on immediate space, time and
   ideas, whereas love causes one's attention to open outwards to
   include more possibilities.
+  - love facilitates the discussion of new possibilities by
+    influencing the intention, motivation and structure of social
+    interaction. art flourishes during times of peace, prosperity and
+    stability.
   - since the impact that the attention has on the fields of love and
     fear can create feedback on the fields, ...
-    - counterintuitive effects may also arise because each individual
-      has a limited capacity for attention (that determines the
-      objects their cognition is focused on.)
+    - counterintuitive effects may also arise to create "bounding"
+      effects because each individual has a limited capacity for
+      attention (that determines the objects their cognition is
+      focused on.)
+      - also, people tend to direct their attention towards the
+        laplacian of the field of attention and towards the gradient
+        of the magnitude of field effects. thus, wherever people are
+        directing their attention, other people are sure to look.
 
-  - how love as an attractive force can be misused
+    - depending on qualities of the object of fear and the personality
+      of the person experiencing it, the object may exert magnetism on
+      their attention or they may feel repulsed by it.
+      - to objects that trigger mild fear or disease, many people
+        condition themselves to not examine those types of
+        things. they won't direct their attention towards that and
+        condition themselves to become unconscious to it. if the
+        object is worthy of your fear or is associated with risk of
+        high-impact events, .... (then that's stupid, isn't it?)
+        - some objects trigger fear or unease about some quality
+          related to the person experiencing it. it's not the object,
+          per se, but the subjective associations that provoke the
+          fear or distress response. they are responding to something
+          internal .... (and that's stupid, isn't it?)
+          - in these causes, there is usually disruption of the
+            person's projection on the field of attention, resulting
+            in mild turbulent effects on their cognition, but they
+            can't exactly fight & flight from themselves, can they?
+          - how they respond to this instability of cognition after
+            being triggered by association to themselves says a lot
+            about their personality, their psychology and their
+            ability to control their social circumstances.
+            - this can be particularly fucked up for those who have
+              personality complexes (attachment disorder, obsessive
+              compulsive, persecution complex, etc), those who are
+              socially weak or unable to repair the damage, those with
+              a tendancy to ruminate or obsess.
+              - especially when you are cognizant of their
+                psychological complexes or intend to create damage
+                which is to weigh them down for the rest of their life
+                with rumination that cannot be explained by design.
+            - this technique to trigger disruption of cognition in
+              myself and others was used time and time again by
+              workplace bullies, who would install associations to
+              trigger in others surrounding me when they found that
+              the triggers they tried to program me weren't effective
+              enough.
+            - the point was to influence the attention and thoughts of
+              others to repel them away from me, so that i would be
+              disconnected at work and thus vulnerable.
+
+  - how love as an attractive force can be misused.
   - fear pulls people apart (at the macro level), but can compel
-    people to come together at the micro level.
+    people to come together at the micro level. fear can be used to
+    funnel or corral people towards certain ends. fear causes people
+    to formalize rules for social behavior out of concern for their
+    safety, which impacts the degree of social flux. if you cannot
+    trust your neighbor or stranger, this has a profound effect on the
+    volume of social flux. people become reticent to form new bonds
+    with each other: their social valence becomes resistent to social
+    bonding. in the long term, this has a systemic effect at the
+    [nanoeconomic](https://en.wikipedia.org/wiki/Nanoeconomics) level
+    by influencing the formation of connections required to acquire
+    leads, for customer acquisition/retention, etc. -- especially for
+    small businesses.
   - love pulls people together on all levels: from individual to the
     micro to the macro. counterintuitively, this can cause people to
-    pull apart, since to turn your attention towards one group or
-    individual, you almost certainly must direct it away from others.
+    pull apart, since to turn your limited attention towards one group
+    or individual, you almost certainly must direct it away from
+    others.
   - both fear and love may cause the attention to be strongly
     modulated or funneled by unconscious forces. when these influences
     are conscious, (the effects they have on an individual's attention
@@ -416,17 +545,128 @@ Using fear is like tricking someone into not using half their chess pieces.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CyeN4rGOzX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# So What Is The Answer?
+# [So What Is The Answer?]()
 
 - define justice and altruism in the confucian sense.
+  - contrast the definition of justice with the Platonic defintion of
+    justice (from the Republic)
   - connect this sociophysical definition of fear/love to the
     implications of it's sociological implications
+  - how do the balance of fear and love impact the collective
+    projection of individual's attention? how should fear and love be
+    used to direct our attention towards what is needed for justice
+    (to take place), both inside and outside of our country?
+
+
+
+- to strengthen altruism, we need to become one, to think as one, to
+  unify values (that should be elevated)
+  - what motivates individuals to act with altruistic motivation?
+    - why is justice critical for this? (i.e. why act altruistically
+      if your society has a twisted sense of justice or does not
+      permit justice to occur?)
+    - without justice, the potential for altruism is weakened. without
+      the desire for to cultivate and empower altruistic values, the
+      rule of law is impaired and the spirit by which we enforce the
+      law is tainted.
+
 
 ### ["I Ching, To Further Justice and Strengthen Altruism, How Should *We* Balance Love And Fear?"](#i-ching-to-further-justice-and-strengthen-altruism-how-should-we-balance-love-and-fear)
 
 - breakdown the terminology in the question
-  - specify that we is meant generally
+  - specify that we is meant in the general sense
 
-Iching's response: [Coming to Meet
-(44)](https://ichingfortune.com/hexagrams/44.php) changing into
-[Before Completion (64)](https://ichingfortune.com/hexagrams/64.php)
+- Iching's response: [Coming to Meet
+  (44)](https://ichingfortune.com/hexagrams/44.php) changing into
+  [Before Completion (64)](https://ichingfortune.com/hexagrams/64.php)
+  - the response is very relevant to the topics in the question
+
+
+### Coming to Meet (44)
+
+- image "under heaven, the wind blows"
+  - cover the elemental symbolism here.
+
+- this hexagram underscores the need to normalize the value systems
+  that incentivize behavior in our society.
+
+- line 3:
+  - "no skin on his thighs"
+
+- line 5:
+  - hidden lines & melon drops down to one from heaven
+
+- focus atttention away from disorder & chaos and toward order and
+  potential for action. however, not so much so that you completely
+  lose touch with information about changes in these areas of your
+  society, for two reasons: (1) this is where evolution is occuring so
+  changes here need to be propagated to the regions of order (2) you
+  never want to lose sight of a threat. you must engage threats with
+  some level of continuous awareness. when you lose situational
+  awareness on a threat, that's when developments and dynamics occur
+  that will catch you by surprise.
+  - it is for these reasons that the threat is braked, the fish is in
+    the tank and walking comes hard.
+  - but many components of the discord and disorder in society are not
+    threats and should not be treated as such. instead, they should
+    have their energy transformed so that it is beneficial to society
+    (explain...), without affecting their inner nature.
+  - you don't want to affect someone's nature if it is their true
+    nature and they are not harming other people.
+
+### Before Completion (64)
+
+- describe the notion of a systems current order and it's manifested
+  forms in terms of the relationships between chinese characters for
+  water (水), ice (氷) and eternity (永)
+
+- only the values and systems in society that have attained
+  normification can be depended upon as certain for calculation. when
+  there is significant overlap in normalized values systems and
+  information systems in society, a kind of convergence occurs that
+  makes it easier to strategize.
+  - elaborate on how this relates to furthering justice
+    - i.e. if a new order is established and we don't have power, then
+      we may not be able to conduct domestic policy justly
+      - or we may find ourselves with few options and forced to act
+        out of necessity, less capable of acting altruistically or
+        inline with our values in foreign affairs.
+
+- we have the opportunity to influence this emerging order now and
+  less so once it materializes. our enemies want to foment discord
+  within our borders, so that our attention and energy will be focused
+  on tearing ourselves apart. we will focus on narratives
+  corresponding to the recent past instead of the change accomplished
+  by past generations. we will focus on only the immediate present,
+  instead of the future. we will forget news stories from months
+  before. if we only focus on the present, we cannot guarantee a
+  secure transition to a future over which we have influence. once the
+  objects of fear are determined by our enemies, they determine the
+  subjects of our attention and energy.
+
+  - we have to resist this and (socially engineer) love and fear to
+    focus ourselves outwards, so that we secure our economic
+    externalities and thus have more flexibility to maneuver as the
+    next emerging order establishes itself.
+
+
+- when fear causes individuals and people to become isolated, this
+  impacts the flows of information.
+  - "fellowship with men" teaches that it is easier to stay together
+    than to come together, but that it's easier to factionalize during
+    times of change than either of the former.
+
+- segue from discussing the "emerging order" to discussing
+  machiavelli's ideas on the formation of regimes (not necessarily
+  "hard" regime change)
+  - the challenges to new or transitionary regimes and how the
+    specifics of events during transition and of power structures near
+    the top effect the regime's stability, determine its upcoming
+    challenges and set in course [various factors] -- "big shoes to
+    fill"
+    - explain that these seemingly diverse types of consequences
+      stemming from the specifics of choices made during the time of
+      transition mostly extend from how norms propagate through
+      society after the transition and how normative values
+      incentivize behavior and how normative beliefs shape reality by
+      shaping expectation.
