@@ -16,6 +16,13 @@ Combinatorial hopf algebra and activating mind-body awareness
 
 ![Tai Chi Energy Flows](/img/posts/physiological-components-of-spirituality/tai-ji-energy-flows.jpg)
 
+
+The mathematical concept of “coverage” in the cardiovascular system
+and lymphatic systems. Disruption of total/efficient coverage here
+results in nutritional imbalance and recurrent disease. Yoga helps
+physiologically balance the processes of c/v & lymphatic systems so
+poorly serviced regions receive more nutrients/clearance.
+
 ========
 
 #### From Notes

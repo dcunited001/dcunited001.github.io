@@ -31,6 +31,9 @@ permalink: /quotes/
 > can't hope but find themselves simply controlled and merely
 > predicted.
 
+> Nihilism's not supposed to be a drug, but it's a lot like alcohol
+> and both are legal.
+
 > Every man is born as many men and dies not, but becomes every man.
 
 > There are many ways to live life and not all of them equally deserve

@@ -8,6 +8,12 @@ author:
 excerpt: ""
 ---
 
+#### A Spirit of Trust: Magnanimity and Agency in Hegel’s Phenomenology
+
+> Hegel, self/consciousness, meaning, norms, etc
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kko9ntrdTdo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### [Hexagram 15 Details The Phenomena of Normification, Not Simply "Modesty"](#hexagram-15-details-the-phenomena-of-normification-not-simply-modesty)
 
 What is modesty? In social interactions? How does one know how to

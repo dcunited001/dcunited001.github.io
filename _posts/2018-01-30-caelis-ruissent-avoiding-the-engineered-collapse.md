@@ -2753,8 +2753,7 @@ our gifts.
 
 <a name="a-neo-proto-evangelium-is-coming" />
 
-### [A Neo-Proto-Envangelium Is Coming: All Who Lived In The Modern
-Era Will Be Judged](#a-neo-proto-evangelium-is-coming)
+### [A Neo-Proto-Envangelium Is Coming: All Who Lived In The Modern Era Will Be Judged](#a-neo-proto-evangelium-is-coming)
 
 The time is coming when Satan's little head's gonna pop like a
 zit. Satan, as in, the embodiment of all evil. All of it. Technology
@@ -2786,7 +2785,7 @@ destroyed. The danger here is that it is the most powerful people who
 were *not truly righteous* who will fall. This in itself is another
 cause for concern because they may not decide to fall gracefully.
 Those, like the falsely-righteous Pharisees who plotted to have Jesus
-murdered, will fall most severely. The truly-righteous will be saved
+murdered, will fall most severely. The truly righteous will be saved
 by the records of their good actions. This was always the intent of
 religion, was it not? To make man *better*, by virtue of his actions?
 
@@ -2869,7 +2868,7 @@ your beliefs and the people around you, you'll never truly understand.
 
 <a name="you-will-be-thanking-your-stars-that-someone-like-me-ever-existed" />
 
-#### &#x2308;&#65942;&#x2309; [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
+### &#x2308;&#65942;&#x2309; [You Will Be Thanking Your Stars That Someone Like Me Ever Existed...](#you-will-be-thanking-your-stars-that-someone-like-me-ever-existed)
 
 #### ... And I Hope You Activate the Potential For Every Person To Be As Great As Any Of Us Could Ever Be
 
@@ -2924,7 +2923,7 @@ out.
 
 <a name="so-where-do-we-go-from-here" />
 
-#### &#x2308;&#65942;&#x2309; [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
+### &#x2308;&#65942;&#x2309; [So Where Do We Go From Here? How Is It That We Come Together?](#so-where-do-we-go-from-here)
 
 Obviously, the potential for damage to have been done is incalculable.
 However, we are positioned to root out people who are using government
@@ -2996,7 +2995,7 @@ and it will certainly be a little chaotic.
 
 <a name="how-does-post-revolutionary-france-relate-to-21st-century-america" />
 
-#### &#x2308;&#65942;&#x2309; [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
+### &#x2308;&#65942;&#x2309; [How Does Post-Revolutionary France Relate To 21st Century America?](#how-does-post-revolutionary-france-relate-to-21st-century-america)
 
 How do I know this? Once the *TRUTH* is in place, then the architects'
 precious anti-bourgeoisie narrative is destroyed *AND CAN NEVER BE
@@ -3067,7 +3066,7 @@ allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <a name="once-their-retro-narrative-is-obliterated" />
 
-#### &#x2308;&#65942;&#x2309; [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
+### &#x2308;&#65942;&#x2309; [Once Their Retro-Narrative Is Obliterated, Welcome Their *Supporters* With Open Arms](#once-their-retro-narrative-is-obliterated)
 
 We all know it's bad. We're ready for something different. Now that
 their retro-narrative is destroyed -- the one justifying future
