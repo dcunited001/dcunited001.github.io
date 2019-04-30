@@ -268,40 +268,6 @@ Dual argot space of a language (a kind of linguistic multilinear dual)
       soul in tact, then what did I do that is so unnameable?
 
 
-#### Explaining the ....
-
-  - (perhaps move this) if it's so crucial for the common person to
-    remain unaware of any system, whether coordinated or the
-    collectively unconscious result of groups (interacting with)
-    social signals, occasionally with unbelievable feedback loops,
-    then there must be some reason for all the secrecy. To be certain,
-    it doesn't appear that there is any singular Illuminati or set of
-    conspiratorial secret societies -- far worse, these are dynamics
-    that result purely as a consequence of collective human behavior
-    responding with varying degrees of consciousness to facets of the
-    unconscious made conscious.
-    - as social groups in competition become aware of needs, desires
-      and objectives, then according to how individuals are
-      distributed in a gradiation of consciousness to phenomena, each
-      group responds to awareness of these needs, which are *usually*
-      easier to obtain in competition if they remain unconscious.
-      Since every person begins life almost completely *tabula rasa*,
-      then with respect to almost every phenomena, they are completely
-      unconscious and will rise in society's gradiation of
-      consciousness as they encounter socially available information.
-      Factions can cooperate, but one aspect of nearly every game
-      theory scenario is universally true: it is easier to control the
-      outcomes when you can control information distribution. More
-      precisely, by limiting the spread of nearly any information by
-      default, then for some competitive domain, it is advantageous to
-      systematically control the [spatial complexity]() of statistical
-      models by tending to constrain the dispersion of relevent
-      information. Though there are some exceptions, people are more
-      predictable when they have less information. The leaders filling
-      various roles in cooperating factions, however, are not useful
-      without the requisite information to interface with the social
-      system to win the game.
-
 #### What has this "Taint" been like for me?
 
   - What has it been like for me? Every new acquaintance you make:

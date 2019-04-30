@@ -442,11 +442,11 @@ conscious. Who wants to be helpless?
   - initially this is a consequnce of (theological necessities)
   - the more sinister motivations of this have to do with social power
     dynamics
-    - e.g. the intentional gradiation of men by their consciousness to
+    - e.g. the intentional gradation of men by their consciousness to
       various phenomena (TODO: restructure so that an explanation of
       this occurs earlier)
 
-#### (1) the institutionatlization of sociohierarchical strata --
+#### (1) the institutionalization of sociohierarchical strata --
 
   - viz. roles and positions in (theological institutions)
     - these self-aggrandizing positions of influence are (alluring to

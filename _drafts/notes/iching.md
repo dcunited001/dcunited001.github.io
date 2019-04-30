@@ -72,6 +72,54 @@
   prefigured construction so that the pieces all line up is very
   difficult.
 
+## Blood Blockade Episodes
+
+#### Episode 8: Z's Longest Day (Part 1)
+
+- the old master shows up to fight the dude that splits in half
+- there is strong imagery of fire(inner) and wind(outer), as well as
+  vice versa. the hexagrams this corresponds to are Family(37; wind
+  over fire) and The Cauldron(50).
+  - in the spells the old master casts, there are two family names
+    mentioned. the focus of the show is blood blockade.
+  - the result of the spellcasting is that the enemy is forced to go
+    into a suppressed, regenerative stage (in the literal shape of an
+    egg)
+
+#### Episode 9: Z's Longest Day (Part 2)
+
+Images from Tarot Major/Minor Arcana
+
+- Coin flipping (pentacles suit, though the outcome of coin flips is
+  ambiguous)
+- The Wheel
+- The Tower (comes crashing down, with an orange arrow pointing at it)
+
+#### Epsiode 12: Hello World
+
+- Leo looks down after climbing up on a rock (mountain) and sees the
+  otherwise unexplainable image of lighting scattering between Zombies
+  - mountain over lighting is Corners of the Mouth (27; nourishment)
+
+- while not arising from this imagery, other interpretations make
+  sense for the development of the episode. particularly, Darkening of
+  the Light (36), which may clash well with Season 1's ending themes
+  of the King of Despair identifying an Avatar of Hope, whom he
+  intends to turn into a kind of Job. By identifying a
+  generation/communities exemplary avatar of a trait like hope, you
+  can assume that all lesser exemplifications of that trait will fail
+  to stand aganst that trait's opposite. So by identifying the
+  strongest such example of that trait and testing it against its
+  opposite, you can assume whether any other embodiments of that
+  trait/virtue would be able to resist -- in this case, the King of
+  Despair.
+
+- The people trying to restore the barrier (including the teleporting
+  chick) are looking at star-charts.
+
+- Tarot symbols include *possibly* Judgement (graves & undead) and a
+  reversal of the Tower. The focus of the episode is on dispaire
+
 ## Gurren Lagann Episodes
 
 #### Episode 1: Obstruction (39)

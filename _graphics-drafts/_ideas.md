@@ -21,6 +21,27 @@ title: "Graphics Ideas"
 
 ### GIS
 
+- Set of street routes a person considers taking in inclement whether
+  is like a sobolev-space derived from considering all the routes
+  whose dF/dt never exceeds some maximal divergence
+
+- Graphics: calculate Laplacian, Hausdorf, and Gaussian curvature for
+  basic Bathymetry maps.
+
+- Graphics: instantiate random particle systems using topography to
+  inform distributions of “force” imposed on the particles. In a
+  subsequent version, particles should also magnify their velocity
+  when traveling along the gradient of population flux.
+
+- Graphics: simulations that animate diffusion of population using
+  JavaScript.
+  - Can a model be created that filters networks of caves in Europe
+    and takes into account basic climate factors without weather?
+    Animate diffusion of population that must balance
+    resources/shelter/food and animal migrations; this should
+    demonstrate migrations and phase-transitions between seasons.
+
+
 #### Measure of 2D area of terrain surface visible from a point in 3D space.
 
   - this is tightly coupled to local/regional changes in convexity/concavity
@@ -363,6 +384,7 @@ title: "Graphics Ideas"
   displayed on, including manifolds that circumvent the need for zoom
 
 
+
 ### Using ideas from Statistical Mechanics & Thermodynamics For Smooth/Bounded Motion/Acceleration of Particles
 
 - basically, the difference b/w plain statistical mechanics and
@@ -429,7 +451,7 @@ title: "Graphics Ideas"
 
 
 
-
+========
 
 
 - (as i'm writing this, i'm at the skating rink and trying to assert

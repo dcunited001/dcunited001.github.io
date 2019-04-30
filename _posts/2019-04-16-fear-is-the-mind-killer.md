@@ -8,6 +8,44 @@ author:
 excerpt: ""
 ---
 
+### Try Hard Is Not A Dirty Word
+
+- how do fear & love relate to despair & hope. (reword this)
+  - despair gives rise to dread from a perceived certainty of some
+    course of actions. fear keeps the mind in check and when it cannot
+    see beyond what it feels is certain, this produces a state of
+    despair.
+  - if the conditions producing despair can no longer be seen to be
+    certain, this affords one a glimpse of hope in the as yet unknown
+    solutions to these conditions.
+  - modulating social connectness and informational assymetry can
+    produce either hope or despair. isolating an individual or group
+    tends to cut off their social access, complicating the effects
+    that network dependencies exert on the mechanics of love as a
+    field. because they cannot feel love, they cannot see beyond what
+    they know; they cannot become conscious to possibilities; they
+    cannot see over the horizon. if they choose to squelch hope,
+    despair remains and by giving up, they doom themselves.
+  - avatars/paragons of ideals (such as hope/despair/greed/etc) as
+    indicators of an upper bound for that ideal within
+    society.
+    - e.g. identify an avatar of hope for some generation and if one
+      manages to extinguish hope within that individual, then because
+      they are an upper bound for that generation's manifestation of
+      that ideal within individuals, then all other individuals could
+      be expected to fold with less investment of energy.
+      - i.e. if nothing you do can extinguish hope within that
+        individual, isolated in some constructed circumstances, then
+        it may be assumed ....
+  - how this relates to the story of Job
+
+- TODO: copy notes on a gradation of consciousness
+  - #84.a and #84.b?
+
+- the relationship between fear and the opposites of both hope and
+  despair.
+  - how, regardless of the truth, views on life/death
+
 - TODO: dictionary of untranslatables:
   - Stato (read section on machiavelli)
   - Erscheinung (delineate b/w Kant/Hegel's usages)
@@ -32,7 +70,7 @@ excerpt: ""
 > emphasize the general importance of any first scene in a work of
 > fiction)
 
-![Put your hand in the box, young atreides]()
+![Put your hand in the box, young atreides](/img/posts/fear-is-the-mind-killer/dune-put-your-hand-in-the-box.jpg)
 
 Fear and the hero’s journey.
 
@@ -173,29 +211,37 @@ you peace or at least helps you forget.
 - how fear alters the direction/orientation of attention (i.e. causes
   people to orient their attention/cognition towards more immediate
   time/space/ideas)
-  - that is, when you provoke a fearful state of mind (especially
-    during the transition into that fearful state), the person
-    withdraws their dispersion of attention towards objects, places,
-    times, memories, ideas and the like that are “closer” or of higher
-    priority towards their current context.
-  - how this impacts cognitive processes, specifically with regard to
-    how the person restricts or filters their consideration of ideas
-    in the “frame/perspective” to smaller timescales
-  - focus on spatial, temporal, and “epistemological” constriction
   - is this related to a pupil dilation or contraction (evidence of
     the correlation of instinctual response to the inner cognitive
     processes)
 
 
+> ... For love is preserved by the link of obligation which, owing to
+> the baseness of men, is broken at every opportunity for their
+> advantage; but fear preserves you by a dread of punishment which
+> never fails.
+
+Love acts through its field using as a conduit the triangulation of an
+object between two subjects or between the subjects themselves,
+whereas fear acts on the subject itself, purely in relation to the
+subject's objectification of some phenomena which may not be entirely
+conscious. Therefore, love depends on network effects and thereby
+carries with it all the complexities thereof (cite examples,
+pictures). However, since fear's action on subjects arises without a
+necessary dependency on social relationships and network effects, ...
+
 ### fear pulls people apart, love pulls people together.
 
+
 - while the fields of love and fear both influence and are influenced
-  by people's attention, the distinction between love and fear arises
-  in one's intention to influence the object. specifically, do they
-  intend to pull it closer or push it away. fear causes the dispersion
-  of one's attention to focus inwards on immediate space, time and
-  ideas, whereas love causes one's attention to open outwards to
-  include more possibilities.
+  by people's attention, the distinctions between love and fear arise
+  in the types of subject/object relationships that act as conduits of
+  influence and in one's intention to influence objects or other
+  acting subjects.  specifically, do they intend to pull such objects
+  closer or push them away. fear causes the dispersion of one's
+  attention to focus inwards on immediate space, time and ideas,
+  whereas love causes one's attention to open outwards to include more
+  possibilities.
   - love facilitates the discussion of new possibilities by
     influencing the intention, motivation and structure of social
     interaction. art flourishes during times of peace, prosperity and
@@ -211,24 +257,26 @@ you peace or at least helps you forget.
         of the magnitude of field effects. thus, wherever people are
         directing their attention, other people are sure to look.
 
-    - depending on qualities of the object of fear and the personality
-      of the person experiencing it, the object may exert magnetism on
-      their attention or they may feel repulsed by it.
-      - to objects that trigger mild fear or disease, many people
-        condition themselves to not examine those types of
-        things. they won't direct their attention towards that and
-        condition themselves to become unconscious to it. if the
-        object is worthy of your fear or is associated with risk of
-        high-impact events, .... (then that's stupid, isn't it?)
-        - some objects trigger fear or unease about some quality
-          related to the person experiencing it. it's not the object,
-          per se, but the subjective associations that provoke the
-          fear or distress response. they are responding to something
-          internal .... (and that's stupid, isn't it?)
-          - in these causes, there is usually disruption of the
-            person's projection on the field of attention, resulting
-            in mild turbulent effects on their cognition, but they
-            can't exactly fight & flight from themselves, can they?
+### (Dilineate Love and Fear in terms of relations between subjects/objects)
+
+- depending on qualities of the object of fear and the personality of
+  the person experiencing it, the object may exert magnetism on their
+  attention or they may feel repulsed by it.
+  - to objects that trigger mild fear or disease, many people
+    condition themselves to not examine those types of things. they
+    won't direct their attention towards that and condition themselves
+    to become unconscious to it. if the object is worthy of your fear
+    or is associated with risk of high-impact events, .... (then
+    that's stupid, isn't it?)
+    - some objects trigger fear or unease about some quality related
+      to the person experiencing it. it's not the object, per se, but
+      the subjective associations that provoke the fear or distress
+      response. they are responding to something internal .... (and
+      that's stupid, isn't it?)
+      - in these causes, there is usually disruption of the person's
+        projection on the field of attention, resulting in mild
+        turbulent effects on their cognition, but they can't exactly
+        fight & flight from themselves, can they?
           - how they respond to this instability of cognition after
             being triggered by association to themselves says a lot
             about their personality, their psychology and their
@@ -253,6 +301,7 @@ you peace or at least helps you forget.
               disconnected at work and thus vulnerable.
 
   - how love as an attractive force can be misused.
+
   - fear pulls people apart (at the macro level), but can compel
     people to come together at the micro level. fear can be used to
     funnel or corral people towards certain ends. fear causes people
@@ -286,7 +335,7 @@ you peace or at least helps you forget.
       reasoning nor the methods was i ever meant to understand.
 
 
-
+# (Beginnings and Endings)
 
 > "For such a prince cannot rely upon what he observes in quiet times,
 > when citizens have need of the state, because then every one agrees
@@ -331,12 +380,16 @@ you peace or at least helps you forget.
     death. Containing a manifestation of the phenomena of spirit to a
     (locked room).
 - In order for society to produce a collective response to certain
-  doom, its individuals must harmonize facets of this self-reflective
-  epistemic structure representing each one’s subjective awareness, in
-  order to recognize that the paths its collective is taking are
+  doom, its individuals must harmonize facets of this (self-reflective
+  epistemic structure) representing each one’s subjective awareness,
+  in order to recognize that the paths its collective is taking are
   leading it off a cliff. When communication is systematically
   impaired, the process can not produce or reason about harmonic
   common beliefs. (in hegelian terms, expanding self-consciousness?)
+  - TODO: rewrite this or expand on it
+
+###
+
 - Contrast these discontinuities with those of a different kind that
   are introduced by new life. (How does this relate to Hegelian
   bifurcations?) describe fear as the sociophysical field that emerges
@@ -386,7 +439,9 @@ you peace or at least helps you forget.
         conserve
 
 
-“For injuries ought to be done all at one time...” (end of chapter 8).
+### “For injuries ought to be done all at one time...”
+
+> TODO: get quote from chapter 8
 
 - In the course of statecraft, Machiavelli’s prince allows you to
   foresee where there would be friction in the projection of
@@ -557,7 +612,7 @@ pieces.
   them.
 
 - (3) They retain the posture to lash back in many more ways than
-  their adversaries or pawns feel comfortable engaging. adverseries
+  their adversaries or pawns feel comfortable engaging. Adverseries
   and pawns have little confidence that they can resist without
   suffering reprisal that yields a net loss to their interests.
 
@@ -583,7 +638,7 @@ pieces.
   violent action to repair — if abusing fear is critical to your
   tactics and strategy.
 
-- (7) most critically, you must know how to create and apply your
+- (7) Most critically, you must know how to create and apply your
   leverage by systemically influencing the narratives and beliefs
   individuals create. doing so requires “cultivating an air of fear”
   -- you must understand how to create and persist informational
@@ -591,9 +646,8 @@ pieces.
   information -- darkness. Darkness is not always benefit evil, good
   can also be strengthened or galvanized against evil in darkness.
 
-# Gestalt Of Fear: The Outlines Between The Known And The Unknown
 
-### People Fear What They Do Not Understand
+# Gestalt Of Fear: The Outlines Between The Known And The Unknown
 
 - (1) if people fear what they do not understand … then why do they
   not fear society’s abundantly lacking understanding of the tactics
@@ -628,7 +682,53 @@ pieces.
 
 ![Dreams in the Witch House](/img/posts/fear-is-the-mind-killer/dreams-in-the-witch-house.jpg)
 
-### Fear Of The Unnamed and Of The Unnameable
+### Applied Hegelianism: Nip It In The Bud
+
+- Manipulating information asymetries between entities to expand
+  informational leverage between hegelian master and slave
+
+- "nip it in the bud" -- prevent an entity from encountering
+  sufficient variety of experience that would allow it to develop self
+  consciousness, stagnating it's own dialectical process of developing
+  awareness of objects, perception and consciousness.
+
+### (To Gradate Entities By Their Consciousness To Phenomena)
+
+- TODO: perhaps rewrite this section
+  - if it's so crucial for the common person to remain unaware of any
+    system, whether coordinated or the collectively unconscious result
+    of groups (interacting with) social signals, occasionally with
+    unbelievable feedback loops, then there must be some reason for
+    all the secrecy. To be certain, it doesn't appear that there is
+    any singular Illuminati or set of conspiratorial secret societies
+    -- far worse, these are dynamics that result purely (as a
+    consequence of collective human behavior responding with varying
+    degrees of consciousness to facets of the unconscious made
+    conscious.)
+
+    - as social groups in competition become aware of needs, desires
+      and objectives, then according to how individuals are
+      distributed in a gradation of consciousness to phenomena, each
+      group responds to awareness of these needs, which are *usually*
+      easier to obtain in competition if they remain unconscious.
+      Since every person begins life almost completely *tabula rasa*,
+      then with respect to almost every phenomena, they are completely
+      unconscious and will rise in society's gradation of
+      consciousness as they encounter socially available information.
+    - Factions can cooperate, (but one aspect of nearly every game
+      theory scenario is universally true): it is easier to control
+      the outcomes when you can control information distribution. More
+      precisely, by limiting the spread of nearly any information by
+      default, then for some competitive domain, it is advantageous to
+      systematically control the [spatial complexity]() of statistical
+      models by tending to constrain the dispersion of relevent
+      information. Though there are some exceptions, people are more
+      predictable when they have less information. The leaders filling
+      various roles in cooperating factions, however, are not useful
+      without the requisite information to interface with the social
+      system to win the game.
+
+### Fear Of The Unnamed And Of The Unnameable
 
 - one does not simply fear the unnamed, nor can they fear the
   unnameable, per se. the unnameable cannot be dissected. it is
@@ -660,7 +760,8 @@ pieces.
 
 - Lovecraft’s use of mixed narrative styles which expand the space of
   valid interpretations of narratives the reader must collapse,
-  tending to expand uncertainty.
+  tending to expand uncertainty. (focus on the control he exerts in
+  directing this process)
 - This is contrasted by his exemplary style painted with a
   skeptical-rationalists palette in the early modern era. Rationalism,
   science and math (particularly developments in countability and
