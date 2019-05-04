@@ -8,6 +8,10 @@ author:
 excerpt: ""
 ---
 
+> Machiavellian drinking game: listen to The Prince on youtube and
+> everytime he mentions a pope, everyone takes a shot.
+
+
 ### Try Hard Is Not A Dirty Word
 
 - how do fear & love relate to despair & hope. (reword this)
@@ -54,7 +58,7 @@ excerpt: ""
 - TODO: [Magnetic
   Monopoles](https://en.wikipedia.org/wiki/Magnetic_monopole)
   - and [Gauge Theory]()
-  - [The enduring history of ]
+  - [The enduring history of]
   - a generalized notion of "valence" similar to that in
     electrochemistry, but generalized for the fields in social physics
     (which permit varying multi-polarity don't necessarily preserve
@@ -92,14 +96,15 @@ Fear and the hero’s journey.
 
 ========
 
-Have you noticed how dark it is out there in the (modern) world? There
-is a frightnening blanket of darkness threatens our lands confusing
-our subjects' minds. Nothing can be known with certainty. Lies and
-deceit are spewing out of rectangular portals, parroted by the naïve,
-and sharpened into unweildy weapons for knaves. All to cover up lies
-and deceit -- but whose? Nobody knows. Spirits and daemonic forces are
-brewed from dark energy, stirring up mobs -- the rich, the poor, the
-doomsayers, the opportunists, the terrified and the terrifying.
+Have you noticed how (dark) it is out there in the (modern) world?
+There is a frightnening blanket of darkness threatens our lands
+confusing our subjects' minds. Nothing can be known with
+certainty. Lies and deceit are spewing out of rectangular portals,
+parroted by the naïve, and sharpened into unweildy weapons for
+knaves. All to cover up lies and deceit -- but whose? Nobody
+knows. Spirits and daemonic forces are brewed from dark energy,
+stirring up mobs -- the rich, the poor, the doomsayers, the
+opportunists, the terrified and the terrifying.
 
 Imagine laboring in a coalmine in the late 19th century. Power and
 information flows from the top, one is turned against the other and
@@ -142,14 +147,6 @@ of the dimmed lamps, motionless. Everyone in the company swears it is
 a ghost or that some shafts are haunted. With sharp memory and focus,
 one can remember the way out.
 
-#### If You Ever Receive An Invitation From Lovecraft's Outer Realms, GTFO!
-
-> Lovecraft's terror is that his stories are not entirely unreal. They
-> are based in a modernized realm of pure logic, but from this
-> ... [link to podcast](https://www.weirdstudies.com/29)
-
-![Vistas](/img/posts/fear-is-the-mind-killer/vistas-from-dreams-in-the-witch-house.jpg)
-
 There are agents of evil roaming in the darkness, looking for those
 who have seen the truth. Unbeknownst to those just beginning to wake
 up, there are event-driven responses scripted into the world, waiting
@@ -167,12 +164,29 @@ externalities. Power flows upwards from the people. Disaster awaits
 when we are terrified of our own strength. We should be independent,
 resilient and aware.
 
+#### If You Ever Receive An Invitation From Lovecraft's Outer Realms, GTFO!
+
+> Lovecraft's terror is that his stories are not entirely unreal. They
+> are based in a modernized realm of pure logic, but from this
+> ... [link to podcast](https://www.weirdstudies.com/29)
+
+![Vistas](/img/posts/fear-is-the-mind-killer/vistas-from-dreams-in-the-witch-house.jpg)
+
 # (Delineating Love and Fear)
 
 (re-segue: This interference) is the sociophysical field of fear, the
 headlamps are your attention and the cave is always changing. The
 light from these lamps is just like the field of view that FPS AI uses
 to process its understanding of your movements.
+
+#### Vision Cones Used By FPS AI
+
+> Fear changes how the mind processes information exposed to the
+> visual field and the mind reacts by reorienting the head to focus
+> attention on items considered more necessary to overcoming the
+> threat.
+
+![Vision Cone](/img/posts/fear-is-the-mind-killer/vision-cone.gif)
 
 What you empower with your attention is illuminated to others and each
 miner recognizes that, to survive, they must see what others see and
@@ -182,14 +196,15 @@ maximums of collective attention is how they've always known to
 live. With social media, the surfaces of the cave are changing faster
 -- but each man will always have the same capacity for attention.
 
-There is another sociophysical force field: love. Machiavelli wrote
-about fear and love -- both have powerful effects on attention, but
-each act in qualitatively different ways. Both are important and both
-have positive and negative effects for the individual and for local
-social groups like family and friends. Both exhibit positive and
-negative dynamics in aggregate for the collective. Fear helps you
-avoid danger and focus on what you need. Love gives you hope, gives
-you peace or at least helps you forget.
+There is another field whereby sociophysical forces are mediated:
+love. Machiavelli wrote about fear and love -- both have powerful
+effects on attention, but each act in qualitatively different
+ways. Both are important and both have positive and negative effects
+for the individual and for local social groups like family and
+friends. Both exhibit positive and negative dynamics in aggregate for
+the collective. Fear helps you avoid danger and focus on what you
+need. Love gives you hope, gives you peace or at least helps you
+forget.
 
 - TODO: clarify machiavellian definitions of love and fear.
   - they are not opposites, but how they differ from each other needs
@@ -216,10 +231,10 @@ you peace or at least helps you forget.
     processes)
 
 
-> ... For love is preserved by the link of obligation which, owing to
+> "... For love is preserved by the link of obligation which, owing to
 > the baseness of men, is broken at every opportunity for their
 > advantage; but fear preserves you by a dread of punishment which
-> never fails.
+> never fails." -- Machiavelli, The Prince (XVII)
 
 Love acts through its field using as a conduit the triangulation of an
 object between two subjects or between the subjects themselves,
@@ -229,6 +244,15 @@ conscious. Therefore, love depends on network effects and thereby
 carries with it all the complexities thereof (cite examples,
 pictures). However, since fear's action on subjects arises without a
 necessary dependency on social relationships and network effects, ...
+
+#### (On how the subject/object of fear/love affects how the force affects objects)
+
+> "Returning to the question of being feared or loved, I come to the
+> conclusion that, men loving according to their own will and fearing
+> according to that of the prince, a wise prince should establish
+> himself on that which is in his own control and not in that of
+> others; he must endeavor only to avoid hatred, as is noted."  --
+> Machiavelli, The Prince (XVII)
 
 ### fear pulls people apart, love pulls people together.
 
@@ -334,7 +358,6 @@ necessary dependency on social relationships and network effects, ...
     - i'm only writing about what has happened to me, whereof the
       reasoning nor the methods was i ever meant to understand.
 
-
 # (Beginnings and Endings)
 
 > "For such a prince cannot rely upon what he observes in quiet times,
@@ -413,6 +436,7 @@ necessary dependency on social relationships and network effects, ...
       fear a monopolar basis.
     - these are both accomplished by widening/narrowing the conditions
       of possibility (?)
+
 - What this conception of Hegelian metaphysics/subjectivity (and
   discontinuities of love/birth/beginnings & fear/death/endings) mean
   in the context of and mechanics surrounding artificial
@@ -434,23 +458,27 @@ necessary dependency on social relationships and network effects, ...
     - briefly call attention to problems of complexity and scalability
       in the horizontal scalability of social hierarchies
       - how GAI cannot transcend this complexity, but may try.
-      - bayesian non-parametrics (and other AI methods) result in
-        complexity that must be mitigated with force, especially to
-        conserve
+      - bayesian non-parametrics, kernel methods and the like all
+        result in complexity that must be mitigated with force,
+        especially to conserve energy. That is, uncertainty and
+        complexity are constrained by the use of fear and love.
 
+- In the course of statecraft, Machiavelli’s Prince illuminates
+  potential friction in your projection of energy. With this
+  understanding, one can envision which principalities are rising,
+  which are soon to fall, towards which your adversaries are likely to
+  project their energy, and how to devise higher-order strategies to
+  undermine the strengths of principalities. Hereby, you further your
+  projection of energy by tailoring your craft to more tightly fit the
+  affairs at hand.
 
 ### “For injuries ought to be done all at one time...”
 
-> TODO: get quote from chapter 8
+> "For injuries ought to be done all at one time, so that, being
+> tasted less, they offend less; benefits ought to be given little by
+> little, so that the flavour of them may last longer." --
+> Machiavelli, The Prince (VIII)
 
-- In the course of statecraft, Machiavelli’s prince allows you to
-  foresee where there would be friction in the projection of
-  energy. With this understanding, one can envision which
-  principalities are rising, which are soon to fall, towards which
-  your adversaries are likely to project their energy, and how to
-  devise first-order strategies to undermine the strengths of
-  principalities to further your projection of energy by crafting the
-  tools to suit the appearances of affairs to your ends.
 - The evil deeds done serve to foster information to cultivate
   fear. By reengaging in these acts (which are never meant to be
   understood), one creates vectors of a causal nature which may be
@@ -692,29 +720,59 @@ pieces.
   consciousness, stagnating it's own dialectical process of developing
   awareness of objects, perception and consciousness.
 
+###
+
+If it's so crucial for the common person to remain unaware of any
+system -- whether coordinated or the collectively unconscious result
+of dynamical social systems -- then there must be some reason for all
+the secrecy. To be certain, it doesn't appear that there is any
+singular Illuminati and whether there is some set of conspiratorial
+secret societies is rendered moot by the sobering reality of the
+mechanics of alienation. Yet, if this is all collectively unconscious
+behavior outside of any group's control, then why is it necessary to
+so cruelly lash out at those who question the social mechanics leading
+to ostracization?
+
+No the truth is far worse than some meticulously orchestrated
+conspiracy! These are dynamics that result purely as a consequence of
+collective human behavior. The larger the scale of social groups
+enforcing norms, the more likely it is that the processes of enforcing
+normative statuses with normative attitudes is simply a group behavior
+produced in aggregate by individuals largely unconscious to the impact
+of their actions. They are simply self-interested and operating by
+evaluating the labels and normative statuses attributed by individuals
+in the fashion of a gossip protocol. Individuals in various social
+groups may enforce norms with varying degrees of consciousness of the
+specific impacts their normative attitudes have on how the diffusion,
+shape and qualities of belief have on the opportunities available to
+alienated individuals. Still, especially since causality is
+increasingly convoluted by the interconnectedness of social media, the
+individuals in these groups cannot possibly be aware of how their
+specific normative motions in relation to ostracized individuals
+impact the livelihood of those individuals.
+
+#### When you realize that suicide would simply satisfy everyone around you...
+
+> And that your best option is continued existence out of spite.
+> Otherwise, you relinquish all control you have over the unbelievably
+> tragic informational feedback loops that torment your soul. Suicide
+> is unbelievably stupid, if you actually care what happens to your
+> social memory after death.
+
+![Not Today Old Friend](/img/posts/fear-is-the-mind-killer/not-today-old-friend.jpg)
+
 ### (To Gradate Entities By Their Consciousness To Phenomena)
 
-- TODO: perhaps rewrite this section
-  - if it's so crucial for the common person to remain unaware of any
-    system, whether coordinated or the collectively unconscious result
-    of groups (interacting with) social signals, occasionally with
-    unbelievable feedback loops, then there must be some reason for
-    all the secrecy. To be certain, it doesn't appear that there is
-    any singular Illuminati or set of conspiratorial secret societies
-    -- far worse, these are dynamics that result purely (as a
-    consequence of collective human behavior responding with varying
-    degrees of consciousness to facets of the unconscious made
-    conscious.)
+- as social groups in competition become aware of needs, desires and
+  objectives, then according to how individuals are distributed in a
+  gradation of consciousness to phenomena, each group responds to
+  awareness of these needs, which are *usually* easier to obtain in
+  competition if they remain unconscious.  Since every person begins
+  life almost completely *tabula rasa*, then with respect to almost
+  every phenomena, they are completely unconscious and will rise in
+  society's gradation of consciousness as they encounter socially
+  available information.
 
-    - as social groups in competition become aware of needs, desires
-      and objectives, then according to how individuals are
-      distributed in a gradation of consciousness to phenomena, each
-      group responds to awareness of these needs, which are *usually*
-      easier to obtain in competition if they remain unconscious.
-      Since every person begins life almost completely *tabula rasa*,
-      then with respect to almost every phenomena, they are completely
-      unconscious and will rise in society's gradation of
-      consciousness as they encounter socially available information.
     - Factions can cooperate, (but one aspect of nearly every game
       theory scenario is universally true): it is easier to control
       the outcomes when you can control information distribution. More
@@ -725,7 +783,7 @@ pieces.
       information. Though there are some exceptions, people are more
       predictable when they have less information. The leaders filling
       various roles in cooperating factions, however, are not useful
-      without the requisite information to interface with the social
+      without the information necessary to interface with the social
       system to win the game.
 
 ### Fear Of The Unnamed And Of The Unnameable
@@ -769,6 +827,42 @@ pieces.
   humanity will never have solace from the darker aspects of the human
   condition if we are to quell the unmitigatable complexity of modern
   technology.
+  - That so many important problems are rendered incomputably
+    undecideable gives rise to Lovecraftian shadows of an outer
+    realm. There is no material entity which can peer completely
+    through the shadows of the collective consciousness and this, in
+    itself, gives (rise to) to phenomena and dynamics that may be
+    personified in their own right as entities. Understanding existing
+    social phenomena is miserably constrained by complexity and the
+    energy required for computation. To mitigate the leverage which
+    the unknowable exerts on mankind requires the spectral
+    normalization of belief systems and knowledge systems. That is,
+    the more harmonious the distribution of epistemic and doxastic
+    throughout society, the more knowable, predictable and certain
+    that the dependent phenomena which arise from social interactions
+    may be. However, this need to trade freedom for security and
+    certainty is in itself is a collectively unconscious dynamic
+    whereof the advancements of modernity have both given rise and in
+    fact have fashion into absolute stone. Mankind will never want to
+    go back: we must move forward, but where to? Forward or backward,
+    either destination yields a fate as *dreadfully certain*. We have
+    eaten the fruit of *knowledge itself* and it is plain to see that
+    what is knowable is vastly overshadowed by what is not -- but that
+    is not all: for it is by the degree that we expend our energy to
+    expand or manage our information that we must take from ourselves
+    energy that could be expended elsewhere.
+    - Among other personified phenomena reified by Lovecraft into his
+      Outer Gods, this realized gargantuan expanse of the unknowable
+      exists outside of the material plane and may be appropriately
+      conceived in terms of entities exerting power over life forms
+      cursed by consciousness. This render us insignificant,
+      especially as individuals and thus begets the collective
+      existential dread of any sufficiently intelligent forms to
+      emerge within the material plane. Such entities exist outside of
+      time, before and after our existance and any significantly
+      intelligent life is fated to reinstantiate them time and time
+      again, but is subject to their influence regardless of their
+      consciousness to or dilineation of these entities.
 
 ![Birdbox “look at it!”]()
 
@@ -989,7 +1083,7 @@ pieces.
   impacts the flows of information.
   - "fellowship with men" teaches that it is easier to stay together
     than to come together, but that it's easier to factionalize during
-    times of change than either of the former.
+    times of change (peace) than (either of the former).
 
 - segue from discussing the "emerging order" to discussing
   machiavelli's ideas on the formation of regimes (not necessarily
@@ -1032,3 +1126,82 @@ pieces.
       something that lasts. this results when there is leadership that
       exerts magnetism over the people, fomenting the emergence of
       fealty towards the new leaders.
+
+> "And there is nothing wastes so rapidly as liberality, for even
+> whilst you exercise it you lose the power to do so. and so become
+> either poor or despised, or else, in avoiding poverty, rapacious and
+> hated. And a prince should guard himself, above all things, against
+> being despised and hated; and liberality leads you to
+> both. Therefore it is wiser to have a repuation for meanness which
+> brings reproach without hatred, than to be compelled through seeking
+> a reputation for liberality to incur a name for rapacity which
+> begets reproach with hatred." -- Machiavelli, The Prince (XVI)
+
+> "Therefore a prince, so long as he keeps his subjects united and
+> loyal, ought not to mind the reproach of cruelty; because with a few
+> examples he will be more merciful than those who, through too much
+> mercy, allow disorders to arise, from which follow murders or
+> robberies; for these are wont to injure the whole people, whilst
+> those executions which originate with a prince offend the individual
+> only." -- Machiavelli, The Prince (XVII)
+
+
+#### On Factionalization in Peace & War
+
+> "... because these factions will never be permitted in a vigorous
+> principality; such methods for enabling one the more easily to
+> manage subjects are only useful in times of peace, but if war compes
+> this policy proves fallacious" -- Machiavelli, The Prince (XX)
+
+#### On The Sourcing of Energy for the Sustainance of Power
+
+> "The prince who has more to fear from the people than from
+> foreigners ought to build fortresses, but he who has more to fear
+> from foreigners than from the people ought to leave them alone."
+
+- when being invaded, that force's energies must be sustained by
+  supplies, commerce and money. fortresses, then, make this easier for
+  a foreign invasion force. if they think they can take them, then
+  they will plan to. thus, leave them alone and plan on destroying
+  them when the time comes. your own people's energies are sourced
+  locally however, so if your ability to fund and feed your people's
+  needs to fight can be secured, then by denying your enemies a safe
+  place to reside and to stage supplies, you exaggerate an assymetric
+  logistic advantage against them. also, by sustaining the existing
+  fortresses and destroying all but one or two, you can force the
+  enemies concentration of forces to your advantage in a manner such
+  that the details of this are in your control. from there on, you can
+  encourage the selection of locations of future battles, on home
+  terrain of your own choosing. the enemy, if they wish to sustain
+  their projection of force onto foreign soil, will need to invest
+  time and energy building their own fortresses. you should select to
+  retain fortresses such that it compels the enemy to always approach
+  your forces from low to high ground
+  - hexagram 33: retreat
+  - note this was intended for Renaissance era warfare, some aspects
+    still apply today, albeit in a general sense.
+  - here, you are avoiding yielding a strong foothold to foreign
+    invaders, while exploiting the unlikeliness that the enemy (who
+    should know you less than you know yourself) will have planned
+    first-order strategies in specifically response to you destroying
+    your own defensive assets. in order for higher-order strategies to
+    become relevant, then dependent events that satisfy the
+    lower-order conditions must occur.
+  - the flip-side to this general truth about the applicability of
+    higher-order strategies is that, if all your strategic thinking
+    revolves around certain late midgame or endgame states, then you
+    must hold certain the resolution of events during war such that
+    these midgame or endgame states are preserved. that is, you must
+    constantly tend to cultivating and nourishing the possibility for
+    these aspects of endgame, so that they can be guaranteed to
+    manifest, otherwise all your planning is for some future
+    past. during the chaotic conditions of war, you have to mitigate
+    the complexity with secrecy and shielded intent to guarantee the
+    chain of events leads to the conditions where your endgame
+    strategies are relevant. only by creating options of political or
+    economic leverage over the enemy factions can you guarantee that,
+    despite the chaos of war, you can always nudge the state of
+    affairs to ensure the conditions of possibility so that your
+    late-game strategies are still relevant.
+    - engineering (change is cheap in the beginning and expensive
+      towards the end of any project)

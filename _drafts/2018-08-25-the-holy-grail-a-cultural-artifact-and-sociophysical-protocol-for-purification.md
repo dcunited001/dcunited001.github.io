@@ -456,7 +456,7 @@ conscious. Who wants to be helpless?
       code that they, in the least, cannot *appear* to violate, though
       they may contort the moral system to their own purposes.
 
-#### (2) by facilitation of the gradual identification of the conscious individuals.
+#### (2) by facilitation of the gradual identification of the conscious individuals
 
 - taxonomic speciation of epistemic forms, structured into the
   theological language of the belief system, helps identify phenomena

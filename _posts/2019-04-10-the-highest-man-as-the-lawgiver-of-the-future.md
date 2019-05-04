@@ -7,8 +7,8 @@ author:
   name: "David Conner"
 excerpt: "
 When people choose to define their own will independently of the
-existing power, seek the cultivation of a will to power for
-self-actualization, enable others to pursue such transformation, then
+existing power, to seek the cultivation of a will to power for
+self-actualization, to enable others to pursue such transformation, then
 the society as a whole and mankind become collectively stronger.
 Moreover, those who independently determine their needs, desires and
 crucially the means whereby such are attained cannot be predicted or
@@ -202,12 +202,12 @@ The passive aggressive tactics of the far left -- e.g. short circuit
 mild conflict through isolation and obfuscation, while leveraging
 intersectionalism to disempower specific social groups -- are toxic in
 the long run. By the way, your guerilla theatre[^guerilla-theater] may
-have created a costly tail event that your value system cannot justify
-having contributed to. See the footnote for a complete explanation.
-You should have communicated to me and acquired information. You do
-not understand me, so you should not have targeted me. No one on any
-side understands me. I write to be understood not today, but in the
-future.
+have created a costly tail event that your values system cannot
+justify having contributed to. See the footnote for a complete
+explanation.  You should have communicated to me and acquired
+information. You do not understand me, so you should not have targeted
+me. No one on any side understands me. I write to be understood not
+today, but in the future.
 
 #### Maybe a cannabilistic pattern language can save you...
 
@@ -286,9 +286,9 @@ gets hurt in society as long as they gain power.
 # [Architect A Strong Society From The Bottom Up](#architect-a-strong-society-from-the-bottom-up)
 
 When people choose to define their own will independently of the
-existing power, seek the cultivation of a will to power for
-self-actualization, enable others to pursue such transformation, then
-the society as a whole and mankind become collectively stronger.
+existing power, to seek the cultivation of a will to power for
+self-actualization, to enable others to pursue such transformation,
+then the society as a whole and mankind become collectively stronger.
 Moreover, those who independently determine their needs, desires and
 crucially the means whereby such are attained cannot be predicted or
 understood. It is so unlikely for an individual to possess all of the
