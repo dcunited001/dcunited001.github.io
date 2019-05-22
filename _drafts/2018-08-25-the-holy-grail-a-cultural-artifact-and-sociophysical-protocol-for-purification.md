@@ -1433,6 +1433,12 @@ the *emulation* of
   - emphacize that this definition of God as the preciptation of the
   unconscious is essentially process philosophy/theology
 
+> “There is no consciousness without discrimination of opposites. This
+> is the paternal principle, the logos, which eternally struggles to
+> extricate itself from the primal warmth and the primal darkness of
+> the maternal womb — in a word, from unconsciousness. Divine...” --
+> Carl Jung, Archetypes and the Collective Unconscious
+
 I cannot understand in totality that of which only its faint
 adumbration have I glimpsed. To our deliverence from the necessities
 of self-preservation -- particularly regarding someone with a message

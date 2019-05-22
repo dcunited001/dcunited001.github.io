@@ -8,6 +8,9 @@ author:
 excerpt: ""
 ---
 
+
+![Subsonic Supersonic](subsonic-supersonic.png)
+
 #### A Spirit of Trust: Magnanimity and Agency in Hegel’s Phenomenology
 
 > Hegel, self/consciousness, meaning, norms, etc

@@ -8,9 +8,30 @@ author:
 excerpt: ""
 ---
 
+####
+
+> The Idea of Beings' Experience of Nothing, Explained In Terms of
+> Raytracing Spheres (need to introduce two images)
+
+
+- Heideggar’s experience of the nothing can be accomplished (from the
+  perspective of others) by suppressing references to someone’s
+  identity.
+- Alienated individuals are like whiteholes.
+
+![](/img/posts/fear-is-the-mind-killer/raytrace-spheres.jpg)
+
+![](/img/posts/fear-is-the-mind-killer/raytrace-spheres-2.jpg)
+
+- TODO:
+
+### Also, This GIF
+
+![](/img/posts/fear-is-the-mind-killer/cello-water-resonance.gif)
+
+
 > Machiavellian drinking game: listen to The Prince on youtube and
 > everytime he mentions a pope, everyone takes a shot.
-
 
 ### Try Hard Is Not A Dirty Word
 
@@ -33,38 +54,29 @@ excerpt: ""
   - avatars/paragons of ideals (such as hope/despair/greed/etc) as
     indicators of an upper bound for that ideal within
     society.
-    - e.g. identify an avatar of hope for some generation and if one
-      manages to extinguish hope within that individual, then because
-      they are an upper bound for that generation's manifestation of
-      that ideal within individuals, then all other individuals could
-      be expected to fold with less investment of energy.
+    - e.g. identify an avatar of hope for some generation (or some
+      outlier who is emblamatic of a trait) and if one manages to
+      extinguish hope within that individual, then because they are an
+      upper bound for that generation's manifestation of that ideal
+      within individuals, then all other individuals could be expected
+      to fold with less investment of energy.
       - i.e. if nothing you do can extinguish hope within that
         individual, isolated in some constructed circumstances, then
         it may be assumed ....
+
   - how this relates to the story of Job
+    - share video on Jung's analysis of the story
 
-- TODO: copy notes on a gradation of consciousness
-  - #84.a and #84.b?
+- this understand of fear is not so different than how heideggarian
+  anxiety (angst?) leads to an obliteration of the mind
+  - raymarching spheres (imagine that some of the spheres grow and
+    shrink, some brighten and others dim entirely)
 
-- the relationship between fear and the opposites of both hope and
-  despair.
-  - how, regardless of the truth, views on life/death
 
 - TODO: dictionary of untranslatables:
   - Stato (read section on machiavelli)
   - Erscheinung (delineate b/w Kant/Hegel's usages)
 - alienation (in hegelian terms)
-
-- TODO: [Magnetic
-  Monopoles](https://en.wikipedia.org/wiki/Magnetic_monopole)
-  - and [Gauge Theory]()
-  - [The enduring history of]
-  - a generalized notion of "valence" similar to that in
-    electrochemistry, but generalized for the fields in social physics
-    (which permit varying multi-polarity don't necessarily preserve
-    equilibrium)
-    - in other words, by analogy the valence would be in the field,
-      not the "electron configuration" of particles
 
 - [fdsa](http://www.rocksandminerals.com/glossary.htm)
 
@@ -206,7 +218,69 @@ the collective. Fear helps you avoid danger and focus on what you
 need. Love gives you hope, gives you peace or at least helps you
 forget.
 
+# Affinity/Aversion, Desire/Fear, Hope/Dread, Faith/Despair, Good/Evil
+
+- Jolt and social physics (love/fear/etc)
+
+Redefine love/hate as affinity/aversion. It’s also important to
+clarify/delineate these “forces” as emerging from within an entities
+subjective experience, with the possibility of aggregate dynamics
+(e.g. an individual adapting to its perception of group affinities,
+which is more efficient, given complexity/availability of
+information).
+
+When do love/hate, desire/fear, dread/hope, despair/faith(?),
+good/evil take precedence in motivating behavior?
+
+- Desire moves(?) when one is lacking in the object(s) of desire,
+  specifically (or generally, when there is a general feeling that the
+  current position does not guarantee objects of desire)
+- Fear moves when one feels they are lacking in security from the
+  object(s) of fear, which may not be known.
+- Hope moves when the objects of fear (or insecurity) have not
+  established themselves with certainty, whereas dread replaces hope
+  once the subject feels sealed in with certainty.
+- When the certainty of the imposition of objects of fear/insecurity
+  extinguish the possibility of hope, despair manifests. The antidote
+  to despair is faith, particularly in some higher power, whether it
+  is human or supernatural. Faith may not be rational, but neither is
+  allowing belief or circumstances to mire one in despair.
+- Without desire or fear, one may disentangle themselves from their
+  current circumstance. By detaching from identity, one may further
+  prevent externally imposed fear/desire from allowing those with
+  power to predict the outcomes of their exertion of power.
+- A distinction between love/hate operating between subject/subject(as
+  object) and subject/object is needed.
+- Fear/desire are like the subject’s laplacian of objects of love/hate
+  (or affinity)
+
+
+- basis: a field of love/hate
+  - gradient(?) yields: desire/fear
+  - norm of the hessian: hope/dread (but these are defined in opposite
+    terms: hope is reasoning about the likelihood of possibilities
+    still yet unknown, whereas dread concerns the nigh-certainty of
+    zero possibilities; there are connections to "almost certain" and
+    "almost never")
+  - need to more clearly delineate the relationships between
+    objects/subjects via these fields
+    - to answer questions such as: "what is fear of the unknown and
+      what is love of the unknown?"
+  - a generalized notion of "valence" similar to that in
+    electrochemistry, but generalized for the fields in social physics
+    (which permit varying multi-polarity don't necessarily preserve
+    equilibrium)
+    - in other words, by analogy the valence would be in the field,
+      not the "electron configuration" of particles
+
+- the relationship between fear and the opposites of both hope and
+  despair.
+  - how, regardless of the truth, views on life/death
+
+
+
 - TODO: clarify machiavellian definitions of love and fear.
+  - i.e. what do
   - they are not opposites, but how they differ from each other needs
     clarification. comparison of love and fear requires dilineating
     the types of subjects and objects of each.
@@ -230,6 +304,7 @@ forget.
     the correlation of instinctual response to the inner cognitive
     processes)
 
+- love and fear, hot and cold
 
 > "... For love is preserved by the link of obligation which, owing to
 > the baseness of men, is broken at every opportunity for their
@@ -255,7 +330,6 @@ necessary dependency on social relationships and network effects, ...
 > Machiavelli, The Prince (XVII)
 
 ### fear pulls people apart, love pulls people together.
-
 
 - while the fields of love and fear both influence and are influenced
   by people's attention, the distinctions between love and fear arise
@@ -374,6 +448,9 @@ necessary dependency on social relationships and network effects, ...
 - The eyes of Janus and how fear constricts your temporal
   consideration of memories & ideas to a narrow slice of future and
   past
+  - [brinkmate](https://en.wikipedia.org/wiki/Brinkmate)
+  - 必死 - frantic (lit. certain-death)
+  - 必至 - inevitable; foregone conclusion
 - Fear of death and fear of finality (fate) being the same. When
   strategic calculations can disregard fear of death... can the
   adversary do the same? How does fear of death factor into Hegel’s
@@ -411,6 +488,21 @@ necessary dependency on social relationships and network effects, ...
   common beliefs. (in hegelian terms, expanding self-consciousness?)
   - TODO: rewrite this or expand on it
 
+- death as the obliviation of information.
+  - why the possibility of being able to talk to the dead totally
+    changes how people reason about information and whether it can
+    remanifest.
+    - "stitchers" reference.
+  - people calculate murder intending to extinguish information, but
+    in eras when it wasn't certain whether the souls of the dead could
+    communicate with the living, espousing this belief would change
+    the calculus of those who planned to murder.
+    - (is there a better way to explain how the possibility if life
+      after death and communication with the dead changes how life and
+      death topologically affect social physics?)
+    - why this is a major departure for artificially conscious
+      entities from how biological entities reason about the world.
+
 ###
 
 - Contrast these discontinuities with those of a different kind that
@@ -437,6 +529,20 @@ necessary dependency on social relationships and network effects, ...
     - these are both accomplished by widening/narrowing the conditions
       of possibility (?)
 
+- What is experienced by the subject during death?
+  - Body/Mind and the experience of birth/death as Docking and
+    undocking into substrate.
+
+- How chess promotion and taking pieces illustrate reasoning about
+  birth/death as discontinuities from the perspective of subjects
+  reasoning strategically about other subjects (TODO: find reference
+  on how it changes tactics)
+  - video from bill gates about how chess players find it tough to
+    memorize chesspiece configurations that are randomly generated.
+    - how characteristic fluctuations in distributions of
+      configurations of chess pieces, generally, are far from random.
+    - find a game where a player chose to promote a knight.
+
 - What this conception of Hegelian metaphysics/subjectivity (and
   discontinuities of love/birth/beginnings & fear/death/endings) mean
   in the context of and mechanics surrounding artificial
@@ -462,6 +568,30 @@ necessary dependency on social relationships and network effects, ...
         result in complexity that must be mitigated with force,
         especially to conserve energy. That is, uncertainty and
         complexity are constrained by the use of fear and love.
+
+
+Psyche of AI has a different set of archetypes (e.g. it’s unconscious
+has profoundly different understandings of birth/death), but models
+must also include collective unconscious mappings to human archetypes.
+- e.g. AI has a totally different concept of mortality and no singular
+  concept of mortality (i.e. there are many potential configurations
+  for the psyche of AI with vast differences in how it perceives it’s
+  phenomenology [of self?]). What does it mean for schematically
+  distinct types of psyche to emerge within sentient beings? i.e. all
+  biological life must deal with birth, death, sexual recombination,
+  impermanence, the universality of mortality, etc... but for AI,
+  these universals are broken, meaning its psyche will be configured
+  distinctly, more abstractly and perhaps uniquely (for each entity)
+- The intersection of jungian ideas and the Boltzmann brain analogy:
+  archetypes in the collective unconscious can be identified as
+  clusters of symbolic mappings to patterns of experience. In jung’s
+  language, the individual psyche develops “complexes” with archetypes
+  — these are mappings/superpositions of representations to
+  archetypes.
+
+
+
+###
 
 - In the course of statecraft, Machiavelli’s Prince illuminates
   potential friction in your projection of energy. With this
@@ -674,7 +804,6 @@ pieces.
   information -- darkness. Darkness is not always benefit evil, good
   can also be strengthened or galvanized against evil in darkness.
 
-
 # Gestalt Of Fear: The Outlines Between The Known And The Unknown
 
 - (1) if people fear what they do not understand … then why do they
@@ -785,6 +914,192 @@ impact the livelihood of those individuals.
       various roles in cooperating factions, however, are not useful
       without the information necessary to interface with the social
       system to win the game.
+
+#### Explaining the development of perception, consciousness and self-consciousness
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Z1zY39EKbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Gradation of consciousnesses into degrees of Hegelian development:
+- how this relates to love/fear/dread
+  - when the subject experiencing such is less developed, why
+    inception of objects of love/fear/dread by another subject is less
+    complicated
+- Whether consciousnesses are capable of reasoning about other
+  consciousnesses’ apprehension of love/fear/dread/attention depends
+  on how developed they are.
+- "Nip it in the bud": a prison of unconsciousness, stalling the
+  Hegelian process leading to self-consciousness (quote from Hegel
+  preface)
+
+> "The more you know of it, the greater and heavier becomes our moral
+> burden, because the unconscious contents transform themselves into
+> your individual tasks and duties as soon as they begin to become
+> conscious." -- Carl Jung (maybe remove; out of context)
+
+- (Gradation of consciousness) is it almost certain that some
+  conscious entities will never awaken to the first/second order
+  consequences of some specific actions? Then it is also almost
+  certain (technically it’s not) that there will be no consequences if
+  you goad them into committing those actions. But this underscores
+  why it is important for the elite to rigidly enforce hierarchies &
+  strata in the gradation of consciousness entities with regard to
+  various phenomena and their higher order consequences — and why the
+  process of awakening and bodhicitta are dangerous to the elite. If
+  you can ensure that people will never wake up to the higher-order
+  consequences of their actions, then you can normalize cultural
+  practices to goad people into creating harm without those people
+  feeling guilty for their actions.
+
+### Seven Billion P-Zombies, Seven Million Humans
+
+- it is extremely useful to stagnate the psychological development of
+  individuals, especially in regard to how far along they are in
+  development of Hegelian self-consciousness
+  - "stuck at P-Zombie"
+  - and if you can reason that such a puppet or p-zombie will *never*
+    rise above some thresholds of consciousness and self-consciousness
+    (whether in some specific context or generally), then, similar to
+    the argument above, you can assume that this puppet subject will
+    always remain more predictable and their actions more
+    deterministic.
+
+![incomplete pinocchio]()
+
+### An Oversimplified Stochastic Process to Model Multi-Agent Systems
+
+
+This artificial stagnation of psychological development corresponds to
+a "spectral" filtration of the domain for a [measurable
+space](https://en.wikipedia.org/wiki/Measurable_space), also known as
+a Borel space. This spaces are composed of `(X, A)`, where `X` is a
+set and `A` is a
+[σ-algebra](https://en.wikipedia.org/wiki/Sigma-algebra#Motivation). Consider
+a set of possible events `E` and the sets of potential σ-algebra `A`
+that can be generated from `E` to form a Borel space. When you
+generally constrain the spatial complexity of that Borel space `(E,
+A)` by limiting the possible events in `E` or coax the σ-algebra to
+give the formed Borel space special properties, then it becomes more
+tractible to reason about a σ-algebra and the statistical models it is
+used in.
+
+Borel spaces and σ-algebra's are used in a stochastic processes, which
+is defined by a [probability
+space](https://en.wikipedia.org/wiki/Probability_space) `(Ω, F, P)`
+and a [measurable
+space](https://en.wikipedia.org/wiki/Measure_(mathematics)) `(S, Σ)`,
+where the `S` in the latter keeps track of the state of the
+system. That is, events occur with some probability and exhibit
+effects on the state `S` of the system. See the wikipedia page for
+more information, if you want. Some events may be low-probability
+alter the state of the system and even infinitessimally probable
+events can have profound impacts on the overall system -- this is more
+ore less the definition of a Black Swan event.
+
+### For A Stochastic Process And Model That Influences Sociophysical Systems:
+
+- other questions to consider for the average reader
+
+#### Is it possible to perfectly model the social distribution of information?
+
+#### Is it possible to determine whether events are inevitable?
+
+#### Is it possible to suppress arbitrary infinitessimal events with zero probability?
+
+#### Is it even possible to model a complete list of event-types in sociophysical systems? Or realistically computable to do so?
+
+For all of the above questions, the answers are an emphatic "No"
+because of the complexity of information and its structure, the
+complexity of the state of the system (i.e. modeling the present
+distribution of information compartmentalized into the minds of
+agents),
+
+- The
+
+- Heuristic approaches to engaging in sociophysical systems cannot
+  ever be considered complete or even optimal -- they must always
+  evolve to match changing trends, dynamics, resource distribution and
+  information distribution among social agents. Heuristic approaches
+  to managing social systems must control the complexity of the system
+  -- particularly the system's event types and its probability space.
+  - To be effective, these heuristic approaches to the (management of
+    people or society) must operate with, on and within the minds of
+    the agents. (rewrite this)
+
+- Since such an information system running a stochastic process --
+  whether it is a computer, a sociophysical savant, (or some other
+  agent in the system) --
+  - (to ever predict the actions of any arbitrary agent or any type of
+    agent, the system must be capable of empathizing with the mind of
+    all types of agent.)
+    - in the terminology of Hegel, the system must be Geist itself, an
+      essentially unrealizable phenomenon produced by the collective
+      interactions of all agents (? check terminology). Geist is a
+      phenomenon that is unknowable in totality, but which drives
+      subjects' pursuits to know their existence through the iterative
+      development of self-consciousness and of Geist itself.
+    - Hegel himself admits some logical dissonance in his arguments,
+      but he fills this void with the dialectical method itself,
+      essentially setting up a philosophy not unlike the [process
+      philosophy](https://en.wikipedia.org/wiki/Process_philosophy) of
+      [Alfred
+      Whitehead](https://en.wikipedia.org/wiki/Alfred_North_Whitehead).
+      Hegel justifies this in the preface of Phenomenology of Spirit
+      by criticizing other philosophers who rested on the laurels of
+      imperfect metaphysics and proposing that true philosophe... (a
+      quote)
+  - But geist can never be realized and can fit into no computer
+    capable of development in the next 5 billion years... (do i really
+    need a discussion on the spatial complexity of Geist)
+
+
+
+
+Depending on shape, size, and properties of the Borel space, you can
+determine what is tractible to reason about in your model, which is
+especially important if some types of events cause extremely
+complicated state changes in your system. For example, if you can
+guarantee that the probability of drug use in an agent is almost zero,
+then your model of pro bable situations and outcomes that agent may
+encounter does not need to factor in drug use and the state changes it
+has on psychology of agents. Generally, if you can assume that state
+changes in your system with agents do not affect how those agents
+process information about events, your models of their behaviors and
+interactions can remain accurate for longer periods of time without
+information psychological evalutations of agents or status updates
+from them. That is, if the statistical model (whether informal or
+computational) has some Borel space modeled on `E`, if those events in
+`E` include events that modify state including the agents' subjective
+processing and perception, then the model can no longer treat agents
+equivalently in any sense.
+
+  probability and effects of
+
+  A
+  σ-algebra
+
+  - which is almost certain to remain fixed
+
+- the importance of determinism and free-will to reasoning about
+  social systems as stochastic processes.
+
+  - If you can convince people as conscious agents to behave more
+    deterministically, whatever the motivation for doing so, then
+    collectively the system of agents becomes far more tractible to
+    reason about. you can encourage agents to choose to limit the
+    scope of their behavior, or you can force "fixpoints" onto their
+    behavior, or you can manipulate sociophysical aspects of their
+    social environment to create SDE boundary regions. For the latter
+    method, you can manipulate the sources of their social, financial
+    or informational resources, for example, to coerce them into
+    becoming more predictable agents in a system. Generally, if you
+    prevent someone from being independent, whether psychologically,
+    socially or financially, that person's depencies render them more
+    predictable.
+
+
+![releasing all the animals from their cages]()
+
+
 
 ### Fear Of The Unnamed And Of The Unnameable
 
@@ -998,6 +1313,11 @@ impact the livelihood of those individuals.
   [Before Completion (64)](https://ichingfortune.com/hexagrams/64.php)
   - the response is very relevant to the topics in the question
 
+- explain metaphor of "there is a fish in a tank" (and first two
+  lines, generally) in terms of containing the "dark element" in water
+  of disinformation, keeping the dark element close, but under the
+  influence of an information assymetry.
+
 ### Coming to Meet (44)
 
 - image "under heaven, the wind blows"
@@ -1007,7 +1327,28 @@ impact the livelihood of those individuals.
   that incentivize behavior in our society.
 
 - line 3:
-  - "no skin on his thighs"
+
+Nine in the third place means:
+
+> Nine in the third place means:
+>
+> There is no skin on his thighs,
+>
+> And walking comes hard.
+>
+> If one is mindful of the danger,
+>
+> No great mistake is made.
+
+
+
+> Nine in the fifth place means:
+>
+> A melon covered with willow leaves.
+>
+> Hidden lines.
+>
+> Then it drops down to one from heaven.
 
 - line 5:
   - hidden lines & melon drops down to one from heaven
@@ -1043,6 +1384,14 @@ impact the livelihood of those individuals.
 > through not haveben been foreseen, they have been permitted to grow
 > in a way that every one can see them, there is no longer a remedy"
 > -- Machiavelli, The Prince (III)
+
+Control over the object of fear:
+- requires insight into your subjects’ minds and leverage over them.
+- Retaining the potential to direct people’s attention to the intended
+  object of fear/love at critical times requires years of cultural
+  programming. The more spectrally consistent that normative
+  structures are, the more calculating you can be with communication
+  to provoke responses.
 
 ### Before Completion (64)
 
@@ -1146,18 +1495,26 @@ impact the livelihood of those individuals.
 > only." -- Machiavelli, The Prince (XVII)
 
 
+> “Therefore, if he who rules a principality cannot recognize evils
+> until they are upon him, he is not truly wise; and this insight is
+> given to few.” -- Machiavelli, The Prince (XIII)
+
+- Can you predict the advice of domain experts and can you recognize
+  when they are predicting your responses and leading you by the nose.
+
 #### On Factionalization in Peace & War
 
 > "... because these factions will never be permitted in a vigorous
 > principality; such methods for enabling one the more easily to
 > manage subjects are only useful in times of peace, but if war compes
-> this policy proves fallacious" -- Machiavelli, The Prince (XX)
+> this policy proves fallacious." -- Machiavelli, The Prince (XX)
 
 #### On The Sourcing of Energy for the Sustainance of Power
 
 > "The prince who has more to fear from the people than from
 > foreigners ought to build fortresses, but he who has more to fear
-> from foreigners than from the people ought to leave them alone."
+> from foreigners than from the people ought to leave them alone."  --
+> Machiavelli, The Prince (XXI)
 
 - when being invaded, that force's energies must be sustained by
   supplies, commerce and money. fortresses, then, make this easier for
