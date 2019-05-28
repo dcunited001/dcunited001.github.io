@@ -17,7 +17,9 @@ excerpt: ""
 - Heideggar’s experience of the nothing can be accomplished (from the
   perspective of others) by suppressing references to someone’s
   identity.
-- Alienated individuals are like whiteholes.
+- Alienated individuals are like whiteholes in various spaces of
+  sociophysical metric. They are singularities that push everything
+  away from them.
 
 ![](/img/posts/fear-is-the-mind-killer/raytrace-spheres.jpg)
 
@@ -33,7 +35,7 @@ excerpt: ""
 > Machiavellian drinking game: listen to The Prince on youtube and
 > everytime he mentions a pope, everyone takes a shot.
 
-### Try Hard Is Not A Dirty Word
+### Tryhard Is Not A Dirty Word
 
 - how do fear & love relate to despair & hope. (reword this)
   - despair gives rise to dread from a perceived certainty of some
@@ -91,20 +93,6 @@ excerpt: ""
 Fear and the hero’s journey.
 
 - undivided music video
-
-- Love doesn’t scale very well. It’s network effects requires people
-  being receptive to it (it has a dyadic nature) and needs people to
-  be capable of giving it to propagate it’s effects. When some people
-  are so shut out of the system that they never experience true
-  platonic love for long periods of time, they forget how to show it
-  to other people (incels). Fear on the other hand exerts a kind of
-  monopolar influence on its field. It doesn’t depend on volition,
-  compliance or receptive nature in the object of fear. It forces the
-  development of these things. Acting out of fear of withdrawal or
-  deprivation of love is not motivation by love. It is motivation by
-  fear and what you receive by compliance is not true love. True love
-  is given unconditionally. It is a gift that is given on the basis of
-  hope that the love will be returned.
 
 ========
 
@@ -184,7 +172,7 @@ resilient and aware.
 
 ![Vistas](/img/posts/fear-is-the-mind-killer/vistas-from-dreams-in-the-witch-house.jpg)
 
-# (Delineating Love and Fear)
+# Delineating Love and Fear
 
 (re-segue: This interference) is the sociophysical field of fear, the
 headlamps are your attention and the cave is always changing. The
@@ -218,9 +206,163 @@ the collective. Fear helps you avoid danger and focus on what you
 need. Love gives you hope, gives you peace or at least helps you
 forget.
 
-# Affinity/Aversion, Desire/Fear, Hope/Dread, Faith/Despair, Good/Evil
+- Love doesn’t scale well. It’s network effects requires people being
+  receptive to it (it has a dyadic nature) and needs people to be
+  capable of giving it to propagate it’s effects. When some people are
+  so shut out of the system that they never experience true platonic
+  love for long periods of time, they forget how to show it to other
+  people (incels). Fear on the other hand exerts a kind of monopolar
+  influence on its field. It doesn’t depend on volition, compliance or
+  receptive nature in the object of fear. It forces the development of
+  these things. Acting out of fear of withdrawal or deprivation of
+  love is not motivation by love. It is motivation by fear and what
+  you receive by compliance is not true love. True love is given
+  unconditionally. It is a gift that is given on the basis of hope
+  that the love will be returned.
 
+### (Similar Fields in Animals)
+
+- the distribution of chemical pheromones, which exhibit field effects
+  even on insects.
+- the magnetism that sources of water & food exert on animals and the
+  higher-order magnetism exerted by areas associated with sources of
+  water/food
+  - Because the magnetism that sources of freshwater (i.e. lakes and
+    rivers) exert on most species of large animals, the areas
+    plentiful in fresh water become associated (with time and
+    experience) with members of one's own species, with members of
+    other species and with predators.
+  - However, for the predators, they aren't simply drawn to drink,
+    they are also drawn by the increased presence of prey, who are
+    themselves invariably drawn to water by thirst. For predators,
+    stay close too water (but not so close as to care away approaching
+    prey), then you stay close to food.
+  - The need to eat and drink is universal to all land animals. When
+    the sources
+    - In particular, in some animals, the need to eat and drink gives
+      rise to what is defined herein as antimotion: motion that begins
+      and ends in the same place or locality. Instead of being motion
+      for the purpose of moving from one point to another, it is
+      motion that happens to move social particles from one point back
+      to some neighborhood of that point. When the sun rises, people
+      wake up and go to work, whether in an office or the fields. When
+      the sun goes down, they return home. This quasi-cyclic pattern
+      of motion is antimotion. The concept is helpful for reasoning
+      about the motion of social particles because it gives you
+      something like fixpoints that root distribution of particle's
+      positions and momentums paramterized by a cyclic notion of time.
+    - As populations of species of preditors with territorial
+      tendancies fluctuate, so does the conflict that emerges amongst
+      members of the same species, whether they remain in small
+      isolated groups or hunt as packs. But the motion of these groups
+      is often antimotion, hence the inclusion of motion returning to
+      a neighborhood of a point is necessary for antimotion. They roam
+      around much the same territory for their lives. They mark their
+      territory using chemical pheromones, where chemical constituents
+      leading to qualitative variations in scent identify not simply
+      the individual but also the group.
+
+- The transition from animal to human is simply a matter of increasing
+  sophistication. The qualitative differences in consciousness and
+  self-consciousness between human and animal are the neuroanalytical
+  equivalents to the differences between a Von Nuemann Machine and its
+  predecessors which were incapable of universal computation.
+  - that is .... (explain)
+  - because there is no species boundary perfectly separating where
+    true consciousness and self-consciousness begin, it is useful to
+    analyze human behavior...
+
+  - the idea that humans have some special qualities of consciousness
+    purely because of the species membership is a philosophical and
+    theological copout being convenient but overly simplistic. No,
+    theologists, the distinction between human consciousness and its
+    counterpart in animals does not arise from the existence of your
+    definition of a soul. Still, I would not argue that "all dogs go
+    to heaven" -- that humans and animals all have souls worth saving
+    -- instead I would argue for universal annihilationism, since it
+    is impossible for the true idea of God to exist in the material
+    world. No, infinity cannot exist and there are theological
+    implications. Instead, upon death we all very clearly go to
+    oblivion, where the information defining our life and memories
+    fades quickly if it is not propagated and reexpressed widely
+    enough to guarantee the persistence and further replications of
+    the informational memes that constitue our material soul.
+
+
+# Sociophysical Existentialism
+
+- these are all considered subjective aspects of experiences and of
+  reflecting on experience -- they are existential. but what i'm
+  positing are more objective definitions of these components, which
+  can (extend) these aspects of experience to artificial entities.
+  - for all entitities who experience time, these 12 facets are
+    universal components of experience.
+    - (for entities that only experience time indirectly?)
+    - how this unpacks into a different configuration of Jungian
+      archetypes/complexes for entities
+      - i.e. for non-human Being
+
+###
+
+### Dimensions of Analysis
+
+#### &otimes; Generalized Conception of a Field and Laplacian
+
+-
+
+#### &otimes; Subject and Object
+
+-
+
+#### &otimes; Entity, Agency, Identity and Valence
+
+-
+
+#### &otimes; Eternality, Temporality and Memory
+
+-
+
+#### &otimes; Certainty and Uncertainty
+
+
+
+#### &otimes; Intention and Action
+
+-
+
+#### &otimes; Position, Momentum, Force, Jolt
+
+-
 - Jolt and social physics (love/fear/etc)
+
+
+#### &otimes; Equilibrium, Norms and Preferences
+
+
+
+### Perception of Jerk in Physical Systems
+
+- neuroanalytically encoded perception of physical laws
+
+- aristotle's references to animals as "self-movers"
+- neurological distinction between objects with agency (and therefore
+  subjective perception) and objects whose motion and mechanics are
+  bound by physical laws
+  - (at the macroscopic level of classical mechanics)
+  - camoflauged animals
+  - animals beneath surface of fluid
+
+- explain detection of jolt & disruption of equilibrium in physical
+  systems as metaphor for detecting intentional causal influence on
+  non-physical fields
+  - detection of drift, jump, & diffusion of jump in stochastic
+    processes (the latter resulting in disruption of equilibrium...)
+
+### &oplus; Attention and Diffusion
+
+
+
+### &oplus; Affinity and Aversion
 
 Redefine love/hate as affinity/aversion. It’s also important to
 clarify/delineate these “forces” as emerging from within an entities
@@ -229,17 +371,47 @@ subjective experience, with the possibility of aggregate dynamics
 which is more efficient, given complexity/availability of
 information).
 
-When do love/hate, desire/fear, dread/hope, despair/faith(?),
-good/evil take precedence in motivating behavior?
+### &oplus; Desire and Fear
 
 - Desire moves(?) when one is lacking in the object(s) of desire,
   specifically (or generally, when there is a general feeling that the
   current position does not guarantee objects of desire)
+
 - Fear moves when one feels they are lacking in security from the
   object(s) of fear, which may not be known.
+
+### &oplus; Hope and Dread
+
 - Hope moves when the objects of fear (or insecurity) have not
   established themselves with certainty, whereas dread replaces hope
   once the subject feels sealed in with certainty.
+  - dread and path-finding (you experience dread when you feel there
+    are no reasonable paths/options available to secure the object of
+    dread)
+    - what is the object of dread, precisely (how did Kierkegaard talk
+      about this) and isn't it possible to experience dread without an
+      object?
+
+### &oplus; Faith and Despair
+
+
+
+### &oplus; Good and Evil
+
+
+
+### &oplus; Birth and Death
+
+
+
+-
+
+
+
+
+When do love/hate, desire/fear, dread/hope, despair/faith(?),
+good/evil take precedence in motivating behavior?
+
 - When the certainty of the imposition of objects of fear/insecurity
   extinguish the possibility of hope, despair manifests. The antidote
   to despair is faith, particularly in some higher power, whether it
@@ -451,6 +623,13 @@ necessary dependency on social relationships and network effects, ...
   - [brinkmate](https://en.wikipedia.org/wiki/Brinkmate)
   - 必死 - frantic (lit. certain-death)
   - 必至 - inevitable; foregone conclusion
+- brinksmanship
+  - facing some endings whose certainty is contested and whose clarity
+    to varies amongst competing subjects.
+    - in life, this is where people want to rebuke you for trying too
+      hard. the harder you struggle against some ending whose
+      certainty is clear to those
+
 - Fear of death and fear of finality (fate) being the same. When
   strategic calculations can disregard fear of death... can the
   adversary do the same? How does fear of death factor into Hegel’s
@@ -502,6 +681,10 @@ necessary dependency on social relationships and network effects, ...
       death topologically affect social physics?)
     - why this is a major departure for artificially conscious
       entities from how biological entities reason about the world.
+
+####
+
+![What was the start of all this?](/img/posts/fear-is-the-mind-killer/what-was-the-start-of-all-this.jpg)
 
 ###
 

@@ -1708,12 +1708,12 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
   of environments with potential to hide camoflaged objects
   (predators)
 
-### Neurological Representation of Jolt In Perceived Physical Systems
+### Neurological Representation of Jerk In Perceived Physical Systems
 
 - in neurological representations of physical systems, how do models
   based on observations change when presented with objects moving with
-  jolt?
-  - all classical physical systems are (C2) continuous, jolt can
+  jerk?
+  - all classical physical systems are (C2) continuous, jerk can
     necessarily only manifest as an externality to an observed system.
     - The conservation of energy indicates that C^(n>2) dynamics may
       only temporarily present themselves in a real physical system,
@@ -1730,7 +1730,7 @@ Q-Learning](https://medium.freecodecamp.org/explained-simply-how-deepmind-taught
       identify threats below the surface of water. therefore, the
       analytical models (constructed by neural networks) must identify
       and distinguish C^2 motion from (C^(n>2)) motion
-      - would it be easier for animals to identify jolted fluid
+      - would it be easier for animals to identify jerked fluid
         dynamical motion in a placid lake or a turbulent lake.
         - obviously, amidst turbulence, physical systems are less
           simply comprehended. that this is true corresponds with the
