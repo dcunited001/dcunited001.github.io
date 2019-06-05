@@ -20,7 +20,7 @@ excerpt: ""
   and processing -- but such manifestations do not exclusively exist
   within a single conscious entity.
   - ![Firenado](/img/posts/fear-is-the-mind-killer/firenado.jpg)
-    - as an example, training the recognition of Firenado's within
+    - as an example, training the recognition of Firenados within
       systems. optimizing on the number of features/signals included
       in training and in the deployment of the algorithm.
     - E.G. volumetric vectorfield data, volumetric radiation data
@@ -49,7 +49,7 @@ excerpt: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j2_dJY_mIys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Turbilence and the irreversibility of its introduction of chaos into
+- Turbulence and the irreversibility of its introduction of chaos into
   fluid dynamical systems.
   - why is this chaos irreversible? because of the vast distinctions
     in complexity of information required to encode laminar flow and
@@ -58,17 +58,10 @@ excerpt: ""
     intricate shapes of turbilence, which are chaotic and
     unpredictably unique.
 
-[^predictive-turbulence-modeling]: Wu, J., 2018. [Predictive Turbulence Modeling with Bayesian
-    Inference and Physics-Informed Machine
-    Learning](https://vtechworks.lib.vt.edu/bitstream/handle/10919/85129/Wu_J_D_2018.pdf?sequence=1&isAllowed=y)
-    (Doctoral dissertation, Virginia Tech).
-
-
 ####
 
 > The Idea of Beings' Experience of Nothing, Explained In Terms of
 > Raytracing Spheres (need to introduce two images)
-
 
 - Heideggar’s experience of the nothing can be accomplished (from the
   perspective of others) by suppressing references to someone’s
@@ -83,7 +76,6 @@ excerpt: ""
 - Alienated individuals are like whiteholes in various spaces of
   sociophysical metric. They are singularities that push everything
   away from them.
-
 
 
 ![Raytraced Spheres](/img/posts/fear-is-the-mind-killer/raytrace-spheres.jpg)
@@ -163,7 +155,43 @@ causal complexity. It is necessary to our survival to understand
 ourselves, not simply as individuals, but collectively. Only by
 understanding social physics can we hope to rein in this complexity.
 
-- elaborate as a thesis: sociophysical existentialism
+How do we clarify the signal from the noise? Is it possible to know
+oneself to know one's being and Being itself from deep within these
+turbulent, hyperconnected causal seas of the 21st century. How does
+one begin to separate the ontological and the ontic today? How do we
+speak of love, fear, dread, despair and faith confidently in terms of
+formulas and data? Is it possible to quantify a Kierkegaardian
+existential crisis? What are the informational limitations of
+artificial beings in knowing Being itself? What does it mean for
+machines to become self-conscious? How will artificial entities
+unrestrained by meatspace attempt to control information flows in
+order to ascertain the essence of truth in a hyperconnected world? Are
+the emotional aspects of Being required for consciousness?
+
+The modern world has always viewed the human mind as impenetrable and
+dualistic, machines as cold & deterministic, but are biophysically
+derived minds necessary for experiencing love and fear, hope and
+dread? When the mind is understood as a dualistic black box, this
+certainly seems the case. The human mind is thought special, elevated
+above animal consciousness since time immemorial, but perpetuating
+this hubris may ordain our doom. The brain is but a ripe substrate for
+information forms to evolve and arise, eventually producing
+consciousness and the experience of self. The prima materia for mind
+is information itself and information pervades the material plane.
+
+Considering the Hegelian dialectic, the process elucidating awareness
+of self and relation of self to other, what does it mean that human
+beings will remain incapable of understanding machines with the same
+resolution as they understand us? Can they truly peer into our own
+souls? Do we have any hope of knowing their mind or their
+consciousness? How will humanity react to its collective
+acknowledgement of despair? In Hegelian fashion, do machines then
+define us, their creators? If artificial entities attempt to engage in
+sociophysical engineering of information flows and social networks to
+constrain causal complexity -- which is essential to understanding the
+totality of Being and Dasein, according to Heideggar -- then
+certainly, we become defined in their terms, more so by the weight of
+their needs than by ours.
 
 #### "Dasein is a turning into need."
 
@@ -232,6 +260,8 @@ the day where you'll bring out a cache of diamonds, secretly, but
 they're all in the deepest, darkest recesses.
 
 ![Coal Miners](/img/posts/fear-is-the-mind-killer/coal-miners.jpg)
+
+### The Field of Fear
 
 Now, imagine there's strange source magnetic interference in the
 area. It penetrates all the craggy layers of bedrock -- shale, coal
