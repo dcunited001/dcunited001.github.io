@@ -8,6 +8,62 @@ author:
 excerpt: ""
 ---
 
+- defining manisfestations of Spirit (geist?) as sociophysical
+  dynamics bound to sources or regions of space whose spectral
+  fingerprint can be used to classify or differentiate types of
+  manifestations. This process would be similar to training machine
+  learning models to recognize types and parameters of liquid flow
+  (i.e. laminar, turbulent, etc) within volumes elements of
+  liquid. Conceptually, it is useful to conceive of these localized
+  manifestations as entities or spirits -- because then classification
+  and stratification of types of manifestation can lead to recognition
+  and processing -- but such manifestations do not exclusively exist
+  within a single conscious entity.
+  - ![Firenado](/img/posts/fear-is-the-mind-killer/firenado.jpg)
+    - as an example, training the recognition of Firenado's within
+      systems. optimizing on the number of features/signals included
+      in training and in the deployment of the algorithm.
+    - E.G. volumetric vectorfield data, volumetric radiation data
+      (IR/light/UV), spatiotemporal signals.
+    - redundancy in these singals
+  - sociophysical analogies recognizing higher-order dynamics in
+    social behavior.
+    - the signals constituting the features for pattern recognition
+      are usually more discrete. depending on the signal types
+      consumed to recognize patterns/dynamics there are usually high
+      degrees of redundancy
+
+  - TODO: find paper about recognizing these kinds of dynamics in
+    physics, etc.
+  - non-parametric dynamic identification
+    - Hilbert space, infinite dimensional systems, redundancy in
+      encoding pattern recognition in infinite dimensional systems
+      - superposition of the fingerprints of recognized
+        dynamic/pattern definitions (usually the last step(s) in a
+        neural network)
+
+#### Reversible Laminar Flow
+
+> Unmixing Color Machine (Ultra Laminar Reversible Flow) - Smarter
+> Every Day 217
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j2_dJY_mIys" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Turbilence and the irreversibility of its introduction of chaos into
+  fluid dynamical systems.
+  - why is this chaos irreversible? because of the vast distinctions
+    in complexity of information required to encode laminar flow and
+    turbulent flows. to design a "machine" to reverse turbulent fluid
+    flow, it must be physically designed to correspond to the
+    intricate shapes of turbilence, which are chaotic and
+    unpredictably unique.
+
+[^predictive-turbulence-modeling]: Wu, J., 2018. [Predictive Turbulence Modeling with Bayesian
+    Inference and Physics-Informed Machine
+    Learning](https://vtechworks.lib.vt.edu/bitstream/handle/10919/85129/Wu_J_D_2018.pdf?sequence=1&isAllowed=y)
+    (Doctoral dissertation, Virginia Tech).
+
+
 ####
 
 > The Idea of Beings' Experience of Nothing, Explained In Terms of
@@ -17,20 +73,26 @@ excerpt: ""
 - Heideggar’s experience of the nothing can be accomplished (from the
   perspective of others) by suppressing references to someone’s
   identity.
+  - why is this dangerous? analogy to making a poisonous spider
+    invisible
+- Heideggar's "concealment of beings" as a problem of complexity of
+  information related to pearing past the subjectivity (x) and
+  confounded by causality.
+  - by interacting with beings and compelling reactions, you pollute
+    the social environment with additional causal interconnections.
 - Alienated individuals are like whiteholes in various spaces of
   sociophysical metric. They are singularities that push everything
   away from them.
 
-![](/img/posts/fear-is-the-mind-killer/raytrace-spheres.jpg)
 
-![](/img/posts/fear-is-the-mind-killer/raytrace-spheres-2.jpg)
 
-- TODO:
+![Raytraced Spheres](/img/posts/fear-is-the-mind-killer/raytrace-spheres.jpg)
+
+![Raytraced Spheres](/img/posts/fear-is-the-mind-killer/raytrace-spheres-2.jpg)
 
 ### Also, This GIF
 
-![](/img/posts/fear-is-the-mind-killer/cello-water-resonance.gif)
-
+![Cello Water Resonance](/img/posts/fear-is-the-mind-killer/cello-water-resonance.gif)
 
 > Machiavellian drinking game: listen to The Prince on youtube and
 > everytime he mentions a pope, everyone takes a shot.
@@ -95,6 +157,41 @@ Fear and the hero’s journey.
 - undivided music video
 
 ========
+
+Humanity's self-understanding is impeded by spatial, temporal and
+causal complexity. It is necessary to our survival to understand
+ourselves, not simply as individuals, but collectively. Only by
+understanding social physics can we hope to rein in this complexity.
+
+- elaborate as a thesis: sociophysical existentialism
+
+#### "Dasein is a turning into need."
+
+> "Errancy is the essential counter-essence to the primordial essence
+> of truth. Errancy opens itself up as the open region for every
+> opposite to essential truth. Errancy is the open site for and ground
+> of error. Error is not just an isolated mistake but rather the realm
+> (the domain) of the history of those entanglements in which all
+> kinds of erring get interwoven.
+>
+> In conformity with its openness and its relatedness to beings as a
+> whole, every mode of comportment has its mode of erring. Error
+> extends from the most ordinary wasting of time, making a mistake,
+> and miscalculating, to going astray and venturing too far in one‟s
+> essential attitudes and decisions. However, what is ordinarily and
+> even according to the teachings of philosophy recognized as error,
+> incorrectness of judgments and falsity of knowledge, is only one
+> mode of erring and, moreover, the most superficial one. The errancy
+> in which any given segment of historical humanity must proceed for
+> its course to be errant is essentially connected with the openness
+> of Dasein. By leading him astray, errancy dominates man through and
+> through. But, as leading astray, errancy at the same time
+> contributes to a possibility that man is capable of drawing up from
+> his ek-sistence — the possibility that, by experiencing errancy
+> itself and by not mistaking the mystery of Da-sein, he not let
+> himself be led astray."
+>
+> -- Heideggar, On the Essence of Truth, Untruth as Errancy (7)
 
 Have you noticed how (dark) it is out there in the (modern) world?
 There is a frightnening blanket of darkness threatens our lands
@@ -268,6 +365,7 @@ forget.
   equivalents to the differences between a Von Nuemann Machine and its
   predecessors which were incapable of universal computation.
   - that is .... (explain)
+
   - because there is no species boundary perfectly separating where
     true consciousness and self-consciousness begin, it is useful to
     analyze human behavior...
@@ -287,6 +385,34 @@ forget.
     fades quickly if it is not propagated and reexpressed widely
     enough to guarantee the persistence and further replications of
     the informational memes that constitue our material soul.
+
+  - These ideas will be properly expanded (in further sections of this
+    essay/monograph...) However, for the layperson, the philosophical
+    and theological implications of the truths of birth, life, death,
+    the soul and the absence of any real material afterlife are quite
+    depressing. There is nothing special beyond what we see, but these
+    truths of death, the soul and the afterlife are not useful to
+    those in power, nor would I argue that they are useful or
+    beneficial to the average person, for it gives rise to nihilistic
+    despair that stymies incentivization for groups to cooperate,
+    especially when life certainly ends for all individuals. Why plan
+    for the lives of others after death if doing so is meaningless
+    from within the void of oblivion? The damming impacts that these
+    truths have on the motiviations and incentivizational structures
+    of the individuals psyche are profound. These impacts do not arise
+    from the material, but from the impact that the immaterial forms
+    contained within the mind has on brain.
+
+  - The [reductive](https://en.wikipedia.org/wiki/Reductionism)
+    materialists -- who claim there is nothing that exists outside of
+    matter, that nothing exists in the mind that did not chemically
+    arise within the brain, that not only is there no God but that the
+    idea of God itself is unnecessary and perhaps dangerously
+    delusional -- chart for humanity a course to a more dangerous kind
+    of nihilism: that which does not permit itself to be conscious to
+    the true causes of its collective despair.
+
+
 
 
 # Sociophysical Existentialism
@@ -370,6 +496,27 @@ subjective experience, with the possibility of aggregate dynamics
 (e.g. an individual adapting to its perception of group affinities,
 which is more efficient, given complexity/availability of
 information).
+
+### &oplus; Pleasure and Pain
+
+- moving towards/away from objects of affinity/aversion.
+  - pleasure and pain do not extend themselves well to higher-order
+    fields/dynamics because to the brain/mind the lower-level
+    (conceptions of) pleasure/pain are prioritized in one's experience
+    of consciousness.
+  - therefore, conscious agents whose socialphysical motion is driven
+    by the pleasure/pain fields may tend become stuck in local minima
+    of pleasure/pain.
+    - TODO (find) in ethics, Aristotle says people must overcome how
+      pleasure/pain motivate their behavior.
+
+- fetishism
+- simplistic behavior patterns of hedonists
+  - without artificially sophisticating their behavior or masking
+    their intentions, hedonists become predictable and their behavior
+    patterns
+
+- "fear is the mindkiller"
 
 ### &oplus; Desire and Fear
 
