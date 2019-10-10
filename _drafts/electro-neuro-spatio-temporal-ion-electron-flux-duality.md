@@ -10,6 +10,10 @@ excerpt: ""
 
 - TODO: connect to article on hypnosis and Kantian category collapse
 
+- [power laws regarding electrical activity in
+  brain](https://arstechnica.com/science/2019/06/does-the-human-brain-teeter-on-the-edge-of-chaos-rat-brains-point-to-yes/)
+
+
 ### Patents Related to Directed Energy
 
 - int'l patents regarding manipulation of neural circuits (esp. relating to

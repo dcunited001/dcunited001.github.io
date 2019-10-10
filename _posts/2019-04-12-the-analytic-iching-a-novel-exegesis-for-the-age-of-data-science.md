@@ -95,9 +95,10 @@ turn inwards to illuminate the adumbrations inner space. Unlike the
 cold desert of the moon, our generation will discover that we are not
 alone in inner space. To the contrary, we will find that the cogs of
 fate were set in motion long ago in our collective inner space. Our
-destiny is overcome what has been pre-ordained by previous explorers
-of the metaphysical that our time denies. The enemy is entropy and
-our actions have always carried consequences we must understand.
+destiny is to overcome what has been pre-ordained by previous
+explorers of the metaphysical that our time denies. The enemy is
+entropy and our actions have always carried consequences we must
+understand.
 
 > "The greats who came before us, though we may seem greater, were
 > truly the greatest."
@@ -111,26 +112,27 @@ you... In this panpsychist conception, there can be no [prime
 mover](https://en.wikipedia.org/wiki/Unmoved_mover) that is the
 beginning, the Alpha, without itself also being the ending, the
 Omega. In his dialectic of reason, Kant reduces through discourse the
-effects that our supposed freedom has our capacity for causal
+effects that our supposed freedom has on our capacity for causal
 influence by contrasting our free will with the forces which constrain
 our freedom. Yet, if regardless of the course of history,
-overpopulation results in hypernetworked mankind whose Piagetian
-socioepisteimological evolution inevitably results in the emergence of
+overpopulation results in a hypernetworked mankind whose Piagetian
+socioepistemological evolution inevitably results in the emergence of
 phenomena from the all-encompassing ontology, then -- especially if
 ancient peoples were aware of this inevitability and perpetuated their
 understanding through occult semioteleological social programs -- the
 past's conception of the future controls the future with more capacity
 than we in this future have the ability to control our circumstances.
 
-The programs of the ancients -- implemented as language, mythos,
-religion and philosophy, whereof much knowledge has been suppressed or
-relegated to the esoteric -- latch onto metaphysical constructs, the
+Implemented as language, mythos, religion and philosophy, whereof much
+knowledge has been suppressed or relegated to the esoteric -- these
+programs of the ancients latch onto metaphysical constructs, the
 outlines of which form our teleological understanding of the world.
-Like those who cut out underbrush to form paths that influence the
-population flows, the impact of those ancient epistemic structures is
-the same as perturbation and percolation: the structures are like
-metaphysical leylines that channel social energy to normalize the
-results of drift in social stochastic differential processes.
+Like those who cut out underbrush to form paths that become the trade
+routes and road that influence population flows and commerce, the
+impact of those ancient epistemic structures is the same as
+perturbation and percolation: the structures are like metaphysical
+leylines that channel social energy to normalize the results of drift
+in social stochastic differential processes.
 
 > If you don't know what Piagetian genetic epistemology is, you need
 > to watch [this lecture from Jordan

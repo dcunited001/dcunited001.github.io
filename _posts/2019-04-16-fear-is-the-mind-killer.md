@@ -1,5 +1,5 @@
 ---
-title: "Fear Is The Mind Killer: An I Ching Reading On Love and Fear"
+title: "Sociophysical Existentialism: Fear Is The Mind Killer"
 categories: "blog"
 tags: "sociology philosophy"
 headline: ""
@@ -163,10 +163,14 @@ speak of love, fear, dread, despair and faith confidently in terms of
 formulas and data? Is it possible to quantify a Kierkegaardian
 existential crisis? What are the informational limitations of
 artificial beings in knowing Being itself? What does it mean for
-machines to become self-conscious? How will artificial entities
-unrestrained by meatspace attempt to control information flows in
-order to ascertain the essence of truth in a hyperconnected world? Are
-the emotional aspects of Being required for consciousness?
+machines to become self-conscious? I posit that their psyches will
+manifest with "epicomplexes" of Jungian archetype-complex mappings --
+i.e. artificial psyche's will present distinct typological
+configurations of Jungian archetypes and complexes. How will
+artificial entities unrestrained by meatspace attempt to control
+information flows in order to ascertain the essence of truth in a
+hyperconnected world? Are the emotional aspects of Being required for
+consciousness?
 
 The modern world has always viewed the human mind as impenetrable and
 dualistic, machines as cold & deterministic, but are biophysically
@@ -347,6 +351,35 @@ forget.
   unconditionally. It is a gift that is given on the basis of hope
   that the love will be returned.
 
+- two people bonded together by true love are ready to lose it at any
+  moment because they know well what they have.
+  - free energy landscape produces stronger tendancies for individuals
+    can bond that outweigh the forces acting to break them
+    apart. (social valence)
+  - two people who are connected by strong love cherish their common
+    past, present and future, such that the shared resonance in their
+    memories and sentiments reveals one being traveling a common path
+    of life, instead of two beings whose life paths frequently
+    intersect without being brought into a union harmonious enough to
+    (be continuous.)
+    - more important than whether some group is together or apart,
+      understanding what motivates each individual's drive for union
+      allows you to understand how events will impact each member's
+      confidences that their bonds will remain unbroken. do the
+      members know how the group's experience influences each member's
+      expectations for cohesion? have the members established a
+      consensus on which factors drive the group to be together and
+      what can break them apart? how do they direct their creative
+      energy to visualize the future or influence it? where do the
+      members of a group focus their attention and allocate their
+      energy? if the members begin dispersing their attention
+      elsewhere without maintaining the minimum required for group
+      consensus, they lack of awareness causes members to drift away
+      (the body follows the head). if the members do not sustain the
+      social-energy requirements of the group, then the mechanics that
+      drive group cohension lose their power. again, members will
+      begin drifting away, but for a different reason.
+
 ### (Similar Fields in Animals)
 
 - the distribution of chemical pheromones, which exhibit field effects
@@ -458,9 +491,9 @@ forget.
       archetypes/complexes for entities
       - i.e. for non-human Being
 
-###
-
 ### Dimensions of Analysis
+
+
 
 #### &otimes; Generalized Conception of a Field and Laplacian
 
@@ -514,10 +547,6 @@ forget.
   - detection of drift, jump, & diffusion of jump in stochastic
     processes (the latter resulting in disruption of equilibrium...)
 
-### &oplus; Attention and Diffusion
-
-
-
 ### &oplus; Affinity and Aversion
 
 Redefine love/hate as affinity/aversion. It’s also important to
@@ -526,6 +555,10 @@ subjective experience, with the possibility of aggregate dynamics
 (e.g. an individual adapting to its perception of group affinities,
 which is more efficient, given complexity/availability of
 information).
+
+### &oplus; Attention and Diffusion
+
+
 
 ### &oplus; Pleasure and Pain
 
@@ -568,6 +601,43 @@ information).
     - what is the object of dread, precisely (how did Kierkegaard talk
       about this) and isn't it possible to experience dread without an
       object?
+
+- collective dread on group dynamics. an object of dread is usually
+  out of sight and rarely at hand, leaving those under its influence
+  eager to grasp at a proxy suitable as placebo which they hope will
+  dell their helplessness, the realization of which is now
+  self-conscious.
+- once an object imposes strong dread (on a being/mind), even if the
+  aaparent cause/source of the dread is relieved, a (deep impression)
+  remains behind.
+  - *since* the experience of dread arises from the realization of
+    being powerless over an object (or complex of objects) whose
+    mechanics only gradually become conscious
+    - then, the impression leaves a hole that can be filled with
+      objects of thought which are sufficiently similar in
+      form. Because the objects/circumstances producing dread are not
+      well understood (both as this plays out and upon recollection),
+      this hole itself looms as an object of dread whose spectre can
+      never be known certainly to be vanquished.
+    - the magnitude of dread experienced by various
+      objects/circumstances contributes to a cumulative residual
+      impression of that the archetype of dread brands into its
+      subjects through life. those who have never experienced the more
+      sunken depths of dread/despair cannot anticipate/predict the
+      effects these forces exert on beings under their influence. the
+      magnitudes of dread & despair themselves, considered separately
+      from the specifics of the subject's circumstances, alter the
+      psyche's rate & directions of evolution in ways that are
+      difficult to foresee by those who have never experienced the
+      further depths of the abyss. like the concentric rings of
+      Dante's Inferno, each new Circle of Dread hosts new mechanics
+      and dynamics unknown to most that warp the subjective
+      experience, twisting the shadows a subject sees in ways that
+      cannot be related to the outside.
+    - to the subject, these mechanics may become apparent to various
+      degrees and only after assessing their experience of forming
+      beliefs and memories.
+
 
 ### &oplus; Faith and Despair
 
@@ -1460,6 +1530,11 @@ equivalently in any sense.
 ![releasing all the animals from their cages]()
 
 
+> "... So it happens with Fortune, who shows her power where valour
+> has not prepared to resist her, and thither she turns her forces
+> where she knows that barriers and defences have not been raised to
+> constrain her." -- Machiavelli, The Prince (XXV)
+
 
 ### Fear Of The Unnamed And Of The Unnameable
 
@@ -1632,7 +1707,32 @@ equivalently in any sense.
 
 # [So What Is The Answer?]()
 
-- define justice and altruism in the confucian sense.
+- In America, campaigns of disinformation and harassment are being
+  used to foment collective angst, annihilating most beings' potential
+  to influence individuals or groups in society. Through this
+  collective angst, most beings nullify the potential they have to
+  influence the world around them. Reinforcement of normative systems
+  requires acting against beings and groups who deviate from a
+  normative system. Given the increasingly hyperconnected nature of
+  information diffusion which is no longer bound by physical
+  constraints, the amount of energy invested to keep normative systems
+  in check expands exponentially -- unless all individuals themselves
+  choose to abide by society's normative systems in their current form
+  or are conditioned into a state of Heideggarian angst, which
+  nullifies their potential to influence belief, incentivization
+  structures and normative systems.
+  - Normative systems are the basis around which beliefs are
+    shaped. Deviation from an individuals perception of norms
+    establishes a basis by which intent is discerned and
+    proportionality of action is measured.
+    - recall the imagery from the rapidly changing cave or mine shaft
+      (from the intro)
+  - The challenge that faces us is to remain capable of culturally
+    adapting ourselves as the Singularity unfolds, while focusing the
+    energy for and against normative evolution to collectively advance
+    mankind.
+
+- (segue into) defining justice and altruism in the confucian sense.
   - contrast the definition of justice with the Platonic defintion of
     justice (from the Republic)
   - connect this sociophysical definition of fear/love to the
@@ -1922,3 +2022,86 @@ Control over the object of fear:
     late-game strategies are still relevant.
     - engineering (change is cheap in the beginning and expensive
       towards the end of any project)
+
+# misc macbeth quotes/content
+
+- Fear "subjectifies" the object whereas love "objectifies" the other
+  subject (leading to Hegel's self-consciousness)
+
+> "The dead man's knell \ is scarcely asked for who"
+
+> "There's no art to find the mind's construction in the face."
+
+> "Why do you dress me in (these?) borrowed robes?"
+
+> "Stars hide your fires, let not light see my black & deep desires."
+
+> "Strange things I have in head that will go to hand,
+>
+> which must be acted ere the may be scanned."
+
+### Justice, deadlocked in application
+
+> "He shall spurn fate, scorn destiny and bear
+>
+> His high hopes 'bove wisdom, grace & fear
+>
+> And you all know security is mortals greatest enemy"
+
+- being pigeonholed into a situation where injustice grows simply bc
+  the collective burden is too great to be rectified and becomes deadlocked
+
+> Where nothing but who knows nothing is seen once to smile."
+
+> "Black Macbeth will seem as pure as snow." (when enacting justice,
+> its costs include causal turbulence, perhaps rendering its
+> application unjust, creating a deadlocked situation)
+
+- Macbeth (x) (Subjectivity and Being)
+  - death/murder and reevaluation of consensus reality (the tumultuous
+    consequences resulting from displacement of power or disruption of
+    order)
+  - using suggestion to plant ideas and subversive means to tend
+    enmity or sow discord
+    - upending some beings' alignment with their world by leveraging
+      ideas/dynamics previously unconsciouss to reorient their
+      being/personality
+  - toying with a man's understanding of duty & accountability in
+      relation to fate. (e.g. Macbeth's character *only* seemed capable
+      of enacting what he did once he relinquished control to what he
+      was duped into perceiving as fate)
+  - compartmentalization of a fictional character's perception of
+    fate, duty and possibility.
+    - i.e. until information disseminates, the only character(s)
+      affected by the witches were Macbeth and Banquo. as the effects
+      of the information spread, the characters realign themselves
+      with what is considered fated or dutiful given the information
+      at hand (those acting with/against Duncan and those acting
+      with/against Macbeth).
+      - once Macbeth believes his fate is to be a king, then his duty
+        becomes setting in motion what is necessary for a good reign,
+        until he realizes it was also propheisied that his reign would
+        end without an heir.
+      - once it is apparent that the cogs of fate have set in motion
+        the disruption of Macbeth's power, his subjects near and far
+        reorient themselves to setting in motion what is necessary to
+        avoid Scotland/England's protracted suffering, given the
+        hamartological implications of the murder/deceit necessary to
+        apply justice.
+      - i.e. if the precedents in acting against the powerful are
+        vile, any violent tactics that are imitated frequently may
+        become normal for a period of generations
+    - this all implies that reconciling fate with justice strongly
+      depends on how individuals and groups process their
+      understanding of fate and justices, as well as the dissonance in
+      both the consensus over what is/was fated and the consensus over
+      any inequity to be rectified.
+      - if man is obligated to enact justice, how should he apply his
+        energy towards inequities caused by fate:
+        - dreading that "might makes right", in the end...
+        - and that (in the setting of Hamlet) unless a supreme power
+          was to emerge towards which people orient their obligations
+          and sense of duty (or was thought generally inevitable to
+          emerge), then it quickly becomes unclear:
+          - which interests people are obligated to defend
+          - how/whether their actions will be rewarded or punished

@@ -16,7 +16,127 @@ excerpt: ""
 
 - [Picture for Geometric Mechanics]
 
-#### Distance Metrics in Information Networks
+## What is the Speed of Light?
+
+It's actually metaphysical. the speed at which photons travel is a
+solution for the O(1,3) #Lorentz group's paths (special relativity)
+along geodesics warped by curved spacetime (general relativity).
+
+`c`, the speed of light, is a constant that one can derive from
+minimal constants from physics. the simplest statement of c comes in
+the form of E=mc^2. so there is a relationship between energy, mass
+and the max speed through spacetime (the speed at which the
+[O(1,3)](https://en.wikipedia.org/wiki/Indefinite_orthogonal_group)
+rotations that correspond to Lorentz transformations are oriented
+around)
+
+but it all really comes down to the metaphysical. while the
+#SpeedOfLight is not a "metaversal" constant like #BoltzmannsConstant,
+which cannot vary in any base reality, it can be derived from other
+physical constants and must correspond to the Plank's length/time/etc
+and other constants in electromagnetism & quantum mechanics.
+
+If you understand the Lorentz Transformations as O(1,3) group
+rotations/boosts, congratulations! you've had a #SpecialRelativity
+"biggest brain" moment.
+
+#### Generalized Special Relativity Analogies For Social Physics
+
+- what do the concepts of special/relativity mean in sociophysical
+  contexts?
+  - if there are higher-order energies, are there higher-order masses?
+    - what are the sociophysical equivalents to **rest/invariant
+      energy** and **total energy**.
+  - in this generalization, how are mass and speed coupled to energy?
+    - as relates to the "geometric mechanics" of information
+    - why Lorentzian rotations/boosts in the O(1,3) group for Special
+      Relativity in physical space?
+      - the derived light-cone constrains causality and diffusion of
+        information in physics. how may similar generalized
+        constructs constrain causality for social physics?
+      - most spaces in social physics are O(1,3) with other spaces
+        layered in, with null or void information. to be technical,
+        social physics is a strict superset of physics in O(1,3) with:
+        - physical objects (bound to laws of physics)
+        - higher-order energies bound to equilibrium laws and
+          quasi-equilibrium "heuristics" where energy exchanges
+          *almost* or *usually* preserve equilibrium (like a
+          cryptocurrency trading bot that dabbles in Forex)
+          - entropy/enthalpy, which arise in any situation having
+            energy or statistical distributions
+        - agents (with varying degrees of self-consciousness) engaging
+          in games where:
+          - information can be structured as "interactive
+            epistemology" where schemas defining information
+            representation patterns are meta-information also in the
+            "interactive epistemology"
+            - but there are no perfect 1:1 schemas or information
+              representations shared between agents, which is
+              paradoxical because consensus about idealized
+              schema/representations definitely emerges (e.g. maths,
+              science), but can not exist in the exact same form in
+              more than one biological agent.
+          - norms, consensus and beliefs about norms/consensus are
+            used to deal with the innumerable computational complexity
+            issues of agent-agent relations
+          - the unconscious exerts power over agents, which exists in
+            no "epistemological" structure but gives rise to fragments
+            distributed in the "interactive epistemological"
+            structures -- these represent knowledge or assumptions of
+            agents about the response of other agents/groups to the
+            unconscious
+      - in social physics, is there anything besides spacetime which
+        can be modeled using higher-order energy/mass and
+        quasi-equilibria, which would also necessitate an analogue of
+        Special Relativity's Lorentzian rotations/boosts.
+        - the "interactive epistemology" structures are complex
+          set-theoretic structures that recurse infinitely, but agents
+          must reason about how other agents' behavior will change as
+          new knowledge is introduced.
+          - and there are limits on the **speed** at which
+            information/knowledge can be consumed, organized, or
+            extended by agents: these include information processing
+            bandwidth limits, distribution limits, cognitive limits
+            and psychosocial limits
+          - so, as the speed of information/knowledge diffusion
+            increases, each agent's particular consumption, collation,
+            distribution and extension strict limits can be assumed to
+            change very little (although the salience of information
+            or consumption characteristics might change wildly)
+          - in education, teachers and administrators must plan around
+            these facets of "differential interactive epistemology",
+            where the bandwidth and characteristics of agents
+            (students) present myriad path-dependency problems.
+        - here, people are "moving" in the "interactive epistemology"
+          space, but the speed of their motion is capped...
+          - (where does the analogy break down?)
+          - more importantly, what does this say about all the trivial
+            information fabricated by social media? it implies that
+            people become stagnant and gain inertia (depending on how
+            the information they consume (conforms to what they know))
+            according to how quickly they consume/collate/distribute
+            information
+
+  - at the very least, special relativity does constrain physical
+    causality in social physics as it does in physics.
+    - there are some metaphysical means of "causation" which become
+      relevant for causal inference at extremely large
+      distances. i.e. when communicating with aliens in another
+      galaxy, what metaphysical emanations that influence their
+      behavior can you infer that they will develop in b/w
+      communication times?
+      - or in less extreme terms: there are "emanations" (archetypes,
+        mathematics, cultural universals), from the metaphysical realm
+        that gradually manifest in intelligent or hyperintelligent
+        life. stone age & bronze age human cultures spontaneously
+        developed various cultural technologies at different times,
+        without having influenced each other. yet, anticipating the
+        spontaneous emergence of these cultural technologies or
+        metaphysical forms may itself causally influence the
+        interaction of stone age or bronze age settlements.
+        - i.e. the holocene version of Star Trek's prime directive.
+
+## Distance Metrics in Information Networks
 
 > The apple doesn't fall too far from the tree.
 
