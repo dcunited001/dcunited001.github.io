@@ -1967,3 +1967,178 @@ religion's followers? isn't that social engineering?
     significance (etching them into social memory) and inventing
     mythological vehicles to help each other move forward (culturally
     and socially) to cope with loss
+
+==========
+
+
+## Xenotheology, Alien Jesus and You
+
+
+TLDR: i'm not a christian, but hey, if you read to the end of this
+rambling post on God & #UniversalCulturalUniversals, I describe a
+half-serious argument for the existence of an #AlienJesus towards the
+end. Some of its a bit philosophical at the beginning.
+
+What I believe though is that in the material world, humanity has
+always been separated from God and that nothing close to it can ever
+manifest here. We can engage in spiritual practice (meditation,
+teaching, service to community, etc) and gradually come to understand
+the nature of reality. Unfortunately, i have zero financial & social
+resources, so there's very little i can do for my self or anyone
+else. I have lived in extreme isolation since 2015 (e.g. in 2018 and
+2019 ~30 minute of personal phone calls outside family & less than ~50
+text messages). #SocialPoverty is a real thing & isolation is a
+#Psychological #Mutagen...
+
+anyway, it's getting better...
+
+I have a conception of God that is heavily influenced by
+#NeoPlatonism, #AlfredWhitehead and #Taoist
+cosmology/metaphysics. Specifically, God would be something like
+#MathematicalPhysics, from which all other things can be
+defined. Virtual simulation or not, ANY possible universe must adhere
+to this same core set of metaphysical axioms -- or at least be defined
+in terms of those axiomatic forms (i.e. if your universe is based on
+an alternate configuration of math/logic, it is only possible bc that
+configuration sits neatly within the axiomatic basis that i'm talking
+about). There is no possibility for any simulation to exist that
+doesn't share this common thread that links it to a common
+"meta-cosmos" of universal metaphysical forms.  Unfortunately, if this
+universal metaphysical basis is God, it also means that God cannot
+manifest itself in entirety into our material reality. Thus, IMO,
+#ComplexityTheory is an example of a rock so heavy, God cannot lift
+it.
+
+Yet, people tend to think of God as a personified "creator" who
+carries out his will in the world. I disagree with this. But it's less
+a bearded dude in a cloud and more of a “universal force”.     There
+isn't an entity that expresses its will by directly causing anything
+to happen. Instead, sufficiently intelligent life forms gradually
+incorporate features from the metaphysical into their minds (or data)
+in the form of information. I believe that we have free will, while
+also being predestined towards specific inevitabilities -- but fate
+isn't the manifestation of controlling entity's will. It instead
+arises from the nature of information: from resonance, diffusion,
+complexity, amplification, feedback loops, concensus, etc. Both the
+beginning of time and the end of time are fixed in place, but they are
+the same, essentially. The past determines the present, but so do
+emanations from possible futures. But intelligent life accelerates the
+development of knowledge systems and by doing so, funnels us towards a
+more limited set of futures until there is one final configuration for
+all knowledge/matter in our region of space -- but it is always
+functionally equivalent to any other "end of time".
+
+The closer to the "Truth" that someone's knowledge/wisdom is, the more
+compact, regular and "crystalized" it is. Because of common thread
+linking all information in the material world to the metaphysical
+axioms mentioned above, this information tends to resonate (like
+crystal) and this resonance manifests as convergent/divergent social
+dynamics. the more tightly that information is linked to
+#CulturalUniversals, the more compact & regular it is, tending to both
+amplify its potential to resonate and accelerate its
+diffusion/salience. as knowledge/wisdom attained from spiritual
+practice (or however) diffuses into the world..
+
+There are some things that are universal to the human condition:
+birth, death, childhood, old age, strength, weakness, family,
+conflict, the unknown, food, water, hunger, thirst and a strong desire
+for sex (kind of fucked up for a benevolent creator to program us to
+chase it if he’s going to turn around and say you can’t have it.) Most
+of those cultural universals correspond to Carl Jung’s archetypes. If
+you ever look into Jung, his ideas all revolve around the narratives
+we use to understand the world around us and the common symbols we use
+no matter the language we speak.
+
+These cultural universals appear everywhere intelligent life
+emerges. Even on other planets, if life becomes self-aware and
+develops language, they will deal with the same shitty human condition
+that we do:   - money is the root of all evil (alien economics causes
+all the alien’s wars);
+
+-- because of bottlenecks for vision in ANY possible brain (neural or
+artificial), the #Qualia describing colors that aliens see will be
+encoded by neurological representations using a limited set of "color
+channels" (likely 3 or 4 ... which is imposed by neurological data
+processing constraints, energy consumption and the cost of inflating
+dimensionality of data indexed across the brain ... in addition to
+diminishing returns in #ComputerVision offered by additional colors of
+#Opsin cones)
+
+-- the aliens will decide that stars visible in their night sky are
+visible to their entire planet and make a giant clock in the sky
+that’s visible worldwide
+
+-- the aliens will decide that the stars need names & name them after
+their hero’s, god’s, animal’s and myths (to make them simple to
+remember and to spread their myths or religious ideas … i.e. a
+mnemonic indexing of concepts to render essential knowledge salient)
+
+-- some aliens will eventually write cheesy books on astrology in an
+attempt to predict the future alien lovelife's
+
+-- aliens will not only produce language sharing many features with
+similar features to those used by humans ...
+
+-- aliens will approach the development of writing systems in a
+similar manner
+
+-- bad shit happens to good aliens for no reason;
+
+-- good aliens sometimes triumph over evil aliens;
+
+-- some aliens invent religions, they fight wars over them;
+
+-- all life forms require evolution to reach intelligence;
+
+-- the aliens will have two biological sexes because its required to
+accelerate & stabilize evolution
+
+-- all life forms produce systems of theology and philosophy that
+closely resemble what we have on earth;
+
+-- all life forms as intelligent as us will produce similar computing
+systems and eventually realize that artificial intelligence will
+destroy all aliens  
+
+There are some exceptions to those ideas of course — like if their
+planet lacks specific elements or if they blow themselves up or if
+it’s a world where life evolved under ice or underground (but oceans,
+an atmosphere and land are all necessary for evolution to reach
+intelligent life, almost certainly). even so, things can turn out
+differently, but most of those cultural universals are still galactic
+constants.
+
+oh, one more thing, among intelligent alien civilizations, more than
+half of them will probably think it's a clever idea to worship a Jesus
+martyr who is unjustly killed, even though he's the manifestation of
+God on earth.
+
+if so, it's a sure bet that such an alien religion would also
+establish a theological doctrine identical to Christianity (complete
+with a Trinity that include three figures) ... this is a stretch, but
+the dynamics of power & economics are also pretty universal, once
+intelligent life becomes sophisticated.
+
+why? what is considered evil is just the cost of doing business for
+people in power, who may believe their acts are justified and their
+sin is necessary. even those in power can sin (enrich themselves,
+start wars, etc) if they justify it or cover it up, those people not
+in power won't understand how people at the top get away with what
+they do. so to the meek, being humble, pure and sinless is
+virtuous. to the powerful, if the meek think that's a good thing,
+that's great (because they're not a threat to their power). if someone
+gets in the way of the elite, they pick apart the threat by getting
+society to focus on that person's past sins. mob mentality takes over
+and the person can no longer challenge the elite. eventually, the
+tension between classes (along with some unresolved
+philosophical/theological paradoxes) means that someone realizes that
+the elite don't have a vice they can exploit against the martyr and
+decides it'd be a good thing to set up a system where the meek decide
+to stay humble, so that they can always call the elite out on their
+shit. that person gets killed anyways, but is never forgotten. this
+"alien jesus" is turned into a symbol that people worship. why?
+because the lower classes need way to reign in abuses of power from
+the elites. if enough people in the lower classes decide to worship
+"alien jesus", there's little that the elites can do to stop
+it. finally, the elites have to agree to a code of ethics and submit
+themselves to be accountable for their actions.
