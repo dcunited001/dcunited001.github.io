@@ -474,3 +474,155 @@ title: "Graphics Ideas"
       explain it to the average person in 100 words or less, it's not
       even worth trying. it's amazing the degree to which people want
       to win an argument, regardless of the merit of their rhetoric.
+
+
+=========
+
+
+
+
+
+
+> from ../_drafts/social-physics.md
+
+# Social Physics Simulation Ideas
+
+[for a 2-force simulation, where one force operates with orientation](https://peeterjoot.wordpress.com/2009/12/08/jacobians-and-spherical-polar-gradient/)
+
+#### cocktail party simulation
+
+  - 100-1000 particles form molecule "conversations"
+  - two fields and simple particle physics determine particle movement
+  - no exchange of information
+
+#### bar simulation
+
+  - build on cocktail party simulation
+  - particles are of a single type
+  - variations: add money, add gender
+
+#### colorshifting FFT (not really social physics)
+
+- each particle has a colorshifting function, which takes its
+  - beach FFT segment amplitude determines the mass/speed or field
+    reactivity of the particle
+  - so red particles move fast, blue particles move slow and FFT
+    partially determines the amount of movement for each particle
+    - as well as field interactions
+
+#### marijuana dealing simulation
+
+  -
+
+
+#### Viral Nature of Language
+
+- 100 simple particles, each with a dictionary of 100 english nouns
+  mapped to integers
+
+  - each time a connection is forged, they exchange:
+    - their copy of that dictionary
+  - connected via graph constructed by delauney triangulation
+
+
+#### Cymatic Particle Shader
+
+- model the distribution of waves through a 2D lattice of connected
+  particles.
+  - stream audio into some points and model waves as they propagate
+    through the lattice, without losing information
+  - model the wave transmission in a similar way to conway's game of
+    life.
+
+### Measuring Configurational & Conformational Entropy in Social Physics
+
+- instead of measuring Thermal Entropy via "Course Graining" of q[i] &
+  p[i] (according to wikipedia)
+  - and dilineating the eexpected/actual distro's with the ideal...
+
+- instead, these are simulations to study the sociophysical
+  "molecular" distributions found in configuration space after a
+  simulation runs.
+  - in particular, identify the total time summed for each molecule
+    type ... and hopefully specific combinations of particles by ID,
+    but those calculations will be mostly intractable after a few
+    dozen particles
+  - how do these typologies of connected social particles become more
+    and less prevalent over time?
+    - I'm not sure if this question can be answered. it is possible,
+      if you're simply measuring the types of particles that
+      emerge. not particle ID combinations.
+    - even still, it will require storing large aggregate textures
+      over time
+
+- this requires the standard social physical particle system
+  determined by at least 2 forces upon which higher order, graph
+  mediated connections accrue
+  - the graph is the product of particle positions and is formed when
+    node's attractive forces overlap, stabalizing against the
+    repulsive forces. this is similar to electronegativity and the
+    strong positive charge at the center of molecules
+    - the attractive force is better understood as a field of vision
+      and it's not the field that directly affects particles, but the
+      area of space which directs a higher density of particle
+      "attention"
+      - this itself forms a field, which triggers higher-level actions
+        in the particles. this field of attention is a secondary field
+        over which the force can transfer energy
+      - (move this summary up to the initial description of this type
+        of simulation)
+
+  - attractive field maxima are identified and these centroids are
+    estimated to be the center of molecules.
+    - the centroids can be pulled out with a cheap knockoff of
+      thrust's scan() method.
+    - these centroids are through into memory as vertices for delauney
+      triangulation, along with the rest of the particles.
+    - from here, a graph can be constructed in matrix form
+      - if the indices of the maxima are retained, you can walk
+        outward one degree from the centroids with the CPU
+        - (under assumptions in the physical behavior of nodes,
+          e.g. stability)
+
+- the result is that you get subgraphs with a very finite set of
+  possible molecule, 2 through 7 particles at most arranged in circles
+  - you can use these subgraphs to add the frametime of each
+    configuration-type to it's bin in the accumulating texture
+    - the molecules are only speciated into types by their subgraph
+      edges in a molecule, not by their orientation in space.
+    - for particle simulations with a single particle type, only 6 or
+      7 molecule types will emerge.
+      - for simulations with multiple particle types, there are more
+        types that can be formed.
+  - the values in the accumulating texture are related to the
+    probability distribution for seeing these molecules in the social
+    physics simulation, or may actually be
+
+- from here, entropy can be calculated for the distribution of
+  molecule arrangements in time.
+  - all of the following will change the distribution for types of
+    molecules that emerge:
+    - different particle types and rules for their interactions
+    - particle interactions are defined by particle state & state
+      changes
+  - given that you know the inherent variations in particle attributes
+    that contribute towards their action/interactions, there should be
+    some "normalness" in the distribution of combinations/subgraphs &
+    their qualities
+
+- amoung simulations with a lower particle to particle-type ratio,
+  properly defined rules and balanced values should result in higher
+  entropy values.
+  - balancing these equaations and forces seems difficult. the best
+    way to do it is a combination of a numerical approach and an
+    automated approach.
+  - numerically, you can identify values of rForce & aForce that
+    result in a net force of zero that hold particles in place
+    - this must be done carefully and so that it works for all
+      two-to-seven particle molecule AND for all clusterings of
+      particles that don't quite meet the definition of a molecule
+    - this utilizes the lagrangian, i think
+    - numerically tuned values can give you a consistent basis each
+      amoung the rForce & aForce, which will be important.
+    - the basis has to be set up to scale properly to different screen
+      resolutions, which is something that i messed up recently
