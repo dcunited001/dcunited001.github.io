@@ -1,0 +1,285 @@
+#+title:     Some Stream of Consciousness
+#+author:    David Conner
+#+email:     noreply@te.xel.io
+
+I'm not sure really what to do with this or what to do with my blog, since it is
+what it is ... for better or worse.
+
+#+begin_quote
+KDE be like "I ain't reformatting no HFS+ partition. HFS only."
+
+So i'm like: "Oh you think your clever with your transactional approach to disk
+management tasks."
+
+KDE: "Yeh., pretty cool huh? Bytes are bytes and I could do most of the work,
+but I try to maximaize the partition and fail. WHat about it? It's for your own
+good"
+
+So I'm like: "Nope" and I just kill the process at a specific time to see
+what happens. I really just need to trick the app into making the partition,
+writing blocks to it so a region of unformatted disk is tagged as HFS+
+
+
+KDE has a custom shortcut for this: "Kill Window"
+
+This (crossing my fingers) should be sufficient to use tools like dd. There are
+other physical-level disk management tools which are installed by default on
+Tsurugi, but that's what the fuck I'm trying to get on my 2011 Macbook ... which
+has some bug in Apple's firmware that causes it to be incapable of recognizing SSD
+disks as bootable ... a race condition, I think. And I tried a complete reinstall
+of Apple's firmware onto the system -- not your standard Apple internet recovery
+mode. At this point, I'm still wondering if a version of Apple's recovery tools
+built for 2013 Macbooks running a peer-version of Mac OS could load an HFS+
+partition. What I know from the Busybox video above implies that this would be
+very useful for the kind of Apple Genius who deals with hardware that gets mailed
+in. In other words, designing the software with a clean interfaces between
+firmware/NVRAM, the init ar
+
+It helps to imagine a stack diagram here, like one of those diagrams explaining
+the hardware, the kernel ... speaking of which: is it technically accruate to say
+that all such stack diagrams are effectively identical to simplicial complices?
+
+At least when they can be represented by a bidirectional graph, of course ...
+which wayland cannot be. But that aside, if this is true, it has very interesting
+implications for how one can reason about software.
+
+Most people, however, are unaware of how the exterior derivative is used in the
+proof of Stoke's Theorum ... where I am no expert to be sure. Even less people
+have the insipid compulsion to browse Wikipedia to discover things like
+infinity groupoids or [[https://ncatlab.org/nlab/show/Whitehead+tower][whitehead towers]].
+
+All to be told: go get a job at Kroger ... Or to have Facebook recruiters want
+to ask you about phone interviews (which is great for my ego and thank you!)
+where you'll be rejected as defective in a politically tainted technical
+All to be told: go get a job at Kroger ... Or to have <valley-corp> recruiters
+want to ask you about phone interviews (which is great for my ego and thank
+you!) where you'll be rejected as defective in a politically tainted technical
+interview ... which itself says nothing of the pain you'd experience moving
+across the country just to be tormented by more of the same. I don't know how to
+say any of that to someone who doesn't really know me without what is said
+seeming inappropiately emotional. No thank you.
+
+To be fair, on the math (and most of this), one quote rings true: "I know the
+music, but I can't read the notes." And all of this (including this rant) is
+what isolation does to someone who might otherwise pursue intellectual things.
+To people whose education was well-structured, they work on small topics for
+long enough to deeply encode that in their brains -- but neither understand the
+pedagogical benefits of such structure nor are capable of validating knowledge
+or intelligence when it is developed in some atypical autodidactic way. Most of
+them also lack the drive for continued education ... esp. if you are alienated
+from exactly the kind of people who might understand what you are thinking.
+
+And, again: to be fair, I am really bad at a lot of things ... but all of those
+skills & personality/character developments are primarily held in regressed
+states by the lack of social contact and validation. This itself, drives a
+superiority/inferiority complex which comes across as some kind of narcissism or
+something. It's not.
+
+It is intellect, combined with: butthurt, a tendency to over-estimate confidence
+in skills and a tragically cognizant self-aware need to be validated in order to
+access social opportunities ... perhaps with poor self-awareness in other
+regards. Pragmatically, it is nothing you can blame other people for ... and the
+some of the worst problems in life are those with no real cause and perhaps no
+real solution.
+
+This is only my individual experience in Roanoke (it's definitely not typical)
+
+And in Roanoke, this "hypercompetitiveness" comes across as narcissism or
+something. But I remember what it was like to attend a 2014 Neo4J meetup in San
+Francisco where 2/3 in attendence had /at least/ a Masters if not a PhD. I
+remember what it was like to attend a Cassandra meetup in Boulder where GNIP
+employees and others discussed things like best-case solutions to real-world
+implementations of problems in CAP theorem. No one else remembers this and, no,
+I have very little traction outside of the poorly structured & poorly encoded
+knowledge in my brain, which no one can access without a [probably one-sided]
+conversation. No one in my life in Roanoke (where I am all kinds of un-famous)
+remembers what it was like to be someone with PDD-NOS (~Asperger's, more or
+less) moved across the country /alone/ to areas where they knew zero people. No
+one seems to remember what it's like to want others to respond reasonably to
+what seems to be conveyed to others as Cartman-esque "Ass-burgers". I do
+remember a lot of the good stuff, from time to time, like friendly neighbors
+downstairs, who shared the same birthday and tried to help you connect to a
+circle of friends.
+
+Imagine that you are isolated in your hometown, then you leave and gradually
+meet people whose 2⁰ social neighborhoods overlap (i.e. who don't have mutual
+friends). The social information about your experiences there are isolated off
+as well. It is completely possible for those experiences to be emotionally
+irrelevant to the few people you still have contact with in your hometown. They
+have a completely distinct impression of who you are and what you are like. They
+don't actively seek out meetups when they move to a new city. Or they have never
+moved to a new city. Maybe they did, but they've never done it alone.
+
+On the other hand, I was so socially oblivious when I moved to new places that I
+couldn't emotionally relate to what other people saw as challenging -- "oh my
+gosh that's going to be tough, isn't it?" Well it depends on how/why you value
+the people close to you or whether you want some change in your life. But maybe
+your have "Assburgers" (which other people refuse to see or acknowledge) and so
+you have never processed much of any of that.
+
+Vulnerable much? But let me tell you about politically motivated social
+marginalization and how fucked up has been. It's a lot easier to target someone
+whose facebook politics say "Libertarian" when they are a complete stranger to
+you. Have I told you that I fucking hate Leninists? There is some real truth to
+the tactics Saul Alinsky's book, ostensibly developed to support overthrow of
+totalitarian regimes where activism is a bit taxing on your supporters. Perhaps
+it is a bit heavy-handed for the sadly useful idiots who can't bother with
+conversations because they've tuned in to whatever radical journalists &
+influencers are trying to make them hate this week. And it only takes a few
+radicals to goad people into attacking you via poison pen and tainting the frame
+of the social context.
+
+And here, when isolated and surrounded by the same visual/spatial imagery, the same
+stimuli trigger the same ruminations that enlarge the memories of unacknoledged
+trauma (self-induced and whatever) ... it seems like no one else understands the
+impact that characteristic-yet-repetitive stimuli or [[https://arstechnica.com/science/2011/01/biologists-wipe-out-a-mouses-spatial-working-memory/][spatial constraints]] have on
+[[https://arstechnica.com/science/2018/08/scientists-found-brains-internal-clock-that-influences-how-we-perceive-time/][perception of time & memory]]. IT'S BASICALLY A SENSORY-REPLAY ATTACK: every step I take
+reinforces even the tactile experiences, which triggers negative associations
+that are associated with rumination. Its one way that isolation drives you
+insane.
+
+
+
+To be fair, only now do I realize that most of my problems result from an abyss
+of social isolation ... something I never truly appreciated before mid-2017. It
+would've helped, but never did I imagine I would still be here for longer than
+2-3 months.
+
+So why didn't I just get a normal job? Or tolerate stocking groceries at Kroger?
+
++ I know myself: I'm worried that it would set me back by triple the time.
++ I know how life works: people are likely to become complacent.
++ I didn't understand how something like that would benefit me socially and I
+  didn't think out what it might be like to listen to podcasts all day while
+  stocking groceries (perhaps not that bad)
++ I absolutely have experienced "gangstalking" or anonymized social harassment.
+  I know how easily someone could be targeted if they work in something like
+  retail.
+  - In other words, I fear that [[https://www.youtube.com/watch?v=O6-sZ26u_ac&t=840s][situations /like/ these]] could be
+    manufactured to fire me.
+  - That would add one more nail to the coffins of "career assassination" and/or
+    "character assassination" ... and I'm just using those terms because they
+    are well-defined. It doesn't matter *why* something happened or even
+    wehether it was intentional. It really doesn't matter /how/ something
+    happened or how my life got to be this way.
+  - It just is this way and I am uncomfortably vulnerable, whether at work or
+    while surrounded by people who actively seek to ignore my problems they
+    would teach their own children to specifically avoid avoid while treating me
+    like a child and then shaming me for it.
+  - You learn a lot about the world by having children. You basically get a free
+    Masters education in psychology by the time you have your 2nd or 3rd. Baby
+    showers are literally a cultural practice to help instruct parents to raise
+    first and help new parents develop support networks.
+  - And why would would I quite specifically not be taught things about
+    parenthood, anyways?
+
+
+
+
+And again, I know myself: /in theory/ it would impair or slowdown my ability to
+escape this. I also . And it feels that people around me will I never pictured
+myself here. Another aspect of this is existential: your conception of the
+future matters a ton for how you process your present reality. I was unconscious
+to my transient need for social connections, but there was a ton of friction
+between me and society in Roanoke:
+
++ I have problems with spontanaiety of speech. I remember what it's like to
+  practice various languages on Duolingo for almost 10 years and to never have a
+  conversation with someone ... either because I feel stupid being unable to
+  recall vocabulary or because the point of the conversation is to demonstrate
+  to other people around the conversation that "I am just saying it to look
+  smart."
++ Everyone thinks they know me here. My personality, tendencies whatever. I
+  really cannot change that. Also ... I remember what it is like to delete my
+  Facebook before moving to a Colorado, to prevent distractions and to prevent
+  echoes of whatever I don't understand in my past from catching up to me.
++ And then there are all the things I don't understand.
+
+
+It is really really hard to describe how something that seems like alogia
+affects social interactions:
+
++ People just abandon you, especially if you are associated with problems,
+  negativity and/or political wrong-think!
++ If you have problems, get a therapist. People (esp. new people) will not react
+  well to hearing about your shit, no matter how much they might want to try to
+  help.
++ You never establish the rapport with new connections to emotionally connect
+  with new people.
++ When you depend on other people as a social crutch to meet new people, you are
+  basically unable to establish social connections with anyone who isn't already
+  some mutual social connection. That is, the set of people whom you might
+  develop from acquaintance to new connection to friend/colleague is basically
+  identical to your 2⁰ social neighborhood (i.e. mutual friends on facebook).
+  - Basically, the way your 1⁰ connection feels about you and they way they
+    contribute to psycho/social dynamics in interactions with new 2⁰ connections
+    colors the frame of how those new connections will see you
++ And, btw, if you got a therapist, they legally cannot affect your life outside
+  the relationship. so nothing you discuss will change anything and the
+  following exacerbates this:
+  - if you cannot encounter enough people to meet to make new connections
+  - or if there is friction in meeting new people
+  - or if you are a bit socially "underdeveloped" and haven't learned how to
+    social-ize yourself
+  - or maybe if some problems are caused by how people mischaracterized you or
+    how they fundamentally misunderstand you.
+
+None of these are direct consequences of alogia (which i do not necessarily
+qualify as having, *per se*) ... but *general rule of thumb: it is
+computationally hard for people (or AI) to reason about causality even for
+direct and 1⁰ consequences/dynamics ...* even when they are directly involved
+with the situation. In social contexts, even that is prohibitively difficult for
+some people, giving rise to misunderstandings or even mental illness. So, unless
+people are basically instructed to be open-minded, they can't really perceive
+how their own (un)conscious biases affect how they process cause/effect when it
+involves 2⁰ effects/dynamics (whether specific or part of some pattern). When it
+involves you yourself, you can misunderstand because you don't have perspective.
+When you are responding to directly witnessing some social interaction(s) or
+indirectly processing some social narratives, it requires time & energy to
+develop the exposure needed to see clearly.
+
+And if you can't develop relationships with people, you won't develop that
+exposure with them.
+
+And, so you see, all roads lead to "social physics". It's like a really fucked
+up Markov process whose nodes send my mind to this realm, where even though I
+finally understand that it's not anyone else's fault ... I still can't find the
+control that I need over much of it.
+
+And that, if I believe my circumstances would change on a timescale of months --
+sheerly by sacrificing every social thing from my life -- which I have no real
+memory of success in anyways -- then I should just be able to learn or code or
+work my way out of it.
+
+I don't expect some arbitrary location change to solve my problems. Money, while
+it would help a bit, doesn't solve much of anything in the long-term. And until
+I get away, it seems that:
+
++ I will never really get a first impression or overcome the social friction
+  that I deal with, regardless of how well-meaning people are. To their credit,
+  it does seem like almost everyone I don't know who isn't directly involved is
+  nice and actually open-minded about me.
++ The intellectual people who might understand me will avoid me because they all
+  have too much to lose (more or less), if they can even relate to some wannabe
+  polymath.
++ No one can relate who has a normal life *whose social dimensions haven't
+  bottomed out*. they just can't relate. Regardless, no one wants to hear rants
+  about why "zero" in social physics is more like "negative infinity".
+
+
+And that is why I referred to my situation as an "ABYSS"
+
+Just as in Anna Karenina where "every happy family is the same and every unhappy
+family is unhappy in its own way", so are each of us whose lives or minds have
+broken. So just like there is a study of "abnormal psychology" there should be a
+study of "abnormal sociology". This is why all this media-driven, politically
+motivated social engineering (whether "woke" left or intolerant conservatives)
+is literal insanity -- in life, one does not so easily fix what they have
+broken.
+
+*To solve one problem in the world, we must change the minds of everyone.* In
+many cases, this means changing how +7 billion people see things. This is
+nothing you can force. Yet, when problems are unnecessarily created, it wastes
+all of our potential energy that could otherwise be used for change.
+
+#+end_quote
