@@ -45,12 +45,12 @@ implications for how one can reason about software.
 
 Most people, however, are unaware of how the exterior derivative is used in the
 proof of Stoke's Theorum ... where I am no expert to be sure. Even less people
-have the insipid compulsion to browse Wikipedia to discover things like
-infinity groupoids or [[https://ncatlab.org/nlab/show/Whitehead+tower][whitehead towers]].
+have the insipid compulsion to browse Wikipedia to discover things like infinity
+groupoids or [[https://ncatlab.org/nlab/show/Whitehead+tower][whitehead towers]]. These could be used to model things like calculus
+on economic/social networks, but they're basically intractible. Simplicial
+complices, matroids, etc can be used to do amazing things in calculus or linear
+systems.
 
-All to be told: go get a job at Kroger ... Or to have Facebook recruiters want
-to ask you about phone interviews (which is great for my ego and thank you!)
-where you'll be rejected as defective in a politically tainted technical
 All to be told: go get a job at Kroger ... Or to have <valley-corp> recruiters
 want to ask you about phone interviews (which is great for my ego and thank
 you!) where you'll be rejected as defective in a politically tainted technical
@@ -172,8 +172,12 @@ So why didn't I just get a normal job? Or tolerate stocking groceries at Kroger?
     first and help new parents develop support networks.
   - And why would would I quite specifically not be taught things about
     parenthood, anyways?
-
-
++ and most critical: i don't think it will actually cause people around me to
+  change how they think about me. they will simply notice that I shut up. they
+  still won't talk to me about my goals or my problems. they won't change
+  because they've never acknowledged anything of what i'm saying or of what I
+  can do (i.e. they don't want to make statements/concessions that would affect
+  conversations in the future bc they need to win those arguments.)
 
 
 And again, I know myself: /in theory/ it would impair or slowdown my ability to
@@ -191,7 +195,7 @@ between me and society in Roanoke:
   smart."
 + Everyone thinks they know me here. My personality, tendencies whatever. I
   really cannot change that. Also ... I remember what it is like to delete my
-  Facebook before moving to a Colorado, to prevent distractions and to prevent
+  facebook before moving to a Colorado, to prevent distractions and to prevent
   echoes of whatever I don't understand in my past from catching up to me.
 + And then there are all the things I don't understand.
 
